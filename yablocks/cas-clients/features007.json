@@ -149,6 +149,10 @@
           {
             "label": "Logistique",
             "type": "secteur"
+          },
+          {
+            "label": "Agroalimentaire",
+            "type": "secteur"
           }
         ],
         "date": 2025
