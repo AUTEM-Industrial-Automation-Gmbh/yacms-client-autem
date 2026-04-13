@@ -153,6 +153,10 @@
           {
             "label": "Agroalimentaire",
             "type": "secteur"
+          },
+          {
+            "label": "Pareto-VSM",
+            "type": "categorie"
           }
         ],
         "date": 2025
