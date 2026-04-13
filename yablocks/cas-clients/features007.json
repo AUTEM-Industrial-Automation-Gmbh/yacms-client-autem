@@ -297,25 +297,6 @@
       },
       {
         "logo": {
-          "src": "/logos/engie.jpg",
-          "alt": "Equans Tinea"
-        },
-        "title": "Développement SCADA pour systèmes logistiques — Equans Tinea",
-        "link": "/cas-clients/success-story-equans-tinea-logistique-supervision-scada",
-        "tags": [
-          {
-            "label": "Logistique",
-            "type": "secteur"
-          },
-          {
-            "label": "Supervision SCADA",
-            "type": "categorie"
-          }
-        ],
-        "date": 2022
-      },
-      {
-        "logo": {
           "src": "/logos/bema.png",
           "alt": "BEMA"
         },
@@ -378,67 +359,6 @@
           }
         ],
         "date": 2021
-      },
-      {
-        "logo": {
-          "src": "/logos/seckiot.png",
-          "alt": "Seckiot"
-        },
-        "title": "Connectivité IoT des systèmes industriels en environnement cybersécurisé",
-        "link": "/cas-clients/success-story-seckiot-cybersecurite-iot-reseau",
-        "tags": [
-          {
-            "label": "Cybersécurité",
-            "type": "secteur"
-          },
-          {
-            "label": "IoT Réseau",
-            "type": "categorie"
-          },
-          {
-            "label": "Architecture Systèmes",
-            "type": "categorie"
-          }
-        ],
-        "date": 2020
-      },
-      {
-        "logo": {
-          "src": "/logos/sncf.png",
-          "alt": "SNCF"
-        },
-        "title": "Développement IHM pour aiguillages ferroviaires — SNCF Lorraine",
-        "link": "/cas-clients/success-story-sncf-mobilite-automation",
-        "tags": [
-          {
-            "label": "Mobilité",
-            "type": "secteur"
-          },
-          {
-            "label": "Automation",
-            "type": "categorie"
-          }
-        ],
-        "date": 2015
-      },
-      {
-        "logo": {
-          "src": "/logos/st-gobain.svg",
-          "alt": "Saint-Gobain"
-        },
-        "title": "Automatisation du packaging de matériaux abrasifs — Saint-Gobain Maroc",
-        "link": "/cas-clients/success-story-st-gobain-metallurgie-automation",
-        "tags": [
-          {
-            "label": "Metallurgie",
-            "type": "secteur"
-          },
-          {
-            "label": "Automation",
-            "type": "categorie"
-          }
-        ],
-        "date": 2015
       }
     ]
   }
