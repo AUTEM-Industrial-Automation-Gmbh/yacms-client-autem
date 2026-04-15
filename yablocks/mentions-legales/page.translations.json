@@ -1,0 +1,35 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Mentions Légales — AUTEM, Automatisme & SCADA Industriel",
+      "de": "Impressum — AUTEM, Industrieautomatisierung & SCADA",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Mentions légales d'AUTEM : informations sur l'éditeur, l'hébergement, la propriété intellectuelle et la conformité RGPD.",
+      "de": "Impressum von AUTEM: Informationen über den Herausgeber, das Hosting, das geistiges Eigentum und die DSGVO-Konformität.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "mentions légales",
+        "AUTEM",
+        "RGPD",
+        "propriété intellectuelle"
+      ],
+      "de": [
+        "Impressum",
+        "AUTEM",
+        "DSGVO",
+        "geistiges Eigentum"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Mentions légales",
+      "de": "AUTEM — Impressum",
+      "de:manual": true
+    }
+  }
+}
