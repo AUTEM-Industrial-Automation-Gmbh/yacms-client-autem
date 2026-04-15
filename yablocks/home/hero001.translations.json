@@ -68,6 +68,26 @@
     "data.logos.items[@9wIJTj].alt": {
       "source": "Verkor",
       "de": "Verkor"
+    },
+    "data.logos.items[@s6yxWj].alt": {
+      "source": "COOP",
+      "de": "COOP"
+    },
+    "data.logos.items[@CugfY6].alt": {
+      "source": "Medtronic",
+      "de": "Medtronic"
+    },
+    "data.logos.items[@shoiaq].alt": {
+      "source": "ADP Paris Aéroports",
+      "de": "ADP Paris Flughäfen"
+    },
+    "data.logos.items[@i0dDHl].alt": {
+      "source": "Caterpillar",
+      "de": "Caterpillar"
+    },
+    "data.logos.items[@CuAxvm].alt": {
+      "source": "Verkor",
+      "de": "Verkor"
     }
   }
 }

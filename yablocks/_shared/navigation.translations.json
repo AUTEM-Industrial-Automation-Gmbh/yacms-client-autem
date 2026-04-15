@@ -208,6 +208,110 @@
     "data.links[@j3TFoI].groups[@8fO6ye].items[@tc1Mrl].label": {
       "source": "Technologies",
       "de": "Technologien"
+    },
+    "data.links[@ZhkzDP].label": {
+      "source": "Nos offres",
+      "de": "Unsere Angebote"
+    },
+    "data.links[@cbdWRw].label": {
+      "source": "À propos",
+      "de": "Über uns"
+    },
+    "data.links[@cRoDwm].label": {
+      "source": "Cas clients",
+      "de": "Kundenreferenzen"
+    },
+    "data.links[@vmW2Ji].label": {
+      "source": "Ressources",
+      "de": "Ressourcen"
+    },
+    "data.links[@ZhkzDP].groups[@K6YDoZ].label": {
+      "source": "Machines Automatisées",
+      "de": "Automatisierte Maschinen"
+    },
+    "data.links[@ZhkzDP].groups[@bUgrFU].label": {
+      "source": "Logiciels de pilotage",
+      "de": "Steuerungssoftware"
+    },
+    "data.links[@ZhkzDP].groups[@4wBDtq].label": {
+      "source": "Avis technique",
+      "de": "Technische Beratung"
+    },
+    "data.links[@cbdWRw].groups[@pSJbpX].label": {
+      "source": "Découvrir AUTEM",
+      "de": "AUTEM entdecken"
+    },
+    "data.links[@ZhkzDP].groups[@K6YDoZ].description": {
+      "source": "Rénovation, Rétrofit, Revamping",
+      "de": "Modernisierung, Retrofit, Revamping"
+    },
+    "data.links[@ZhkzDP].groups[@bUgrFU].description": {
+      "source": "Mesure, Performance, Pilotage",
+      "de": "Messung, Leistung, Steuerung"
+    },
+    "data.links[@ZhkzDP].groups[@4wBDtq].description": {
+      "source": "Audit agnostique, Projets techniques",
+      "de": "Agnostisches Audit, Technische Projekte"
+    },
+    "data.links[@cbdWRw].groups[@pSJbpX].description": {
+      "source": "L'automatisme au service de l'industrie",
+      "de": "Automatisierung im Dienste der Industrie"
+    },
+    "data.links[@ZhkzDP].groups[@K6YDoZ].items[@KGaQ7J].label": {
+      "source": "Rétrofit Automatisme",
+      "de": "Automatisierungs-Retrofit"
+    },
+    "data.links[@ZhkzDP].groups[@K6YDoZ].items[@kSSdID].label": {
+      "source": "IoT Comm Réseaux",
+      "de": "IoT-Kommunikationsnetzwerke"
+    },
+    "data.links[@ZhkzDP].groups[@K6YDoZ].items[@BsF5KU].label": {
+      "source": "Revamping Electrique",
+      "de": "Elektrisches Revamping"
+    },
+    "data.links[@ZhkzDP].groups[@K6YDoZ].items[@OneDDl].label": {
+      "source": "Rénovation PC Industriel",
+      "de": "Modernisierung Industrie-PC"
+    },
+    "data.links[@ZhkzDP].groups[@bUgrFU].items[@Ff6dvM].label": {
+      "source": "KPI, MES, TRS, OEE",
+      "de": "KPI, MES, TRS, OEE"
+    },
+    "data.links[@ZhkzDP].groups[@bUgrFU].items[@9pSSDu].label": {
+      "source": "Data, Pareto, VSM, ROI",
+      "de": "Daten, Pareto, VSM, ROI"
+    },
+    "data.links[@ZhkzDP].groups[@bUgrFU].items[@8DSP8u].label": {
+      "source": "Supervision SCADA Ignition",
+      "de": "SCADA Ignition Überwachung"
+    },
+    "data.links[@ZhkzDP].groups[@bUgrFU].items[@KIvb9C].label": {
+      "source": "GTB, GMAO",
+      "de": "GTB, GMAO"
+    },
+    "data.links[@ZhkzDP].groups[@4wBDtq].items[@I47Fbt].label": {
+      "source": "Architecture Systèmes",
+      "de": "Systemarchitektur"
+    },
+    "data.links[@ZhkzDP].groups[@4wBDtq].items[@xOihl7].label": {
+      "source": "Projets Stratégiques",
+      "de": "Strategische Projekte"
+    },
+    "data.links[@ZhkzDP].groups[@4wBDtq].items[@XutUJx].label": {
+      "source": "Cycle de Vie et Obsolescence",
+      "de": "Lebenszyklus und Obsoleszenz"
+    },
+    "data.links[@cbdWRw].groups[@pSJbpX].items[@9McUq3].label": {
+      "source": "Manifeste",
+      "de": "Manifest"
+    },
+    "data.links[@cbdWRw].groups[@pSJbpX].items[@5wHK5c].label": {
+      "source": "L'Équipe",
+      "de": "Das Team"
+    },
+    "data.links[@cbdWRw].groups[@pSJbpX].items[@FSophq].label": {
+      "source": "Technologies",
+      "de": "Technologien"
     }
   }
 }

@@ -32,6 +32,18 @@
     "data.benefits[@G3EZUf].text": {
       "source": "Pragmatique et Humain",
       "de": "Pragmatisch und Menschlich"
+    },
+    "data.benefits[@ZEPIai].text": {
+      "source": "Pérennité et Performance",
+      "de": "Nachhaltigkeit und Leistung"
+    },
+    "data.benefits[@d2yVpS].text": {
+      "source": "Polyvalent et Agnostique",
+      "de": "Vielseitig und agnostisch"
+    },
+    "data.benefits[@qjXMXA].text": {
+      "source": "Pragmatique et Humain",
+      "de": "Pragmatisch und menschlich"
     }
   }
 }
