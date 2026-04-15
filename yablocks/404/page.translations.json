@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "404 - Page introuvable | AUTEM",
+      "de": "404 - Seite nicht gefunden | AUTEM",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "La page que vous recherchez n'existe pas ou a été déplacée. Retournez à l'accueil pour découvrir nos services d'automatisme industriel.",
+      "de": "Die von Ihnen gesuchte Seite existiert nicht oder wurde verschoben. Kehren Sie zur Startseite zurück, um unsere Dienstleistungen im Bereich der Industrieautomation zu entdecken.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "404",
+        "page introuvable",
+        "erreur"
+      ],
+      "de": [
+        "404",
+        "Seite nicht gefunden",
+        "Fehler"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Page introuvable",
+      "de": "AUTEM — Seite nicht gefunden",
+      "de:manual": true
+    }
+  }
+}
