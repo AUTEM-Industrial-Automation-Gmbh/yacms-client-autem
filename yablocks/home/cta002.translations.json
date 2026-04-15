@@ -20,6 +20,18 @@
     "data.cta.text": {
       "source": "Traitons votre URGENCE ",
       "de": "Ihren Notfall bearbeiten"
+    },
+    "data.benefits[@qZEidx].text": {
+      "source": "Pérennité et Performance",
+      "de": "Langlebigkeit und Leistung"
+    },
+    "data.benefits[@7w8VAT].text": {
+      "source": "Polyvalent et Agnostique",
+      "de": "Vielseitig und Agnostisch"
+    },
+    "data.benefits[@G3EZUf].text": {
+      "source": "Pragmatique et Humain",
+      "de": "Pragmatisch und Menschlich"
     }
   }
 }

@@ -112,6 +112,102 @@
     "data.cta.text": {
       "source": "Une URGENCE technique ?",
       "de": "Ein technischer NOTFALL?"
+    },
+    "data.links[@vjBe8a].label": {
+      "source": "Nos offres",
+      "de": "Unsere Angebote"
+    },
+    "data.links[@j3TFoI].label": {
+      "source": "À propos",
+      "de": "Über uns"
+    },
+    "data.links[@GgwDdq].label": {
+      "source": "Cas clients",
+      "de": "Kundenreferenzen"
+    },
+    "data.links[@uGVSQd].label": {
+      "source": "Ressources",
+      "de": "Ressourcen"
+    },
+    "data.links[@vjBe8a].groups[@S0vafJ].label": {
+      "source": "Machines Automatisées",
+      "de": "Automatisierte Maschinen"
+    },
+    "data.links[@j3TFoI].groups[@8fO6ye].label": {
+      "source": "Découvrir AUTEM",
+      "de": "AUTEM entdecken"
+    },
+    "data.links[@vjBe8a].groups[@S0vafJ].description": {
+      "source": "Rénovation, Rétrofit, Revamping",
+      "de": "Renovierung, Retrofit, Revamping"
+    },
+    "data.links[@vjBe8a].groups[@jeWEhD].description": {
+      "source": "Mesure, Performance, Pilotage",
+      "de": "Messung, Leistung, Steuerung"
+    },
+    "data.links[@vjBe8a].groups[@kamaoM].description": {
+      "source": "Audit agnostique, Projets techniques",
+      "de": "Agnostisches Audit, Technische Projekte"
+    },
+    "data.links[@j3TFoI].groups[@8fO6ye].description": {
+      "source": "L'automatisme au service de l'industrie",
+      "de": "Automatisierung im Dienste der Industrie"
+    },
+    "data.links[@vjBe8a].groups[@S0vafJ].items[@vLpJwx].label": {
+      "source": "Rétrofit Automatisme",
+      "de": "Automatisierungs-Retrofit"
+    },
+    "data.links[@vjBe8a].groups[@S0vafJ].items[@z6dYot].label": {
+      "source": "IoT Comm Réseaux",
+      "de": "IoT-Kommunikationsnetzwerke"
+    },
+    "data.links[@vjBe8a].groups[@S0vafJ].items[@JSFbm1].label": {
+      "source": "Revamping Electrique",
+      "de": "Elektrisches Revamping"
+    },
+    "data.links[@vjBe8a].groups[@S0vafJ].items[@NVn2qa].label": {
+      "source": "Rénovation PC Industriel",
+      "de": "Renovierung Industrie-PC"
+    },
+    "data.links[@vjBe8a].groups[@jeWEhD].items[@sg0rpm].label": {
+      "source": "KPI, MES, TRS, OEE",
+      "de": "KPI, MES, TRS, OEE"
+    },
+    "data.links[@vjBe8a].groups[@jeWEhD].items[@5uaqVc].label": {
+      "source": "Data, Pareto, VSM, ROI",
+      "de": "Daten, Pareto, VSM, ROI"
+    },
+    "data.links[@vjBe8a].groups[@jeWEhD].items[@koVkNd].label": {
+      "source": "Supervision SCADA Ignition",
+      "de": "SCADA Ignition Überwachung"
+    },
+    "data.links[@vjBe8a].groups[@jeWEhD].items[@xKGDAE].label": {
+      "source": "GTB, GMAO",
+      "de": "GTB, GMAO"
+    },
+    "data.links[@vjBe8a].groups[@kamaoM].items[@ud7TMX].label": {
+      "source": "Architecture Systèmes",
+      "de": "Systemarchitektur"
+    },
+    "data.links[@vjBe8a].groups[@kamaoM].items[@Qz5zst].label": {
+      "source": "Projets Stratégiques",
+      "de": "Strategische Projekte"
+    },
+    "data.links[@vjBe8a].groups[@kamaoM].items[@jcVdEy].label": {
+      "source": "Cycle de Vie et Obsolescence",
+      "de": "Lebenszyklus und Obsoleszenz"
+    },
+    "data.links[@j3TFoI].groups[@8fO6ye].items[@XdAPe0].label": {
+      "source": "Manifeste",
+      "de": "Manifest"
+    },
+    "data.links[@j3TFoI].groups[@8fO6ye].items[@5BfM0v].label": {
+      "source": "L'Équipe",
+      "de": "Das Team"
+    },
+    "data.links[@j3TFoI].groups[@8fO6ye].items[@tc1Mrl].label": {
+      "source": "Technologies",
+      "de": "Technologien"
     }
   }
 }

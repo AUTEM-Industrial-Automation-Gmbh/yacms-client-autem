@@ -108,6 +108,106 @@
     "data.cards[@Roq4rC].actions[@h7uxg9].link": {
       "source": "/contact",
       "de": "/kontakt"
+    },
+    "data.cards[@lUwteW].title": {
+      "source": "Notre communauté Youtube !",
+      "de": "Unsere YouTube-Community!"
+    },
+    "data.cards[@kReBPe].title": {
+      "source": "LinkedIn AUTEM",
+      "de": "LinkedIn AUTEM"
+    },
+    "data.cards[@SNTDMW].title": {
+      "source": "Formation Udemy — Automates Siemens TIA Portal",
+      "de": "Udemy-Schulung — Siemens TIA Portal Steuerungen"
+    },
+    "data.cards[@V8HtgC].title": {
+      "source": "Blog Technique",
+      "de": "Technischer Blog"
+    },
+    "data.cards[@d7NGDY].title": {
+      "source": "Contactez-nous",
+      "de": "Kontaktieren Sie uns"
+    },
+    "data.cards[@lUwteW].description": {
+      "source": "De nombreuses vidéos pour aller plus loin.",
+      "de": "Viele Videos, um tiefer einzutauchen."
+    },
+    "data.cards[@kReBPe].description": {
+      "source": "Suivez notre actualité industrielle, nos projets et partages techniques",
+      "de": "Verfolgen Sie unsere Branchenneuigkeiten, Projekte und technischen Beiträge"
+    },
+    "data.cards[@SNTDMW].description": {
+      "source": "Cours en ligne noté 4.8/5 · Programmation automates Siemens en langage LADDER",
+      "de": "Online-Kurs mit 4.8/5 bewertet · Siemens SPS-Programmierung in LADDER-Sprache"
+    },
+    "data.cards[@V8HtgC].description": {
+      "source": "Articles sur l'automatisme, le SCADA, l'IIoT et les technologies industrielles",
+      "de": "Artikel über Automatisierung, SCADA, IIoT und industrielle Technologien"
+    },
+    "data.cards[@d7NGDY].description": {
+      "source": "Vos machines ont pris de l'âge ? Parlons-en !",
+      "de": "Ihre Maschinen sind in die Jahre gekommen? Lassen Sie uns darüber sprechen!"
+    },
+    "data.cards[@lUwteW].image.alt": {
+      "source": "Portfolio références AUTEM clients",
+      "de": "Portfolio Kundenreferenzen AUTEM"
+    },
+    "data.cards[@kReBPe].image.alt": {
+      "source": "AUTEM LinkedIn automatisme industriel",
+      "de": "AUTEM LinkedIn industrielle Automatisierung"
+    },
+    "data.cards[@SNTDMW].image.alt": {
+      "source": "Formation automatisme Siemens TIA Portal Udemy",
+      "de": "Siemens TIA Portal Automatisierungsschulung Udemy"
+    },
+    "data.cards[@V8HtgC].image.alt": {
+      "source": "Blog AUTEM automatisme SCADA",
+      "de": "Blog AUTEM Automatisierung SCADA"
+    },
+    "data.cards[@d7NGDY].image.alt": {
+      "source": "Contact AUTEM automaticien",
+      "de": "Kontakt AUTEM Automatisierungstechniker"
+    },
+    "data.cards[@lUwteW].actions[@vGmTrd].text": {
+      "source": "Voir nos cas clients",
+      "de": "Unsere Kundenfälle ansehen"
+    },
+    "data.cards[@kReBPe].actions[@aYl4k9].text": {
+      "source": "Suivre",
+      "de": "Folgen"
+    },
+    "data.cards[@SNTDMW].actions[@GWkZR8].text": {
+      "source": "Voir le cours",
+      "de": "Kurs ansehen"
+    },
+    "data.cards[@V8HtgC].actions[@2JvN5m].text": {
+      "source": "Lire",
+      "de": "Lesen"
+    },
+    "data.cards[@d7NGDY].actions[@p63AE2].text": {
+      "source": "Nous écrire",
+      "de": "Uns schreiben"
+    },
+    "data.cards[@lUwteW].actions[@vGmTrd].link": {
+      "source": "/cas-clients",
+      "de": "/kundenfaelle"
+    },
+    "data.cards[@kReBPe].actions[@aYl4k9].link": {
+      "source": "https://www.linkedin.com/company/autemautomation/",
+      "de": "https://www.linkedin.com/company/autemautomation/"
+    },
+    "data.cards[@SNTDMW].actions[@GWkZR8].link": {
+      "source": "https://www.udemy.com/course/programmer-en-ladder-sur-automate-siemens/?referralCode=F931E4FEE42C6311EEE6",
+      "de": "https://www.udemy.com/course/programmer-en-ladder-sur-automate-siemens/?referralCode=F931E4FEE42C6311EEE6"
+    },
+    "data.cards[@V8HtgC].actions[@2JvN5m].link": {
+      "source": "/blog",
+      "de": "/blog"
+    },
+    "data.cards[@d7NGDY].actions[@p63AE2].link": {
+      "source": "/contact",
+      "de": "/kontakt"
     }
   }
 }
