@@ -8,24 +8,30 @@
     "title": "Pilotage de production et connectivité industrielle",
     "paragraphs": [
       {
-        "text": "Au-delà de la supervision, AUTEM intègre des solutions MES pour piloter l'exécution des ordres de fabrication, mesurer le TRS et suivre la performance de ligne en temps réel."
+        "text": "Au-delà de la supervision, AUTEM intègre des solutions MES pour piloter l'exécution des ordres de fabrication, mesurer le TRS et suivre la performance de ligne en temps réel.",
+        "_tid": "qpkJZk"
       },
       {
-        "text": "Pour la connectivité IIoT, nous mettons en place les architectures réseau et protocoles nécessaires pour faire remonter les données des machines jusqu'au cloud — en toute sécurité."
+        "text": "Pour la connectivité IIoT, nous mettons en place les architectures réseau et protocoles nécessaires pour faire remonter les données des machines jusqu'au cloud — en toute sécurité.",
+        "_tid": "FkuUCv"
       }
     ],
     "highlights": [
       {
-        "text": "MES & TRS — suivi de production, ordres de fabrication (ISA95)"
+        "text": "MES & TRS — suivi de production, ordres de fabrication (ISA95)",
+        "_tid": "fy8hkS"
       },
       {
-        "text": "Seckiot — cybersécurité et connectivité IoT des systèmes industriels"
+        "text": "Seckiot — cybersécurité et connectivité IoT des systèmes industriels",
+        "_tid": "3wr1Si"
       },
       {
-        "text": "OPC-UA, MQTT, BACnet — protocoles de communication industrielle"
+        "text": "OPC-UA, MQTT, BACnet — protocoles de communication industrielle",
+        "_tid": "OkzwpW"
       },
       {
-        "text": "Architecture réseau : Profinet, Profibus, Ethernet/IP, Modbus, AS-i"
+        "text": "Architecture réseau : Profinet, Profibus, Ethernet/IP, Modbus, AS-i",
+        "_tid": "Ef2XqG"
       }
     ],
     "conclusion": "Résultat : vos données machines remontent automatiquement, vos KPI sont calculés en temps réel, et vos équipes de production pilotent grâce à des tableaux de bord fiables.",

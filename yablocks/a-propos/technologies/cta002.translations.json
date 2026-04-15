@@ -1,0 +1,25 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Votre projet de digitalisation industrielle commence ici.",
+      "de": "Ihr Projekt zur industriellen Digitalisierung beginnt hier."
+    },
+    "data.benefits[@BgDjv4].text": {
+      "source": "Intégrateur certifié GOLD Ignition",
+      "de": "Zertifizierter GOLD Ignition Integrator"
+    },
+    "data.benefits[@IVfprs].text": {
+      "source": "Multimarque : Siemens, Rockwell, Schneider, Wago",
+      "de": "Mehrere Marken: Siemens, Rockwell, Schneider, Wago"
+    },
+    "data.benefits[@KczR1y].text": {
+      "source": "10+ ans d'expérience terrain",
+      "de": "Über 10 Jahre Erfahrung im Feld"
+    },
+    "data.cta.text": {
+      "source": "Discutons de votre projet",
+      "de": "Lassen Sie uns über Ihr Projekt sprechen"
+    }
+  }
+}

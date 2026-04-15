@@ -1,0 +1,53 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "ÉLECTROTECHNIQUE & RÉSEAUX",
+      "de": "ELEKTROTECHNIK & NETZWERKE"
+    },
+    "data.title": {
+      "source": "L'environnement complet de la machine, maîtrisé.",
+      "de": "Die komplette Maschinenumgebung, gemeistert."
+    },
+    "data.cards[@TSAQwZ].image.alt": {
+      "source": "Automatisme électrique et électrotechnique industrielle",
+      "de": "Elektrische Automatisierung und industrielle Elektrotechnik"
+    },
+    "data.cards[@QfYtmS].image.alt": {
+      "source": "Réseaux industriels et vision industrielle",
+      "de": "Industrielle Netzwerke und industrielle Bildverarbeitung"
+    },
+    "data.cards[@TSAQwZ].title": {
+      "source": "Automatisme électrique & électrotechnique",
+      "de": "Elektrische Automatisierung & Elektrotechnik"
+    },
+    "data.cards[@QfYtmS].title": {
+      "source": "Réseaux industriels & vision",
+      "de": "Industrielle Netzwerke & Bildverarbeitung"
+    },
+    "data.cards[@TSAQwZ].bullets[@1nOYAz].text": {
+      "source": "Variateurs SEW (Movitrac, Movidrive), Eaton (RASP), Siemens (Sinamics)",
+      "de": "SEW-Frequenzumrichter (Movitrac, Movidrive), Eaton (RASP), Siemens (Sinamics)"
+    },
+    "data.cards[@TSAQwZ].bullets[@lQKIpY].text": {
+      "source": "Schémas électriques : EPlan, SEE Electrical — habilitation BT",
+      "de": "Schaltpläne: EPlan, SEE Electrical — NS-konform"
+    },
+    "data.cards[@TSAQwZ].bullets[@9pHpqU].text": {
+      "source": "Sécurité machine : Pilz, Pepperl+Fuchs — niveaux SIL intégrés",
+      "de": "Maschinensicherheit: Pilz, Pepperl+Fuchs — integrierte SIL-Level"
+    },
+    "data.cards[@QfYtmS].bullets[@hrdrkc].text": {
+      "source": "Infrastructure réseau : VPN, anneau redondant, VLAN, NAT/PAT",
+      "de": "Netzwerkinfrastruktur: VPN, redundanter Ring, VLAN, NAT/PAT"
+    },
+    "data.cards[@QfYtmS].bullets[@uLXamp].text": {
+      "source": "Switchs, routeurs, capteurs IOLink, convergence OT/IT",
+      "de": "Switches, Router, IOLink-Sensoren, OT/IT-Konvergenz"
+    },
+    "data.cards[@QfYtmS].bullets[@vNedq9].text": {
+      "source": "Vision industrielle : lecteurs Cognex, Sick — traceabilité et contrôle qualité",
+      "de": "Industrielle Bildverarbeitung: Cognex, Sick-Lesegeräte — Rückverfolgbarkeit und Qualitätskontrolle"
+    }
+  }
+}

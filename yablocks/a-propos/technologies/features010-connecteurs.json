@@ -15,15 +15,19 @@
         "title": "Automatisme électrique & électrotechnique",
         "bullets": [
           {
-            "text": "Variateurs SEW (Movitrac, Movidrive), Eaton (RASP), Siemens (Sinamics)"
+            "text": "Variateurs SEW (Movitrac, Movidrive), Eaton (RASP), Siemens (Sinamics)",
+            "_tid": "1nOYAz"
           },
           {
-            "text": "Schémas électriques : EPlan, SEE Electrical — habilitation BT"
+            "text": "Schémas électriques : EPlan, SEE Electrical — habilitation BT",
+            "_tid": "lQKIpY"
           },
           {
-            "text": "Sécurité machine : Pilz, Pepperl+Fuchs — niveaux SIL intégrés"
+            "text": "Sécurité machine : Pilz, Pepperl+Fuchs — niveaux SIL intégrés",
+            "_tid": "9pHpqU"
           }
-        ]
+        ],
+        "_tid": "TSAQwZ"
       },
       {
         "image": {
@@ -33,15 +37,19 @@
         "title": "Réseaux industriels & vision",
         "bullets": [
           {
-            "text": "Infrastructure réseau : VPN, anneau redondant, VLAN, NAT/PAT"
+            "text": "Infrastructure réseau : VPN, anneau redondant, VLAN, NAT/PAT",
+            "_tid": "hrdrkc"
           },
           {
-            "text": "Switchs, routeurs, capteurs IOLink, convergence OT/IT"
+            "text": "Switchs, routeurs, capteurs IOLink, convergence OT/IT",
+            "_tid": "uLXamp"
           },
           {
-            "text": "Vision industrielle : lecteurs Cognex, Sick — traceabilité et contrôle qualité"
+            "text": "Vision industrielle : lecteurs Cognex, Sick — traceabilité et contrôle qualité",
+            "_tid": "vNedq9"
           }
-        ]
+        ],
+        "_tid": "QfYtmS"
       }
     ]
   }
