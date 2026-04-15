@@ -13,4 +13,12 @@ export default defineConfig({
       privacyPolicyPath: "/mentions-legales",
     },
   },
+  i18n: {
+    defaultLocale: 'fr',
+    locales: [
+      { code: 'fr', label: 'Français' },
+    ],
+    routing: 'prefix-except-default',
+    fallback: 'default',
+  },
 });
