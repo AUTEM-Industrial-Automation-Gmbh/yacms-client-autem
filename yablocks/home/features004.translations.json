@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.badges[@gpwDZ7].alt": {
+      "source": "World Class Manufacturing",
+      "de": "World Class Manufacturing"
+    },
+    "data.headline": {
+      "source": "Rupture ou Continuité : qui l’emporte ?",
+      "de": "Bruch oder Kontinuität: Wer gewinnt?"
+    },
+    "data.paragraphs[@DDHftt].text": {
+      "source": "Pression sur les coûts, enjeux de durabilité, standards exigeants : l'opérationnel reste au coeur de la rentabilité des usines.",
+      "de": "Kostendruck, Nachhaltigkeitsfragen, anspruchsvolle Standards: Das Operative bleibt im Zentrum der Rentabilität von Fabriken."
+    },
+    "data.paragraphs[@IV6zgu].text": {
+      "source": "Pourtant, trop d’industriels plombent leur compétitivité en restant prisonniers des pannes continuelles, des fournisseurs injoignables et des devis coûteux. Comment sortir du mode pompier ? Comment arrêter de subir l'urgence ? La tentation est grande de faire table rase et repartir sur du neuf.",
+      "de": "Dennoch beeinträchtigen zu viele Industrieunternehmen ihre Wettbewerbsfähigkeit, indem sie Gefangene ständiger Ausfälle, unerreichbarer Lieferanten und kostspieliger Angebote bleiben. Wie kommt man aus dem Feuerwehr-Modus heraus? Wie hört man auf, die Dringlichkeit zu erleiden? Die Versuchung ist groß, einen Schlussstrich zu ziehen und mit etwas Neuem zu beginnen."
+    },
+    "data.paragraphs[@HqctTp].text": {
+      "source": "Chez AUTEM, nos spécialistes rénovent vos machines obsolètes pour que la maintenance devienne un poste de rentabilité et non une charge. Pour les systèmes de production hardware comme software, l'enjeu n'est pas la digitalisation 4.0 mais plutôt une transition proactive vers un cycle de vie rentable. Cela renforce l'autonomie de vos spécialistes et la durabilité de votre savoir-faire technologique.",
+      "de": "Bei AUTEM renovieren unsere Spezialisten Ihre veralteten Maschinen, so dass die Wartung zu einem Rentabilitätsfaktor wird und nicht zu einer Belastung. Für Hardware- und Software-Produktionssysteme geht es nicht um die Digitalisierung 4.0, sondern vielmehr um einen proaktiven Übergang zu einem rentablen Lebenszyklus. Dies stärkt die Autonomie Ihrer Spezialisten und die Nachhaltigkeit Ihres technologischen Know-hows."
+    },
+    "data.paragraphs[@gSFhPp].text": {
+      "source": "En maintenance industrielle, deux types d’industriels coexisteront : ceux qui anticipent l’obsolescence par un leadership vertueux, et ceux qui subissent la vétusté par une dépendance aux budgets.",
+      "de": "In der industriellen Wartung werden zwei Arten von Industrieunternehmen koexistieren: diejenigen, die Obsoleszenz durch eine tugendhafte Führung antizipieren, und diejenigen, die den Verfall durch Budgetabhängigkeit erleiden."
+    },
+    "data.closing": {
+      "source": "De quel côté serez-vous ?",
+      "de": "Auf welcher Seite werden Sie stehen?"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "Notre Modèle AUTEM",
+      "de": "Unser AUTEM-Modell"
+    },
+    "data.title": {
+      "source": "Soigner le Patrimoine technique",
+      "de": "Pflege des technischen Erbes"
+    },
+    "data.paragraphs[@8C0wes].text": {
+      "source": "Plutôt que de remplacer systématiquement par du neuf, nous priorisons la continuité technologique, en rétablissant les ponts avec les savoir-faire perdus. Nous préférons investir dans un transfert au lieu d'une dépendance. Cela requiert une équipe de spécialistes rôdés qui sont de vrais couteaux-suisses du rétrofit industriel.",
+      "de": "Anstatt systematisch durch Neuanschaffungen zu ersetzen, priorisieren wir die technologische Kontinuität, indem wir die Brücken zu verloren gegangenen Fachkenntnissen wieder herstellen. Wir investieren lieber in einen Wissenstransfer als in eine Abhängigkeit. Dies erfordert ein Team aus erfahrenen Spezialisten, die echte Allrounder im industriellen Retrofit sind."
+    },
+    "data.paragraphs[@ZPawgM].text": {
+      "source": "Notre slogan est : Polyvalence · Fiabilité · Flexibilité. La polyvalence assure de rester agnostique et autonome sur tout le cycle de vie de vos machines. La fiabilité requiert un suivi rigoureux et pro-actif. Et la flexibilité permet de s'adapter aux contraintes et imprévus inévitables en industrie.",
+      "de": "Unser Slogan lautet: Vielseitigkeit · Zuverlässigkeit · Flexibilität. Vielseitigkeit stellt sicher, dass wir über den gesamten Lebenszyklus Ihrer Maschinen hinweg agnostisch und autonom bleiben. Zuverlässigkeit erfordert eine sorgfältige und proaktive Überwachung. Und Flexibilität ermöglicht die Anpassung an die in der Industrie unvermeidlichen Einschränkungen und Unvorhersehbaren."
+    },
+    "data.image.alt": {
+      "source": "Valeurs AUTEM : polyvalence fiabilité flexibilité",
+      "de": "AUTEM-Werte: Vielseitigkeit, Zuverlässigkeit, Flexibilität"
+    },
+    "data.cta.text": {
+      "source": "Découvrir AUTEM",
+      "de": "AUTEM entdecken"
+    }
+  }
+}
