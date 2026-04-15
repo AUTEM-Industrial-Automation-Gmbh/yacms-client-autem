@@ -44,6 +44,18 @@
     "data.benefits[@qjXMXA].text": {
       "source": "Pragmatique et Humain",
       "de": "Pragmatisch und menschlich"
+    },
+    "data.benefits[@76ArDq].text": {
+      "source": "Pérennité et Performance",
+      "de": "Nachhaltigkeit und Performance"
+    },
+    "data.benefits[@KmGx1a].text": {
+      "source": "Polyvalent et Agnostique",
+      "de": "Vielseitig und Agnostisch"
+    },
+    "data.benefits[@71TAqr].text": {
+      "source": "Pragmatique et Humain",
+      "de": "string"
     }
   }
 }

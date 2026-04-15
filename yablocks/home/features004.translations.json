@@ -68,6 +68,22 @@
     "data.paragraphs[@AHOtHL].text": {
       "source": "En maintenance industrielle, deux types d’industriels coexisteront : ceux qui anticipent l’obsolescence par un leadership vertueux, et ceux qui subissent la vétusté par une dépendance aux budgets.",
       "de": "In der industriellen Wartung werden zwei Arten von Industrieunternehmen koexistieren: diejenigen, die die Obsoleszenz durch eine vorausschauende Führung antizipieren, und diejenigen, die die Veralterung durch Budgetabhängigkeit erleiden."
+    },
+    "data.badges[@ZNscn0].alt": {
+      "source": "World Class Manufacturing",
+      "de": "World Class Manufacturing"
+    },
+    "data.paragraphs[@8XAie2].text": {
+      "source": "Pression sur les coûts, enjeux de durabilité, standards exigeants : l'opérationnel reste au coeur de la rentabilité des usines.",
+      "de": "Kostendruck, Nachhaltigkeitsfragen, anspruchsvolle Standards: Das Operative bleibt im Zentrum der Rentabilität von Werken."
+    },
+    "data.paragraphs[@6NCHWa].text": {
+      "source": "Chez AUTEM, nos spécialistes rénovent vos machines obsolètes pour que la maintenance devienne un poste de rentabilité et non une charge. Pour les systèmes de production hardware comme software, l'enjeu n'est pas la digitalisation 4.0 mais plutôt une transition proactive vers un cycle de vie rentable. Cela renforce l'autonomie de vos spécialistes et la durabilité de votre savoir-faire technologique.",
+      "de": "Bei AUTEM weisen unsere Spezialisten Ihre veralteten Maschinen zu renovieren, so dass die Instandhaltung zu einem Rentabilitätsfaktor wird und nicht zu einem Kostenfaktor. Für Hardware- und Software-Produktionssysteme geht es nicht um die Digitalisierung 4.0, sondern vielmehr um einen proaktiven Übergang zu einem rentablen Lebenszyklus. Dies stärkt die Autonomie Ihrer Spezialisten und die Nachhaltigkeit Ihres technologischen Know-hows."
+    },
+    "data.paragraphs[@izHCXv].text": {
+      "source": "En maintenance industrielle, deux types d’industriels coexisteront : ceux qui anticipent l’obsolescence par un leadership vertueux, et ceux qui subissent la vétusté par une dépendance aux budgets.",
+      "de": "In der industriellen Instandhaltung werden zwei Arten von Industrieunternehmen koexistieren: diejenigen, welche die Veralterung durch eine tugendhafte Führung ownen, und diejenigen, welche die Veralterung durch eine Budgetabhängigkeit erleiden."
     }
   }
 }

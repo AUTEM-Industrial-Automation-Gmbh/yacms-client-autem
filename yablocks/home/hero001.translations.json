@@ -88,6 +88,22 @@
     "data.logos.items[@CuAxvm].alt": {
       "source": "Verkor",
       "de": "Verkor"
+    },
+    "data.logos.items[@LcuJkT].alt": {
+      "source": "COOP",
+      "de": "COOP"
+    },
+    "data.logos.items[@AQyYps].alt": {
+      "source": "Medtronic",
+      "de": "Medtronic"
+    },
+    "data.logos.items[@bCNFZd].alt": {
+      "source": "Caterpillar",
+      "de": "facilityman.de own logo"
+    },
+    "data.logos.items[@zq6q8c].alt": {
+      "source": "Verkor",
+      "de": "Verkor"
     }
   }
 }

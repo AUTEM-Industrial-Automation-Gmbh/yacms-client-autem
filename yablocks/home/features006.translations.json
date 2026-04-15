@@ -308,6 +308,106 @@
     "data.cards[@9vGUtR].actions[@7n4LaA].link": {
       "source": "/contact",
       "de": "/kontakt"
+    },
+    "data.cards[@yBqKvQ].title": {
+      "source": "Notre communauté Youtube !",
+      "de": "Unsere Youtube-Community!"
+    },
+    "data.cards[@eaG0GR].title": {
+      "source": "LinkedIn AUTEM",
+      "de": "LinkedIn AUTEM"
+    },
+    "data.cards[@ip7fjn].title": {
+      "source": "Formation Udemy — Automates Siemens TIA Portal",
+      "de": "Udemy-Kurs — Siemens TIA Portal SPS"
+    },
+    "data.cards[@ILexj2].title": {
+      "source": "Blog Technique",
+      "de": "Technik-Blog"
+    },
+    "data.cards[@6ZgycB].title": {
+      "source": "Contactez-nous",
+      "de": "Kontaktieren Sie uns"
+    },
+    "data.cards[@yBqKvQ].description": {
+      "source": "De nombreuses vidéos pour aller plus loin.",
+      "de": "Viele Videos, um tiefer in die Materie einzutauchen."
+    },
+    "data.cards[@eaG0GR].description": {
+      "source": "Suivez notre actualité industrielle, nos projets et partages techniques",
+      "de": "Folgen Sie unseren Industrie-News, Projekten und technischen Beiträgen"
+    },
+    "data.cards[@ip7fjn].description": {
+      "source": "Cours en ligne noté 4.8/5 · Programmation automates Siemens en langage LADDER",
+      "de": "Online-Kurs mit 4,8/5 Sternen · Siemens SPS-Programmierung in LADDER"
+    },
+    "data.cards[@ILexj2].description": {
+      "source": "Articles sur l'automatisme, le SCADA, l'IIoT et les technologies industrielles",
+      "de": "Artikel über Automatisierung, SCADA, IIoT und Industrietechnologien"
+    },
+    "data.cards[@6ZgycB].description": {
+      "source": "Vos machines ont pris de l'âge ? Parlons-en !",
+      "de": "Sind Ihre Maschinen in die Jahre gekommen? Lassen Sie uns darüber sprechen!"
+    },
+    "data.cards[@yBqKvQ].image.alt": {
+      "source": "Portfolio références AUTEM clients",
+      "de": "Portfolio Referenzen AUTEM Kunden"
+    },
+    "data.cards[@eaG0GR].image.alt": {
+      "source": "AUTEM LinkedIn automatisme industriel",
+      "de": "AUTEM LinkedIn industrielle Automatisierung"
+    },
+    "data.cards[@ip7fjn].image.alt": {
+      "source": "Formation automatisme Siemens TIA Portal Udemy",
+      "de": "Udemy Automatisierungskurs Siemens TIA Portal"
+    },
+    "data.cards[@ILexj2].image.alt": {
+      "source": "Blog AUTEM automatisme SCADA",
+      "de": "AUTEM Blog Automatisierung SCADA"
+    },
+    "data.cards[@6ZgycB].image.alt": {
+      "source": "Contact AUTEM automaticien",
+      "de": "Kontakt AUTEM Automatisierungsexperte"
+    },
+    "data.cards[@yBqKvQ].actions[@O49KEm].text": {
+      "source": "Voir nos cas clients",
+      "de": "Kundenbeispiele ansehen"
+    },
+    "data.cards[@eaG0GR].actions[@4MRJIj].text": {
+      "source": "Suivre",
+      "de": "Folgen"
+    },
+    "data.cards[@ip7fjn].actions[@S4t0F2].text": {
+      "source": "Voir le cours",
+      "de": "Kurs ansehen"
+    },
+    "data.cards[@ILexj2].actions[@ZlwTf0].text": {
+      "source": "Lire",
+      "de": "Lesen"
+    },
+    "data.cards[@6ZgycB].actions[@qZpqUI].text": {
+      "source": "Nous écrire",
+      "de": "Schreiben Sie uns"
+    },
+    "data.cards[@yBqKvQ].actions[@O49KEm].link": {
+      "source": "/cas-clients",
+      "de": "/cas-clients"
+    },
+    "data.cards[@eaG0GR].actions[@4MRJIj].link": {
+      "source": "https://www.linkedin.com/company/autemautomation/",
+      "de": "https://www.linkedin.com/company/autemautomation/"
+    },
+    "data.cards[@ip7fjn].actions[@S4t0F2].link": {
+      "source": "https://www.udemy.com/course/programmer-en-ladder-sur-automate-siemens/?referralCode=F931E4FEE42C6311EEE6",
+      "de": "https://www.udemy.com/course/programmer-en-ladder-sur-automate-siemens/?referralCode=F931E4FEE42C6311EEE6"
+    },
+    "data.cards[@ILexj2].actions[@ZlwTf0].link": {
+      "source": "/blog",
+      "de": "/blog"
+    },
+    "data.cards[@6ZgycB].actions[@qZpqUI].link": {
+      "source": "/contact",
+      "de": "/contact"
     }
   }
 }
