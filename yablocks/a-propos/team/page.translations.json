@@ -1,0 +1,39 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "L'Équipe — AUTEM, Experts Automatisme & Industrie",
+      "de": "Das Team — AUTEM, Experten für Automatisierung & Industrie",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "L'équipe AUTEM réunit des experts en automatisme, SCADA, IoT et ingénierie logicielle pour vos projets de digitalisation industrielle.",
+      "de": "Das AUTEM-Team vereint Experten für Automatisierung, SCADA, IoT und Software-Engineering für Ihre Projekte zur industriellen Digitalisierung.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "équipe",
+        "automaticien",
+        "ingénieur automatisme",
+        "SCADA",
+        "ingénieur logiciel industriel",
+        "AUTEM"
+      ],
+      "de": [
+        "Team",
+        "Automatisierungstechniker",
+        "Automatisierungsingenieur",
+        "SCADA",
+        "Industrie-Softwareingenieur",
+        "AUTEM"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — L'équipe d'experts en automatisme industriel",
+      "de": "AUTEM – Das Expertenteam für industrielle Automatisierung",
+      "de:manual": true
+    }
+  }
+}

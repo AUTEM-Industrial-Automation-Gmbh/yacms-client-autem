@@ -1,0 +1,17 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "L'ÉQUIPE",
+      "de": "DAS TEAM"
+    },
+    "data.title": {
+      "source": "La Team AUTEM",
+      "de": "Das AUTEM Team"
+    },
+    "data.subtitle": {
+      "source": "Un concentré d'expertises dans une équipe à taille humaine, spécialiste de votre secteur industriel.\n\n",
+      "de": "Eine Konzentration von Fachwissen in einem Team von überschaubarer Größe, das sich auf Ihren Industriesektor spezialisiert hat.\n\n"
+    }
+  }
+}

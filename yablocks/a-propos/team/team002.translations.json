@@ -1,0 +1,177 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "L'ÉQUIPE",
+      "de": "DAS TEAM"
+    },
+    "data.title": {
+      "source": "Les experts derrière vos projets industriels",
+      "de": "Die Experten hinter Ihren Industrieprojekten"
+    },
+    "data.subtitle": {
+      "source": "Automatisme, SCADA, IoT, développement logiciel — une équipe complémentaire au service de votre digitalisation.",
+      "de": "Automatisierung, SCADA, IoT, Softwareentwicklung – ein komplementäres Team im Dienste Ihrer Digitalisierung."
+    },
+    "data.members[@4gGhd7].name": {
+      "source": "Marc Akoto",
+      "de": "Marc Akoto"
+    },
+    "data.members[@TR026s].name": {
+      "source": "Idriss Benguezzou",
+      "de": "Idriss Benguezzou"
+    },
+    "data.members[@va7qHH].name": {
+      "source": "Alexandre Saïdi",
+      "de": "Alexandre Saïdi"
+    },
+    "data.members[@4gGhd7].title": {
+      "source": "Fondateur & Expert Automaticien",
+      "de": "Gründer & Automatisierungsexperte"
+    },
+    "data.members[@TR026s].title": {
+      "source": "Ingénieur Logiciel Industriel",
+      "de": "Industrie-Softwareentwickler"
+    },
+    "data.members[@va7qHH].title": {
+      "source": "Ingénieur Automaticien",
+      "de": "Automatisierungsingenieur"
+    },
+    "data.members[@4gGhd7].location": {
+      "source": "Fribourg 🇨🇭",
+      "de": "Fribourg 🇨🇭"
+    },
+    "data.members[@TR026s].location": {
+      "source": "Saint-Étienne 🇫🇷",
+      "de": "Saint-Étienne 🇫🇷"
+    },
+    "data.members[@va7qHH].location": {
+      "source": "Lyon 🇫🇷",
+      "de": "Lyon 🇫🇷"
+    },
+    "data.members[@4gGhd7].description": {
+      "source": "Automaticien spécialisé en SCADA, MES et IoT industriel. Fondateur d'AUTEM, intégrateur certifié GOLD Ignition avec 10+ ans d'expérience sur des projets industriels en France et à l'international.",
+      "de": "Automatisierungsexperte mit Spezialisierung auf SCADA, MES und industrielle IoT-Anwendungen. Gründer von AUTEM, zertifizierter GOLD Ignition-Integrator mit über 10 Jahren Erfahrung in Industrie-Projekten in Frankreich und international."
+    },
+    "data.members[@TR026s].description": {
+      "source": "Ingénieur en développement logiciel spécialisé dans les applications industrielles. Renforce l'équipe sur les développements sur mesure, l'intégration des systèmes et les solutions logicielles embarquées.",
+      "de": "Softwareentwickler mit Spezialisierung auf industrielle Anwendungen. Verstärkt das Team bei kundenspezifischen Entwicklungen, Systemintegrationen und Embedded-Softwarelösungen."
+    },
+    "data.members[@va7qHH].description": {
+      "source": "Ingénieur automaticien autonome et polyvalent, capable de piloter un projet d'automatisation de bout en bout : de l'analyse fonctionnelle jusqu'à la mise en service sur site.",
+      "de": "Eigenständiger und vielseitiger Automatisierungsingenieur, der in der Lage ist, ein Automatisierungsprojekt von Anfang bis Ende zu leiten: von der Funktionsanalyse bis zur Inbetriebnahme vor Ort."
+    },
+    "data.members[@4gGhd7].image.alt": {
+      "source": "Marc Akoto - Fondateur AUTEM",
+      "de": "Marc Akoto - Gründer AUTEM"
+    },
+    "data.members[@TR026s].image.alt": {
+      "source": "Idriss Benguezzou - Ingénieur Logiciel Industriel",
+      "de": "Idriss Benguezzou - Industrie-Softwareentwickler"
+    },
+    "data.members[@va7qHH].image.alt": {
+      "source": "Alexandre Saïdi - Ingénieur Automaticien",
+      "de": "Alexandre Saïdi - Automatisierungsingenieur"
+    },
+    "data.members[@4gGhd7].linkedin": {
+      "source": "https://www.linkedin.com/in/akoto/",
+      "de": "https://www.linkedin.com/in/akoto/"
+    },
+    "data.members[@TR026s].linkedin": {
+      "source": "https://www.linkedin.com/in/idriss-benguezzou",
+      "de": "https://www.linkedin.com/in/idriss-benguezzou"
+    },
+    "data.members[@va7qHH].linkedin": {
+      "source": "https://www.linkedin.com/in/alexandre-s-0b7b33119/",
+      "de": "https://www.linkedin.com/in/alexandre-s-0b7b33119/"
+    },
+    "data.members[@4gGhd7].qualities[@JEK5YC].text": {
+      "source": "Automatisme industriel",
+      "de": "Industrielle Automatisierung"
+    },
+    "data.members[@4gGhd7].qualities[@q4Wseh].text": {
+      "source": "SCADA Ignition Gold",
+      "de": "Ignition SCADA Gold"
+    },
+    "data.members[@4gGhd7].qualities[@ojWbQM].text": {
+      "source": "IoT / IIoT",
+      "de": "IoT / IIoT"
+    },
+    "data.members[@4gGhd7].qualities[@6FhzDr].text": {
+      "source": "Vision projet",
+      "de": "Projektübersicht"
+    },
+    "data.members[@TR026s].qualities[@f8Zv4t].text": {
+      "source": "Développement logiciel",
+      "de": "Softwareentwicklung"
+    },
+    "data.members[@TR026s].qualities[@LLp7Q8].text": {
+      "source": "Intégration systèmes",
+      "de": "Systemintegration"
+    },
+    "data.members[@TR026s].qualities[@7GRYoz].text": {
+      "source": "Applications industrielles",
+      "de": "Industrielle Anwendungen"
+    },
+    "data.members[@va7qHH].qualities[@7vxRuE].text": {
+      "source": "Autonomie complète",
+      "de": "Vollständige Autonomie"
+    },
+    "data.members[@va7qHH].qualities[@6DlFE5].text": {
+      "source": "Programmation automates",
+      "de": "SPS-Programmierung"
+    },
+    "data.members[@va7qHH].qualities[@9HYSl8].text": {
+      "source": "Mise en service",
+      "de": "Inbetriebnahme"
+    },
+    "data.members[@4gGhd7].skills[@vNlgbw].text": {
+      "source": "Siemens TIA Portal",
+      "de": "Siemens TIA Portal"
+    },
+    "data.members[@4gGhd7].skills[@ctLRmy].text": {
+      "source": "Ignition SCADA",
+      "de": "Ignition SCADA"
+    },
+    "data.members[@4gGhd7].skills[@whh94T].text": {
+      "source": "MES / TRS",
+      "de": "MES / OEE"
+    },
+    "data.members[@4gGhd7].skills[@9dJMQB].text": {
+      "source": "OPC-UA / MQTT",
+      "de": "OPC-UA / MQTT"
+    },
+    "data.members[@TR026s].skills[@QZPDge].text": {
+      "source": "Développement logiciel",
+      "de": "Softwareentwicklung"
+    },
+    "data.members[@TR026s].skills[@HZXmm9].text": {
+      "source": "Intégration API & services",
+      "de": "API- & Service-Integration"
+    },
+    "data.members[@TR026s].skills[@WPN4XZ].text": {
+      "source": "Systèmes embarqués",
+      "de": "Embedded Systems"
+    },
+    "data.members[@TR026s].skills[@irKAfU].text": {
+      "source": "Architecture logicielle",
+      "de": "Softwarearchitektur"
+    },
+    "data.members[@va7qHH].skills[@YKbMSx].text": {
+      "source": "Programmation PLC/API",
+      "de": "SPS/API-Programmierung"
+    },
+    "data.members[@va7qHH].skills[@sgxf3D].text": {
+      "source": "Analyse fonctionnelle",
+      "de": "Funktionsanalyse"
+    },
+    "data.members[@va7qHH].skills[@GcOxMl].text": {
+      "source": "SCADA / IHM",
+      "de": "SCADA / HMI"
+    },
+    "data.members[@va7qHH].skills[@YkWaEK].text": {
+      "source": "Mise en service terrain",
+      "de": "Vor-Ort-Inbetriebnahme"
+    }
+  }
+}
