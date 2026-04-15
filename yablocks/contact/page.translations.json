@@ -1,0 +1,39 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Contact — AUTEM, Expert en Automatisme & Digitalisation",
+      "de": "Kontakt — AUTEM, Experte für Automatisierung & Digitalisierung",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Contactez nos experts en automatisme et digitalisation industrielle. Devis, audit technique, urgence panne machine — réponse sous 24h.",
+      "de": "Kontaktieren Sie unsere Experten für industrielle Automatisierung und Digitalisierung. Angebote, technische Audits, Notfall bei Maschinenausfällen — Antwort innerhalb von 24h.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "contact automatisme industriel",
+        "expert SCADA Suisse",
+        "devis automatisme",
+        "urgence panne machine",
+        "intégrateur Ignition Suisse",
+        "contact AUTEM"
+      ],
+      "de": [
+        "kontakt industrielle Automatisierung",
+        "SCADA-Experte Schweiz",
+        "Automatisierungsangebot",
+        "Notfall bei Maschinenausfällen",
+        "Ignition-Integrator Schweiz",
+        "kontakt AUTEM"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Contactez nos experts en automatisme industriel",
+      "de": "AUTEM — Kontaktieren Sie unsere Experten für industrielle Automatisierung",
+      "de:manual": true
+    }
+  }
+}
