@@ -1,0 +1,61 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "+6 ans d'impact auprès de 13+ entreprises industrielles",
+      "de": "+6 Jahre Einfluss bei über 13 Industrieunternehmen"
+    },
+    "data.subtitle": {
+      "source": "Ils ont pérennisé leurs usines avec Autem",
+      "de": "Sie haben ihre Fabriken mit Autem zukunftssicher gemacht"
+    },
+    "data.logos[@vXaiVe].alt": {
+      "source": "COOP",
+      "de": "COOP"
+    },
+    "data.logos[@3JZCZi].alt": {
+      "source": "Caterpillar",
+      "de": "Caterpillar"
+    },
+    "data.logos[@bGh42a].alt": {
+      "source": "Verkor",
+      "de": "Verkor"
+    },
+    "data.logos[@V33LY8].alt": {
+      "source": "Medtronic",
+      "de": "Medtronic"
+    },
+    "data.logos[@0UEJFW].alt": {
+      "source": "ADP Paris Aéroports",
+      "de": "ADP Paris Flughäfen"
+    },
+    "data.logos[@V7hb2d].alt": {
+      "source": "Amazon",
+      "de": "Amazon"
+    },
+    "data.logos[@hyzhg9].alt": {
+      "source": "HTH Hermès",
+      "de": "HTH Hermès"
+    },
+    "data.logos[@k75LUe].alt": {
+      "source": "Thalys",
+      "de": "Thalys"
+    },
+    "data.logos[@fNCw1t].alt": {
+      "source": "SFTRF",
+      "de": "SFTRF"
+    },
+    "data.logos[@fOr8kU].alt": {
+      "source": "Procter & Gamble",
+      "de": "Procter & Gamble"
+    },
+    "data.logos[@1Jo08J].alt": {
+      "source": "Soitec",
+      "de": "Soitec"
+    },
+    "data.logos[@tNlRGk].alt": {
+      "source": "Biomérieux",
+      "de": "Biomérieux"
+    }
+  }
+}

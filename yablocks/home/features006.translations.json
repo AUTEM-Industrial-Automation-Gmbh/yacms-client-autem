@@ -1,0 +1,113 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "Rejoignez la communauté AUTEM",
+      "de": "Werden Sie Teil der AUTEM Community"
+    },
+    "data.title": {
+      "source": "Des pionniers qui innovent et modernisent l'industrie",
+      "de": "Pioniere, die die Industrie innovieren und modernisieren"
+    },
+    "data.cards[@O8IZE0].title": {
+      "source": "Notre communauté Youtube !",
+      "de": "Unsere YouTube-Community!"
+    },
+    "data.cards[@TW0Hys].title": {
+      "source": "LinkedIn AUTEM",
+      "de": "LinkedIn AUTEM"
+    },
+    "data.cards[@RaYFUL].title": {
+      "source": "Formation Udemy — Automates Siemens TIA Portal",
+      "de": "Udemy Kurs — Siemens TIA Portal SPS"
+    },
+    "data.cards[@cIZ9Bi].title": {
+      "source": "Blog Technique",
+      "de": "Technischer Blog"
+    },
+    "data.cards[@Roq4rC].title": {
+      "source": "Contactez-nous",
+      "de": "Kontaktieren Sie uns"
+    },
+    "data.cards[@O8IZE0].description": {
+      "source": "De nombreuses vidéos pour aller plus loin.",
+      "de": "Viele Videos, um tiefer einzutauchen."
+    },
+    "data.cards[@TW0Hys].description": {
+      "source": "Suivez notre actualité industrielle, nos projets et partages techniques",
+      "de": "Verfolgen Sie unsere Branchenneuigkeiten, Projekte und technischen Beiträge"
+    },
+    "data.cards[@RaYFUL].description": {
+      "source": "Cours en ligne noté 4.8/5 · Programmation automates Siemens en langage LADDER",
+      "de": "Online-Kurs mit 4.8/5 Sternen bewertet · Siemens SPS-Programmierung in LADDER-Sprache"
+    },
+    "data.cards[@cIZ9Bi].description": {
+      "source": "Articles sur l'automatisme, le SCADA, l'IIoT et les technologies industrielles",
+      "de": "Artikel über Automatisierung, SCADA, IIoT und industrielle Technologien"
+    },
+    "data.cards[@Roq4rC].description": {
+      "source": "Vos machines ont pris de l'âge ? Parlons-en !",
+      "de": "Ihre Maschinen sind in die Jahre gekommen? Sprechen wir darüber!"
+    },
+    "data.cards[@O8IZE0].image.alt": {
+      "source": "Portfolio références AUTEM clients",
+      "de": "AUTEM Kundenreferenzen Portfolio"
+    },
+    "data.cards[@TW0Hys].image.alt": {
+      "source": "AUTEM LinkedIn automatisme industriel",
+      "de": "AUTEM LinkedIn industrielle Automatisierung"
+    },
+    "data.cards[@RaYFUL].image.alt": {
+      "source": "Formation automatisme Siemens TIA Portal Udemy",
+      "de": "Siemens TIA Portal SPS-Automatisierungsschulung Udemy"
+    },
+    "data.cards[@cIZ9Bi].image.alt": {
+      "source": "Blog AUTEM automatisme SCADA",
+      "de": "AUTEM Blog Automatisierung SCADA"
+    },
+    "data.cards[@Roq4rC].image.alt": {
+      "source": "Contact AUTEM automaticien",
+      "de": "Kontakt AUTEM Automatisierungstechniker"
+    },
+    "data.cards[@O8IZE0].actions[@2faYff].text": {
+      "source": "Voir nos cas clients",
+      "de": "Unsere Kundenfälle ansehen"
+    },
+    "data.cards[@TW0Hys].actions[@0ZrTHl].text": {
+      "source": "Suivre",
+      "de": "Folgen"
+    },
+    "data.cards[@RaYFUL].actions[@K0g5Fs].text": {
+      "source": "Voir le cours",
+      "de": "Kurs ansehen"
+    },
+    "data.cards[@cIZ9Bi].actions[@gz3TXp].text": {
+      "source": "Lire",
+      "de": "Lesen"
+    },
+    "data.cards[@Roq4rC].actions[@h7uxg9].text": {
+      "source": "Nous écrire",
+      "de": "Uns schreiben"
+    },
+    "data.cards[@O8IZE0].actions[@2faYff].link": {
+      "source": "/cas-clients",
+      "de": "/kundenfaelle"
+    },
+    "data.cards[@TW0Hys].actions[@0ZrTHl].link": {
+      "source": "https://www.linkedin.com/company/autemautomation/",
+      "de": "https://www.linkedin.com/company/autemautomation/"
+    },
+    "data.cards[@RaYFUL].actions[@K0g5Fs].link": {
+      "source": "https://www.udemy.com/course/programmer-en-ladder-sur-automate-siemens/?referralCode=F931E4FEE42C6311EEE6",
+      "de": "https://www.udemy.com/course/programmer-en-ladder-sur-automate-siemens/?referralCode=F931E4FEE42C6311EEE6"
+    },
+    "data.cards[@cIZ9Bi].actions[@gz3TXp].link": {
+      "source": "/blog",
+      "de": "/blog"
+    },
+    "data.cards[@Roq4rC].actions[@h7uxg9].link": {
+      "source": "/contact",
+      "de": "/kontakt"
+    }
+  }
+}

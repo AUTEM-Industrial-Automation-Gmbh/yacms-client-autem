@@ -1,0 +1,157 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.items[@0JkskZ].overtitle": {
+      "source": "Machines Automatisées",
+      "de": "Automatisierte Maschinen"
+    },
+    "data.items[@bxNt5Y].overtitle": {
+      "source": "Logiciels de Pilotage",
+      "de": "Steuerungssoftware"
+    },
+    "data.items[@twrfDl].overtitle": {
+      "source": "Avis technique",
+      "de": "Technische Beratung"
+    },
+    "data.items[@0JkskZ].title": {
+      "source": "On rénove vos machines précieuses",
+      "de": "Wir modernisieren Ihre wertvollen Maschinen"
+    },
+    "data.items[@bxNt5Y].title": {
+      "source": "On mesure votre performance",
+      "de": "Wir messen Ihre Leistung"
+    },
+    "data.items[@twrfDl].title": {
+      "source": "On sécurise vos décisions techniques",
+      "de": "Wir sichern Ihre technischen Entscheidungen ab"
+    },
+    "data.items[@0JkskZ].description": {
+      "source": "Nous améliorons vos machines existantes, qu'il s'agisse des automates programmables, des ordinateurs de contrôle, des cartes électroniques, du câblage électrique, des axes motion. Votre machine repart pour un cycle, et vos équipes aussi. Car qui dit RETROfit dit RETROspective. La rénovation d'une machine est souvent une occasion de transmission générationnelle : relecture des process, transmission des savoir-faire avant le départ d'un vétéran.",
+      "de": "Wir verbessern Ihre bestehenden Maschinen, sei es bei speicherprogrammierbaren Steuerungen, Steuercomputern, elektronischen Karten, elektrischer Verkabelung oder Bewegungsachsen. Ihre Maschine geht in einen neuen Zyklus, und Ihre Teams auch. Denn RETROfit bedeutet RETROspektive. Die Modernisierung einer Maschine ist oft eine Gelegenheit zur generationenüübergreifenden Weitergabe: Überprüfung von Prozessen, Weitergabe von Know-how vor dem Ausscheiden eines erfahrenen Mitarbeiters."
+    },
+    "data.items[@bxNt5Y].description": {
+      "source": "L'essentiel de vos données machines dans un outil de pilotage simple. Nous remplaçons le suivi papier et les écrans IHM obsolètes par des logiciels de supervision SCADA modernes. Nous allions le meilleur de l'informatique moderne, aux standards industriels pour exploiter vos machines à tout moment, sur n'importe quelle plateforme.",
+      "de": "Die wesentlichen Maschinendaten in einem einfachen Steuerungstool. Wir ersetzen die papierbasierte Überwachung und veraltete HMI-Bildschirme durch moderne SCADA-Überwachungssoftware. Wir verbinden das Beste der modernen IT mit Industriestandards, um Ihre Maschinen jederzeit und auf jeder Plattform zu betreiben."
+    },
+    "data.items[@twrfDl].description": {
+      "source": "Vous cherchez des conseils neutres ne venant ni de vendeurs de machines, ni d'intégrateurs affiliés à un produit ? Chez Autem nous sommes des indépendants et des spécialistes agnostiques. Que ce soit pour un projet, une formation, ou un besoin de conseils, nous nous mettons dans la peau de vos équipes pour défendre les intérêts de votre usine auprès de vos interlocuteurs internes et externes.",
+      "de": "Suchen Sie neutrale Beratung, die weder von Maschinenverkäufern noch von produktgebundenen Integratoren stammt? Bei Autem sind wir unabhängige und agnostische Spezialisten. Ob für ein Projekt, eine Schulung oder eine Beratung – wir versetzen uns in Ihre Teams hinein, um die Interessen Ihrer Fabrik gegenüber Ihren internen und externen Ansprechpartnern zu vertreten."
+    },
+    "data.items[@0JkskZ].image.alt": {
+      "source": "Programmation automate industriel PLC",
+      "de": "Programmierung industrieller SPS-Steuerungen"
+    },
+    "data.items[@bxNt5Y].image.alt": {
+      "source": "Supervision SCADA Ignition industrielle",
+      "de": "Industrielle SCADA Ignition Überwachung"
+    },
+    "data.items[@twrfDl].image.alt": {
+      "source": "Digitalisation usine IIoT data industrielle",
+      "de": "Digitalisierung der Fabrik IIoT Industriedaten"
+    },
+    "data.items[@0JkskZ].checklist[@rTbYFU].text": {
+      "source": "Rétrofit Automation",
+      "de": "Retrofit Automatisierung"
+    },
+    "data.items[@0JkskZ].checklist[@0YJYqZ].text": {
+      "source": "Rénovation PC Industriel",
+      "de": "Modernisierung Industrie-PC"
+    },
+    "data.items[@0JkskZ].checklist[@ZwptuL].text": {
+      "source": "IoT, Réseaux, Communication",
+      "de": "IoT, Netzwerke, Kommunikation"
+    },
+    "data.items[@0JkskZ].checklist[@pMpYEU].text": {
+      "source": "Revamping électrique",
+      "de": "Elektrische Überholung"
+    },
+    "data.items[@bxNt5Y].checklist[@ymnJ6b].text": {
+      "source": "KPI de Production : MES, TRS, OEE",
+      "de": "Produktions-KPIs: MES, TRS, OEE"
+    },
+    "data.items[@bxNt5Y].checklist[@pEtbvw].text": {
+      "source": "Analyse Data, Pareto, VSM, ROI",
+      "de": "Datenanalyse, Pareto, VSM, ROI"
+    },
+    "data.items[@bxNt5Y].checklist[@IhuSPX].text": {
+      "source": "Supervision Scada IGNITION (Certifié Gold)",
+      "de": "SCADA IGNITION Überwachung (Gold-zertifiziert)"
+    },
+    "data.items[@bxNt5Y].checklist[@AQ5nLd].text": {
+      "source": "GTB et GMAO",
+      "de": "GLT und CMMS"
+    },
+    "data.items[@twrfDl].checklist[@CJ5idE].text": {
+      "source": "Architecture de Systèmes",
+      "de": "Systemarchitektur"
+    },
+    "data.items[@twrfDl].checklist[@uXUWIb].text": {
+      "source": "Assistance de projets stratégiques",
+      "de": "Unterstützung bei strategischen Projekten"
+    },
+    "data.items[@twrfDl].checklist[@x4bQXk].text": {
+      "source": "Cycle de Vie et Gestion de l'Obsolescence",
+      "de": "Lebenszyklus- und Obsoleszenzmanagement"
+    },
+    "data.items[@0JkskZ].cta.text": {
+      "source": "En savoir plus",
+      "de": "Mehr erfahren"
+    },
+    "data.items[@bxNt5Y].cta.text": {
+      "source": "Découvrir nos solutions",
+      "de": "Unsere Lösungen entdecken"
+    },
+    "data.items[@twrfDl].cta.text": {
+      "source": "Découvrir",
+      "de": "Entdecken"
+    },
+    "data.items[@0JkskZ].testimonial.quote": {
+      "source": "Modernisation du Tri Bagage Est (TBE) Terminal 2E - Modification d'un convoyeur à bascule - Programmation d'un portique de lecture pour la traçabilité des bagages en classe Sky Priority",
+      "de": "Modernisierung der Gepäcksortierung Ost (TBE) Terminal 2E - Umbau eines Kippförderers - Programmierung eines Lesetor für die Rückverfolgbarkeit von Gepäck der Sky Priority Klasse"
+    },
+    "data.items[@bxNt5Y].testimonial.quote": {
+      "source": "SCADA BMS Building Management System / GTC Gestion Technique Centralée pour le VIC Verkor Innovation Center - Usine de prototypage et fabrication de batteries électriques",
+      "de": "SCADA BMS Gebäudeleitsystem / GLT Zentrale technische Steuerung für das VIC Verkor Innovation Center - Prototypen- und Fertigungsanlage für elektrische Batterien"
+    },
+    "data.items[@twrfDl].testimonial.quote": {
+      "source": "Centre de Tri Logistique - Automatisation du suivi des défauts machine et interventions techniciens",
+      "de": "Logistik-Sortierzentrum - Automatisierung der Überwachung von Maschinenfehlern und Technikereinsätzen"
+    },
+    "data.items[@0JkskZ].testimonial.authorName": {
+      "source": "Vanderlande",
+      "de": "Vanderlande"
+    },
+    "data.items[@bxNt5Y].testimonial.authorName": {
+      "source": "Département Digital",
+      "de": "Digitale Abteilung"
+    },
+    "data.items[@twrfDl].testimonial.authorName": {
+      "source": "Département Engineering",
+      "de": "Engineering-Abteilung"
+    },
+    "data.items[@0JkskZ].testimonial.authorRole": {
+      "source": "ADP Paris Aéroports",
+      "de": "ADP Paris Flughäfen"
+    },
+    "data.items[@bxNt5Y].testimonial.authorRole": {
+      "source": "Verkor",
+      "de": "Verkor"
+    },
+    "data.items[@twrfDl].testimonial.authorRole": {
+      "source": "COOP",
+      "de": "COOP"
+    },
+    "data.items[@0JkskZ].testimonial.companyLogo.alt": {
+      "source": "ADP Paris Aéroports",
+      "de": "ADP Paris Flughäfen"
+    },
+    "data.items[@bxNt5Y].testimonial.companyLogo.alt": {
+      "source": "Verkor",
+      "de": "Verkor"
+    },
+    "data.items[@twrfDl].testimonial.companyLogo.alt": {
+      "source": "COOP",
+      "de": "COOP"
+    }
+  }
+}

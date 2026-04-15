@@ -1,0 +1,53 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.badge": {
+      "source": "from Obsolete Machines to Smart Manufacturing",
+      "de": "from Obsolete Machines to Smart Manufacturing"
+    },
+    "data.title": {
+      "source": "Entre Vintage et Modernité.",
+      "de": "Zwischen Vintage und Moderne."
+    },
+    "data.subtitle": {
+      "source": "Anticipez l'obsolescence en Industrie. Rénovez les machines obsolètes, pour retrouver performance et autonomie. Sécurisez vos décisions techniques par des vétérans rôdés, et des spécialistes agnostiques.",
+      "de": "Antizipieren Sie die Obsoleszenz in der Industrie. Erneuern Sie veraltete Maschinen, um Leistung und Autonomie zurückzugewinnen. Sichern Sie Ihre technischen Entscheidungen durch erfahrene Veteranen und agnostische Spezialisten ab."
+    },
+    "data.backgroundImage.alt": {
+      "source": "Automatisme industriel SCADA et digitalisation des usines",
+      "de": "Industrielle Automatisierung SCADA und Digitalisierung von Fabriken"
+    },
+    "data.cta.primary.text": {
+      "source": "Une URGENCE technique ?",
+      "de": "Ein technischer NOTFALL?"
+    },
+    "data.cta.secondary.text": {
+      "source": "Voir nos cas clients",
+      "de": "Unsere Kundenreferenzen ansehen"
+    },
+    "data.logos.title": {
+      "source": "Ils nous font confiance",
+      "de": "Sie vertrauen uns"
+    },
+    "data.logos.items[@aNT3cK].alt": {
+      "source": "COOP",
+      "de": "COOP"
+    },
+    "data.logos.items[@YZ7iGL].alt": {
+      "source": "Medtronic",
+      "de": "Medtronic"
+    },
+    "data.logos.items[@EQGdMr].alt": {
+      "source": "ADP Paris Aéroports",
+      "de": "ADP Paris Flughäfen"
+    },
+    "data.logos.items[@80veS4].alt": {
+      "source": "Caterpillar",
+      "de": "Caterpillar"
+    },
+    "data.logos.items[@ccPA3X].alt": {
+      "source": "Verkor",
+      "de": "Verkor"
+    }
+  }
+}
