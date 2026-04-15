@@ -9,51 +9,63 @@
     "logos": [
       {
         "src": "/logos/coop.png",
-        "alt": "COOP"
+        "alt": "COOP",
+        "_tid": "14k96B"
       },
       {
         "src": "/logos/caterpillar.png",
-        "alt": "Caterpillar"
+        "alt": "Caterpillar",
+        "_tid": "UgMRUF"
       },
       {
         "src": "/logos/verkor.png",
-        "alt": "Verkor"
+        "alt": "Verkor",
+        "_tid": "kMNGno"
       },
       {
         "src": "/logos/medtronic.jpg",
-        "alt": "Medtronic"
+        "alt": "Medtronic",
+        "_tid": "VTIqoe"
       },
       {
         "src": "/logos/parisaeroportcdg.jpg",
-        "alt": "ADP Paris Aéroports"
+        "alt": "ADP Paris Aéroports",
+        "_tid": "efGIDe"
       },
       {
         "src": "/logos/amazon.png",
-        "alt": "Amazon"
+        "alt": "Amazon",
+        "_tid": "28Owiw"
       },
       {
         "src": "/logos/hermes.png",
-        "alt": "HTH Hermès"
+        "alt": "HTH Hermès",
+        "_tid": "88Q6YD"
       },
       {
         "src": "/logos/thalys.png",
-        "alt": "Thalys"
+        "alt": "Thalys",
+        "_tid": "9bdcbJ"
       },
       {
         "src": "/logos/sftrf.png",
-        "alt": "SFTRF"
+        "alt": "SFTRF",
+        "_tid": "d7Mle2"
       },
       {
         "src": "/logos/procter & gamble.png",
-        "alt": "Procter & Gamble"
+        "alt": "Procter & Gamble",
+        "_tid": "8iLpUX"
       },
       {
         "src": "/logos/soitec.jpg",
-        "alt": "Soitec"
+        "alt": "Soitec",
+        "_tid": "2uLJ99"
       },
       {
         "src": "/logos/biomerieux.png",
-        "alt": "Biomérieux"
+        "alt": "Biomérieux",
+        "_tid": "7fmddA"
       }
     ]
   }

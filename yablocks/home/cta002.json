@@ -8,15 +8,18 @@
     "benefits": [
       {
         "icon": "award",
-        "text": "Pérennité et Performance"
+        "text": "Pérennité et Performance",
+        "_tid": "pZu4Za"
       },
       {
         "icon": "shield",
-        "text": "Polyvalent et Agnostique"
+        "text": "Polyvalent et Agnostique",
+        "_tid": "de5k7I"
       },
       {
         "icon": "users",
-        "text": "Pragmatique et Humain"
+        "text": "Pragmatique et Humain",
+        "_tid": "49X5Mi"
       }
     ],
     "cta": {

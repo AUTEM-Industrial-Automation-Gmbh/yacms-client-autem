@@ -19,9 +19,11 @@
           {
             "text": "Voir nos cas clients",
             "link": "/cas-clients",
-            "variant": "secondary"
+            "variant": "secondary",
+            "_tid": "d9Qbfo"
           }
-        ]
+        ],
+        "_tid": "TuXq0Q"
       },
       {
         "title": "LinkedIn AUTEM",
@@ -35,9 +37,11 @@
           {
             "text": "Suivre",
             "link": "https://www.linkedin.com/company/autemautomation/",
-            "variant": "primary"
+            "variant": "primary",
+            "_tid": "03bAav"
           }
-        ]
+        ],
+        "_tid": "teLQlf"
       },
       {
         "title": "Formation Udemy — Automates Siemens TIA Portal",
@@ -51,9 +55,11 @@
           {
             "text": "Voir le cours",
             "link": "https://www.udemy.com/course/programmer-en-ladder-sur-automate-siemens/?referralCode=F931E4FEE42C6311EEE6",
-            "variant": "primary"
+            "variant": "primary",
+            "_tid": "QWGjeA"
           }
-        ]
+        ],
+        "_tid": "mQoiIF"
       },
       {
         "title": "Blog Technique",
@@ -67,9 +73,11 @@
           {
             "text": "Lire",
             "link": "/blog",
-            "variant": "secondary"
+            "variant": "secondary",
+            "_tid": "Wl165P"
           }
-        ]
+        ],
+        "_tid": "xGrrVy"
       },
       {
         "title": "Contactez-nous",
@@ -83,9 +91,11 @@
           {
             "text": "Nous écrire",
             "link": "/contact",
-            "variant": "secondary"
+            "variant": "secondary",
+            "_tid": "qJh1pE"
           }
-        ]
+        ],
+        "_tid": "yt2rcY"
       }
     ]
   }

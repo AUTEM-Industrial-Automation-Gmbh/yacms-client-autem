@@ -56,6 +56,54 @@
     "data.logos[@TMAVil].alt": {
       "source": "Biomérieux",
       "de": "Biomérieux"
+    },
+    "data.logos[@14k96B].alt": {
+      "source": "COOP",
+      "de": "COOP"
+    },
+    "data.logos[@UgMRUF].alt": {
+      "source": "Caterpillar",
+      "de": "Caterpillar"
+    },
+    "data.logos[@kMNGno].alt": {
+      "source": "Verkor",
+      "de": "Verkor"
+    },
+    "data.logos[@VTIqoe].alt": {
+      "source": "Medtronic",
+      "de": "Medtronic"
+    },
+    "data.logos[@efGIDe].alt": {
+      "source": "ADP Paris Aéroports",
+      "de": "ADP Paris Aéroports"
+    },
+    "data.logos[@28Owiw].alt": {
+      "source": "Amazon",
+      "de": "Amazon"
+    },
+    "data.logos[@88Q6YD].alt": {
+      "source": "HTH Hermès",
+      "de": "HTH Hermès"
+    },
+    "data.logos[@9bdcbJ].alt": {
+      "source": "Thalys",
+      "de": "Thalys"
+    },
+    "data.logos[@d7Mle2].alt": {
+      "source": "SFTRF",
+      "de": "SFTRF"
+    },
+    "data.logos[@8iLpUX].alt": {
+      "source": "Procter & Gamble",
+      "de": "Procter & Gamble"
+    },
+    "data.logos[@2uLJ99].alt": {
+      "source": "Soitec",
+      "de": "Soitec"
+    },
+    "data.logos[@7fmddA].alt": {
+      "source": "Biomérieux",
+      "de": "Biomérieux"
     }
   }
 }

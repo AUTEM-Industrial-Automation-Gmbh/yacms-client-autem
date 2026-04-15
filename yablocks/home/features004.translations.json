@@ -28,6 +28,26 @@
     "data.closing": {
       "source": "De quel côté serez-vous ?",
       "de": "Auf welcher Seite werden Sie stehen?"
+    },
+    "data.badges[@2Uws38].alt": {
+      "source": "",
+      "de": "World Class Manufacturing"
+    },
+    "data.paragraphs[@AKppm7].text": {
+      "source": "",
+      "de": "Kostendruck, Nachhaltigkeitsfragen, anspruchsvolle Standards: Das Operative bleibt im Zentrum der Rentabilität von Fabriken."
+    },
+    "data.paragraphs[@AxfqaA].text": {
+      "source": "",
+      "de": "Dennoch beeinträchtigen zu viele Industrieunternehmen ihre Wettbewerbsfähigkeit, indem sie Gefangene ständiger Ausfälle, unerreichbarer Lieferanten und kostspieliger Angebote bleiben. Wie kommt man aus dem Feuerwehr-Modus heraus? Wie hört man auf, nur auf Notfälle zu reagieren? Die Versuchung ist groß, alles auf Null zu setzen und komplett neu anzufangen."
+    },
+    "data.paragraphs[@dpLTo4].text": {
+      "source": "",
+      "de": "Bei AUTEM ist es unser Ziel, dass die Instandhaltung zu einem Rentabilitätsfaktor wird und nicht zu einer Belastung. Unsere Spezialisten modernisieren Ihre veralteten Maschinen, damit die Instandhaltung zu einem Rentabilitätsfaktor wird und nicht zu einer Belastung. Für Hardware- und Software-Produktionssysteme geht es nicht um die Digitalisierung 4.0, sondern vielmehr um einen proaktiven Übergang zu einem rentablen Lebenszyklus. Dies stärkt die Autonomie Ihrer Spezialisten und die Nachhaltigkeit Ihres technologischen Know-hows."
+    },
+    "data.paragraphs[@xvebK6].text": {
+      "source": "",
+      "de": "In der industriellen Instandhaltung werden zwei Arten von Industrieunternehmen koexistieren: diejenigen, die die Veralterung durch eine verantwortungsvolle Führung antizipieren, und diejenigen, die die Veralterung durch eine Budgetabhängigkeit erleiden."
     }
   }
 }
