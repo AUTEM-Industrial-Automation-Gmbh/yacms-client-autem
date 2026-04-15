@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Notre philosophie : spécialisation et double compétence",
+      "de": "Unsere Philosophie: Spezialisierung und doppelte Kompetenz"
+    },
+    "data.content": {
+      "source": "<p><strong>Dans la majorité des projets industriels, les difficultés ne sont pas technologiques — elles sont liées à une mauvaise intégration des couches.</strong> Un SCADA mal connecté à l'automate, un réseau mal segmenté, une formation absente au démarrage.</p><p>C'est de ce constat qu'est née la conviction d'AUTEM : la réussite d'un projet de digitalisation industrielle tient à une double compétence réelle en <strong>informatique et en automatisme</strong>, et à une présence technique continue de la conception à la mise en service.</p><p>Nous faisons le choix de la spécialisation plutôt que de la généralisme. Chaque technologie que nous proposons, nous la maîtrisons en profondeur — de la programmation Siemens S7 à Ignition SCADA, des réseaux Profinet aux protocoles OPC-UA et MQTT.</p><p><strong>Votre industrie évolue. Vos systèmes doivent suivre.</strong></p>",
+      "de": "<p><strong>In den meisten Industrieprojekten liegen die Schwierigkeiten nicht in der Technologie – sie hängen mit einer schlechten Integration der Schichten zusammen.</strong> Ein schlecht mit der Steuerung verbundener SCADA, ein schlecht segmentiertes Netzwerk, fehlende Schulungen beim Start.</p><p>Aus dieser Erkenntnis entstand die Überzeugung von AUTEM: Der Erfolg eines industriellen Digitalisierungsprojekts beruht auf einer echten doppelten Kompetenz in <strong>Informatik und Automatisierungstechnik</strong> sowie auf einer kontinuierlichen technischen Präsenz von der Konzeption bis zur Inbetriebnahme.</p><p>Wir entscheiden uns für Spezialisierung statt für Generalisierung. Jede Technologie, die wir anbieten, beherrschen wir in der Tiefe – von der Siemens S7-Programmierung bis zu Ignition SCADA, von Profinet-Netzwerken bis zu OPC-UA- und MQTT-Protokollen.</p><p><strong>Ihre Industrie entwickelt sich weiter. Ihre Systeme müssen Schritt halten.</strong></p>"
+    }
+  }
+}

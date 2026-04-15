@@ -8,17 +8,20 @@
       {
         "value": "10",
         "label": "Années d'expérience en automatisme industriel",
-        "suffix": "+"
+        "suffix": "+",
+        "_tid": "okcDCU"
       },
       {
         "value": "15",
         "label": "Clients accompagnés en France et à l'international",
-        "suffix": "+"
+        "suffix": "+",
+        "_tid": "nOq3Rx"
       },
       {
         "value": "8",
         "label": "Secteurs couverts : Luxe, Logistique, Chimie, Agroalimentaire...",
-        "suffix": ""
+        "suffix": "",
+        "_tid": "cxPOLu"
       }
     ]
   }

@@ -1,0 +1,45 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Notre Vision — AUTEM, Automatisme & Digitalisation",
+      "de": "Unsere Vision — AUTEM, Automatisierung & Digitalisierung",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Vision AUTEM : digitaliser vos usines pour gagner en performance et compétitivité. Notre approche technique, du terrain au pilotage.",
+      "de": "AUTEM Vision: Digitalisieren Sie Ihre Werke, um Leistung und Wettbewerbsfähigkeit zu steigern. Unser technischer Ansatz, vom Feld bis zur Steuerung.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "automatisme industriel",
+        "digitalisation usine",
+        "industrie 4.0",
+        "SCADA",
+        "MES",
+        "IoT industriel",
+        "AUTEM",
+        "vision",
+        "transformation digitale"
+      ],
+      "de": [
+        "industrielle Automatisierung",
+        "Werksdigitalisierung",
+        "Industrie 4.0",
+        "SCADA",
+        "MES",
+        "Industrielles IoT",
+        "AUTEM",
+        "Vision",
+        "digitale Transformation"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Notre vision de l'automatisme industriel",
+      "de": "AUTEM – Unsere Vision der industriellen Automatisierung",
+      "de:manual": true
+    }
+  }
+}

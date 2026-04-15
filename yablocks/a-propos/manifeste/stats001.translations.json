@@ -1,0 +1,41 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.stats[@okcDCU].value": {
+      "source": "10",
+      "de": "10"
+    },
+    "data.stats[@nOq3Rx].value": {
+      "source": "15",
+      "de": "15"
+    },
+    "data.stats[@cxPOLu].value": {
+      "source": "8",
+      "de": "8"
+    },
+    "data.stats[@okcDCU].label": {
+      "source": "Années d'expérience en automatisme industriel",
+      "de": "Jahre Erfahrung in der industriellen Automatisierung"
+    },
+    "data.stats[@nOq3Rx].label": {
+      "source": "Clients accompagnés en France et à l'international",
+      "de": "Begleitete Kunden in Frankreich und international"
+    },
+    "data.stats[@cxPOLu].label": {
+      "source": "Secteurs couverts : Luxe, Logistique, Chimie, Agroalimentaire...",
+      "de": "Abgedeckte Sektoren: Luxusgüter, Logistik, Chemie, Lebensmittel usw."
+    },
+    "data.stats[@okcDCU].suffix": {
+      "source": "+",
+      "de": ""
+    },
+    "data.stats[@nOq3Rx].suffix": {
+      "source": "+",
+      "de": ""
+    },
+    "data.stats[@cxPOLu].suffix": {
+      "source": "",
+      "de": ""
+    }
+  }
+}

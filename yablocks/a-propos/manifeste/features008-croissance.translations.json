@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "La performance industrielle repose sur une chaîne cohérente",
+      "de": "Industrielle Leistung basiert auf einer kohärenten Kette"
+    },
+    "data.content": {
+      "source": "<p><strong>La digitalisation d'une usine ne se résume pas à installer un logiciel.</strong> Elle repose sur une pyramide d'automatisation où chaque niveau est interdépendant.</p><p>Le terrain (capteurs, automates, actionneurs) alimente la supervision (SCADA, IHM), qui remonte les données vers le pilotage (MES, ERP, cloud). Chaque maillon compte.</p><p>Un automate mal configuré fausse vos KPI. Une supervision incomplète aveugle vos opérateurs. Un MES sans données fiables ne sert à rien.</p>",
+      "de": "<p><strong>Die Digitalisierung einer Fabrik ist nicht nur die Installation einer Software.</strong> Sie basiert auf einer Automatisierungspyramide, bei der jede Ebene voneinander abhängig ist.</p><p>Das Feld (Sensoren, Steuerungen, Aktoren) speist die Überwachung (SCADA, HMI), die die Daten zur Steuerung (MES, ERP, Cloud) weiterleitet. Jedes Glied zählt.</p><p>Eine falsch konfigurierte Steuerung verfälscht Ihre KPIs. Eine unvollständige Überwachung macht Ihre Bediener blind. Ein MES ohne zuverlässige Daten ist nutzlos.</p>"
+    },
+    "data.image.alt": {
+      "source": "Chaîne d'automatisation industrielle AUTEM",
+      "de": "AUTEM industrielle Automatisierungskette"
+    },
+    "data.caption": {
+      "source": "Si un seul niveau est défaillant, toute votre chaîne de performance en pâtit.",
+      "de": "Wenn eine Ebene ausfällt, leidet Ihre gesamte Leistungskette."
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "NOTRE VISION",
+      "de": "UNSERE VISION"
+    },
+    "data.title": {
+      "source": "L'usine du futur se pilote avec des données fiables et des systèmes robustes.",
+      "de": "Die Fabrik der Zukunft wird mit zuverlässigen Daten und robusten Systemen gesteuert."
+    },
+    "data.subtitle": {
+      "source": "Vous avez investi dans votre outil de production. Mais vos systèmes vieillissent, vos données sont éparpillées, et votre performance est difficile à mesurer en temps réel. AUTEM est là pour changer ça — du terrain à la supervision, de l'automate au cloud industriel.",
+      "de": "Sie haben in Ihre Produktionsanlagen investiert. Aber Ihre Systeme altern, Ihre Daten sind verstreut und Ihre Leistung ist schwer in Echtzeit zu messen. AUTEM ist hier, um das zu ändern – vom Feld bis zur Überwachung, von der Steuerung bis zur industriellen Cloud."
+    }
+  }
+}
