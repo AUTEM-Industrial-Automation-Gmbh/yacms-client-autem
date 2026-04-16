@@ -3,11 +3,13 @@
   "fields": {
     "data.overtitle": {
       "source": "Rejoignez la communauté AUTEM",
-      "de": "Werden Sie Teil der AUTEM-Community"
+      "de": "Werden Sie Teil der AUTEM-Community",
+      "en": "Join the AUTEM community"
     },
     "data.title": {
       "source": "Des pionniers qui innovent et modernisent l'industrie",
-      "de": "Pioniere, die die Industrie innovieren und modernisieren"
+      "de": "Pioniere, die die Industrie innovieren und modernisieren",
+      "en": "Pioneers innovating and modernizing the industry"
     },
     "data.cards[@ItTbLV].title": {
       "source": "Notre communauté Youtube !",
@@ -111,103 +113,128 @@
     },
     "data.cards[@TuXq0Q].title": {
       "source": "Notre communauté Youtube !",
-      "de": "Unsere Youtube-Community!"
+      "de": "Unsere Youtube-Community!",
+      "en": "Our YouTube community!"
     },
     "data.cards[@teLQlf].title": {
       "source": "LinkedIn AUTEM",
-      "de": "LinkedIn AUTEM"
+      "de": "LinkedIn AUTEM",
+      "en": "AUTEM LinkedIn"
     },
     "data.cards[@mQoiIF].title": {
       "source": "Formation Udemy — Automates Siemens TIA Portal",
-      "de": "Udemy-Kurs — Siemens TIA Portal SPS"
+      "de": "Udemy-Kurs — Siemens TIA Portal SPS",
+      "en": "Udemy Training — Siemens TIA Portal PLCs"
     },
     "data.cards[@xGrrVy].title": {
       "source": "Blog Technique",
-      "de": "Technik-Blog"
+      "de": "Technik-Blog",
+      "en": "Technical Blog"
     },
     "data.cards[@yt2rcY].title": {
       "source": "Contactez-nous",
-      "de": "Kontaktieren Sie uns"
+      "de": "Kontaktieren Sie uns",
+      "en": "Contact Us"
     },
     "data.cards[@TuXq0Q].description": {
       "source": "De nombreuses vidéos pour aller plus loin.",
-      "de": "Viele Videos, um tiefer in die Materie einzutauchen."
+      "de": "Viele Videos, um tiefer in die Materie einzutauchen.",
+      "en": "Many videos to go further."
     },
     "data.cards[@teLQlf].description": {
       "source": "Suivez notre actualité industrielle, nos projets et partages techniques",
-      "de": "Folgen Sie unseren industriellen Neuigkeiten, Projekten und technischen Beiträgen"
+      "de": "Folgen Sie unseren industriellen Neuigkeiten, Projekten und technischen Beiträgen",
+      "en": "Follow our industrial news, projects, and technical sharing"
     },
     "data.cards[@mQoiIF].description": {
       "source": "Cours en ligne noté 4.8/5 · Programmation automates Siemens en langage LADDER",
-      "de": "Online-Kurs mit 4,8/5 Sternen · SPS-Programmierung Siemens in LADDER"
+      "de": "Online-Kurs mit 4,8/5 Sternen · SPS-Programmierung Siemens in LADDER",
+      "en": "Online course rated 4.8/5 · Programming Siemens PLCs in LADDER language"
     },
     "data.cards[@xGrrVy].description": {
       "source": "Articles sur l'automatisme, le SCADA, l'IIoT et les technologies industrielles",
-      "de": "Artikel über Automatisierung, SCADA, IIoT und industrielle Technologien"
+      "de": "Artikel über Automatisierung, SCADA, IIoT und industrielle Technologien",
+      "en": "Articles on automation, SCADA, IIoT, and industrial technologies"
     },
     "data.cards[@yt2rcY].description": {
       "source": "Vos machines ont pris de l'âge ? Parlons-en !",
-      "de": "Sind Ihre Maschinen in die Jahre gekommen? Lassen Sie uns darüber sprechen!"
+      "de": "Sind Ihre Maschinen in die Jahre gekommen? Lassen Sie uns darüber sprechen!",
+      "en": "Your machines are getting old? Let's talk about it!"
     },
     "data.cards[@TuXq0Q].image.alt": {
       "source": "Portfolio références AUTEM clients",
-      "de": "Portfolio Referenzen AUTEM Kunden"
+      "de": "Portfolio Referenzen AUTEM Kunden",
+      "en": "AUTEM client references portfolio"
     },
     "data.cards[@teLQlf].image.alt": {
       "source": "AUTEM LinkedIn automatisme industriel",
-      "de": "AUTEM LinkedIn industrielle Automatisierung"
+      "de": "AUTEM LinkedIn industrielle Automatisierung",
+      "en": "AUTEM LinkedIn industrial automation"
     },
     "data.cards[@mQoiIF].image.alt": {
       "source": "Formation automatisme Siemens TIA Portal Udemy",
-      "de": "Siemens TIA Portal Automatisierungskurs Udemy"
+      "de": "Siemens TIA Portal Automatisierungskurs Udemy",
+      "en": "Siemens TIA Portal automation training Udemy"
     },
     "data.cards[@xGrrVy].image.alt": {
       "source": "Blog AUTEM automatisme SCADA",
-      "de": "AUTEM Blog Automatisierung SCADA"
+      "de": "AUTEM Blog Automatisierung SCADA",
+      "en": "AUTEM Blog automation SCADA"
     },
     "data.cards[@yt2rcY].image.alt": {
       "source": "Contact AUTEM automaticien",
-      "de": "Kontakt AUTEM Automatisierungstechniker"
+      "de": "Kontakt AUTEM Automatisierungstechniker",
+      "en": "AUTEM automatician contact"
     },
     "data.cards[@TuXq0Q].actions[@d9Qbfo].text": {
       "source": "Voir nos cas clients",
-      "de": "Unsere Kundenfälle sehen"
+      "de": "Unsere Kundenfälle sehen",
+      "en": "See our client cases"
     },
     "data.cards[@teLQlf].actions[@03bAav].text": {
       "source": "Suivre",
-      "de": "Folgen"
+      "de": "Folgen",
+      "en": "Follow"
     },
     "data.cards[@mQoiIF].actions[@QWGjeA].text": {
       "source": "Voir le cours",
-      "de": "Zum Kurs"
+      "de": "Zum Kurs",
+      "en": "View the course"
     },
     "data.cards[@xGrrVy].actions[@Wl165P].text": {
       "source": "Lire",
-      "de": "Lesen"
+      "de": "Lesen",
+      "en": "Read"
     },
     "data.cards[@yt2rcY].actions[@qJh1pE].text": {
       "source": "Nous écrire",
-      "de": "Schreiben Sie uns"
+      "de": "Schreiben Sie uns",
+      "en": "Write to us"
     },
     "data.cards[@TuXq0Q].actions[@d9Qbfo].link": {
       "source": "/cas-clients",
-      "de": "/cas-clients"
+      "de": "/cas-clients",
+      "en": "/cas-clients"
     },
     "data.cards[@teLQlf].actions[@03bAav].link": {
       "source": "https://www.linkedin.com/company/autemautomation/",
-      "de": "https://www.linkedin.com/company/autemautomation/"
+      "de": "https://www.linkedin.com/company/autemautomation/",
+      "en": "https://www.linkedin.com/company/autemautomation/"
     },
     "data.cards[@mQoiIF].actions[@QWGjeA].link": {
       "source": "https://www.udemy.com/course/programmer-en-ladder-sur-automate-siemens/?referralCode=F931E4FEE42C6311EEE6",
-      "de": "https://www.udemy.com/course/programmer-en-ladder-sur-automate-siemens/?referralCode=F931E4FEE42C6311EEE6"
+      "de": "https://www.udemy.com/course/programmer-en-ladder-sur-automate-siemens/?referralCode=F931E4FEE42C6311EEE6",
+      "en": "https://www.udemy.com/course/programmer-en-ladder-sur-automate-siemens/?referralCode=F931E4FEE42C6311EEE6"
     },
     "data.cards[@xGrrVy].actions[@Wl165P].link": {
       "source": "/blog",
-      "de": "/blog"
+      "de": "/blog",
+      "en": "/blog"
     },
     "data.cards[@yt2rcY].actions[@qJh1pE].link": {
       "source": "/contact",
-      "de": "/contact"
+      "de": "/contact",
+      "en": "/contact"
     }
   }
 }

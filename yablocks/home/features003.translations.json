@@ -1,0 +1,157 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.items[@3O082j].overtitle": {
+      "source": "Machines Automatisées",
+      "en": "Automated Machines"
+    },
+    "data.items[@Xp3fSh].overtitle": {
+      "source": "Logiciels de Pilotage",
+      "en": "Control Software"
+    },
+    "data.items[@yPMra9].overtitle": {
+      "source": "Avis technique",
+      "en": "Technical Advice"
+    },
+    "data.items[@3O082j].title": {
+      "source": "On rénove vos machines précieuses",
+      "en": "We renovate your valuable machines"
+    },
+    "data.items[@Xp3fSh].title": {
+      "source": "On mesure votre performance",
+      "en": "We measure your performance"
+    },
+    "data.items[@yPMra9].title": {
+      "source": "On sécurise vos décisions techniques",
+      "en": "We secure your technical decisions"
+    },
+    "data.items[@3O082j].description": {
+      "source": "Nous améliorons vos machines existantes, qu'il s'agisse des automates programmables, des ordinateurs de contrôle, des cartes électroniques, du câblage électrique, des axes motion. Votre machine repart pour un cycle, et vos équipes aussi. Car qui dit RETROfit dit RETROspective. La rénovation d'une machine est souvent une occasion de transmission générationnelle : relecture des process, transmission des savoir-faire avant le départ d'un vétéran.",
+      "en": "We improve your existing machines, whether they are programmable logic controllers, control computers, electronic boards, electrical wiring, or motion axes. Your machine starts a new cycle, and so do your teams. Because RETROfit implies RETROspection. Renovating a machine is often an opportunity for generational transfer: reviewing processes, passing on know-how before a veteran retires."
+    },
+    "data.items[@Xp3fSh].description": {
+      "source": "L'essentiel de vos données machines dans un outil de pilotage simple. Nous remplaçons le suivi papier et les écrans IHM obsolètes par des logiciels de supervision SCADA modernes. Nous allions le meilleur de l'informatique moderne, aux standards industriels pour exploiter vos machines à tout moment, sur n'importe quelle plateforme.",
+      "en": "The essential of your machine data in a simple control tool. We replace paper tracking and obsolete HMI screens with modern SCADA supervision software. We combine the best of modern IT with industrial standards to operate your machines at any time, on any platform."
+    },
+    "data.items[@yPMra9].description": {
+      "source": "Vous cherchez des conseils neutres ne venant ni de vendeurs de machines, ni d'intégrateurs affiliés à un produit ? Chez Autem nous sommes des indépendants et des spécialistes agnostiques. Que ce soit pour un projet, une formation, ou un besoin de conseils, nous nous mettons dans la peau de vos équipes pour défendre les intérêts de votre usine auprès de vos interlocuteurs internes et externes.",
+      "en": "Are you looking for neutral advice that comes neither from machine vendors nor from product-affiliated integrators? At Autem, we are independent and agnostic specialists. Whether for a project, training, or advice, we put ourselves in your teams' shoes to defend your factory's interests with your internal and external stakeholders."
+    },
+    "data.items[@3O082j].image.alt": {
+      "source": "Programmation automate industriel PLC",
+      "en": "Industrial PLC automation programming"
+    },
+    "data.items[@Xp3fSh].image.alt": {
+      "source": "Supervision SCADA Ignition industrielle",
+      "en": "Industrial Ignition SCADA supervision"
+    },
+    "data.items[@yPMra9].image.alt": {
+      "source": "Digitalisation usine IIoT data industrielle",
+      "en": "Factory digitalization IIoT industrial data"
+    },
+    "data.items[@3O082j].checklist[@i5EuEg].text": {
+      "source": "Rétrofit Automation",
+      "en": "Automation Retrofit"
+    },
+    "data.items[@3O082j].checklist[@TkfRz0].text": {
+      "source": "Rénovation PC Industriel",
+      "en": "Industrial PC Renovation"
+    },
+    "data.items[@3O082j].checklist[@lWKRmr].text": {
+      "source": "IoT, Réseaux, Communication",
+      "en": "IoT, Networks, Communication"
+    },
+    "data.items[@3O082j].checklist[@wbsJmv].text": {
+      "source": "Revamping électrique",
+      "en": "Electrical Revamping"
+    },
+    "data.items[@Xp3fSh].checklist[@qZVbm9].text": {
+      "source": "KPI de Production : MES, TRS, OEE",
+      "en": "Production KPIs: MES, TRS, OEE"
+    },
+    "data.items[@Xp3fSh].checklist[@hZx4sd].text": {
+      "source": "Analyse Data, Pareto, VSM, ROI",
+      "en": "Data Analysis, Pareto, VSM, ROI"
+    },
+    "data.items[@Xp3fSh].checklist[@jnNoa7].text": {
+      "source": "Supervision Scada IGNITION (Certifié Gold)",
+      "en": "IGNITION Scada Supervision (Gold Certified)"
+    },
+    "data.items[@Xp3fSh].checklist[@nuCamY].text": {
+      "source": "GTB et GMAO",
+      "en": "BMS and CMMS"
+    },
+    "data.items[@yPMra9].checklist[@GD48fx].text": {
+      "source": "Architecture de Systèmes",
+      "en": "Systems Architecture"
+    },
+    "data.items[@yPMra9].checklist[@HzU7gG].text": {
+      "source": "Assistance de projets stratégiques",
+      "en": "Strategic Project Support"
+    },
+    "data.items[@yPMra9].checklist[@ALSugg].text": {
+      "source": "Cycle de Vie et Gestion de l'Obsolescence",
+      "en": "Lifecycle and Obsolescence Management"
+    },
+    "data.items[@3O082j].cta.text": {
+      "source": "En savoir plus",
+      "en": "Learn more"
+    },
+    "data.items[@Xp3fSh].cta.text": {
+      "source": "Découvrir nos solutions",
+      "en": "Discover our solutions"
+    },
+    "data.items[@yPMra9].cta.text": {
+      "source": "Découvrir",
+      "en": "Discover"
+    },
+    "data.items[@3O082j].testimonial.quote": {
+      "source": "Modernisation du Tri Bagage Est (TBE) Terminal 2E - Modification d'un convoyeur à bascule - Programmation d'un portique de lecture pour la traçabilité des bagages en classe Sky Priority",
+      "en": "Modernization of the East Baggage Sorting (EBS) Terminal 2E - Modification of a tilt conveyor - Programming of a reading portal for baggage traceability in Sky Priority class"
+    },
+    "data.items[@Xp3fSh].testimonial.quote": {
+      "source": "SCADA BMS Building Management System / GTC Gestion Technique Centralée pour le VIC Verkor Innovation Center - Usine de prototypage et fabrication de batteries électriques",
+      "en": "SCADA BMS Building Management System / GTC Centralized Technical Management for the VIC Verkor Innovation Center - Electric battery prototyping and manufacturing plant"
+    },
+    "data.items[@yPMra9].testimonial.quote": {
+      "source": "Centre de Tri Logistique - Automatisation du suivi des défauts machine et interventions techniciens",
+      "en": "Logistics Sorting Center - Automation of machine defect tracking and technician interventions"
+    },
+    "data.items[@3O082j].testimonial.authorName": {
+      "source": "Vanderlande",
+      "en": "Vanderlande"
+    },
+    "data.items[@Xp3fSh].testimonial.authorName": {
+      "source": "Département Digital",
+      "en": "Digital Department"
+    },
+    "data.items[@yPMra9].testimonial.authorName": {
+      "source": "Département Engineering",
+      "en": "Engineering Department"
+    },
+    "data.items[@3O082j].testimonial.authorRole": {
+      "source": "ADP Paris Aéroports",
+      "en": "ADP Paris Airports"
+    },
+    "data.items[@Xp3fSh].testimonial.authorRole": {
+      "source": "Verkor",
+      "en": "Verkor"
+    },
+    "data.items[@yPMra9].testimonial.authorRole": {
+      "source": "COOP",
+      "en": "COOP"
+    },
+    "data.items[@3O082j].testimonial.companyLogo.alt": {
+      "source": "ADP Paris Aéroports",
+      "en": "ADP Paris Airports"
+    },
+    "data.items[@Xp3fSh].testimonial.companyLogo.alt": {
+      "source": "Verkor",
+      "en": "Verkor"
+    },
+    "data.items[@yPMra9].testimonial.companyLogo.alt": {
+      "source": "COOP",
+      "en": "COOP"
+    }
+  }
+}

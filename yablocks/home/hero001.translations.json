@@ -3,31 +3,38 @@
   "fields": {
     "data.badge": {
       "source": "from Obsolete Machines to Smart Manufacturing",
-      "de": "von veralteten Maschinen zu Smart Manufacturing"
+      "de": "von veralteten Maschinen zu Smart Manufacturing",
+      "en": "From Obsolete Machines to Smart Manufacturing"
     },
     "data.title": {
       "source": "Entre Vintage et Modernité.",
-      "de": "Zwischen Vintage und Moderne."
+      "de": "Zwischen Vintage und Moderne.",
+      "en": "Between Vintage and Modernity."
     },
     "data.subtitle": {
       "source": "Anticipez l'obsolescence en Industrie. Rénovez les machines obsolètes, pour retrouver performance et autonomie. Sécurisez vos décisions techniques par des vétérans rôdés, et des spécialistes agnostiques.",
-      "de": "Vermeiden Sie Obsoleszenz in der Industrie. Renovieren Sie veraltete Maschinen, um Leistung und Autonomie zurückzugewinnen. Sichern Sie Ihre technischen Entscheidungen durch erfahrene Veteranen und agnostische Spezialisten ab."
+      "de": "Vermeiden Sie Obsoleszenz in der Industrie. Renovieren Sie veraltete Maschinen, um Leistung und Autonomie zurückzugewinnen. Sichern Sie Ihre technischen Entscheidungen durch erfahrene Veteranen und agnostische Spezialisten ab.",
+      "en": "Anticipate obsolescence in Industry. Refurbish obsolete machines to regain performance and autonomy. Secure your technical decisions with seasoned veterans and agnostic specialists."
     },
     "data.backgroundImage.alt": {
       "source": "Automatisme industriel SCADA et digitalisation des usines",
-      "de": "Industrielle Automatisierung SCADA und Digitalisierung von Fabriken"
+      "de": "Industrielle Automatisierung SCADA und Digitalisierung von Fabriken",
+      "en": "Industrial automation SCADA and factory digitalization"
     },
     "data.cta.primary.text": {
       "source": "Une URGENCE technique ?",
-      "de": "Ein technischer NOTFALL?"
+      "de": "Ein technischer NOTFALL?",
+      "en": "A technical EMERGENCY?"
     },
     "data.cta.secondary.text": {
       "source": "Voir nos cas clients",
-      "de": "Unsere Kundenbeispiele ansehen"
+      "de": "Unsere Kundenbeispiele ansehen",
+      "en": "See our client cases"
     },
     "data.logos.title": {
       "source": "Ils nous font confiance",
-      "de": "Das Vertrauen unserer Kunden"
+      "de": "Das Vertrauen unserer Kunden",
+      "en": "They trust us"
     },
     "data.logos.items[@WQfOFW].alt": {
       "source": "COOP",
@@ -51,23 +58,28 @@
     },
     "data.logos.items[@c0Ja61].alt": {
       "source": "COOP",
-      "de": "COOP"
+      "de": "COOP",
+      "en": "COOP"
     },
     "data.logos.items[@3dt1OE].alt": {
       "source": "Medtronic",
-      "de": "Medtronic"
+      "de": "Medtronic",
+      "en": "Medtronic"
     },
     "data.logos.items[@BNmdfV].alt": {
       "source": "ADP Paris Aéroports",
-      "de": "ADP Paris Aéroports"
+      "de": "ADP Paris Aéroports",
+      "en": "ADP Paris Airports"
     },
     "data.logos.items[@vHHSti].alt": {
       "source": "Caterpillar",
-      "de": "Caterpillar"
+      "de": "Caterpillar",
+      "en": "Caterpillar"
     },
     "data.logos.items[@qGjTpe].alt": {
       "source": "Verkor",
-      "de": "Verkor"
+      "de": "Verkor",
+      "en": "Verkor"
     }
   }
 }

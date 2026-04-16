@@ -3,11 +3,13 @@
   "fields": {
     "data.title": {
       "source": "+6 ans d'impact auprès de 13+ entreprises industrielles",
-      "de": "+6 Jahre Wirkung bei über 13 Industrieunternehmen"
+      "de": "+6 Jahre Wirkung bei über 13 Industrieunternehmen",
+      "en": "+6 years of impact with 13+ industrial companies"
     },
     "data.subtitle": {
       "source": "Ils ont pérennisé leurs usines avec Autem",
-      "de": "Sie haben ihre Werke mit Autem zukunftssicher gemacht"
+      "de": "Sie haben ihre Werke mit Autem zukunftssicher gemacht",
+      "en": "They have sustained their factories with Autem"
     },
     "data.logos[@SNaDZ4].alt": {
       "source": "COOP",
@@ -59,51 +61,63 @@
     },
     "data.logos[@14k96B].alt": {
       "source": "COOP",
-      "de": "COOP"
+      "de": "COOP",
+      "en": "COOP"
     },
     "data.logos[@UgMRUF].alt": {
       "source": "Caterpillar",
-      "de": "Caterpillar"
+      "de": "Caterpillar",
+      "en": "Caterpillar"
     },
     "data.logos[@kMNGno].alt": {
       "source": "Verkor",
-      "de": "Verkor"
+      "de": "Verkor",
+      "en": "Verkor"
     },
     "data.logos[@VTIqoe].alt": {
       "source": "Medtronic",
-      "de": "Medtronic"
+      "de": "Medtronic",
+      "en": "Medtronic"
     },
     "data.logos[@efGIDe].alt": {
       "source": "ADP Paris Aéroports",
-      "de": "ADP Paris Aéroports"
+      "de": "ADP Paris Aéroports",
+      "en": "ADP Paris Airports"
     },
     "data.logos[@28Owiw].alt": {
       "source": "Amazon",
-      "de": "Amazon"
+      "de": "Amazon",
+      "en": "Amazon"
     },
     "data.logos[@88Q6YD].alt": {
       "source": "HTH Hermès",
-      "de": "HTH Hermès"
+      "de": "HTH Hermès",
+      "en": "HTH Hermès"
     },
     "data.logos[@9bdcbJ].alt": {
       "source": "Thalys",
-      "de": "Thalys"
+      "de": "Thalys",
+      "en": "Thalys"
     },
     "data.logos[@d7Mle2].alt": {
       "source": "SFTRF",
-      "de": "SFTRF"
+      "de": "SFTRF",
+      "en": "SFTRF"
     },
     "data.logos[@8iLpUX].alt": {
       "source": "Procter & Gamble",
-      "de": "Procter & Gamble"
+      "de": "Procter & Gamble",
+      "en": "Procter & Gamble"
     },
     "data.logos[@2uLJ99].alt": {
       "source": "Soitec",
-      "de": "Soitec"
+      "de": "Soitec",
+      "en": "Soitec"
     },
     "data.logos[@7fmddA].alt": {
       "source": "Biomérieux",
-      "de": "Biomérieux"
+      "de": "Biomérieux",
+      "en": "Biomérieux"
     }
   }
 }
