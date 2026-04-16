@@ -223,5 +223,6 @@
     "/assets/wincc_ecran.png",
     "/assets/wireshark.png",
     "/assets/zone-atex.jpg"
-  ]
+  ],
+  "banners": []
 }
