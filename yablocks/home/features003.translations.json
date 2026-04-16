@@ -3,155 +3,193 @@
   "fields": {
     "data.items[@3O082j].overtitle": {
       "source": "Machines Automatisées",
-      "en": "Automated Machines"
+      "en": "Automated Machines",
+      "de": "Automatisierte Maschinen"
     },
     "data.items[@Xp3fSh].overtitle": {
       "source": "Logiciels de Pilotage",
-      "en": "Control Software"
+      "en": "Control Software",
+      "de": "Steuerungssoftware"
     },
     "data.items[@yPMra9].overtitle": {
       "source": "Avis technique",
-      "en": "Technical Advice"
+      "en": "Technical Advice",
+      "de": "Technisches Gutachten"
     },
     "data.items[@3O082j].title": {
       "source": "On rénove vos machines précieuses",
-      "en": "We renovate your valuable machines"
+      "en": "We renovate your valuable machines",
+      "de": "Wir überholen Ihre wertvollen Maschinen"
     },
     "data.items[@Xp3fSh].title": {
       "source": "On mesure votre performance",
-      "en": "We measure your performance"
+      "en": "We measure your performance",
+      "de": "Wir messen Ihre Leistung"
     },
     "data.items[@yPMra9].title": {
       "source": "On sécurise vos décisions techniques",
-      "en": "We secure your technical decisions"
+      "en": "We secure your technical decisions",
+      "de": "Wir sichern Ihre technischen Entscheidungen"
     },
     "data.items[@3O082j].description": {
       "source": "Nous améliorons vos machines existantes, qu'il s'agisse des automates programmables, des ordinateurs de contrôle, des cartes électroniques, du câblage électrique, des axes motion. Votre machine repart pour un cycle, et vos équipes aussi. Car qui dit RETROfit dit RETROspective. La rénovation d'une machine est souvent une occasion de transmission générationnelle : relecture des process, transmission des savoir-faire avant le départ d'un vétéran.",
-      "en": "We improve your existing machines, whether they are programmable logic controllers, control computers, electronic boards, electrical wiring, or motion axes. Your machine starts a new cycle, and so do your teams. Because RETROfit implies RETROspection. Renovating a machine is often an opportunity for generational transfer: reviewing processes, passing on know-how before a veteran retires."
+      "en": "We improve your existing machines, whether they are programmable logic controllers, control computers, electronic boards, electrical wiring, or motion axes. Your machine starts a new cycle, and so do your teams. Because RETROfit implies RETROspection. Renovating a machine is often an opportunity for generational transfer: reviewing processes, passing on know-how before a veteran retires.",
+      "de": "Wir verbessern Ihre bestehenden Maschinen, sei es SPS-Steuerungen, Kontrollcomputer, elektronische Platinen, elektrische Verkabelung oder Motion-Achsen. Ihre Maschine startet in einen neuen Zyklus, und Ihre Teams auch. Denn RETROfit bedeutet auch RETROspektive. Die Überholung einer Maschine ist oft eine Gelegenheit für den Generationenwechsel: Überprüfung der Prozesse, Weitergabe von Know-how vor dem Ausscheiden eines langjährigen Mitarbeiters."
     },
     "data.items[@Xp3fSh].description": {
       "source": "L'essentiel de vos données machines dans un outil de pilotage simple. Nous remplaçons le suivi papier et les écrans IHM obsolètes par des logiciels de supervision SCADA modernes. Nous allions le meilleur de l'informatique moderne, aux standards industriels pour exploiter vos machines à tout moment, sur n'importe quelle plateforme.",
-      "en": "The essential of your machine data in a simple control tool. We replace paper tracking and obsolete HMI screens with modern SCADA supervision software. We combine the best of modern IT with industrial standards to operate your machines at any time, on any platform."
+      "en": "The essential of your machine data in a simple control tool. We replace paper tracking and obsolete HMI screens with modern SCADA supervision software. We combine the best of modern IT with industrial standards to operate your machines at any time, on any platform.",
+      "de": "Die wichtigsten Daten Ihrer Maschinen in einem einfachen Steuerungs-Tool. Wir ersetzen die papierbasierte Nachverfolgung und veraltete HMI-Bildschirme durch moderne SCADA-Überwachungssoftware. Wir kombinieren das Beste aus moderner IT mit Industriestandards, um Ihre Maschinen jederzeit und auf jeder Plattform nutzen zu können."
     },
     "data.items[@yPMra9].description": {
       "source": "Vous cherchez des conseils neutres ne venant ni de vendeurs de machines, ni d'intégrateurs affiliés à un produit ? Chez Autem nous sommes des indépendants et des spécialistes agnostiques. Que ce soit pour un projet, une formation, ou un besoin de conseils, nous nous mettons dans la peau de vos équipes pour défendre les intérêts de votre usine auprès de vos interlocuteurs internes et externes.",
-      "en": "Are you looking for neutral advice that comes neither from machine vendors nor from product-affiliated integrators? At Autem, we are independent and agnostic specialists. Whether for a project, training, or advice, we put ourselves in your teams' shoes to defend your factory's interests with your internal and external stakeholders."
+      "en": "Are you looking for neutral advice that comes neither from machine vendors nor from product-affiliated integrators? At Autem, we are independent and agnostic specialists. Whether for a project, training, or advice, we put ourselves in your teams' shoes to defend your factory's interests with your internal and external stakeholders.",
+      "de": "Sie suchen neutrale Beratung, die weder von Maschinenverkäufern noch von produktgebundenen Integratoren stammt? Bei Autem sind wir unabhängig und agnostische Spezialisten. Ob für ein Projekt, eine Schulung oder Beratungsbedarf – wir versetzen uns in Ihre Teams hinein, um die Interessen Ihrer Fabrik gegenüber Ihren internen und externen Ansprechpartnern zu vertreten."
     },
     "data.items[@3O082j].image.alt": {
       "source": "Programmation automate industriel PLC",
-      "en": "Industrial PLC automation programming"
+      "en": "Industrial PLC automation programming",
+      "de": "Industrielle SPS-Automatisierungsprogrammierung"
     },
     "data.items[@Xp3fSh].image.alt": {
       "source": "Supervision SCADA Ignition industrielle",
-      "en": "Industrial Ignition SCADA supervision"
+      "en": "Industrial Ignition SCADA supervision",
+      "de": "Industrielle SCADA-Steuerungsüberwachung Ignition"
     },
     "data.items[@yPMra9].image.alt": {
       "source": "Digitalisation usine IIoT data industrielle",
-      "en": "Factory digitalization IIoT industrial data"
+      "en": "Factory digitalization IIoT industrial data",
+      "de": "Fabrikdigitalisierung IIoT Industriedaten"
     },
     "data.items[@3O082j].checklist[@i5EuEg].text": {
       "source": "Rétrofit Automation",
-      "en": "Automation Retrofit"
+      "en": "Automation Retrofit",
+      "de": "Retrofit-Automatisierung"
     },
     "data.items[@3O082j].checklist[@TkfRz0].text": {
       "source": "Rénovation PC Industriel",
-      "en": "Industrial PC Renovation"
+      "en": "Industrial PC Renovation",
+      "de": "Überholung von Industrie-PCs"
     },
     "data.items[@3O082j].checklist[@lWKRmr].text": {
       "source": "IoT, Réseaux, Communication",
-      "en": "IoT, Networks, Communication"
+      "en": "IoT, Networks, Communication",
+      "de": "IoT, Netzwerke, Kommunikation"
     },
     "data.items[@3O082j].checklist[@wbsJmv].text": {
       "source": "Revamping électrique",
-      "en": "Electrical Revamping"
+      "en": "Electrical Revamping",
+      "de": "Elektrisches Revamping"
     },
     "data.items[@Xp3fSh].checklist[@qZVbm9].text": {
       "source": "KPI de Production : MES, TRS, OEE",
-      "en": "Production KPIs: MES, TRS, OEE"
+      "en": "Production KPIs: MES, TRS, OEE",
+      "de": "Produktions-KPIs: MES, TRS, OEE"
     },
     "data.items[@Xp3fSh].checklist[@hZx4sd].text": {
       "source": "Analyse Data, Pareto, VSM, ROI",
-      "en": "Data Analysis, Pareto, VSM, ROI"
+      "en": "Data Analysis, Pareto, VSM, ROI",
+      "de": "Datenanalyse, Pareto, VSM, ROI"
     },
     "data.items[@Xp3fSh].checklist[@jnNoa7].text": {
       "source": "Supervision Scada IGNITION (Certifié Gold)",
-      "en": "IGNITION Scada Supervision (Gold Certified)"
+      "en": "IGNITION Scada Supervision (Gold Certified)",
+      "de": "SCADA-Überwachung IGNITION (Gold-zertifiziert)"
     },
     "data.items[@Xp3fSh].checklist[@nuCamY].text": {
       "source": "GTB et GMAO",
-      "en": "BMS and CMMS"
+      "en": "BMS and CMMS",
+      "de": "GTB und GMAO"
     },
     "data.items[@yPMra9].checklist[@GD48fx].text": {
       "source": "Architecture de Systèmes",
-      "en": "Systems Architecture"
+      "en": "Systems Architecture",
+      "de": "Systemarchitektur"
     },
     "data.items[@yPMra9].checklist[@HzU7gG].text": {
       "source": "Assistance de projets stratégiques",
-      "en": "Strategic Project Support"
+      "en": "Strategic Project Support",
+      "de": "Unterstützung strategischer Projekte"
     },
     "data.items[@yPMra9].checklist[@ALSugg].text": {
       "source": "Cycle de Vie et Gestion de l'Obsolescence",
-      "en": "Lifecycle and Obsolescence Management"
+      "en": "Lifecycle and Obsolescence Management",
+      "de": "Lebenszyklus und Obsoleszenzmanagement"
     },
     "data.items[@3O082j].cta.text": {
       "source": "En savoir plus",
-      "en": "Learn more"
+      "en": "Learn more",
+      "de": "Mehr erfahren"
     },
     "data.items[@Xp3fSh].cta.text": {
       "source": "Découvrir nos solutions",
-      "en": "Discover our solutions"
+      "en": "Discover our solutions",
+      "de": "Entdecken Sie unsere Lösungen"
     },
     "data.items[@yPMra9].cta.text": {
       "source": "Découvrir",
-      "en": "Discover"
+      "en": "Discover",
+      "de": "Entdecken"
     },
     "data.items[@3O082j].testimonial.quote": {
       "source": "Modernisation du Tri Bagage Est (TBE) Terminal 2E - Modification d'un convoyeur à bascule - Programmation d'un portique de lecture pour la traçabilité des bagages en classe Sky Priority",
-      "en": "Modernization of the East Baggage Sorting (EBS) Terminal 2E - Modification of a tilt conveyor - Programming of a reading portal for baggage traceability in Sky Priority class"
+      "en": "Modernization of the East Baggage Sorting (EBS) Terminal 2E - Modification of a tilt conveyor - Programming of a reading portal for baggage traceability in Sky Priority class",
+      "de": "Modernisierung der Gepäcksortieranlage (TBE) Terminal 2E - Umbau eines Kippförderers - Programmierung eines Lesegatters für die Gepäckverfolgung in der Sky Priority Klasse"
     },
     "data.items[@Xp3fSh].testimonial.quote": {
       "source": "SCADA BMS Building Management System / GTC Gestion Technique Centralée pour le VIC Verkor Innovation Center - Usine de prototypage et fabrication de batteries électriques",
-      "en": "SCADA BMS Building Management System / GTC Centralized Technical Management for the VIC Verkor Innovation Center - Electric battery prototyping and manufacturing plant"
+      "en": "SCADA BMS Building Management System / GTC Centralized Technical Management for the VIC Verkor Innovation Center - Electric battery prototyping and manufacturing plant",
+      "de": "SCADA BMS Gebäudeleittechnik / GTC Zentrales Gebäudemanagement für das VIC Verkor Innovation Center - Prototypen- und Produktionsanlage für Elektrofahrzeugbatterien"
     },
     "data.items[@yPMra9].testimonial.quote": {
       "source": "Centre de Tri Logistique - Automatisation du suivi des défauts machine et interventions techniciens",
-      "en": "Logistics Sorting Center - Automation of machine defect tracking and technician interventions"
+      "en": "Logistics Sorting Center - Automation of machine defect tracking and technician interventions",
+      "de": "Logistik-Sortierzentrum - Automatisierte Nachverfolgung von Maschinenfehlern und Technikereinsätzen"
     },
     "data.items[@3O082j].testimonial.authorName": {
       "source": "Vanderlande",
-      "en": "Vanderlande"
+      "en": "Vanderlande",
+      "de": "Vanderlande"
     },
     "data.items[@Xp3fSh].testimonial.authorName": {
       "source": "Département Digital",
-      "en": "Digital Department"
+      "en": "Digital Department",
+      "de": "Digitalabteilung"
     },
     "data.items[@yPMra9].testimonial.authorName": {
       "source": "Département Engineering",
-      "en": "Engineering Department"
+      "en": "Engineering Department",
+      "de": "Engineering-Abteilung"
     },
     "data.items[@3O082j].testimonial.authorRole": {
       "source": "ADP Paris Aéroports",
-      "en": "ADP Paris Airports"
+      "en": "ADP Paris Airports",
+      "de": "ADP Paris Airports"
     },
     "data.items[@Xp3fSh].testimonial.authorRole": {
       "source": "Verkor",
-      "en": "Verkor"
+      "en": "Verkor",
+      "de": "Verkor"
     },
     "data.items[@yPMra9].testimonial.authorRole": {
       "source": "COOP",
-      "en": "COOP"
+      "en": "COOP",
+      "de": "COOP"
     },
     "data.items[@3O082j].testimonial.companyLogo.alt": {
       "source": "ADP Paris Aéroports",
-      "en": "ADP Paris Airports"
+      "en": "ADP Paris Airports",
+      "de": "ADP Paris Airports"
     },
     "data.items[@Xp3fSh].testimonial.companyLogo.alt": {
       "source": "Verkor",
-      "en": "Verkor"
+      "en": "Verkor",
+      "de": "Verkor"
     },
     "data.items[@yPMra9].testimonial.companyLogo.alt": {
       "source": "COOP",
-      "en": "COOP"
+      "en": "COOP",
+      "de": "COOP"
     }
   }
 }
