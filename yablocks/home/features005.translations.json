@@ -3,27 +3,33 @@
   "fields": {
     "data.overtitle": {
       "source": "Notre Modèle AUTEM",
-      "de": "Unser AUTEM-Modell"
+      "de": "Unser AUTEM-Modell",
+      "en": "Our AUTEM Model"
     },
     "data.title": {
       "source": "Soigner le Patrimoine technique",
-      "de": "Pflege des technischen Erbes"
+      "de": "Pflege des technischen Erbes",
+      "en": "Caring for Technical Heritage"
     },
     "data.paragraphs[@8C0wes].text": {
       "source": "Plutôt que de remplacer systématiquement par du neuf, nous priorisons la continuité technologique, en rétablissant les ponts avec les savoir-faire perdus. Nous préférons investir dans un transfert au lieu d'une dépendance. Cela requiert une équipe de spécialistes rôdés qui sont de vrais couteaux-suisses du rétrofit industriel.",
-      "de": "Anstatt systematisch durch Neuanschaffungen zu ersetzen, priorisieren wir die technologische Kontinuität, indem wir die Brücken zu verloren gegangenen Fachkenntnissen wieder herstellen. Wir investieren lieber in einen Wissenstransfer als in eine Abhängigkeit. Dies erfordert ein Team aus erfahrenen Spezialisten, die echte Allrounder im industriellen Retrofit sind."
+      "de": "Anstatt systematisch durch Neuanschaffungen zu ersetzen, priorisieren wir die technologische Kontinuität, indem wir die Brücken zu verloren gegangenen Fachkenntnissen wieder herstellen. Wir investieren lieber in einen Wissenstransfer als in eine Abhängigkeit. Dies erfordert ein Team aus erfahrenen Spezialisten, die echte Allrounder im industriellen Retrofit sind.",
+      "en": "Rather than systematically replacing with new equipment, we prioritize technological continuity by re-establishing connections with lost expertise. We prefer to invest in transfer rather than dependency. This requires a seasoned team of specialists who are true all-rounders in industrial retrofitting."
     },
     "data.paragraphs[@ZPawgM].text": {
       "source": "Notre slogan est : Polyvalence · Fiabilité · Flexibilité. La polyvalence assure de rester agnostique et autonome sur tout le cycle de vie de vos machines. La fiabilité requiert un suivi rigoureux et pro-actif. Et la flexibilité permet de s'adapter aux contraintes et imprévus inévitables en industrie.",
-      "de": "Unser Slogan lautet: Vielseitigkeit · Zuverlässigkeit · Flexibilität. Vielseitigkeit stellt sicher, dass wir über den gesamten Lebenszyklus Ihrer Maschinen hinweg agnostisch und autonom bleiben. Zuverlässigkeit erfordert eine sorgfältige und proaktive Überwachung. Und Flexibilität ermöglicht die Anpassung an die in der Industrie unvermeidlichen Einschränkungen und Unvorhersehbaren."
+      "de": "Unser Slogan lautet: Vielseitigkeit · Zuverlässigkeit · Flexibilität. Vielseitigkeit stellt sicher, dass wir über den gesamten Lebenszyklus Ihrer Maschinen hinweg agnostisch und autonom bleiben. Zuverlässigkeit erfordert eine sorgfältige und proaktive Überwachung. Und Flexibilität ermöglicht die Anpassung an die in der Industrie unvermeidlichen Einschränkungen und Unvorhersehbaren.",
+      "en": "Our slogan is: Versatility · Reliability · Flexibility. Versatility ensures we remain agnostic and autonomous throughout the entire lifecycle of your machinery. Reliability requires rigorous and proactive monitoring. And flexibility allows us to adapt to the inevitable constraints and unforeseen events in industry."
     },
     "data.image.alt": {
       "source": "Valeurs AUTEM : polyvalence fiabilité flexibilité",
-      "de": "AUTEM-Werte: Vielseitigkeit, Zuverlässigkeit, Flexibilität"
+      "de": "AUTEM-Werte: Vielseitigkeit, Zuverlässigkeit, Flexibilität",
+      "en": "AUTEM Values: versatility reliability flexibility"
     },
     "data.cta.text": {
       "source": "Découvrir AUTEM",
-      "de": "AUTEM entdecken"
+      "de": "AUTEM entdecken",
+      "en": "Discover AUTEM"
     },
     "data.paragraphs[@HLvB1a].text": {
       "source": "Plutôt que de remplacer systématiquement par du neuf, nous priorisons la continuité technologique, en rétablissant les ponts avec les savoir-faire perdus. Nous préférons investir dans un transfert au lieu d'une dépendance. Cela requiert une équipe de spécialistes rôdés qui sont de vrais couteaux-suisses du rétrofit industriel.",

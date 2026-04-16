@@ -16,19 +16,23 @@
         "checklist": [
           {
             "text": "Rétrofit Automation",
-            "href": "/nos-offres/machines-automatisees/retrofit-automation"
+            "href": "/nos-offres/machines-automatisees/retrofit-automation",
+            "_tid": "i5EuEg"
           },
           {
             "text": "Rénovation PC Industriel",
-            "href": "/nos-offres/machines-automatisees/renovation-pc-industriel"
+            "href": "/nos-offres/machines-automatisees/renovation-pc-industriel",
+            "_tid": "TkfRz0"
           },
           {
             "text": "IoT, Réseaux, Communication",
-            "href": "/nos-offres/machines-automatisees/iot-reseaux-communication"
+            "href": "/nos-offres/machines-automatisees/iot-reseaux-communication",
+            "_tid": "lWKRmr"
           },
           {
             "text": "Revamping électrique",
-            "href": "/nos-offres/machines-automatisees/revamping-electrique"
+            "href": "/nos-offres/machines-automatisees/revamping-electrique",
+            "_tid": "wbsJmv"
           }
         ],
         "cta": {
@@ -43,7 +47,8 @@
             "src": "/logos/parisaeroportcdg.jpg",
             "alt": "ADP Paris Aéroports"
           }
-        }
+        },
+        "_tid": "3O082j"
       },
       {
         "overtitle": "Logiciels de Pilotage",
@@ -56,19 +61,23 @@
         "checklist": [
           {
             "text": "KPI de Production : MES, TRS, OEE",
-            "href": "/nos-offres/logiciels-pilotage/mes-trs-oee"
+            "href": "/nos-offres/logiciels-pilotage/mes-trs-oee",
+            "_tid": "qZVbm9"
           },
           {
             "text": "Analyse Data, Pareto, VSM, ROI",
-            "href": "/nos-offres/logiciels-pilotage/analyse-data"
+            "href": "/nos-offres/logiciels-pilotage/analyse-data",
+            "_tid": "hZx4sd"
           },
           {
             "text": "Supervision Scada IGNITION (Certifié Gold)",
-            "href": "/nos-offres/logiciels-pilotage/ignition-scada"
+            "href": "/nos-offres/logiciels-pilotage/ignition-scada",
+            "_tid": "jnNoa7"
           },
           {
             "text": "GTB et GMAO",
-            "href": "/nos-offres/logiciels-pilotage/gtb-gmao"
+            "href": "/nos-offres/logiciels-pilotage/gtb-gmao",
+            "_tid": "nuCamY"
           }
         ],
         "cta": {
@@ -83,7 +92,8 @@
             "src": "/logos/verkor.png",
             "alt": "Verkor"
           }
-        }
+        },
+        "_tid": "Xp3fSh"
       },
       {
         "overtitle": "Avis technique",
@@ -96,15 +106,18 @@
         "checklist": [
           {
             "text": "Architecture de Systèmes",
-            "href": "/nos-offres/avis-technique/architecture-systemes"
+            "href": "/nos-offres/avis-technique/architecture-systemes",
+            "_tid": "GD48fx"
           },
           {
             "text": "Assistance de projets stratégiques",
-            "href": "/nos-offres/avis-technique/assistance-projets"
+            "href": "/nos-offres/avis-technique/assistance-projets",
+            "_tid": "HzU7gG"
           },
           {
             "text": "Cycle de Vie et Gestion de l'Obsolescence",
-            "href": "/nos-offres/avis-technique/cycle-de-vie-obsolescence"
+            "href": "/nos-offres/avis-technique/cycle-de-vie-obsolescence",
+            "_tid": "ALSugg"
           }
         ],
         "cta": {
@@ -119,7 +132,8 @@
             "src": "/logos/coop.png",
             "alt": "COOP"
           }
-        }
+        },
+        "_tid": "yPMra9"
       }
     ]
   }

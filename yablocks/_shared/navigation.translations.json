@@ -3,7 +3,8 @@
   "fields": {
     "data.logo.text": {
       "source": "AUTEM",
-      "de": "AUTEM"
+      "de": "AUTEM",
+      "en": "AUTEM"
     },
     "data.links[@qX2Yhi].label": {
       "source": "Nos offres",
@@ -111,7 +112,8 @@
     },
     "data.cta.text": {
       "source": "Une URGENCE technique ?",
-      "de": "Ein technischer NOTFALL?"
+      "de": "Ein technischer NOTFALL?",
+      "en": "A technical EMERGENCY?"
     },
     "data.links[@vjBe8a].label": {
       "source": "Nos offres",
@@ -731,107 +733,133 @@
     },
     "data.links[@bdxhtE].label": {
       "source": "Nos offres",
-      "de": "Unsere Angebote"
+      "de": "Unsere Angebote",
+      "en": "Our offers"
     },
     "data.links[@hcGB7Y].label": {
       "source": "À propos",
-      "de": "Über uns"
+      "de": "Über uns",
+      "en": "About us"
     },
     "data.links[@ag3HFj].label": {
       "source": "Cas clients",
-      "de": "Referenzen"
+      "de": "Referenzen",
+      "en": "Case studies"
     },
     "data.links[@8F7Kwa].label": {
       "source": "Ressources",
-      "de": "Ressourcen"
+      "de": "Ressourcen",
+      "en": "Resources"
     },
     "data.links[@bdxhtE].groups[@NPm8XS].label": {
       "source": "Machines Automatisées",
-      "de": "Automatisierte Maschinen"
+      "de": "Automatisierte Maschinen",
+      "en": "Automated Machines"
     },
     "data.links[@bdxhtE].groups[@p1RfLr].label": {
       "source": "Logiciels de pilotage",
-      "de": "Steuerungssoftware"
+      "de": "Steuerungssoftware",
+      "en": "Control Software"
     },
     "data.links[@bdxhtE].groups[@0SL8QH].label": {
       "source": "Avis technique",
-      "de": "Technische Beratung"
+      "de": "Technische Beratung",
+      "en": "Technical Review"
     },
     "data.links[@hcGB7Y].groups[@leQBAl].label": {
       "source": "Découvrir AUTEM",
-      "de": "AUTEM entdecken"
+      "de": "AUTEM entdecken",
+      "en": "Discover AUTEM"
     },
     "data.links[@bdxhtE].groups[@NPm8XS].description": {
       "source": "Rénovation, Rétrofit, Revamping",
-      "de": "Renovierung, Retrofit, Revamping"
+      "de": "Renovierung, Retrofit, Revamping",
+      "en": "Renovation, Retrofit, Revamping"
     },
     "data.links[@bdxhtE].groups[@p1RfLr].description": {
       "source": "Mesure, Performance, Pilotage",
-      "de": "Messung, Performance, Steuerung"
+      "de": "Messung, Performance, Steuerung",
+      "en": "Measurement, Performance, Control"
     },
     "data.links[@bdxhtE].groups[@0SL8QH].description": {
       "source": "Audit agnostique, Projets techniques",
-      "de": "Agnostisches Audit, technische Projekte"
+      "de": "Agnostisches Audit, technische Projekte",
+      "en": "Agnostic audit, Technical projects"
     },
     "data.links[@hcGB7Y].groups[@leQBAl].description": {
       "source": "L'automatisme au service de l'industrie",
-      "de": "Automatisierung im Dienste der Industrie"
+      "de": "Automatisierung im Dienste der Industrie",
+      "en": "Automation for industry"
     },
     "data.links[@bdxhtE].groups[@NPm8XS].items[@bIo1ya].label": {
       "source": "Rétrofit Automatisme",
-      "de": "Automatisierungs-Retrofit"
+      "de": "Automatisierungs-Retrofit",
+      "en": "Automation Retrofit"
     },
     "data.links[@bdxhtE].groups[@NPm8XS].items[@AjcaP8].label": {
       "source": "IoT Comm Réseaux",
-      "de": "IoT Netzwerkkommunikation"
+      "de": "IoT Netzwerkkommunikation",
+      "en": "Network Communication IoT"
     },
     "data.links[@bdxhtE].groups[@NPm8XS].items[@YPifee].label": {
       "source": "Revamping Electrique",
-      "de": "Elektrisches Revamping"
+      "de": "Elektrisches Revamping",
+      "en": "Electrical Revamping"
     },
     "data.links[@bdxhtE].groups[@NPm8XS].items[@0hjQeX].label": {
       "source": "Rénovation PC Industriel",
-      "de": "Industrie-PC-Renovierung"
+      "de": "Industrie-PC-Renovierung",
+      "en": "Industrial PC Renovation"
     },
     "data.links[@bdxhtE].groups[@p1RfLr].items[@lXbf6c].label": {
       "source": "KPI, MES, TRS, OEE",
-      "de": "KPI, MES, TRS, OEE"
+      "de": "KPI, MES, TRS, OEE",
+      "en": "KPI, MES, TRS, OEE"
     },
     "data.links[@bdxhtE].groups[@p1RfLr].items[@Bv7NPA].label": {
       "source": "Data, Pareto, VSM, ROI",
-      "de": "Data, Pareto, VSM, ROI"
+      "de": "Data, Pareto, VSM, ROI",
+      "en": "Data, Pareto, VSM, ROI"
     },
     "data.links[@bdxhtE].groups[@p1RfLr].items[@GhFcpA].label": {
       "source": "Supervision SCADA Ignition",
-      "de": "SCADA Ignition Überwachung"
+      "de": "SCADA Ignition Überwachung",
+      "en": "Ignition SCADA Supervision"
     },
     "data.links[@bdxhtE].groups[@p1RfLr].items[@4BwKz5].label": {
       "source": "GTB, GMAO",
-      "de": "GLT, Instandhaltungsmanagement"
+      "de": "GLT, Instandhaltungsmanagement",
+      "en": "BMS, CMMS"
     },
     "data.links[@bdxhtE].groups[@0SL8QH].items[@idOfNh].label": {
       "source": "Architecture Systèmes",
-      "de": "Systemarchitektur"
+      "de": "Systemarchitektur",
+      "en": "Systems Architecture"
     },
     "data.links[@bdxhtE].groups[@0SL8QH].items[@CdwCIf].label": {
       "source": "Projets Stratégiques",
-      "de": "Strategische Projekte"
+      "de": "Strategische Projekte",
+      "en": "Strategic Projects"
     },
     "data.links[@bdxhtE].groups[@0SL8QH].items[@4uETad].label": {
       "source": "Cycle de Vie et Obsolescence",
-      "de": "Lebenszyklus und Obsoleszenz"
+      "de": "Lebenszyklus und Obsoleszenz",
+      "en": "Lifecycle and Obsolescence"
     },
     "data.links[@hcGB7Y].groups[@leQBAl].items[@f0Otxi].label": {
       "source": "Manifeste",
-      "de": "Manifest"
+      "de": "Manifest",
+      "en": "Manifesto"
     },
     "data.links[@hcGB7Y].groups[@leQBAl].items[@hlRkaL].label": {
       "source": "L'Équipe",
-      "de": "Das Team"
+      "de": "Das Team",
+      "en": "The Team"
     },
     "data.links[@hcGB7Y].groups[@leQBAl].items[@2XfzNl].label": {
       "source": "Technologies",
-      "de": "Technologien"
+      "de": "Technologien",
+      "en": "Technologies"
     }
   }
 }
