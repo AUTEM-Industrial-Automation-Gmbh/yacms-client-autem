@@ -1,0 +1,61 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "NOTRE MÉTHODE",
+      "de": "UNSERE METHODE"
+    },
+    "data.title": {
+      "source": "Une approche structurée, du cahier des charges à la mise en service",
+      "de": "Ein strukturierter Ansatz, vom Lastenheft bis zur Inbetriebnahme"
+    },
+    "data.steps[@ncdxTu].title": {
+      "source": "Audit",
+      "de": "Audit"
+    },
+    "data.steps[@ZrqgNC].title": {
+      "source": "Conception",
+      "de": "Konzeption"
+    },
+    "data.steps[@m47Xr9].title": {
+      "source": "Réalisation",
+      "de": "Realisierung"
+    },
+    "data.steps[@Lb8x95].title": {
+      "source": "Tests",
+      "de": "Tests"
+    },
+    "data.steps[@esAWvP].title": {
+      "source": "Mise en service",
+      "de": "Inbetriebnahme"
+    },
+    "data.steps[@uP4Ewt].title": {
+      "source": "Formation",
+      "de": "Schulung"
+    },
+    "data.steps[@ncdxTu].description": {
+      "source": "Analyse de votre parc machine, systèmes existants et besoins prioritaires.",
+      "de": "Analyse Ihrer Maschinenparks, bestehenden Systeme und vorrangigen Bedürfnisse."
+    },
+    "data.steps[@ZrqgNC].description": {
+      "source": "Analyse fonctionnelle, architecture système et choix des technologies adaptées.",
+      "de": "Funktionale Analyse, Systemarchitektur und Auswahl geeigneter Technologien."
+    },
+    "data.steps[@m47Xr9].description": {
+      "source": "Programmation automates, développement SCADA, intégration réseau et configuration.",
+      "de": "Steuerungs programmierung, SCADA-Entwicklung, Netzwerkintegration und Konfiguration."
+    },
+    "data.steps[@Lb8x95].description": {
+      "source": "Tests en plateforme, FAT (Factory Acceptance Test) et SAT (Site Acceptance Test).",
+      "de": "Plattformtests, FAT (Factory Acceptance Test) und SAT (Site Acceptance Test)."
+    },
+    "data.steps[@esAWvP].description": {
+      "source": "Démarrage sur site, accompagnement des équipes production et validation terrain.",
+      "de": "Inbetriebnahme vor Ort, Unterstützung der Produktionsteams und Feldvalidierung."
+    },
+    "data.steps[@uP4Ewt].description": {
+      "source": "Transfert de compétences aux techniciens pour une autonomie complète sur vos systèmes.",
+      "de": "Kompetenztransfer an Techniker für vollständige Autonomie über Ihre Systeme."
+    }
+  }
+}

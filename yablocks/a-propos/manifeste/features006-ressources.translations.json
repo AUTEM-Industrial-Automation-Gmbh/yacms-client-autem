@@ -1,0 +1,53 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "PASSEZ À L'ACTION",
+      "de": "LOS GEHT'S"
+    },
+    "data.title": {
+      "source": "Démarrons votre projet de digitalisation industrielle",
+      "de": "Starten wir Ihr Projekt zur industriellen Digitalisierung"
+    },
+    "data.cards[@0i9cdK].title": {
+      "source": "Discutons de votre projet",
+      "de": "Lassen Sie uns über Ihr Projekt sprechen"
+    },
+    "data.cards[@rkCXkd].title": {
+      "source": "Se former à l'automatisme industriel",
+      "de": "Lernen Sie industrielle Automatisierung"
+    },
+    "data.cards[@0i9cdK].description": {
+      "source": "Un échange de 30 minutes pour comprendre vos enjeux et identifier les premières pistes d'action concrètes.",
+      "de": "Ein 30-minütiges Gespräch, um Ihre Herausforderungen zu verstehen und erste konkrete Handlungsoptionen zu identifizieren."
+    },
+    "data.cards[@rkCXkd].description": {
+      "source": "Des cours en ligne sur Udemy pour techniciens et ingénieurs souhaitant monter en compétences sur les systèmes automatisés.",
+      "de": "Online-Kurse auf Udemy für Techniker und Ingenieure, die ihre Fähigkeiten in automatisierten Systemen verbessern möchten."
+    },
+    "data.cards[@0i9cdK].image.alt": {
+      "source": "Projet d'automatisme industriel AUTEM",
+      "de": "AUTEM Industrielle Automatisierungsprojekt"
+    },
+    "data.cards[@rkCXkd].image.alt": {
+      "source": "Formation automatisme industriel en ligne",
+      "de": "Online-Schulung für industrielle Automatisierung"
+    },
+    "data.cards[@0i9cdK].actions[@XHSgG5].text": {
+      "source": "Prendre contact",
+      "de": "Kontakt aufnehmen"
+    },
+    "data.cards[@rkCXkd].actions[@bpkhXr].text": {
+      "source": "Voir les formations",
+      "de": "Kurse ansehen"
+    },
+    "data.cards[@0i9cdK].actions[@XHSgG5].link": {
+      "source": "/contact",
+      "de": "/contact"
+    },
+    "data.cards[@rkCXkd].actions[@bpkhXr].link": {
+      "source": "https://www.udemy.com",
+      "de": "https://www.udemy.com"
+    }
+  }
+}

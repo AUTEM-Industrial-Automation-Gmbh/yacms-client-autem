@@ -1,0 +1,217 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Parlons de votre projet",
+      "de": "Lassen Sie uns über Ihr Projekt sprechen"
+    },
+    "data.subtitle": {
+      "source": "Notre équipe répond sous 24h. Décrivez-nous votre besoin, nous revenons vers vous rapidement.",
+      "de": "Unser Team antwortet innerhalb von 24 Stunden. Beschreiben Sie uns Ihr Anliegen, wir melden uns in Kürze bei Ihnen."
+    },
+    "data.contactOptions[@ZOYhkA].label": {
+      "source": "Email",
+      "de": "E-Mail"
+    },
+    "data.contactOptions[@wIpeII].label": {
+      "source": "Téléphone",
+      "de": "Telefon"
+    },
+    "data.contactOptions[@YbY5Sh].label": {
+      "source": "Adresse",
+      "de": "Adresse"
+    },
+    "data.contactOptions[@ZOYhkA].info": {
+      "source": "team@autem.ch",
+      "de": "team@autem.ch"
+    },
+    "data.contactOptions[@wIpeII].info": {
+      "source": "+41 78 442 73 53",
+      "de": "+41 78 442 73 53"
+    },
+    "data.contactOptions[@YbY5Sh].info": {
+      "source": "Fribourg, Suisse",
+      "de": "Fribourg, Schweiz"
+    },
+    "data.contactOptions[@ZOYhkA].href": {
+      "source": "mailto:team@autem.ch",
+      "de": "mailto:team@autem.ch"
+    },
+    "data.contactOptions[@wIpeII].href": {
+      "source": "tel:+41784427353",
+      "de": "tel:+41784427353"
+    },
+    "data.trustBadges[@Fo7hsg].text": {
+      "source": "Réponse sous 24h",
+      "de": "Antwort innerhalb von 24h"
+    },
+    "data.trustBadges[@ecl23t].text": {
+      "source": "100% Confidentiel",
+      "de": "100% vertraulich"
+    },
+    "data.trustBadges[@hrSZQl].text": {
+      "source": "Devis gratuit",
+      "de": "Kostenloses Angebot"
+    },
+    "data.formTitle": {
+      "source": "Envoyez-nous un message",
+      "de": "Schreiben Sie uns eine Nachricht"
+    },
+    "data.tagsTitle": {
+      "source": "Comment pouvons-nous vous aider ?",
+      "de": "Wie können wir Ihnen helfen?"
+    },
+    "data.tags[@5QkW3d].label": {
+      "source": "Demande générale",
+      "de": "Allgemeine Anfrage"
+    },
+    "data.tags[@TahlLf].label": {
+      "source": "Support technique",
+      "de": "Technischer Support"
+    },
+    "data.tags[@gbA4jx].label": {
+      "source": "Partenariat",
+      "de": "Partnerschaft"
+    },
+    "data.tags[@8jkc7N].label": {
+      "source": "Demande de devis",
+      "de": "Angebotsanfrage"
+    },
+    "data.tags[@5QkW3d].value": {
+      "source": "general",
+      "de": "general"
+    },
+    "data.tags[@TahlLf].value": {
+      "source": "support",
+      "de": "support"
+    },
+    "data.tags[@gbA4jx].value": {
+      "source": "partnership",
+      "de": "partnership"
+    },
+    "data.tags[@8jkc7N].value": {
+      "source": "quote",
+      "de": "quote"
+    },
+    "data.urgencyTitle": {
+      "source": "Niveau d'urgence",
+      "de": "Dringlichkeitsstufe"
+    },
+    "data.urgencyLevels[@RT1ibJ].label": {
+      "source": "Normale",
+      "de": "Normal"
+    },
+    "data.urgencyLevels[@IJcvRT].label": {
+      "source": "Prioritaire",
+      "de": "Prioritär"
+    },
+    "data.urgencyLevels[@4BydlI].label": {
+      "source": "Urgent",
+      "de": "Dringend"
+    },
+    "data.urgencyLevels[@vBieQO].label": {
+      "source": "Critique",
+      "de": "Kritisch"
+    },
+    "data.urgencyLevels[@RT1ibJ].value": {
+      "source": "normal",
+      "de": "normal"
+    },
+    "data.urgencyLevels[@IJcvRT].value": {
+      "source": "priority",
+      "de": "priority"
+    },
+    "data.urgencyLevels[@4BydlI].value": {
+      "source": "urgent",
+      "de": "urgent"
+    },
+    "data.urgencyLevels[@vBieQO].value": {
+      "source": "critical",
+      "de": "critical"
+    },
+    "data.urgencyLevels[@RT1ibJ].description": {
+      "source": "Pas d'urgence particulière",
+      "de": "Keine besondere Dringlichkeit"
+    },
+    "data.urgencyLevels[@IJcvRT].description": {
+      "source": "Sous 48 à 72h",
+      "de": "Innerhalb von 48 bis 72h"
+    },
+    "data.urgencyLevels[@4BydlI].description": {
+      "source": "Réponse requise sous 24h",
+      "de": "Antwort innerhalb von 24h erforderlich"
+    },
+    "data.urgencyLevels[@vBieQO].description": {
+      "source": "Panne machine / Production arrêtée",
+      "de": "Maschinenausfall / Produktionsstopp"
+    },
+    "data.formLabels.fullName": {
+      "source": "Nom complet",
+      "de": "Vollständiger Name"
+    },
+    "data.formLabels.email": {
+      "source": "Email",
+      "de": "E-Mail"
+    },
+    "data.formLabels.phone": {
+      "source": "Téléphone",
+      "de": "Telefon"
+    },
+    "data.formLabels.company": {
+      "source": "Entreprise",
+      "de": "Unternehmen"
+    },
+    "data.formLabels.message": {
+      "source": "Message",
+      "de": "Nachricht"
+    },
+    "data.formPlaceholders.fullName": {
+      "source": "Jean Dupont",
+      "de": "Jean Dupont"
+    },
+    "data.formPlaceholders.email": {
+      "source": "jean@entreprise.ch",
+      "de": "jean@entreprise.ch"
+    },
+    "data.formPlaceholders.phone": {
+      "source": "+41 (0)22 000 00 00",
+      "de": "+41 (0)22 000 00 00"
+    },
+    "data.formPlaceholders.company": {
+      "source": "Votre entreprise",
+      "de": "Ihr Unternehmen"
+    },
+    "data.formPlaceholders.message": {
+      "source": "Décrivez votre projet ou votre problème...",
+      "de": "Beschreiben Sie Ihr Projekt oder Ihr Problem..."
+    },
+    "data.privacyText": {
+      "source": "J'accepte la",
+      "de": "Ich akzeptiere die"
+    },
+    "data.privacyLink": {
+      "source": "Politique de confidentialité",
+      "de": "Datenschutzrichtlinie"
+    },
+    "data.submitText": {
+      "source": "Envoyer le message",
+      "de": "Nachricht senden"
+    },
+    "data.successTitle": {
+      "source": "Merci !",
+      "de": "Vielen Dank!"
+    },
+    "data.successMessage": {
+      "source": "Votre message a bien été envoyé. Nous reviendrons vers vous sous 24h.",
+      "de": "Ihre Nachricht wurde erfolgreich gesendet. Wir melden uns innerhalb von 24 Stunden bei Ihnen."
+    },
+    "data.apiEndpoint": {
+      "source": "https://yacms-runtime.idrissbenguezzou.workers.dev/api/forms",
+      "de": "https://yacms-runtime.idrissbenguezzou.workers.dev/api/forms"
+    },
+    "data.clientId": {
+      "source": "AUTEM",
+      "de": "AUTEM"
+    }
+  }
+}

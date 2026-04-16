@@ -1,0 +1,45 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "SUPERVISION SCADA",
+      "de": "SCADA-ÜBERWACHUNG"
+    },
+    "data.title": {
+      "source": "Ignition SCADA — Intégrateur certifié GOLD",
+      "de": "Ignition SCADA — GOLD-zertifizierter Integrator"
+    },
+    "data.paragraphs[@XBrLqj].text": {
+      "source": "AUTEM est intégrateur certifié GOLD Ignition by Inductive Automation, la plateforme SCADA moderne qui remplace les solutions vieillissantes par une supervision web, modulaire et sans licence par client.",
+      "de": "AUTEM ist ein GOLD-zertifizierter Integrator von Ignition by Inductive Automation, der modernen SCADA-Plattform, die veraltete Lösungen durch webbasierte, modulare und clientlizenzfreie Überwachung ersetzt."
+    },
+    "data.paragraphs[@DiPgK8].text": {
+      "source": "Nous intervenons également sur les solutions WinCC (Siemens), WinCC OA, Wonderware / AVEVA System Platform — pour les migrations comme pour les nouveaux projets.",
+      "de": "Wir sind auch für die Lösungen WinCC (Siemens), WinCC OA, Wonderware / AVEVA System Platform tätig – sowohl für Migrationen als auch für neue Projekte."
+    },
+    "data.highlights[@YWVyBR].text": {
+      "source": "Ignition (Inductive Automation) — certifié GOLD Partner",
+      "de": "Ignition (Inductive Automation) — GOLD Partner zertifiziert"
+    },
+    "data.highlights[@eXbFkb].text": {
+      "source": "Siemens WinCC, WinCC OA",
+      "de": "Siemens WinCC, WinCC OA"
+    },
+    "data.highlights[@v57xnp].text": {
+      "source": "Wonderware / AVEVA System Platform / InduSoft",
+      "de": "Wonderware / AVEVA System Platform / InduSoft"
+    },
+    "data.highlights[@r88sEz].text": {
+      "source": "IHM, alarmes temps réel, historisation, rapports de production",
+      "de": "HMI, Echtzeit-Alarmierung, Historisierung, Produktionsberichte"
+    },
+    "data.conclusion": {
+      "source": "De la migration d'une supervision obsolète à la mise en place d'un SCADA complet from scratch, AUTEM réalise toutes les étapes : architecture, développement, tests et démarrage sur site.",
+      "de": "Von der Migration einer veralteten Überwachung bis zur Einrichtung eines kompletten SCADA-Systems von Grund auf – AUTEM übernimmt alle Schritte: Architektur, Entwicklung, Tests und Inbetriebnahme vor Ort."
+    },
+    "data.image.alt": {
+      "source": "Supervision SCADA Ignition certifié GOLD AUTEM",
+      "de": "SCADA-Überwachung Ignition GOLD-zertifiziert AUTEM"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "MES & IIoT",
+      "de": "MES & IIoT"
+    },
+    "data.title": {
+      "source": "Pilotage de production et connectivité industrielle",
+      "de": "Produktionssteuerung und industrielle Konnektivität"
+    },
+    "data.paragraphs[@qpkJZk].text": {
+      "source": "Au-delà de la supervision, AUTEM intègre des solutions MES pour piloter l'exécution des ordres de fabrication, mesurer le TRS et suivre la performance de ligne en temps réel.",
+      "de": "Über die Überwachung hinaus integriert AUTEM MES-Lösungen zur Steuerung der Fertigungsauftragsausführung, zur Messung der OEE und zur Echtzeit-Überwachung der Linienleistung."
+    },
+    "data.paragraphs[@FkuUCv].text": {
+      "source": "Pour la connectivité IIoT, nous mettons en place les architectures réseau et protocoles nécessaires pour faire remonter les données des machines jusqu'au cloud — en toute sécurité.",
+      "de": "Für die IIoT-Konnektivität implementieren wir die notwendigen Netzwerkarchitekturen und Protokolle, um Maschinendaten sicher in die Cloud zu übertragen."
+    },
+    "data.highlights[@fy8hkS].text": {
+      "source": "MES & TRS — suivi de production, ordres de fabrication (ISA95)",
+      "de": "MES & OEE — Produktionsüberwachung, Fertigungsaufträge (ISA95)"
+    },
+    "data.highlights[@3wr1Si].text": {
+      "source": "Seckiot — cybersécurité et connectivité IoT des systèmes industriels",
+      "de": "Seckiot — Cybersicherheit und IoT-Konnektivität für industrielle Systeme"
+    },
+    "data.highlights[@OkzwpW].text": {
+      "source": "OPC-UA, MQTT, BACnet — protocoles de communication industrielle",
+      "de": "OPC-UA, MQTT, BACnet — Industrielle Kommunikationsprotokolle"
+    },
+    "data.highlights[@Ef2XqG].text": {
+      "source": "Architecture réseau : Profinet, Profibus, Ethernet/IP, Modbus, AS-i",
+      "de": "Netzwerkarchitektur: Profinet, Profibus, Ethernet/IP, Modbus, AS-i"
+    },
+    "data.conclusion": {
+      "source": "Résultat : vos données machines remontent automatiquement, vos KPI sont calculés en temps réel, et vos équipes de production pilotent grâce à des tableaux de bord fiables.",
+      "de": "Ergebnis: Ihre Maschinendaten werden automatisch erfasst, Ihre KPIs in Echtzeit berechnet und Ihre Produktionsteams werden durch zuverlässige Dashboards gesteuert."
+    },
+    "data.image.alt": {
+      "source": "Pilotage MES TRS IoT industriel AUTEM",
+      "de": "Produktionssteuerung MES OEE Industrielles IoT AUTEM"
+    }
+  }
+}

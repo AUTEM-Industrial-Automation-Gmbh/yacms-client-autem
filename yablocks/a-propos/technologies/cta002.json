@@ -8,15 +8,18 @@
     "benefits": [
       {
         "icon": "award",
-        "text": "Intégrateur certifié GOLD Ignition"
+        "text": "Intégrateur certifié GOLD Ignition",
+        "_tid": "BgDjv4"
       },
       {
         "icon": "cpu",
-        "text": "Multimarque : Siemens, Rockwell, Schneider, Wago"
+        "text": "Multimarque : Siemens, Rockwell, Schneider, Wago",
+        "_tid": "IVfprs"
       },
       {
         "icon": "clock",
-        "text": "10+ ans d'expérience terrain"
+        "text": "10+ ans d'expérience terrain",
+        "_tid": "KczR1y"
       }
     ],
     "cta": {

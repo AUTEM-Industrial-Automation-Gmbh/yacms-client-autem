@@ -1,0 +1,49 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Nos Technologies — AUTEM, Automatisme & SCADA",
+      "de": "Unsere Technologien — AUTEM, Automatisierung & SCADA",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "AUTEM maîtrise la chaîne technologique industrielle : automates Siemens, Rockwell, Schneider, SCADA Ignition certifié Gold, OPC-UA, MQTT et MES/IoT.",
+      "de": "AUTEM beherrscht die industrielle Technologiekette: Siemens-, Rockwell-, Schneider-SPS, Ignition SCADA Gold Certified, OPC-UA, MQTT und MES/IoT.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "automate industriel",
+        "Siemens",
+        "Rockwell",
+        "Schneider",
+        "Ignition SCADA",
+        "intégrateur certifié Gold",
+        "OPC-UA",
+        "MQTT",
+        "MES",
+        "IoT industriel",
+        "AUTEM"
+      ],
+      "de": [
+        "Industrielle SPS",
+        "Siemens",
+        "Rockwell",
+        "Schneider",
+        "Ignition SCADA",
+        "Gold Certified Integrator",
+        "OPC-UA",
+        "MQTT",
+        "MES",
+        "Industrielles IoT",
+        "AUTEM"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Technologies automates et SCADA industriel",
+      "de": "AUTEM — Industrielle SPS- und SCADA-Technologien",
+      "de:manual": true
+    }
+  }
+}

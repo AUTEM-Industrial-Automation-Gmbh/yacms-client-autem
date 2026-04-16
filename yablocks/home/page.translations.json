@@ -1,0 +1,55 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "AUTEM — Vintage Machines, Obsolescence, Performance, Autonomie",
+      "de": "AUTEM — Vintage-Maschinen, Obsoleszenz, Performance, Autonomie",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Depuis 2020, nos spécialistes rénovent vos machines obsolètes pour retrouver performance et autonomie. Contactez-nous : team@autem.ch",
+      "de": "Seit 2020 renovieren unsere Spezialisten Ihre veralteten Maschinen, um Performance und Autonomie wiederherzustellen. Kontaktieren Sie uns: team@autem.ch",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "automatisme industriel",
+        "retrofit automate",
+        "SCADA Ignition",
+        "intégrateur Ignition certifié Gold",
+        "rénovation machine industrielle",
+        "modernisation automate Siemens",
+        "obsolescence industrielle",
+        "supervision industrielle",
+        "MES TRS OEE",
+        "automate Rockwell Allen-Bradley",
+        "automate Schneider Electric",
+        "industrie 4.0",
+        "IIoT OPC-UA",
+        "informatique industrielle"
+      ],
+      "de": [
+        "industrielle Automatisierung",
+        "SPS-Retrofit",
+        "SCADA Ignition",
+        "zertifizierter Ignition Gold-Integrator",
+        "Renovierung von Industriemaschinen",
+        "Modernisierung von Siemens-SPS",
+        "industrielle Obsoleszenz",
+        "industrielle Überwachung",
+        "MES OEE",
+        "Rockwell Allen-Bradley SPS",
+        "Schneider Electric SPS",
+        "Industrie 4.0",
+        "IIoT OPC-UA",
+        "industrielle Informatik"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Retrofit de machines industrielles et supervision SCADA Ignition",
+      "de": "AUTEM — Retrofit von Industriemaschinen und SCADA Ignition Überwachung",
+      "de:manual": true
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.errorCode": {
+      "source": "404",
+      "de": "404"
+    },
+    "data.badge": {
+      "source": "Page introuvable",
+      "de": "Seite nicht gefunden"
+    },
+    "data.title": {
+      "source": "Cette page n'existe pas",
+      "de": "Diese Seite existiert nicht"
+    },
+    "data.subtitle": {
+      "source": "La page que vous recherchez n'existe pas ou a été déplacée. Retournez à l'accueil pour explorer nos services d'automatisme et de digitalisation industrielle.",
+      "de": "Die von Ihnen gesuchte Seite existiert nicht oder wurde verschoben. Kehren Sie zur Startseite zurück, um unsere Automatisierungs- und industriellen Digitalisierungsdienste zu entdecken."
+    },
+    "data.cta.primary.text": {
+      "source": "Retour à l'accueil",
+      "de": "Zur Startseite"
+    },
+    "data.cta.primary.link": {
+      "source": "/",
+      "de": " /"
+    },
+    "data.cta.secondary.text": {
+      "source": "Revenir en arrière",
+      "de": "Zurückgehen"
+    }
+  }
+}

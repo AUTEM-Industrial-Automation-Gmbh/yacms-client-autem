@@ -20,32 +20,41 @@
         "linkedin": "https://www.linkedin.com/in/akoto/",
         "qualities": [
           {
-            "text": "Automatisme industriel"
+            "text": "Automatisme industriel",
+            "_tid": "JEK5YC"
           },
           {
-            "text": "SCADA Ignition Gold"
+            "text": "SCADA Ignition Gold",
+            "_tid": "q4Wseh"
           },
           {
-            "text": "IoT / IIoT"
+            "text": "IoT / IIoT",
+            "_tid": "ojWbQM"
           },
           {
-            "text": "Vision projet"
+            "text": "Vision projet",
+            "_tid": "6FhzDr"
           }
         ],
         "skills": [
           {
-            "text": "Siemens TIA Portal"
+            "text": "Siemens TIA Portal",
+            "_tid": "vNlgbw"
           },
           {
-            "text": "Ignition SCADA"
+            "text": "Ignition SCADA",
+            "_tid": "ctLRmy"
           },
           {
-            "text": "MES / TRS"
+            "text": "MES / TRS",
+            "_tid": "whh94T"
           },
           {
-            "text": "OPC-UA / MQTT"
+            "text": "OPC-UA / MQTT",
+            "_tid": "9dJMQB"
           }
-        ]
+        ],
+        "_tid": "4gGhd7"
       },
       {
         "name": "Idriss Benguezzou",
@@ -59,29 +68,37 @@
         "linkedin": "https://www.linkedin.com/in/idriss-benguezzou",
         "qualities": [
           {
-            "text": "Développement logiciel"
+            "text": "Développement logiciel",
+            "_tid": "f8Zv4t"
           },
           {
-            "text": "Intégration systèmes"
+            "text": "Intégration systèmes",
+            "_tid": "LLp7Q8"
           },
           {
-            "text": "Applications industrielles"
+            "text": "Applications industrielles",
+            "_tid": "7GRYoz"
           }
         ],
         "skills": [
           {
-            "text": "Développement logiciel"
+            "text": "Développement logiciel",
+            "_tid": "QZPDge"
           },
           {
-            "text": "Intégration API & services"
+            "text": "Intégration API & services",
+            "_tid": "HZXmm9"
           },
           {
-            "text": "Systèmes embarqués"
+            "text": "Systèmes embarqués",
+            "_tid": "WPN4XZ"
           },
           {
-            "text": "Architecture logicielle"
+            "text": "Architecture logicielle",
+            "_tid": "irKAfU"
           }
-        ]
+        ],
+        "_tid": "TR026s"
       },
       {
         "name": "Alexandre Saïdi",
@@ -95,29 +112,37 @@
         "linkedin": "https://www.linkedin.com/in/alexandre-s-0b7b33119/",
         "qualities": [
           {
-            "text": "Autonomie complète"
+            "text": "Autonomie complète",
+            "_tid": "7vxRuE"
           },
           {
-            "text": "Programmation automates"
+            "text": "Programmation automates",
+            "_tid": "6DlFE5"
           },
           {
-            "text": "Mise en service"
+            "text": "Mise en service",
+            "_tid": "9HYSl8"
           }
         ],
         "skills": [
           {
-            "text": "Programmation PLC/API"
+            "text": "Programmation PLC/API",
+            "_tid": "YKbMSx"
           },
           {
-            "text": "Analyse fonctionnelle"
+            "text": "Analyse fonctionnelle",
+            "_tid": "sgxf3D"
           },
           {
-            "text": "SCADA / IHM"
+            "text": "SCADA / IHM",
+            "_tid": "GcOxMl"
           },
           {
-            "text": "Mise en service terrain"
+            "text": "Mise en service terrain",
+            "_tid": "YkWaEK"
           }
-        ]
+        ],
+        "_tid": "va7qHH"
       }
     ]
   }

@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "4 signaux qui indiquent que votre système industriel doit évoluer",
+      "de": "4 Anzeichen dafür, dass Ihr Industriesystem weiterentwickelt werden muss"
+    },
+    "data.content": {
+      "source": "<ul><li><strong>Vos données de production sont inaccessibles ou peu fiables</strong> — pas de visibilité temps réel sur vos KPI et performances machines.</li><li>Vos techniciens diagnostiquent en aveugle, sans historique d'alarmes ni supervision centralisée.</li><li>Vos automates anciens freinent la productivité et deviennent impossibles à maintenir ou faire évoluer.</li><li>Votre outil de supervision est obsolète, cloisonné ou tout simplement absent.</li></ul>",
+      "de": "<ul><li><strong>Ihre Produktionsdaten sind unzugänglich oder unzuverlässig</strong> – keine Echtzeit-Transparenz Ihrer KPIs und Maschinenleistung.</li><li>Ihre Techniker diagnostizieren im Blindflug, ohne Alarmhistorie oder zentrale Überwachung.</li><li>Ihre alten Steuerungen verlangsamen die Produktivität und werden unmöglich zu warten oder weiterzuentwickeln.</li><li>Ihre Überwachungslösung ist veraltet, isoliert oder schlichtweg nicht vorhanden.</li></ul>"
+    }
+  }
+}

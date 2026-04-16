@@ -17,11 +17,13 @@
     "socialLinks": [
       {
         "platform": "linkedin",
-        "href": "https://www.linkedin.com/company/autemautomation/"
+        "href": "https://www.linkedin.com/company/autemautomation/",
+        "_tid": "Njgfv8"
       },
       {
         "platform": "youtube",
-        "href": "https://www.youtube.com/@AUTEM_Industrial_Automation"
+        "href": "https://www.youtube.com/@AUTEM_Industrial_Automation",
+        "_tid": "yMgfI9"
       }
     ],
     "linkGroups": [
@@ -30,47 +32,58 @@
         "links": [
           {
             "text": "Machines Automatisées",
-            "href": "/nos-offres/machines-automatisees/retrofit-automation"
+            "href": "/nos-offres/machines-automatisees/retrofit-automation",
+            "_tid": "v13uHT"
           },
           {
             "text": "Logiciels de Pilotage",
-            "href": "/nos-offres/logiciels-pilotage/mes-trs-oee/"
+            "href": "/nos-offres/logiciels-pilotage/mes-trs-oee/",
+            "_tid": "nTLZaX"
           },
           {
             "text": "Avis Technique",
-            "href": "/nos-offres/avis-technique/cycle-de-vie-obsolescence/"
+            "href": "/nos-offres/avis-technique/cycle-de-vie-obsolescence/",
+            "_tid": "jSnDAO"
           }
-        ]
+        ],
+        "_tid": "rcI8yc"
       },
       {
         "title": "Equipe",
         "links": [
           {
             "text": "À propos",
-            "href": "/a-propos/manifeste"
+            "href": "/a-propos/manifeste",
+            "_tid": "HSfyVg"
           },
           {
             "text": "Cas Clients",
-            "href": "/cas-clients"
+            "href": "/cas-clients",
+            "_tid": "dmCeAf"
           },
           {
             "text": "Contact",
-            "href": "/contact"
+            "href": "/contact",
+            "_tid": "5pvZbI"
           }
-        ]
+        ],
+        "_tid": "ykEUD4"
       },
       {
         "title": "Ressources",
         "links": [
           {
             "text": "Blog",
-            "href": "/blog"
+            "href": "/blog",
+            "_tid": "mwbLYV"
           },
           {
             "text": "Plan du Site",
-            "href": "/plan-du-site"
+            "href": "/plan-du-site",
+            "_tid": "OcbkxW"
           }
-        ]
+        ],
+        "_tid": "FFn83x"
       }
     ],
     "legal": {
@@ -78,14 +91,16 @@
       "links": [
         {
           "text": "Mentions légales",
-          "href": "/mentions-legales"
+          "href": "/mentions-legales",
+          "_tid": "zEPkVE"
         }
       ]
     },
     "certifications": [
       {
         "src": "/logos/ignition.png",
-        "alt": "Sample text"
+        "alt": "Sample text",
+        "_tid": "4mVOgt"
       }
     ]
   }

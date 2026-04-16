@@ -19,9 +19,11 @@
           {
             "text": "Prendre contact",
             "link": "/contact",
-            "variant": "primary"
+            "variant": "primary",
+            "_tid": "XHSgG5"
           }
-        ]
+        ],
+        "_tid": "0i9cdK"
       },
       {
         "title": "Se former à l'automatisme industriel",
@@ -35,9 +37,11 @@
           {
             "text": "Voir les formations",
             "link": "https://www.udemy.com",
-            "variant": "secondary"
+            "variant": "secondary",
+            "_tid": "bpkhXr"
           }
-        ]
+        ],
+        "_tid": "rkCXkd"
       }
     ]
   }

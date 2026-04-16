@@ -1,0 +1,113 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Mentions Légales",
+      "de": "Impressum"
+    },
+    "data.editor.companyName": {
+      "source": "AUTEM",
+      "de": "AUTEM"
+    },
+    "data.editor.siren": {
+      "source": "918 577 354",
+      "de": "918 577 354"
+    },
+    "data.editor.tvaNumber": {
+      "source": "FR 01 918 577 354",
+      "de": "FR 01 918 577 354"
+    },
+    "data.editor.address.street": {
+      "source": "60 rue François 1er",
+      "de": "60 rue François 1er"
+    },
+    "data.editor.address.city": {
+      "source": "Paris",
+      "de": "Paris"
+    },
+    "data.editor.address.zip": {
+      "source": "75008",
+      "de": "75008"
+    },
+    "data.editor.address.country": {
+      "source": "France",
+      "de": "Frankreich"
+    },
+    "data.editor.email": {
+      "source": "contact@autem-services.fr",
+      "de": "contact@autem-services.fr"
+    },
+    "data.editor.phone": {
+      "source": "+33 6 17 43 68 02",
+      "de": "+33 6 17 43 68 02"
+    },
+    "data.editor.director": {
+      "source": "Marc Akoto",
+      "de": "Marc Akoto"
+    },
+    "data.editor.foundedYear": {
+      "source": "2021",
+      "de": "2021"
+    },
+    "data.editor.description": {
+      "source": "Fondée en 2021, AUTEM propose une gamme de services variés, incluant l'Intégration SCADA, le Pilotage et les Logiciels MES, ainsi que des prestations en tant que Fournisseur et Prestataire de services.",
+      "de": "AUTEM wurde 2021 gegründet und bietet ein breites Spektrum an Dienstleistungen an, einschließlich SCADA-Integration, Steuerung und MES-Software sowie Dienstleistungen als Dienstleister und Serviceanbieter."
+    },
+    "data.host.companyName": {
+      "source": "GitHub Inc. (GitHub Pages)",
+      "de": "GitHub Inc. (GitHub Pages)"
+    },
+    "data.host.address.street": {
+      "source": "88 Colin P. Kelly Jr. Street",
+      "de": "88 Colin P. Kelly Jr. Street"
+    },
+    "data.host.address.city": {
+      "source": "San Francisco, CA",
+      "de": "San Francisco, CA"
+    },
+    "data.host.address.zip": {
+      "source": "94107",
+      "de": "94107"
+    },
+    "data.host.address.country": {
+      "source": "États-Unis",
+      "de": "USA"
+    },
+    "data.host.website": {
+      "source": "https://pages.github.com",
+      "de": "https://pages.github.com"
+    },
+    "data.sections[@64C2f6].title": {
+      "source": "Propriété Intellectuelle",
+      "de": "Geistiges Eigentum"
+    },
+    "data.sections[@Ogjh1F].title": {
+      "source": "Responsabilité",
+      "de": "Haftung"
+    },
+    "data.sections[@tt7w7b].title": {
+      "source": "Protection des données (RGPD)",
+      "de": "Datenschutz (DSGVO)"
+    },
+    "data.sections[@Ka6trw].title": {
+      "source": "Cookies",
+      "de": "Cookies"
+    },
+    "data.sections[@64C2f6].content": {
+      "source": "En accédant au site autem-services.fr, vous acceptez de vous conformer au Code de la Propriété Intellectuelle français et plus généralement aux traités et accords internationaux comportant des dispositions relatives à la protection des droits d’auteur, de créations et modèles et/ou de marques.\n\nLe non-respect de l'un de ces droits d'auteur est un délit de contrefaçon sanctionné par l'article L 335-2 du Code de la Propriété Intellectuelle.",
+      "de": "Durch den Zugriff auf die Website autem-services.fr erklären Sie sich damit einverstanden, dem französischen Gesetz über geistiges Eigentum und im Allgemeinen den internationalen Verträgen und Abkommen mit Bestimmungen zum Schutz von Urheberrechten, Schöpfungen, Modellen und/oder Marken zu entsprechen.\n\nDie Nichtbeachtung eines dieser Urheberrechte stellt eine Urheberrechtsverletzung dar, die gemäß Artikel L 335-2 des französischen Gesetzes über geistiges Eigentum geahndet wird."
+    },
+    "data.sections[@Ogjh1F].content": {
+      "source": "AUTEM ne pourra être tenu pour responsables de tous dommages ou pertes avérés ou allégués consécutifs ou en relation avec l’utilisation ou avec le fait d’avoir fait confiance au contenu, à des biens ou des services disponibles sur ce site ou sources externes ou encore en raison de la présence d’un virus, cheval de Troie ou autre parasite de nature intrusive ou destructive sur ces sites ou sources externes. Les éventuels liens hypertextes présents sur le site d'AUTEM et aiguillant les utilisateurs vers d’autres sites n’engagent pas la responsabilité d'AUTEM. En effet, l’entreprise ne peut contrôler les sites et sources externes notamment les informations, publicités...\n\nAUTEM, qui prend soin de vérifier la qualité des informations transmises, ne pourra être tenu comme responsable ni de l’exactitude, ni des erreurs, ni des omissions de celles-ci.\n\nPour nous informer des éventuelles erreurs ou nous faire part de vos remarques concernant le fonctionnement du site, vous pouvez nous contacter via l'adresse suivante: contact@autem-services.fr.",
+      "de": "AUTEM kann nicht für nachgewiesene oder behauptete Schäden oder Verluste haftbar gemacht werden, die infolge der Nutzung oder im Zusammenhang mit dem Vertrauen auf die auf dieser Website oder in externen Quellen verfügbaren Inhalte, Waren oder Dienstleistungen entstehen, oder aufgrund des Vorhandenseins eines Virus, Trojaners oder eines anderen parasitären Elements invasiver oder destruktiver Natur auf diesen Websites oder externen Quellen. Die auf der Website von AUTEM vorhandenen Hyperlinks, die die Benutzer zu anderen Websites führen, begründen keine Haftung seitens AUTEM. Tatsächlich kann das Unternehmen die externen Websites und Quellen, insbesondere Informationen, Werbung usw., nicht kontrollieren.\n\nAUTEM, das sich um die Überprüfung der der Qualität der übermittelten Informationen bemüht, kann weder für die Richtigkeit noch für Fehler oder Auslassungen haftbar gemacht werden.\n\nUm uns über etwaige Fehler zu informieren oder uns Ihre Anmerkungen zum Betrieb der Website mitzuteilen, können Sie uns unter der folgenden Adresse kontaktieren: contact@autem-services.fr."
+    },
+    "data.sections[@tt7w7b].content": {
+      "source": "Conformément au Règlement Général sur la Protection des Données (RGPD), vous disposez d'un droit d'accès, de rectification, de suppression et de portabilité de vos données personnelles.\n\nPour exercer ces droits, contactez-nous à contact@autem-services.fr.",
+      "de": "Gemäß der Datenschutz-Grundverordnung (DSGVO) haben Sie das Recht auf Auskunft, Berichtigung, Löschung und Übertragbarkeit Ihrer personenbezogenen Daten.\n\nUm diese Rechte auszuüben, kontaktieren Sie uns unter contact@autem-services.fr."
+    },
+    "data.sections[@Ka6trw].content": {
+      "source": "Ce site utilise des cookies nécessaires à son bon fonctionnement. En poursuivant votre navigation, vous acceptez l'utilisation de ces cookies.\n\nVous pouvez configurer votre navigateur pour refuser les cookies.",
+      "de": "Diese Website nutzt Cookies, die für ihren ordnungsgemäßen Betrieb erforderlich sind. Durch die Fortsetzung Ihrer Navigation akzeptieren Sie die Verwendung dieser Cookies.\n\nSie können Ihren Browser so konfigurieren, dass er Cookies ablehnt."
+    }
+  }
+}

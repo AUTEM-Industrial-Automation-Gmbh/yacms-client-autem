@@ -1,0 +1,801 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.brand.alt": {
+      "source": "AUTEM Industrial Automation Gmbh",
+      "de": "AUTEM Industrial Automation GmbH"
+    },
+    "data.brand.tagline": {
+      "source": "Depuis 2020, nos spécialistes rénovent vos machines obsolètes pour retrouver performance et autonomie.",
+      "de": "Seit 2020 erneuern unsere Spezialisten Ihre veralteten Maschinen, um Leistung und Autonomie wiederherzustellen."
+    },
+    "data.contact.address": {
+      "source": "Route d'Avry 19, Matran 1753, Fribourg, Suisse",
+      "de": "Route d'Avry 19, Matran 1753, Fribourg, Schweiz"
+    },
+    "data.contact.phone": {
+      "source": "+41 78 442 73 53",
+      "de": "+41 78 442 73 53"
+    },
+    "data.contact.email": {
+      "source": "team@autem.ch",
+      "de": "team@autem.ch"
+    },
+    "data.contact.hours": {
+      "source": "Lun-Ven : 7h-17h",
+      "de": "Mo-Fr: 7-17 Uhr"
+    },
+    "data.linkGroups[@GBmzBA].title": {
+      "source": "Enjeux",
+      "de": "Herausforderungen"
+    },
+    "data.linkGroups[@XMFT47].title": {
+      "source": "Equipe",
+      "de": "Team"
+    },
+    "data.linkGroups[@VJwpkz].title": {
+      "source": "Ressources",
+      "de": "Ressourcen"
+    },
+    "data.linkGroups[@GBmzBA].links[@1ogWSQ].text": {
+      "source": "Machines Automatisées",
+      "de": "Automatisierte Maschinen"
+    },
+    "data.linkGroups[@GBmzBA].links[@QasgKl].text": {
+      "source": "Logiciels de Pilotage",
+      "de": "Steuerungssoftware"
+    },
+    "data.linkGroups[@GBmzBA].links[@Q0gXYT].text": {
+      "source": "Avis Technique",
+      "de": "Technische Beratung"
+    },
+    "data.linkGroups[@XMFT47].links[@4sirtz].text": {
+      "source": "À propos",
+      "de": "Über uns"
+    },
+    "data.linkGroups[@XMFT47].links[@7aYczd].text": {
+      "source": "Cas Clients",
+      "de": "Kundenfälle"
+    },
+    "data.linkGroups[@XMFT47].links[@Yb10xZ].text": {
+      "source": "Contact",
+      "de": "Kontakt"
+    },
+    "data.linkGroups[@VJwpkz].links[@ZP9mZc].text": {
+      "source": "Blog",
+      "de": "Blog"
+    },
+    "data.linkGroups[@VJwpkz].links[@6HQWFp].text": {
+      "source": "Plan du Site",
+      "de": "Sitemap"
+    },
+    "data.linkGroups[@GBmzBA].links[@1ogWSQ].href": {
+      "source": "/nos-offres/machines-automatisees/retrofit-automation",
+      "de": "/unsere-angebote/automatisierte-maschinen/retrofit-automation"
+    },
+    "data.linkGroups[@GBmzBA].links[@QasgKl].href": {
+      "source": "/nos-offres/logiciels-pilotage/mes-trs-oee/",
+      "de": "/unsere-angebote/steuerungssoftware/mes-trs-oee/"
+    },
+    "data.linkGroups[@GBmzBA].links[@Q0gXYT].href": {
+      "source": "/nos-offres/avis-technique/cycle-de-vie-obsolescence/",
+      "de": "/unsere-angebote/technische-beratung/lebenszyklus-obsoleszenz/"
+    },
+    "data.linkGroups[@XMFT47].links[@4sirtz].href": {
+      "source": "/a-propos/manifeste",
+      "de": "/ueber-uns/manifest"
+    },
+    "data.linkGroups[@XMFT47].links[@7aYczd].href": {
+      "source": "/cas-clients",
+      "de": "/kundenfaelle"
+    },
+    "data.linkGroups[@XMFT47].links[@Yb10xZ].href": {
+      "source": "/contact",
+      "de": "/kontakt"
+    },
+    "data.linkGroups[@VJwpkz].links[@ZP9mZc].href": {
+      "source": "/blog",
+      "de": "/blog"
+    },
+    "data.linkGroups[@VJwpkz].links[@6HQWFp].href": {
+      "source": "/plan-du-site",
+      "de": "/sitemap"
+    },
+    "data.socialLinks[@wV2mWM].href": {
+      "source": "https://www.linkedin.com/company/autemautomation/",
+      "de": "https://www.linkedin.com/company/autemautomation/"
+    },
+    "data.socialLinks[@8rbF8K].href": {
+      "source": "https://www.youtube.com/@AUTEM_Industrial_Automation",
+      "de": "https://www.youtube.com/@AUTEM_Industrial_Automation"
+    },
+    "data.legal.copyright": {
+      "source": "Tous droits réservés.",
+      "de": "Alle Rechte vorbehalten."
+    },
+    "data.legal.links[@edgOx5].text": {
+      "source": "Mentions légales",
+      "de": "Impressum"
+    },
+    "data.legal.links[@edgOx5].href": {
+      "source": "/mentions-legales",
+      "de": "/impressum"
+    },
+    "data.certifications[@nwl2b1].alt": {
+      "source": "Sample text",
+      "de": "Beispieltext"
+    },
+    "data.linkGroups[@DQmps4].title": {
+      "source": "Enjeux",
+      "de": "Herausforderungen"
+    },
+    "data.linkGroups[@FRWpoL].title": {
+      "source": "Equipe",
+      "de": "Team"
+    },
+    "data.linkGroups[@JDxKQK].title": {
+      "source": "Ressources",
+      "de": "Ressourcen"
+    },
+    "data.linkGroups[@DQmps4].links[@0FzXyC].text": {
+      "source": "Machines Automatisées",
+      "de": "Automatisierte Maschinen"
+    },
+    "data.linkGroups[@DQmps4].links[@kHLjIF].text": {
+      "source": "Logiciels de Pilotage",
+      "de": "Steuerungssoftware"
+    },
+    "data.linkGroups[@DQmps4].links[@zYyFGb].text": {
+      "source": "Avis Technique",
+      "de": "Technische Beratung"
+    },
+    "data.linkGroups[@FRWpoL].links[@ntuqXe].text": {
+      "source": "À propos",
+      "de": "Über uns"
+    },
+    "data.linkGroups[@FRWpoL].links[@b5gsph].text": {
+      "source": "Cas Clients",
+      "de": "Kundenfälle"
+    },
+    "data.linkGroups[@FRWpoL].links[@xym8hi].text": {
+      "source": "Contact",
+      "de": "Kontakt"
+    },
+    "data.linkGroups[@JDxKQK].links[@a3ugwR].text": {
+      "source": "Blog",
+      "de": "Blog"
+    },
+    "data.linkGroups[@JDxKQK].links[@MXay1Q].text": {
+      "source": "Plan du Site",
+      "de": "Sitemap"
+    },
+    "data.linkGroups[@DQmps4].links[@0FzXyC].href": {
+      "source": "/nos-offres/machines-automatisees/retrofit-automation",
+      "de": "/unsere-angebote/automatisierte-maschinen/retrofit-automatisierung"
+    },
+    "data.linkGroups[@DQmps4].links[@kHLjIF].href": {
+      "source": "/nos-offres/logiciels-pilotage/mes-trs-oee/",
+      "de": "/unsere-angebote/steuerungssoftware/mes-trs-oee/"
+    },
+    "data.linkGroups[@DQmps4].links[@zYyFGb].href": {
+      "source": "/nos-offres/avis-technique/cycle-de-vie-obsolescence/",
+      "de": "/unsere-angebote/technische-beratung/lebenszyklus-obsoleszenz/"
+    },
+    "data.linkGroups[@FRWpoL].links[@ntuqXe].href": {
+      "source": "/a-propos/manifeste",
+      "de": "/ueber-uns/manifest"
+    },
+    "data.linkGroups[@FRWpoL].links[@b5gsph].href": {
+      "source": "/cas-clients",
+      "de": "/kundenfaelle"
+    },
+    "data.linkGroups[@FRWpoL].links[@xym8hi].href": {
+      "source": "/contact",
+      "de": "/kontakt"
+    },
+    "data.linkGroups[@JDxKQK].links[@a3ugwR].href": {
+      "source": "/blog",
+      "de": "/blog"
+    },
+    "data.linkGroups[@JDxKQK].links[@MXay1Q].href": {
+      "source": "/plan-du-site",
+      "de": "/sitemap"
+    },
+    "data.socialLinks[@qi79Q9].href": {
+      "source": "https://www.linkedin.com/company/autemautomation/",
+      "de": "https://www.linkedin.com/company/autemautomation/"
+    },
+    "data.socialLinks[@V6eht4].href": {
+      "source": "https://www.youtube.com/@AUTEM_Industrial_Automation",
+      "de": "https://www.youtube.com/@AUTEM_Industrial_Automation"
+    },
+    "data.legal.links[@QKrfKC].text": {
+      "source": "Mentions légales",
+      "de": "Impressum"
+    },
+    "data.legal.links[@QKrfKC].href": {
+      "source": "/mentions-legales",
+      "de": "/impressum"
+    },
+    "data.certifications[@YWpMvb].alt": {
+      "source": "Sample text",
+      "de": "Beispieltext"
+    },
+    "data.linkGroups[@2IbudZ].title": {
+      "source": "Enjeux",
+      "de": "Herausforderungen"
+    },
+    "data.linkGroups[@pT3V5y].title": {
+      "source": "Equipe",
+      "de": "Team"
+    },
+    "data.linkGroups[@gHx3Qb].title": {
+      "source": "Ressources",
+      "de": "Ressourcen"
+    },
+    "data.linkGroups[@2IbudZ].links[@BegLTw].text": {
+      "source": "Machines Automatisées",
+      "de": "Automatisierte Maschinen"
+    },
+    "data.linkGroups[@2IbudZ].links[@shfLJC].text": {
+      "source": "Logiciels de Pilotage",
+      "de": "Steuerungssoftware"
+    },
+    "data.linkGroups[@2IbudZ].links[@b1Z4nr].text": {
+      "source": "Avis Technique",
+      "de": "Technische Beratung"
+    },
+    "data.linkGroups[@pT3V5y].links[@i0j2mg].text": {
+      "source": "À propos",
+      "de": "Über uns"
+    },
+    "data.linkGroups[@pT3V5y].links[@JxUBpG].text": {
+      "source": "Cas Clients",
+      "de": "Kundenreferenzen"
+    },
+    "data.linkGroups[@pT3V5y].links[@3rfjNJ].text": {
+      "source": "Contact",
+      "de": "Kontakt"
+    },
+    "data.linkGroups[@gHx3Qb].links[@ILF1VD].text": {
+      "source": "Blog",
+      "de": "Blog"
+    },
+    "data.linkGroups[@gHx3Qb].links[@7LYHGB].text": {
+      "source": "Plan du Site",
+      "de": "Sitemap"
+    },
+    "data.linkGroups[@2IbudZ].links[@BegLTw].href": {
+      "source": "/nos-offres/machines-automatisees/retrofit-automation",
+      "de": "/nos-offres/machines-automatisees/retrofit-automation"
+    },
+    "data.linkGroups[@2IbudZ].links[@shfLJC].href": {
+      "source": "/nos-offres/logiciels-pilotage/mes-trs-oee/",
+      "de": "/nos-offres/logiciels-pilotage/mes-trs-oee/"
+    },
+    "data.linkGroups[@2IbudZ].links[@b1Z4nr].href": {
+      "source": "/nos-offres/avis-technique/cycle-de-vie-obsolescence/",
+      "de": "/nos-offres/avis-technique/cycle-de-vie-obsolescence/"
+    },
+    "data.linkGroups[@pT3V5y].links[@i0j2mg].href": {
+      "source": "/a-propos/manifeste",
+      "de": "/a-propos/manifeste"
+    },
+    "data.linkGroups[@pT3V5y].links[@JxUBpG].href": {
+      "source": "/cas-clients",
+      "de": "/cas-clients"
+    },
+    "data.linkGroups[@pT3V5y].links[@3rfjNJ].href": {
+      "source": "/contact",
+      "de": "/contact"
+    },
+    "data.linkGroups[@gHx3Qb].links[@ILF1VD].href": {
+      "source": "/blog",
+      "de": "/blog"
+    },
+    "data.linkGroups[@gHx3Qb].links[@7LYHGB].href": {
+      "source": "/plan-du-site",
+      "de": "/plan-du-site"
+    },
+    "data.socialLinks[@Q3i2dd].href": {
+      "source": "https://www.linkedin.com/company/autemautomation/",
+      "de": "https://www.linkedin.com/company/autemautomation/"
+    },
+    "data.socialLinks[@FpZ3Hc].href": {
+      "source": "https://www.youtube.com/@AUTEM_Industrial_Automation",
+      "de": "https://www.youtube.com/@AUTEM_Industrial_Automation"
+    },
+    "data.legal.links[@wPBY08].text": {
+      "source": "Mentions légales",
+      "de": "Impressum"
+    },
+    "data.legal.links[@wPBY08].href": {
+      "source": "/mentions-legales",
+      "de": "/mentions-legales"
+    },
+    "data.certifications[@ufcsci].alt": {
+      "source": "Sample text",
+      "de": "Beispieltext"
+    },
+    "data.linkGroups[@x3A1pz].title": {
+      "source": "Enjeux",
+      "de": "Herausforderungen"
+    },
+    "data.linkGroups[@gIZ2Zl].title": {
+      "source": "Equipe",
+      "de": "Team"
+    },
+    "data.linkGroups[@422nwk].title": {
+      "source": "Ressources",
+      "de": "Ressourcen"
+    },
+    "data.linkGroups[@x3A1pz].links[@USbGTy].text": {
+      "source": "Machines Automatisées",
+      "de": "Automatisierte Maschinen"
+    },
+    "data.linkGroups[@x3A1pz].links[@RmwAhF].text": {
+      "source": "Logiciels de Pilotage",
+      "de": "Steuerungssoftware"
+    },
+    "data.linkGroups[@x3A1pz].links[@sOgcwr].text": {
+      "source": "Avis Technique",
+      "de": "Technische Beratung"
+    },
+    "data.linkGroups[@gIZ2Zl].links[@TOZiJp].text": {
+      "source": "À propos",
+      "de": "Über uns"
+    },
+    "data.linkGroups[@gIZ2Zl].links[@uAuTne].text": {
+      "source": "Cas Clients",
+      "de": "Kundenbeispiele"
+    },
+    "data.linkGroups[@gIZ2Zl].links[@tBYGIE].text": {
+      "source": "Contact",
+      "de": "Kontakt"
+    },
+    "data.linkGroups[@422nwk].links[@CjfhvP].text": {
+      "source": "Blog",
+      "de": "Blog"
+    },
+    "data.linkGroups[@422nwk].links[@5hzaYZ].text": {
+      "source": "Plan du Site",
+      "de": "Sitemap"
+    },
+    "data.linkGroups[@x3A1pz].links[@USbGTy].href": {
+      "source": "/nos-offres/machines-automatisees/retrofit-automation",
+      "de": "/nos-offres/machines-automatisees/retrofit-automation"
+    },
+    "data.linkGroups[@x3A1pz].links[@RmwAhF].href": {
+      "source": "/nos-offres/logiciels-pilotage/mes-trs-oee/",
+      "de": "/nos-offres/logiciels-pilotage/mes-trs-oee/"
+    },
+    "data.linkGroups[@x3A1pz].links[@sOgcwr].href": {
+      "source": "/nos-offres/avis-technique/cycle-de-vie-obsolescence/",
+      "de": "/nos-offres/avis-technique/cycle-de-vie-obsolescence/"
+    },
+    "data.linkGroups[@gIZ2Zl].links[@TOZiJp].href": {
+      "source": "/a-propos/manifeste",
+      "de": "/a-propos/manifeste"
+    },
+    "data.linkGroups[@gIZ2Zl].links[@uAuTne].href": {
+      "source": "/cas-clients",
+      "de": "/cas-clients"
+    },
+    "data.linkGroups[@gIZ2Zl].links[@tBYGIE].href": {
+      "source": "/contact",
+      "de": "/contact"
+    },
+    "data.linkGroups[@422nwk].links[@CjfhvP].href": {
+      "source": "/blog",
+      "de": "/blog"
+    },
+    "data.linkGroups[@422nwk].links[@5hzaYZ].href": {
+      "source": "/plan-du-site",
+      "de": "/plan-du-site"
+    },
+    "data.socialLinks[@juW6Pe].href": {
+      "source": "https://www.linkedin.com/company/autemautomation/",
+      "de": "https://www.linkedin.com/company/autemautomation/"
+    },
+    "data.socialLinks[@KVBT5n].href": {
+      "source": "https://www.youtube.com/@AUTEM_Industrial_Automation",
+      "de": "https://www.youtube.com/@AUTEM_Industrial_Automation"
+    },
+    "data.legal.links[@4dPt6G].text": {
+      "source": "Mentions légales",
+      "de": "Impressum"
+    },
+    "data.legal.links[@4dPt6G].href": {
+      "source": "/mentions-legales",
+      "de": "/mentions-legales"
+    },
+    "data.certifications[@oovlKL].alt": {
+      "source": "Sample text",
+      "de": "Beispieltext"
+    },
+    "data.linkGroups[@xlY2fZ].title": {
+      "source": "Enjeux",
+      "de": "Herausforderungen"
+    },
+    "data.linkGroups[@VEOh4q].title": {
+      "source": "Equipe",
+      "de": "Team"
+    },
+    "data.linkGroups[@dyvR3r].title": {
+      "source": "Ressources",
+      "de": "Ressourcen"
+    },
+    "data.linkGroups[@xlY2fZ].links[@dkb2zL].text": {
+      "source": "Machines Automatisées",
+      "de": "Automatisierte Maschinen"
+    },
+    "data.linkGroups[@xlY2fZ].links[@AvY7x8].text": {
+      "source": "Logiciels de Pilotage",
+      "de": "Steuerungssoftware"
+    },
+    "data.linkGroups[@xlY2fZ].links[@FnifDi].text": {
+      "source": "Avis Technique",
+      "de": "Technische Beratung"
+    },
+    "data.linkGroups[@VEOh4q].links[@jT34gU].text": {
+      "source": "À propos",
+      "de": "Über uns"
+    },
+    "data.linkGroups[@VEOh4q].links[@hplfZn].text": {
+      "source": "Cas Clients",
+      "de": "Kundenbeispiele"
+    },
+    "data.linkGroups[@VEOh4q].links[@C1guBM].text": {
+      "source": "Contact",
+      "de": "Kontakt"
+    },
+    "data.linkGroups[@dyvR3r].links[@lQl6Yq].text": {
+      "source": "Blog",
+      "de": "Blog"
+    },
+    "data.linkGroups[@dyvR3r].links[@OuddXF].text": {
+      "source": "Plan du Site",
+      "de": "Sitemap"
+    },
+    "data.linkGroups[@xlY2fZ].links[@dkb2zL].href": {
+      "source": "/nos-offres/machines-automatisees/retrofit-automation",
+      "de": "/nos-offres/machines-automatisees/retrofit-automation"
+    },
+    "data.linkGroups[@xlY2fZ].links[@AvY7x8].href": {
+      "source": "/nos-offres/logiciels-pilotage/mes-trs-oee/",
+      "de": "/nos-offres/logiciels-pilotage/mes-trs-oee/"
+    },
+    "data.linkGroups[@xlY2fZ].links[@FnifDi].href": {
+      "source": "/nos-offres/avis-technique/cycle-de-vie-obsolescence/",
+      "de": "/nos-offres/avis-technique/cycle-de-vie-obsolescence/"
+    },
+    "data.linkGroups[@VEOh4q].links[@jT34gU].href": {
+      "source": "/a-propos/manifeste",
+      "de": "/a-propos/manifeste"
+    },
+    "data.linkGroups[@VEOh4q].links[@hplfZn].href": {
+      "source": "/cas-clients",
+      "de": "/cas-clients"
+    },
+    "data.linkGroups[@VEOh4q].links[@C1guBM].href": {
+      "source": "/contact",
+      "de": "/contact"
+    },
+    "data.linkGroups[@dyvR3r].links[@lQl6Yq].href": {
+      "source": "/blog",
+      "de": "/blog"
+    },
+    "data.linkGroups[@dyvR3r].links[@OuddXF].href": {
+      "source": "/plan-du-site",
+      "de": "/plan-du-site"
+    },
+    "data.socialLinks[@pRj5jy].href": {
+      "source": "https://www.linkedin.com/company/autemautomation/",
+      "de": "https://www.linkedin.com/company/autemautomation/"
+    },
+    "data.socialLinks[@SAuqry].href": {
+      "source": "https://www.youtube.com/@AUTEM_Industrial_Automation",
+      "de": "https://www.youtube.com/@AUTEM_Industrial_Automation"
+    },
+    "data.legal.links[@HmdfFz].text": {
+      "source": "Mentions légales",
+      "de": "Impressum"
+    },
+    "data.legal.links[@HmdfFz].href": {
+      "source": "/mentions-legales",
+      "de": "/mentions-legales"
+    },
+    "data.certifications[@36NGXw].alt": {
+      "source": "Sample text",
+      "de": "Beispieltext"
+    },
+    "data.linkGroups[@USSQd7].title": {
+      "source": "Enjeux",
+      "de": "Herausforderungen"
+    },
+    "data.linkGroups[@Fhg1qV].title": {
+      "source": "Equipe",
+      "de": "Team"
+    },
+    "data.linkGroups[@j3GUKm].title": {
+      "source": "Ressources",
+      "de": "Ressourcen"
+    },
+    "data.linkGroups[@USSQd7].links[@cPVkMs].text": {
+      "source": "Machines Automatisées",
+      "de": "Automatisierte Maschinen"
+    },
+    "data.linkGroups[@USSQd7].links[@hCwMZc].text": {
+      "source": "Logiciels de Pilotage",
+      "de": "Steuerungssoftware"
+    },
+    "data.linkGroups[@USSQd7].links[@58VK86].text": {
+      "source": "Avis Technique",
+      "de": "Technische Beratung"
+    },
+    "data.linkGroups[@Fhg1qV].links[@bkLYgO].text": {
+      "source": "À propos",
+      "de": "Über uns"
+    },
+    "data.linkGroups[@Fhg1qV].links[@iHvEt9].text": {
+      "source": "Cas Clients",
+      "de": "Kundenbeispiele"
+    },
+    "data.linkGroups[@Fhg1qV].links[@aZM6Pv].text": {
+      "source": "Contact",
+      "de": "Kontakt"
+    },
+    "data.linkGroups[@j3GUKm].links[@hZXC2w].text": {
+      "source": "Blog",
+      "de": "Blog"
+    },
+    "data.linkGroups[@j3GUKm].links[@VYeoJZ].text": {
+      "source": "Plan du Site",
+      "de": "Sitemap"
+    },
+    "data.linkGroups[@USSQd7].links[@cPVkMs].href": {
+      "source": "/nos-offres/machines-automatisees/retrofit-automation",
+      "de": "/nos-offres/machines-automatisees/retrofit-automation"
+    },
+    "data.linkGroups[@USSQd7].links[@hCwMZc].href": {
+      "source": "/nos-offres/logiciels-pilotage/mes-trs-oee/",
+      "de": "/nos-offres/logiciels-pilotage/mes-trs-oee/"
+    },
+    "data.linkGroups[@USSQd7].links[@58VK86].href": {
+      "source": "/nos-offres/avis-technique/cycle-de-vie-obsolescence/",
+      "de": "/nos-offres/avis-technique/cycle-de-vie-obsolescence/"
+    },
+    "data.linkGroups[@Fhg1qV].links[@bkLYgO].href": {
+      "source": "/a-propos/manifeste",
+      "de": "/a-propos/manifeste"
+    },
+    "data.linkGroups[@Fhg1qV].links[@iHvEt9].href": {
+      "source": "/cas-clients",
+      "de": "/cas-clients"
+    },
+    "data.linkGroups[@Fhg1qV].links[@aZM6Pv].href": {
+      "source": "/contact",
+      "de": "/contact"
+    },
+    "data.linkGroups[@j3GUKm].links[@hZXC2w].href": {
+      "source": "/blog",
+      "de": "/blog"
+    },
+    "data.linkGroups[@j3GUKm].links[@VYeoJZ].href": {
+      "source": "/plan-du-site",
+      "de": "/plan-du-site"
+    },
+    "data.socialLinks[@eZtBFL].href": {
+      "source": "https://www.linkedin.com/company/autemautomation/",
+      "de": "https://www.linkedin.com/company/autemautomation/"
+    },
+    "data.socialLinks[@VxW9QQ].href": {
+      "source": "https://www.youtube.com/@AUTEM_Industrial_Automation",
+      "de": "https://www.youtube.com/@AUTEM_Industrial_Automation"
+    },
+    "data.legal.links[@8K2QwC].text": {
+      "source": "Mentions légales",
+      "de": "Impressum"
+    },
+    "data.legal.links[@8K2QwC].href": {
+      "source": "/mentions-legales",
+      "de": "/mentions-legales"
+    },
+    "data.certifications[@Mcs0gf].alt": {
+      "source": "Sample text",
+      "de": "Beispieltext"
+    },
+    "data.linkGroups[@nhXOGt].title": {
+      "source": "Enjeux",
+      "de": "Herausforderungen"
+    },
+    "data.linkGroups[@olfHom].title": {
+      "source": "Equipe",
+      "de": "Team"
+    },
+    "data.linkGroups[@t5scc0].title": {
+      "source": "Ressources",
+      "de": "Ressourcen"
+    },
+    "data.linkGroups[@nhXOGt].links[@5MF9K4].text": {
+      "source": "Machines Automatisées",
+      "de": "Automatisierte Maschinen"
+    },
+    "data.linkGroups[@nhXOGt].links[@Wfib1h].text": {
+      "source": "Logiciels de Pilotage",
+      "de": "Steuerungssoftware"
+    },
+    "data.linkGroups[@nhXOGt].links[@O58VBJ].text": {
+      "source": "Avis Technique",
+      "de": "Technisches Gutachten"
+    },
+    "data.linkGroups[@olfHom].links[@TJSCu6].text": {
+      "source": "À propos",
+      "de": "Über uns"
+    },
+    "data.linkGroups[@olfHom].links[@wRlKFu].text": {
+      "source": "Cas Clients",
+      "de": "Kundenbeispiele"
+    },
+    "data.linkGroups[@olfHom].links[@WZcjgl].text": {
+      "source": "Contact",
+      "de": "Kontakt"
+    },
+    "data.linkGroups[@t5scc0].links[@FJc4AW].text": {
+      "source": "Blog",
+      "de": "Blog"
+    },
+    "data.linkGroups[@t5scc0].links[@GnqKt0].text": {
+      "source": "Plan du Site",
+      "de": "Sitemap"
+    },
+    "data.linkGroups[@nhXOGt].links[@5MF9K4].href": {
+      "source": "/nos-offres/machines-automatisees/retrofit-automation",
+      "de": "/nos-offres/machines-automatisees/retrofit-automation"
+    },
+    "data.linkGroups[@nhXOGt].links[@Wfib1h].href": {
+      "source": "/nos-offres/logiciels-pilotage/mes-trs-oee/",
+      "de": "/nos-offres/logiciels-pilotage/mes-trs-oee/"
+    },
+    "data.linkGroups[@nhXOGt].links[@O58VBJ].href": {
+      "source": "/nos-offres/avis-technique/cycle-de-vie-obsolescence/",
+      "de": "/nos-offres/avis-technique/cycle-de-vie-obsolescence/"
+    },
+    "data.linkGroups[@olfHom].links[@TJSCu6].href": {
+      "source": "/a-propos/manifeste",
+      "de": "/a-propos/manifeste"
+    },
+    "data.linkGroups[@olfHom].links[@wRlKFu].href": {
+      "source": "/cas-clients",
+      "de": "/cas-clients"
+    },
+    "data.linkGroups[@olfHom].links[@WZcjgl].href": {
+      "source": "/contact",
+      "de": "/contact"
+    },
+    "data.linkGroups[@t5scc0].links[@FJc4AW].href": {
+      "source": "/blog",
+      "de": "/blog"
+    },
+    "data.linkGroups[@t5scc0].links[@GnqKt0].href": {
+      "source": "/plan-du-site",
+      "de": "/plan-du-site"
+    },
+    "data.socialLinks[@5CQzaz].href": {
+      "source": "https://www.linkedin.com/company/autemautomation/",
+      "de": "https://www.linkedin.com/company/autemautomation/"
+    },
+    "data.socialLinks[@agqfEn].href": {
+      "source": "https://www.youtube.com/@AUTEM_Industrial_Automation",
+      "de": "https://www.youtube.com/@AUTEM_Industrial_Automation"
+    },
+    "data.legal.links[@F9AK48].text": {
+      "source": "Mentions légales",
+      "de": "Impressum"
+    },
+    "data.legal.links[@F9AK48].href": {
+      "source": "/mentions-legales",
+      "de": "/mentions-legales"
+    },
+    "data.certifications[@mVJCcB].alt": {
+      "source": "Sample text",
+      "de": "Beispieltext"
+    },
+    "data.linkGroups[@rcI8yc].title": {
+      "source": "Enjeux",
+      "de": "Herausforderungen"
+    },
+    "data.linkGroups[@ykEUD4].title": {
+      "source": "Equipe",
+      "de": "Team"
+    },
+    "data.linkGroups[@FFn83x].title": {
+      "source": "Ressources",
+      "de": "Ressourcen"
+    },
+    "data.linkGroups[@rcI8yc].links[@v13uHT].text": {
+      "source": "Machines Automatisées",
+      "de": "Automatisierte Maschinen"
+    },
+    "data.linkGroups[@rcI8yc].links[@nTLZaX].text": {
+      "source": "Logiciels de Pilotage",
+      "de": "Steuerungssoftware"
+    },
+    "data.linkGroups[@rcI8yc].links[@jSnDAO].text": {
+      "source": "Avis Technique",
+      "de": "Technisches Gutachten"
+    },
+    "data.linkGroups[@ykEUD4].links[@HSfyVg].text": {
+      "source": "À propos",
+      "de": "Über uns"
+    },
+    "data.linkGroups[@ykEUD4].links[@dmCeAf].text": {
+      "source": "Cas Clients",
+      "de": "Kundenbeispiele"
+    },
+    "data.linkGroups[@ykEUD4].links[@5pvZbI].text": {
+      "source": "Contact",
+      "de": "Kontakt"
+    },
+    "data.linkGroups[@FFn83x].links[@mwbLYV].text": {
+      "source": "Blog",
+      "de": "Blog"
+    },
+    "data.linkGroups[@FFn83x].links[@OcbkxW].text": {
+      "source": "Plan du Site",
+      "de": "Sitemap"
+    },
+    "data.linkGroups[@rcI8yc].links[@v13uHT].href": {
+      "source": "/nos-offres/machines-automatisees/retrofit-automation",
+      "de": "/nos-offres/machines-automatisees/retrofit-automation"
+    },
+    "data.linkGroups[@rcI8yc].links[@nTLZaX].href": {
+      "source": "/nos-offres/logiciels-pilotage/mes-trs-oee/",
+      "de": "/nos-offres/logiciels-pilotage/mes-trs-oee/"
+    },
+    "data.linkGroups[@rcI8yc].links[@jSnDAO].href": {
+      "source": "/nos-offres/avis-technique/cycle-de-vie-obsolescence/",
+      "de": "/nos-offres/avis-technique/cycle-de-vie-obsolescence/"
+    },
+    "data.linkGroups[@ykEUD4].links[@HSfyVg].href": {
+      "source": "/a-propos/manifeste",
+      "de": "/a-propos/manifeste"
+    },
+    "data.linkGroups[@ykEUD4].links[@dmCeAf].href": {
+      "source": "/cas-clients",
+      "de": "/cas-clients"
+    },
+    "data.linkGroups[@ykEUD4].links[@5pvZbI].href": {
+      "source": "/contact",
+      "de": "/contact"
+    },
+    "data.linkGroups[@FFn83x].links[@mwbLYV].href": {
+      "source": "/blog",
+      "de": "/blog"
+    },
+    "data.linkGroups[@FFn83x].links[@OcbkxW].href": {
+      "source": "/plan-du-site",
+      "de": "/plan-du-site"
+    },
+    "data.socialLinks[@Njgfv8].href": {
+      "source": "https://www.linkedin.com/company/autemautomation/",
+      "de": "https://www.linkedin.com/company/autemautomation/"
+    },
+    "data.socialLinks[@yMgfI9].href": {
+      "source": "https://www.youtube.com/@AUTEM_Industrial_Automation",
+      "de": "https://www.youtube.com/@AUTEM_Industrial_Automation"
+    },
+    "data.legal.links[@zEPkVE].text": {
+      "source": "Mentions légales",
+      "de": "Impressum"
+    },
+    "data.legal.links[@zEPkVE].href": {
+      "source": "/mentions-legales",
+      "de": "/mentions-legales"
+    },
+    "data.certifications[@4mVOgt].alt": {
+      "source": "Sample text",
+      "de": "Beispieltext"
+    }
+  }
+}

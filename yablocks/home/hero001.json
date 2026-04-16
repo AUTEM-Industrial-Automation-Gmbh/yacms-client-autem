@@ -26,23 +26,28 @@
       "items": [
         {
           "src": "/logos/coop.png",
-          "alt": "COOP"
+          "alt": "COOP",
+          "_tid": "c0Ja61"
         },
         {
           "src": "/logos/medtronic.jpg",
-          "alt": "Medtronic"
+          "alt": "Medtronic",
+          "_tid": "3dt1OE"
         },
         {
           "src": "/logos/parisaeroportcdg.jpg",
-          "alt": "ADP Paris Aéroports"
+          "alt": "ADP Paris Aéroports",
+          "_tid": "BNmdfV"
         },
         {
           "src": "/logos/caterpillar.png",
-          "alt": "Caterpillar"
+          "alt": "Caterpillar",
+          "_tid": "vHHSti"
         },
         {
           "src": "/logos/verkor.png",
-          "alt": "Verkor"
+          "alt": "Verkor",
+          "_tid": "qGjTpe"
         }
       ]
     }

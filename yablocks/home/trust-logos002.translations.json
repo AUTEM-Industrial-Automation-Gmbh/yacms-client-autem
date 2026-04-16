@@ -1,0 +1,109 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "+6 ans d'impact auprès de 13+ entreprises industrielles",
+      "de": "+6 Jahre Wirkung bei über 13 Industrieunternehmen"
+    },
+    "data.subtitle": {
+      "source": "Ils ont pérennisé leurs usines avec Autem",
+      "de": "Sie haben ihre Werke mit Autem zukunftssicher gemacht"
+    },
+    "data.logos[@SNaDZ4].alt": {
+      "source": "COOP",
+      "de": "COOP"
+    },
+    "data.logos[@HNmRoW].alt": {
+      "source": "Caterpillar",
+      "de": "Caterpillar"
+    },
+    "data.logos[@psU2AQ].alt": {
+      "source": "Verkor",
+      "de": "Verkor"
+    },
+    "data.logos[@JpqGle].alt": {
+      "source": "Medtronic",
+      "de": "Medtronic"
+    },
+    "data.logos[@kXbLeW].alt": {
+      "source": "ADP Paris Aéroports",
+      "de": "ADP Paris Aéroports"
+    },
+    "data.logos[@Jn6Xtg].alt": {
+      "source": "Amazon",
+      "de": "Amazon"
+    },
+    "data.logos[@KSttyN].alt": {
+      "source": "HTH Hermès",
+      "de": "HTH Hermès"
+    },
+    "data.logos[@YF8Dqw].alt": {
+      "source": "Thalys",
+      "de": "Thalys"
+    },
+    "data.logos[@8EeUQC].alt": {
+      "source": "SFTRF",
+      "de": "SFTRF"
+    },
+    "data.logos[@BiHAlm].alt": {
+      "source": "Procter & Gamble",
+      "de": "Procter & Gamble"
+    },
+    "data.logos[@QjNssm].alt": {
+      "source": "Soitec",
+      "de": "Soitec"
+    },
+    "data.logos[@TMAVil].alt": {
+      "source": "Biomérieux",
+      "de": "Biomérieux"
+    },
+    "data.logos[@14k96B].alt": {
+      "source": "COOP",
+      "de": "COOP"
+    },
+    "data.logos[@UgMRUF].alt": {
+      "source": "Caterpillar",
+      "de": "Caterpillar"
+    },
+    "data.logos[@kMNGno].alt": {
+      "source": "Verkor",
+      "de": "Verkor"
+    },
+    "data.logos[@VTIqoe].alt": {
+      "source": "Medtronic",
+      "de": "Medtronic"
+    },
+    "data.logos[@efGIDe].alt": {
+      "source": "ADP Paris Aéroports",
+      "de": "ADP Paris Aéroports"
+    },
+    "data.logos[@28Owiw].alt": {
+      "source": "Amazon",
+      "de": "Amazon"
+    },
+    "data.logos[@88Q6YD].alt": {
+      "source": "HTH Hermès",
+      "de": "HTH Hermès"
+    },
+    "data.logos[@9bdcbJ].alt": {
+      "source": "Thalys",
+      "de": "Thalys"
+    },
+    "data.logos[@d7Mle2].alt": {
+      "source": "SFTRF",
+      "de": "SFTRF"
+    },
+    "data.logos[@8iLpUX].alt": {
+      "source": "Procter & Gamble",
+      "de": "Procter & Gamble"
+    },
+    "data.logos[@2uLJ99].alt": {
+      "source": "Soitec",
+      "de": "Soitec"
+    },
+    "data.logos[@7fmddA].alt": {
+      "source": "Biomérieux",
+      "de": "Biomérieux"
+    }
+  }
+}

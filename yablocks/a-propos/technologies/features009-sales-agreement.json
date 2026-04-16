@@ -8,24 +8,30 @@
     "title": "Programmation d'automates industriels multimarques",
     "paragraphs": [
       {
-        "text": "AUTEM vous accompagne dans la programmation, la maintenance et l'évolution de vos automates industriels, de la phase d'analyse fonctionnelle jusqu'à la mise en service sur site."
+        "text": "AUTEM vous accompagne dans la programmation, la maintenance et l'évolution de vos automates industriels, de la phase d'analyse fonctionnelle jusqu'à la mise en service sur site.",
+        "_tid": "c36iqM"
       },
       {
-        "text": "Nous intervenons sur l'ensemble du cycle projet : conception de l'architecture, programmation des cycles automatisés, tests en plateforme (FAT), mise en service (SAT) et formation des équipes maintenance."
+        "text": "Nous intervenons sur l'ensemble du cycle projet : conception de l'architecture, programmation des cycles automatisés, tests en plateforme (FAT), mise en service (SAT) et formation des équipes maintenance.",
+        "_tid": "mzfF2l"
       }
     ],
     "highlights": [
       {
-        "text": "Siemens S7-300/400/1200/1500 (TIA Portal)"
+        "text": "Siemens S7-300/400/1200/1500 (TIA Portal)",
+        "_tid": "Iq0irK"
       },
       {
-        "text": "Rockwell / Allen Bradley (Studio 5000)"
+        "text": "Rockwell / Allen Bradley (Studio 5000)",
+        "_tid": "L67ygX"
       },
       {
-        "text": "Schneider Electric (Unity Pro / EcoStruxure)"
+        "text": "Schneider Electric (Unity Pro / EcoStruxure)",
+        "_tid": "epWxmu"
       },
       {
-        "text": "Wago, Eaton — et autres constructeurs sur demande"
+        "text": "Wago, Eaton — et autres constructeurs sur demande",
+        "_tid": "NDbB9q"
       }
     ],
     "conclusion": "Résultat : vos programmes sont documentés, maintenables et évolutifs. Vos techniciens peuvent intervenir en autonomie. Et vos lignes de production tournent sans surprise.",
