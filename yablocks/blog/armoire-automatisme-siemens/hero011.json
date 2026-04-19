@@ -1,26 +1,23 @@
 {
   "meta": {
     "component": "blocks/layout/hero/Hero011",
-    "section": "blog/armoire-automatisme-siemens/hero011"
+    "section": "blog/armoire-automatisme-siemens//hero011"
   },
   "data": {
     "backLink": "/blog",
     "backLinkLabel": "Retour au blog",
-    "title": "Siemens Armoire d’automatisme | Identifier les organes | Autem",
+    "title": "Entreprise d'automatisme industriel à Lyon",
     "tags": [
       {
         "label": "Automation",
-        "type": "secteur"
-      },
-      {
-        "label": "PC Industriel",
-        "type": "categorie"
+        "type": "secteur",
+        "_tid": "G8UZMy"
       }
     ],
     "articleMeta": {
-      "readTime": "5 min lecture",
-      "publishDate": "06/01/22",
-      "updatedDate": "17/03/26"
+      "readTime": "4 min lecture",
+      "publishDate": "03/01/22",
+      "updatedDate": "16/04/26"
     }
   }
 }
