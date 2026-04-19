@@ -1,26 +1,23 @@
 {
   "meta": {
     "component": "blocks/layout/hero/Hero011",
-    "section": "blog/formation-et-industrie/hero011"
+    "section": "blog/formation-et-industrie//hero011"
   },
   "data": {
     "backLink": "/blog",
     "backLinkLabel": "Retour au blog",
-    "title": "👷‍♂️ Formation & Techniciens pour l’Industrie du Futur 🏭 - Yannick SUTRA",
+    "title": "Entreprise d'automatisme industriel à Lyon",
     "tags": [
       {
-        "label": "Evolution de l'industrie",
-        "type": "secteur"
-      },
-      {
-        "label": "Astuces Carrière",
-        "type": "categorie"
+        "label": "Automation",
+        "type": "secteur",
+        "_tid": "G8UZMy"
       }
     ],
     "articleMeta": {
-      "readTime": "1 min lecture",
-      "publishDate": "25/03/25",
-      "updatedDate": "17/03/26"
+      "readTime": "4 min lecture",
+      "publishDate": "03/01/22",
+      "updatedDate": "16/04/26"
     }
   }
 }

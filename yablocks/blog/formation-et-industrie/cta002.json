@@ -1,22 +1,22 @@
 {
   "meta": {
     "component": "blocks/content/cta/Cta002",
-    "section": "blog/formation-et-industrie/cta002"
+    "section": "blog/formation-et-industrie//cta002"
   },
   "data": {
-    "title": "Développez vos compétences industrielles",
+    "title": "Un projet d'automatisation industrielle ?",
     "benefits": [
       {
-        "icon": "book-open",
-        "text": "Formations automatisme & supervision adaptées"
+        "icon": "cpu",
+        "text": "Intégration automates Siemens, Rockwell, Schneider"
       },
       {
-        "icon": "users",
-        "text": "Coaching et accompagnement de techniciens"
+        "icon": "settings",
+        "text": "Programmation PLC & variateurs de vitesse"
       },
       {
-        "icon": "award",
-        "text": "Préparation aux certifications industrielles"
+        "icon": "zap",
+        "text": "Mise en service et maintenance sur site"
       }
     ],
     "cta": {
