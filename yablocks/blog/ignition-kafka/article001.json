@@ -10,7 +10,7 @@
         "heading": "Introduction",
         "paragraphs": [
           {
-            "text": "Another lab demo about Kafka. We will discuss about the integration between Kafka and Ignition. I'll talk about Event Streams, REST API, <strong>Bridges(HTTP, Confluent, Debezium). We are trying here to benchmark few integration options in order to find\nout which one fits the best depending on your application. It's all about a tradeoff with your own environment. That's is why I always put here the repo so you can reproduce this demo and make your own conclusion.\n\n",
+            "text": "Another lab demo about Kafka. We will discuss about the integration between Kafka and Ignition. I'll talk about Event Streams, REST API, Bridges(HTTP, Confluent, Debezium). We are trying here to benchmark few integration options in order to find\nout which one fits the best depending on your application. It's all about a tradeoff with your own environment. That's is why I always put here the repo so you can reproduce this demo and make your own conclusion.\n\n",
             "_tid": "O6fidU"
           }
         ],
