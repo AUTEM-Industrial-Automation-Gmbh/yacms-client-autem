@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Automaticien | 10 compétences pour être automaticien en 2022 | Autem | Blog AUTEM",
+    "title": "Automaticien - 10 Compétences",
     "description": "Découvre les compétences d'un automaticien en 2022",
     "keywords": [
       "Automation",
@@ -9,23 +9,8 @@
       "automatisme industriel"
     ],
     "author": "AUTEM",
-    "canonical": "https://autem.ch/blog/10-competences-pour-automaticien/",
     "locale": "fr_CH",
     "robots": "index, follow",
-    "hreflang": [
-      {
-        "lang": "fr-CH",
-        "href": "https://autem.ch/blog/10-competences-pour-automaticien/"
-      },
-      {
-        "lang": "fr-FR",
-        "href": "https://autem-services.fr/blog/10-competences-pour-automaticien/"
-      },
-      {
-        "lang": "x-default",
-        "href": "https://autem-services.fr/blog/10-competences-pour-automaticien/"
-      }
-    ],
     "og": {
       "type": "website",
       "image": "/og-home.png",
