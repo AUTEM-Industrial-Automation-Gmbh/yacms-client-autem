@@ -10,119 +10,155 @@
         "heading": "Introduction",
         "paragraphs": [
           {
-            "text": "Sometimes it's our psychology that kills the game. Good evening everyone. We discuss a little bit about psychology tonight. We will discuss about six things. First of all we will tell about the savior syndrome . I will give you one example of each of these six psychology behaviors. The second topic will be about efficiency . I will tell you why efficiency is not sexy. Then we'll discuss the comfort that brings from new machines and maybe it's misleading sometime. Then we'll discuss the warri priorities principle . Maybe you guys know it but I'll review it quickly. Then the reality of manufacturing market that's something also related to psychology you will see and after that we'll discuss about people and processes ."
+            "text": "Another lab demo about Kafka. We will discuss about the integration between Kafka and Ignition. I'll talk about Event Streams, REST API, <strong>Bridges(HTTP, Confluent, Debezium). We are trying here to benchmark few integration options in order to find\nout which one fits the best depending on your application. It's all about a tradeoff with your own environment. That's is why I always put here the repo so you can reproduce this demo and make your own conclusion.\n\n",
+            "_tid": "O6fidU"
           }
         ],
         "subsections": [],
-        "videoUrl": "https://www.youtube.com/embed/JAdQyNcY9_Y?si=nI6MHU2UXlKtX-aB"
+        "videoUrl": "https://www.youtube.com/embed/PwApNv6zZfQ?si=_8eVghvHO16ETAw_",
+        "_tid": "h6UNx7",
+        "links": [
+          {
+            "text": "Find this lab in this repos here:",
+            "href": "https://github.com/AUTEM-Industrial-Automation-Gmbh/ignition-to-kafka-lab",
+            "_tid": "lDkIkr"
+          }
+        ]
       },
       {
-        "heading": "The Savior Syndrome",
+        "heading": "Why Kafka for Manufacturing ?",
         "paragraphs": [
           {
-            "text": "This behavior occurs when a client or manager looks for a \"superhero\" provider to fix a long-standing issue at the last minute. Being pressed by time often leads to picking the wrong provider or making false promises internally. The solution is anticipation; you must take responsibility for the time lost before calling for help and monitor old machines even if they are currently working."
+            "text": "While MQTT is standard for time-series data (temperature, pressure),\n                                                Kafka is better suited for Event Streams and\n                                                massive data volumes. It is the gold standard in the IT world (used by\n                                                Uber, LinkedIn) and is increasingly used in\n                                                factories to allow different sites to \"talk\" to each other and feed big\n                                                data analytics.",
+            "_tid": "GcJsfc"
           },
           {
-            "text": "Explore the full content of this section here"
+            "text": "Explore the full content of this section here",
+            "_tid": "50bYJo"
           }
         ],
         "subsections": [],
         "links": [
           {
-            "text": "Visualize | Vidéo (04 min : 03 s)",
-            "href": "https://www.youtube.com/live/JAdQyNcY9_Y?t=115s"
+            "text": "Visualize | Vidéo (01 min : 37 s)",
+            "href": "https://www.youtube.com/watch?v=PwApNv6zZfQ&t=52s",
+            "_tid": "SiKqIQ"
           }
-        ]
+        ],
+        "_tid": "eXUHpA"
       },
       {
-        "heading": "Efficiency Is Not Sexy",
+        "heading": "Limitations of the Built-in Event Stream                                                 Module",
         "paragraphs": [
           {
-            "text": "There is a psychological bias toward choosing \"shiny\" or modern technology. However, in manufacturing, reliability and efficiency are often found in \"ugly\" or older systems, like airport baggage handling. Your personal consumer behavior (buying the latest phone) should not guide your industrial technology decisions, where reliability is the priority."
+            "text": "We can notice three integration bridges:",
+            "_tid": "KB8acM"
           },
           {
-            "text": "Explore the full content of this section here"
+            "text": "",
+            "_tid": "T6gBRl"
           }
         ],
         "subsections": [],
         "links": [
           {
-            "text": "Visualize | Vidéo (04 min : 06 s)",
-            "href": "https://www.youtube.com/live/JAdQyNcY9_Y?t=358s"
+            "text": "Visualize | Vidéo (05 min : 33 s)",
+            "href": "https://www.youtube.com/watch?v=PwApNv6zZfQ&t=301s",
+            "_tid": "0wNtl6"
           }
-        ]
+        ],
+        "_tid": "LOH6Jr",
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "Kafka REST Proxy: Uses a heavy IT infrastructure                                                     where Ignition acts as an HTTP client. It’s powerful but                                                     high-maintenance.",
+              "_tid": "SrGMSp"
+            },
+            {
+              "text": "Debezium (CDC): Uses a SQL database as a buffer.                                                     Changes in the database trigger events in Kafka. The downside is                                                     maintaining a \"duplicate\" database buffer.",
+              "_tid": "lOiybG"
+            },
+            {
+              "text": "Custom Python Bridge: A lightweight external bridge                                                     written in Python 3.1 (using FastAPI). Since Ignition uses Jython                                                     (Python 2.7), this external bridge allows the use of modern Python                                                     libraries to handle Kafka communication efficiently.  ",
+              "_tid": "bxD3lR"
+            }
+          ]
+        }
       },
       {
-        "heading": "The Comfort of New",
+        "heading": "Three Integration Bridges Compared",
         "paragraphs": [
           {
-            "text": "It is comfortable to want brand-new equipment, but \"obsolete\" does not equal \"old.\" A 30-year-old machine may still be more reliable and high-performing than a new one. Conversely, brand-new technology can be effectively obsolete if the integration is poor. The focus should be on how the system works together rather than just the age of the components."
+            "text": "Now we will see the physical and digital environment required to run these\n                                            tools.",
+            "_tid": "oJ6X0x"
           },
           {
-            "text": "Explore the full content of this section here"
+            "text": "Kepware (Connectivity): It is strictly Windows-only. This is a critical consideration for your \"edge device\". If you choose Kepware, you are locked into using hardware that can support a Windows operating system, which can impact your hardware costs and maintenance.\n",
+            "_tid": "s1NoEC"
+          },
+          {
+            "text": "HighByte (DataOps): It is built for <strong>modern IT environments, running natively on Docker and Linux</strong>. This allows you to deploy it on a wide variety of lightweight edge devices or cloud environments.",
+            "_tid": "IgZKDk"
+          },
+          {
+            "text": "Explore the full content of this section here",
+            "_tid": "vC4hXw"
           }
         ],
         "subsections": [],
         "links": [
           {
-            "text": "Visualize | Vidéo (04 min : 31 s)",
-            "href": "https://www.youtube.com/live/JAdQyNcY9_Y?t=604s"
+            "text": "Visualize | Vidéo (01 min : 00 s)",
+            "href": "https://www.youtube.com/watch?v=66Ejja5bgRE&t=543s",
+            "_tid": "csy92E"
           }
-        ]
+        ],
+        "_tid": "zZmQRu"
       },
       {
-        "heading": "Eisenhower Priorities",
+        "heading": "The Unified Namespace (UNS) Requirement",
         "paragraphs": [
           {
-            "text": "Using the Eisenhower Matrix (Urgent vs. Important), not every machine breakdown is an emergency. If you have redundancy (a \"Plan B\" machine) or if that product line is no longer a priority, a downtime might not be urgent. Tools like Value Stream Mapping (VSM) help identify which flows are actually critical to prevent reacting to every failure as a crisis."
+            "text": "A true UNS isn't just data points; it requires Events, Topology, and Data to be consistent. A custom script ensures that when a machine statechanges or a naming convention is updated, all parts of the stream stay synchronized.\n",
+            "_tid": "jP6kXw"
           },
           {
-            "text": "Explore the full content of this section here"
+            "text": "Explore the full content of this section here",
+            "_tid": "exIZY4"
           }
         ],
         "subsections": [],
         "links": [
           {
-            "text": "Visualize | Vidéo (05 min : 30 s)",
-            "href": "https://www.youtube.com/live/JAdQyNcY9_Y?t=875s"
+            "text": "Visualize | Vidéo (06 min : 13 s)",
+            "href": "https://www.youtube.com/watch?v=PwApNv6zZfQ&t=634s",
+            "_tid": "70adZT"
           }
-        ]
+        ],
+        "_tid": "uV5iZW"
       },
       {
-        "heading": "The Market Reality",
+        "heading": "Production vs. Lab Demo",
         "paragraphs": [
           {
-            "text": "Manufacturing standards \"hate change\" because stability ensures quality. Resistance to change can actually be a good thing if it prevents unnecessary modifications that could ruin product quality (e.g., in medical devices like pacemakers). You should focus on sustaining the machine through small incremental improvements rather than radical \"revolutions\" or running it to total failure."
+            "text": "Manufacturing standards \"hate change\" because stability ensures quality. ResistanIn a real-world setup, you would move from a single broker to a Kafka\n                                                Cluster for resilience and likely switch from JSON\n                                                to Protobuf as the data schema to handle higher volumes with better\n                                                performance.ce to change can actually be a good thing if it prevents unnecessary modifications that could ruin product quality (e.g., in medical devices like pacemakers). You should focus on sustaining the machine through small incremental improvements rather than radical \"revolutions\" or running it to total failure.",
+            "_tid": "VdkvIh"
           },
           {
-            "text": "Explore the full content of this section here"
+            "text": "Explore the full content of this section here",
+            "_tid": "ZYAe72"
           }
         ],
         "subsections": [],
         "links": [
           {
-            "text": "Visualize | Vidéo (05 min : 07 s)",
-            "href": "https://www.youtube.com/live/JAdQyNcY9_Y?t=1205s"
-          }
-        ]
-      },
-      {
-        "heading": "People & Process",
-        "paragraphs": [
-          {
-            "text": "A common bias is thinking technology comes before people. Many \"technical\" failures on old machines are actually caused by simple process failures, such as forgetting to change a PLC battery or lacking documentation. If you don't fix the team's skills and procedures, even a brand-new machine will become \"obsolete\" within a year due to poor maintenance routines."
-          },
-          {
-            "text": "Explore the full content of this section here"
+            "text": "Visualize | Vidéo (02 min : 25 s)",
+            "href": "https://www.youtube.com/watch?v=PwApNv6zZfQ&t=1007s",
+            "_tid": "eZryyh"
           }
         ],
-        "subsections": [],
-        "links": [
-          {
-            "text": "Visualize | Vidéo (06 min : 02 s)",
-            "href": "https://www.youtube.com/live/JAdQyNcY9_Y?t=1512s"
-          }
-        ]
+        "_tid": "TTyaEa"
       }
     ]
   }

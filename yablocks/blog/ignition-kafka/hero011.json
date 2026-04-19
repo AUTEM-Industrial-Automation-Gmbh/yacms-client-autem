@@ -6,21 +6,23 @@
   "data": {
     "backLink": "/blog",
     "backLinkLabel": "Retour au blog",
-    "title": "🏭 6 Habits that kill Old Machines",
+    "title": "Ignition et Kafka",
     "tags": [
       {
         "label": "Cycle de Vie et Obsolescence",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "FkJs4N"
       },
       {
         "label": "Machines Vintage",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "EM9EkD"
       }
     ],
     "articleMeta": {
       "readTime": "3 min lecture",
-      "publishDate": "25/01/26",
-      "updatedDate": "17/03/26"
+      "publishDate": "06/04/26",
+      "updatedDate": "06/04/26"
     }
   }
 }
