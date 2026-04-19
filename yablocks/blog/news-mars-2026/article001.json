@@ -10,155 +10,130 @@
         "heading": "Introduction",
         "paragraphs": [
           {
-            "text": "Another lab demo about Kafka. We will discuss about the integration between Kafka and Ignition. I'll talk about Event Streams, REST API, Bridges(HTTP, Confluent, Debezium). We are trying here to benchmark few integration options in order to find\nout which one fits the best depending on your application. It's all about a tradeoff with your own environment. That's is why I always put here the repo so you can reproduce this demo and make your own conclusion.\n\n",
+            "text": "The programmable logical controller world is not over, but it is\n                                                definitely changing. There are lot of stuff happening.\n                                                if I go over what happened over the last 3 months, the first quarter of\n                                                2026. In this article I wll just highlight three things that have been\n                                                happening in the PLC automation world. These are: Training Platforms, Troubleshooting Tools, Programming Platforms",
             "_tid": "O6fidU"
+          },
+          {
+            "text": "Basically, all that progress is possible today. Thanks to AI, which is no\n                                                wonder, but those ideas have been under reflection, under development\n                                                for 10 to 20 years now. The only difference is that now we have the tool\n                                                with AI to speed up all those development, to implement all those\n                                                creative ideas to make the PLC Automation World more easy. It doesn't\n                                                change basically the electronics behind. It doesn't change the\n                                                methodology or the way of programming electrical systems, but it is\n                                                changes the tools because, now, if you are a PLC engineer or if you are\n                                                system engineer, you're doing work for a manufacturing technology, you\n                                                have more leverage in your da-to-day activity.",
+            "_tid": "uINYXX"
           }
         ],
         "subsections": [],
-        "videoUrl": "https://www.youtube.com/embed/PwApNv6zZfQ?si=_8eVghvHO16ETAw_",
+        "videoUrl": "https://www.youtube.com/embed/u1zvKZyBE6I?si=CLUBuCUJYD2ZMk60",
         "_tid": "h6UNx7",
-        "links": [
-          {
-            "text": "Find this lab in this repos here:",
-            "href": "https://github.com/AUTEM-Industrial-Automation-Gmbh/ignition-to-kafka-lab",
-            "_tid": "lDkIkr"
-          }
-        ]
+        "links": []
       },
       {
-        "heading": "Why Kafka for Manufacturing ?",
+        "heading": "Training Platforms (plci.app & Easy PLC                                                 School)",
         "paragraphs": [
           {
-            "text": "While MQTT is standard for time-series data (temperature, pressure),\n                                                Kafka is better suited for Event Streams and\n                                                massive data volumes. It is the gold standard in the IT world (used by\n                                                Uber, LinkedIn) and is increasingly used in\n                                                factories to allow different sites to \"talk\" to each other and feed big\n                                                data analytics.",
+            "text": "So, the first trend to follow is about Training Platform",
             "_tid": "GcJsfc"
           },
           {
-            "text": "Explore the full content of this section here",
-            "_tid": "50bYJo"
+            "text": " Traditional expensive, field-based learning is being supplemented by\n                                                AI-driven training platforms like <strong>plci.app and Easy\n                                                    PLC School</strong>. These allow both beginners and IT professionals\n                                                to level up\n                                                their hardware skills for free.",
+            "_tid": "R1YFkk"
+          },
+          {
+            "text": "Discover more about the platform and explore the full content of this section here here:",
+            "_tid": "D9yd5p"
           }
         ],
         "subsections": [],
         "links": [
           {
-            "text": "Visualize | Vidéo (01 min : 37 s)",
-            "href": "https://www.youtube.com/watch?v=PwApNv6zZfQ&t=52s",
+            "text": "Visualize | Vidéo (01 min : 33 s)",
+            "href": "https://www.youtube.com/watch?v=u1zvKZyBE6I&t=94s",
             "_tid": "SiKqIQ"
+          },
+          {
+            "text": "https://plcai.app/",
+            "href": "https://plcai.app/",
+            "_tid": "pSwlzl"
+          },
+          {
+            "text": "https://github.com/orelmi/easyplc-school",
+            "href": "https://github.com/orelmi/easyplc-school",
+            "_tid": "BEHTqT"
           }
         ],
         "_tid": "eXUHpA"
       },
       {
-        "heading": "Limitations of the Built-in Event Stream                                                 Module",
+        "heading": "Troubleshooting Tools (Snap PLC)                                            Module",
         "paragraphs": [
           {
-            "text": "We can notice three integration bridges:",
+            "text": "Another trend is about Troubleshooting Tools",
             "_tid": "KB8acM"
           },
           {
-            "text": "",
+            "text": "Tools like Snap PLC allow users to upload photos of a control cabinet.\n                                                The AI identifies the hardware and provides a tentative root cause and\n                                                solution for system faults, acting as a \"first\n                                                responder\" before calling for support.",
             "_tid": "T6gBRl"
+          },
+          {
+            "text": "Discover more about the platform and explore the full content of this section here here:",
+            "_tid": "h0MUuj"
           }
         ],
         "subsections": [],
         "links": [
           {
-            "text": "Visualize | Vidéo (05 min : 33 s)",
-            "href": "https://www.youtube.com/watch?v=PwApNv6zZfQ&t=301s",
+            "text": "Visualize | Vidéo (01 min : 10 s)",
+            "href": "https://www.youtube.com/watch?v=u1zvKZyBE6I&t=187s",
             "_tid": "0wNtl6"
+          },
+          {
+            "text": "https://www.snapplc.com/",
+            "href": "https://www.snapplc.com/",
+            "_tid": "ztC3My"
           }
         ],
-        "_tid": "LOH6Jr",
-        "list": {
-          "style": "unordered",
-          "items": [
-            {
-              "text": "Kafka REST Proxy: Uses a heavy IT infrastructure                                                     where Ignition acts as an HTTP client. It’s powerful but                                                     high-maintenance.",
-              "_tid": "SrGMSp"
-            },
-            {
-              "text": "Debezium (CDC): Uses a SQL database as a buffer.                                                     Changes in the database trigger events in Kafka. The downside is                                                     maintaining a \"duplicate\" database buffer.",
-              "_tid": "lOiybG"
-            },
-            {
-              "text": "Custom Python Bridge: A lightweight external bridge                                                     written in Python 3.1 (using FastAPI). Since Ignition uses Jython                                                     (Python 2.7), this external bridge allows the use of modern Python                                                     libraries to handle Kafka communication efficiently.  ",
-              "_tid": "bxD3lR"
-            }
-          ]
-        }
+        "_tid": "LOH6Jr"
       },
       {
-        "heading": "Three Integration Bridges Compared",
+        "heading": "Programming Platforms (Copilot, Accelera,                                                 Cronax)",
         "paragraphs": [
           {
-            "text": "Now we will see the physical and digital environment required to run these\n                                            tools.",
+            "text": " The last trend, which is very interesting about programming platform. I\n                                                have followed three platforms in the last few months that can be\n                                                interesting for all of us PLC Programmers or people who are doing\n                                                engineering in manufacturing.",
             "_tid": "oJ6X0x"
           },
           {
-            "text": "Kepware (Connectivity): It is strictly Windows-only. This is a critical consideration for your \"edge device\". If you choose Kepware, you are locked into using hardware that can support a Windows operating system, which can impact your hardware costs and maintenance.\n",
+            "text": "Accelera Platform: Generates PLC/DCS code directly from\n                                                functional design specifications, moving the focus from manual coding to\n                                                clear system requirements.",
             "_tid": "s1NoEC"
           },
           {
-            "text": "HighByte (DataOps): It is built for <strong>modern IT environments, running natively on Docker and Linux</strong>. This allows you to deploy it on a wide variety of lightweight edge devices or cloud environments.",
+            "text": "Cronax: An IDE that allows software developers to\n                                                program PLCs using standard IT languages rather than traditional narrow\n                                                industrial formats.",
             "_tid": "IgZKDk"
           },
           {
-            "text": "Explore the full content of this section here",
+            "text": "Discover more about the platform and explore the full content of this section here here:",
             "_tid": "vC4hXw"
           }
         ],
         "subsections": [],
         "links": [
           {
-            "text": "Visualize | Vidéo (01 min : 00 s)",
-            "href": "https://www.youtube.com/watch?v=66Ejja5bgRE&t=543s",
+            "text": "Visualize | Vidéo (06 min : 47 s)",
+            "href": "https://www.youtube.com/watch?v=u1zvKZyBE6I&t=257s",
             "_tid": "csy92E"
+          },
+          {
+            "text": "https://plccopilot.com/",
+            "href": "https://plccopilot.com/",
+            "_tid": "Aqf6OY"
+          },
+          {
+            "text": "(formerly iReflex) software oriented                                                         IDE agnostic for faster migrations & retrofits, with AI-powered                                                         features. not OpenSource",
+            "href": "https://chronax.tech/",
+            "_tid": "GLVInx"
+          },
+          {
+            "text": "OpenSource generate code from                                                         functional spec. No AI, deterministic.",
+            "href": "https://acceleer.com/",
+            "_tid": "7OyPcV"
           }
         ],
         "_tid": "zZmQRu"
-      },
-      {
-        "heading": "The Unified Namespace (UNS) Requirement",
-        "paragraphs": [
-          {
-            "text": "A true UNS isn't just data points; it requires Events, Topology, and Data to be consistent. A custom script ensures that when a machine statechanges or a naming convention is updated, all parts of the stream stay synchronized.\n",
-            "_tid": "jP6kXw"
-          },
-          {
-            "text": "Explore the full content of this section here",
-            "_tid": "exIZY4"
-          }
-        ],
-        "subsections": [],
-        "links": [
-          {
-            "text": "Visualize | Vidéo (06 min : 13 s)",
-            "href": "https://www.youtube.com/watch?v=PwApNv6zZfQ&t=634s",
-            "_tid": "70adZT"
-          }
-        ],
-        "_tid": "uV5iZW"
-      },
-      {
-        "heading": "Production vs. Lab Demo",
-        "paragraphs": [
-          {
-            "text": "Manufacturing standards \"hate change\" because stability ensures quality. ResistanIn a real-world setup, you would move from a single broker to a Kafka\n                                                Cluster for resilience and likely switch from JSON\n                                                to Protobuf as the data schema to handle higher volumes with better\n                                                performance.ce to change can actually be a good thing if it prevents unnecessary modifications that could ruin product quality (e.g., in medical devices like pacemakers). You should focus on sustaining the machine through small incremental improvements rather than radical \"revolutions\" or running it to total failure.",
-            "_tid": "VdkvIh"
-          },
-          {
-            "text": "Explore the full content of this section here",
-            "_tid": "ZYAe72"
-          }
-        ],
-        "subsections": [],
-        "links": [
-          {
-            "text": "Visualize | Vidéo (02 min : 25 s)",
-            "href": "https://www.youtube.com/watch?v=PwApNv6zZfQ&t=1007s",
-            "_tid": "eZryyh"
-          }
-        ],
-        "_tid": "TTyaEa"
       }
     ]
   }

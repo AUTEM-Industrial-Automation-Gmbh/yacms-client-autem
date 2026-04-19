@@ -6,23 +6,38 @@
   "data": {
     "backLink": "/blog",
     "backLinkLabel": "Retour au blog",
-    "title": "Ignition et Kafka",
+    "title": "News n°23 - 3 trends to follow in PLC Automation - Q1 2026",
     "tags": [
       {
-        "label": "Cycle de Vie et Obsolescence",
+        "label": "PLC",
         "type": "secteur",
         "_tid": "FkJs4N"
       },
       {
-        "label": "Machines Vintage",
+        "label": "Snap PLC",
         "type": "categorie",
         "_tid": "EM9EkD"
+      },
+      {
+        "label": "Copilot",
+        "type": "secteur",
+        "_tid": "uVifIk"
+      },
+      {
+        "label": "Accelera",
+        "type": "secteur",
+        "_tid": "Bodmzv"
+      },
+      {
+        "label": "Cronax",
+        "type": "secteur",
+        "_tid": "lHy1KG"
       }
     ],
     "articleMeta": {
       "readTime": "3 min lecture",
-      "publishDate": "06/04/26",
-      "updatedDate": "06/04/26"
+      "publishDate": "18/04/26",
+      "updatedDate": "18/04/26"
     }
   }
 }
