@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "a-propos/manifeste//hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Entreprise d'automatisme industriel à Lyon",
+    "tags": [
+      {
+        "label": "Automation",
+        "type": "secteur",
+        "_tid": "G8UZMy"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "4 min lecture",
+      "publishDate": "03/01/22",
+      "updatedDate": "16/04/26"
+    }
+  }
+}
