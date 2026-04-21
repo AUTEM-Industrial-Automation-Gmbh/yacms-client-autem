@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/layout/hero/HeroArticleHeader",
+    "component": "blocks/hero/HeroArticleHeader",
     "section": "blog/ignition-kafka/hero011"
   },
   "data": {

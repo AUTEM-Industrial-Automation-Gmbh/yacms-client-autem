@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/layout/hero/HeroArticleHeader",
+    "component": "blocks/hero/HeroArticleHeader",
     "section": "cas-clients//hero011"
   },
   "data": {
