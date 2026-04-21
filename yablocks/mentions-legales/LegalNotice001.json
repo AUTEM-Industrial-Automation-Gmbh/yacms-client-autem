@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/content/legal/LegalNotice001",
+    "component": "blocks/legal/LegalSections",
     "section": "home/legalNotice001"
   },
   "data": {

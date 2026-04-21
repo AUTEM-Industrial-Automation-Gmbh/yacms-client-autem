@@ -1,7 +1,7 @@
 {
   "meta": {
-    "component": "blocks/social-proof/article/Article001",
-    "section": "blog/10-competences-pour-automaticien//article001"
+    "component": "blocks/article/ArticleTocLayout",
+    "section": "blog/10-competences-pour-automaticien/article001"
   },
   "data": {
     "tocTitle": "Sommaire",

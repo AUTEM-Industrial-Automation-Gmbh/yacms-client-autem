@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/content/team/Team002",
+    "component": "blocks/team/TeamHoverCards",
     "section": "team/team002"
   },
   "data": {

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "component": "blocks/layout/hero/Hero011",
-    "section": "blog/10-competences-pour-automaticien//hero011"
+    "component": "blocks/hero/HeroArticleHeader",
+    "section": "blog/10-competences-pour-automaticien/hero011"
   },
   "data": {
     "backLink": "/blog",

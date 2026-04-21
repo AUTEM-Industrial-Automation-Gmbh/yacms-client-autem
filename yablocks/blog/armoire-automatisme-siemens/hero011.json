@@ -1,7 +1,7 @@
 {
   "meta": {
-    "component": "blocks/layout/hero/Hero011",
-    "section": "blog/armoire-automatisme-siemens//hero011"
+    "component": "blocks/hero/HeroArticleHeader",
+    "section": "blog/armoire-automatisme-siemens/hero011"
   },
   "data": {
     "backLink": "/blog",

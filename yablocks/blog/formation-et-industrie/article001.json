@@ -1,7 +1,7 @@
 {
   "meta": {
-    "component": "blocks/social-proof/article/Article001",
-    "section": "blog/formation-et-industrie//article001"
+    "component": "blocks/article/ArticleTocLayout",
+    "section": "blog/formation-et-industrie/article001"
   },
   "data": {
     "tocTitle": "Sommaire",
