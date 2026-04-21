@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/layout/hero/Hero011",
+    "component": "blocks/layout/hero/HeroArticleHeader",
     "section": "a-propos/manifeste//hero011"
   },
   "data": {
