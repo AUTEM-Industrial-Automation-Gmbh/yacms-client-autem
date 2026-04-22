@@ -1,20 +1,40 @@
 {
   "meta": {
-    "title": "Notre Vision",
-    "description": "Découvre les compétences d'un automaticien en 2022",
+    "title": "Notre Vision — AUTEM, Automatisme & Digitalisation",
+    "description": "Vision AUTEM : digitaliser vos usines pour gagner en performance et compétitivité. Notre approche technique, du terrain au pilotage.",
     "keywords": [
-      "Automation",
-      "Astuces Carrière",
+      "automatisme industriel",
+      "digitalisation usine",
+      "industrie 4.0",
+      "SCADA",
+      "MES",
+      "IoT industriel",
       "AUTEM",
-      "automatisme industriel"
+      "vision",
+      "transformation digitale"
     ],
     "author": "AUTEM",
+    "canonical": "https://autem.ch/a-propos/manifeste/",
     "locale": "fr_CH",
     "robots": "index, follow",
+    "hreflang": [
+      {
+        "lang": "fr-CH",
+        "href": "https://autem.ch/a-propos/manifeste/"
+      },
+      {
+        "lang": "fr-FR",
+        "href": "https://autem-services.fr/a-propos/manifeste/"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://autem-services.fr/a-propos/manifeste/"
+      }
+    ],
     "og": {
       "type": "website",
       "image": "/og-home.png",
-      "imageAlt": "AUTEM — Blog technique automatisme et SCADA industriel"
+      "imageAlt": "AUTEM — Notre vision de l'automatisme industriel"
     },
     "structuredData": {
       "type": "LocalBusiness",
@@ -52,9 +72,16 @@
   "theme": "autem-default",
   "blocks": [
     "@shared/navigation.json",
-    "./hero011.json",
-    "./article001.json",
-    "./cta002.json",
+    "./hero002.json",
+    "./features008-symptomes.json",
+    "./features008-nouvelle-donne.json",
+    "./features008-croissance.json",
+    "./features008-accompagnement.json",
+    "./process003.json",
+    "./features008-equation.json",
+    "./stats001.json",
+    "./features008-methode.json",
+    "./features006-ressources.json",
     "@shared/footer.json"
   ]
 }
