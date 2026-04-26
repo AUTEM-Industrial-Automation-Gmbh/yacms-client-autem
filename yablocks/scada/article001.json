@@ -7,21 +7,14 @@
     "tocTitle": "Sommaire",
     "sections": [
       {
-        "heading": "",
+        "heading": "Logiciel SCADA : de quoi s'agit-il ? Et                                             quand remplacer son IHM par une SCADA ?",
         "paragraphs": [],
-        "subsections": [
-          {
-            "heading": "",
-            "paragraphs": [
-              {
-                "text": "Trouver une entreprise d'automatisme spécialisée en industrie à Lyon",
-                "_tid": "WMtPSI"
-              }
-            ],
-            "_tid": "60uYGy"
-          }
-        ],
-        "_tid": "wrYe6K"
+        "subsections": [],
+        "_tid": "wrYe6K",
+        "image": {
+          "src": "",
+          "alt": ""
+        }
       },
       {
         "heading": "Entreprise d'automatisme ou automaticien indépendant ?",
