@@ -12,42 +12,111 @@
         "subsections": [],
         "_tid": "wrYe6K",
         "image": {
-          "src": "",
-          "alt": ""
+          "src": "/images/integrateur-scada.jpg",
+          "alt": "SCADA,IIot,data collecte,logiciel supervision,scada expert,supervision industrielle"
         }
       },
       {
-        "heading": "Entreprise d'automatisme ou automaticien indépendant ?",
-        "paragraphs": [
-          {
-            "text": "Choisir entre <strong>entreprise d'automatisme</strong> et automaticien indépendant n'est pas anodin. Les 2 profils de prestataire offrent peut-être des services similaires, mais n'ont pas les mêmes caractéristiques. Pour les similitudes, tous les 2 pourront couvrir vos besoins en programmation d'automate, configuration d'interface homme-machine, paramétrage de variateur et contrôle de mouvements, programmation de bras robotisés, électrotechnique et études électrique, mise en service et dépannage. Mais la différence entre un <bold>automaticien indépendant</bold> et une entreprise d'automatisme réside dans la taille, le spectre de compétences, et la flexibilité. Une entreprise d'automatisme de grande taille procure un avantage quand l'usine cliente souhaite une offre technique multi-service et clé en main. En effet, une société de 10 salariés et plus peut être perçue comme un gage de robustesse technique, commerciale et juridique, avec renommée et des références industrielles solides. A l'inverse la petite taille d'un automaticien indépendant favorise le relationnel et la flexibilité. Pour des cas urgents de dépannage ou d'absence de personnel, un indépendant (auto-entrepreneur ou intégrateur scada) pourra se libérer plus rapide qu'une grande entreprise nécessitant de longues procédures administratives. Un automaticien indépendant est également plus flexible sur les déplacements professionnels. De plus certains projets occassionnels ne sont pas intéressants pour des entreprises qui exigent souvent un seuil minimum de budget pour assurer la pérénité des projets et des équipes, alors qu'un automaticien indépendant n'aura aucun mal à accepter tout type de projet, que la durée soit de 1 jour ou 1 an, pour peu que l'aspect technique l'intéresse. Par ailleurs l'automaticien indépendant a souvent un profil plus spécialisé et versatile qu'une <bold>entreprise d'automatisme</bold> industriel. En effet chez les gros intégrateurs, les choix de technologie et les partenaires/fournisseurs de composants limitent les équipes à un spectre défini de marques et compétences techniques. Alors que les automaticiens intégrateur scada ont plus de liberté pour choisir des technologies plus modernes, s'y former, et diversifier le scope technique qu'ils peuvent offrir à leurs clients. Si vous recherchez un automaticien polyvalent, fiable, et flexible, contactez AUTEM !",
-            "_tid": "W1ZmXH"
-          }
-        ],
+        "heading": "Logiciel SCADA : de quoi s'agit-il ? Et                                             quand remplacer son IHM par une SCADA ?",
+        "paragraphs": [],
         "subsections": [],
         "_tid": "3oZKTQ"
       },
       {
-        "heading": "Automaticien intégrateur : où trouver des spécialistes en Rhône-Alpes ?",
+        "heading": "Logiciel SCADA",
         "paragraphs": [
           {
-            "text": "De nombreuses industries recherchent des automaticiens, et des <strong>entreprise d'automatisme industriel</strong> à Lyon. la raison est simple: l'automatisation bat son plein et les profils ayant le savoir-faire et les compétences sont rares. Comment donc trouver des spécialistes capables de programmer vos machines. Tout d'abord vous pouvez recruter un automaticien à Lyon ou Grenoble, en tant que salarié ou prestataire pour sous-traiter un développement, une programmation ou une configuration de machine automatisée. Vos automates, variateurs, IHM, supervisions et systèmes d'informatique industrielle. Ensuite vous avez accès à de nombreux intégrateurs et fabricants de machines et systèmes automatisés. Ceux-ci possèdent dans leurs équipes des ressources internes capables d'automatiser vos équipements et lignes de production. Si votre sites industriel de production, ne trouve toujours pas d'entreprise d'automatisme, vous pouvez également solliciter des recruteurs spécialisés dans le recrutement d' <strong>automaticien en région Rhône-Alpes</strong>. Leur réseau d'ingénieurs, techniciens et commerciaux peut accélérer votre recherche, car dans le monde de l'automatisme, certains profils spécialisés sont uniquement connus des chasseurs de tête, ou des experts techniques du domaines. AUTEM peut aussi vous faire bénéficier de son réseau : contactez-nous et nous vous aiderons à trouver l'automaticien ou l'entreprise d'automatisme adaptée à votre besoin et à votre cahier des charges techniques.",
+            "text": "Le terme SCADA, abréviation de Supervisory Control and Data\n                                                Acquisition, englobe l'ensemble des logiciels dédiés à la\n                                                supervision, au contrôle et à l'acquisition de données pour vos lignes\n                                                de fabrication. Ces outils sont essentiels dans\n                                                le domaine de l'informatique industrielle, facilitant la gestion\n                                                automatisée de vos processus de production. Un logiciel\n                                                SCADA offre des indicateurs de performances, des KPI, ainsi que des\n                                                données historiques, simplifiant la maintenance et\n                                                le dépannage à travers les alarmes en temps réel et les journaux\n                                                d'historique.",
             "_tid": "hlU2Hn"
+          },
+          {
+            "text": "AUTEM vous apporte la maîtrise de diverses solutions SCADA, offrant ses\n                                                services aux bureaux d'études pour des projets\n                                                Ignition, WinCC, Wonderware, Archestra, AVEVA System Platform. Les\n                                                responsables de maintenance peuvent également\n                                                solliciter AUTEM pour le dépannage de bugs sur leurs logiciels de\n                                                supervision, IHM, scada. L'entreprise maîtrise les\n                                                différents langages d'automatisme utilisés dans ces logiciels, assurant\n                                                toutes les étapes nécessaires au monitoring\n                                                efficace des données machines.",
+            "_tid": "eIfCm7"
+          },
+          {
+            "text": "Que vous soyez un bureau d'étude ou un responsable de maintenance, AUTEM\n                                                propose une gamme complète de services,\n                                                couvrant l'installation du logiciel scada, la mise en place de\n                                                l'architecture informatique pour la connexion au réseau\n                                                d'usine, la création du projet, la configuration matérielle (liaison\n                                                automate - IHM - scada), la définition des tags\n                                                et variables, la modélisation des objets logiciels associés au parc\n                                                machine, la création de l'interface graphique, la\n                                                programmation des scripts de supervision, d'alarme et d'historisation,\n                                                la connexion aux automates, ainsi que les tests\n                                                en plateforme, les tests de conformité, le FAT, le SAT, et la mise en\n                                                service.",
+            "_tid": "fMndSg"
+          },
+          {
+            "text": " En tant qu'experts, AUTEM assure une expertise complète dans le domaine\n                                                de la supervision industrielle scada,\n                                                offrant des formations scada pour maximiser la compétence de votre\n                                                équipe. La définition précise des besoins,\n                                                l'interface scada intuitive, et l'intégration harmonieuse dans votre\n                                                environnement industriel font partie des priorités\n                                                d'AUTEM.",
+            "_tid": "k6civi"
+          },
+          {
+            "text": "Pour toute information supplémentaire sur le scada et les solutions de\n                                                supervision industrielle, consultez notre site\n                                                web et explorez notre riche contenu, comprenant un blog sur\n                                                l'acquisition de données, des informations détaillées sur\n                                                l'interface scada, des définitions claires du scada, et\n                                                bien plus encore. Avec AUTEM, plongez dans l'univers\n                                                passionnant de la supervision industrielle scada et optimisez votre\n                                                performance opérationnelle.",
+            "_tid": "zpq5wr"
           }
         ],
         "subsections": [],
         "_tid": "ehTFA1"
       },
       {
-        "heading": "L'automatisme en Rhônes-Alpes",
+        "heading": "Intégrateur SCADA",
         "paragraphs": [
           {
-            "text": "Les entreprises d'automatismes ont des particularités en région Rhônes-Alpes. A Lyon, les industrie de la chimie et la pharmaceutique ont poussé les intégrateurs à se spécialiser sur l'automatisme des process liquides et gaz. Ainsi des compétences comme la régulation et l'instrumentation de process sont très présents chez les entreprises d'automatisme. A Grenoble le secteur de l'électronique et des composants microélectroniques a permis de développer une expertise en précision de mouvement, motion control, programmation de variateurs moteurs. A Valence, on note une forte présence des fournisseurs OEM de composants pour l'automobile. Cela suppose la présence de nombreux roboticiens et automaticiens spécialisés dans la programmation de bras robotisés pour le soudage, le déplacement de pièces, et la mécanisation des lignes de production automobile. Tout ce écosystème s'est créé au fil des décennies grâce aux spécificités historiques et géographiques de la <strong>région Rhônes-Alpes</strong>. Historiquement l' <strong>automatisme en Rhônes-Alpes</strong> tire sa source des activités économiques qui étaient très variées dans le bassin du Rhône et dans les Alpes : soie, textile, horlogerie, transport fluvial, construction bâtiment. Cela a permis de construire un savoir-faire technique régional centré autour de la mécanisation avec notamment le métier à tisser, la chimie des couleurs pour le textile, les mines à charbon ainsi que les barrages de montagne pour l'énergie. Avec la 3è révolution industrielle, l'arrivée de l'électrotechnique et la réduction des composants électriques, toutes ses compétences ont ensuite servi de base pour forger de gros pôles de compétences autour de leaders techniques dans l'énergie, l'électricité, l'automobile, avec des débouchés dans toute la France. Géographiquement, la proximité avec de nombreux pays européens a favorisé l'implantation de sociétés internationales venant de Suisse, Allemagne, Italie et Espagne. Cela a également permis la formation de nombreux techniciens et ingénieurs qui sont à l'origine des multiples <strong>entreprises d'automatisme à Lyon</strong>, à Grenoble, Clermont-Ferrand et dans toutes la région Auvergne-Rhônes-Alpes (AURA). Désormais avec la 4è révolution industrielle, un <strong>automaticien à Lyon</strong> a une longueur d'avance sur la connectivité des machines et le traitement des données issues des usines, pour superviser, améliorer, optimiser les équipements d'usine, et faire communiquer des sites de production à distance.",
+            "text": "En qualité d'intégrateur SCADA spécialisé dans l'automatisation\n                                                industrielle et tertiaire, notre mission principale\n                                                consiste à migrer et à moderniser les anciens systèmes d'automatisation,\n                                                garantissant ainsi la sûreté et l'efficacité\n                                                des unités de production. Notre expertise s'étend à l'intégration de\n                                                logiciels de supervision SCADA de pointe,\n                                                remplaçant avantageusement les méthodes obsolètes telles que le suivi\n                                                papier et les écrans IHM désuets.",
             "_tid": "IZXTyk"
+          },
+          {
+            "text": "Avant d'entamer le processus de rétrofit, nous procédons à un audit\n                                                méticuleux visant à évaluer la fiabilité des\n                                                systèmes d'automatisation existants. Notre approche proactive inclut la\n                                                récupération rapide des données provenant des\n                                                automates, capteurs, robots, moteurs, etc., optimisant ainsi l'ensemble\n                                                du processus. La phase critique de notre\n                                                intervention consiste généralement à établir une communication à\n                                                distance en temps réel, intégrant la télémétrie et un\n                                                stockage des données complet, englobant les statistiques et\n                                                l'historique, assurant ainsi une traçabilité totale.",
+            "_tid": "zs8aT0"
+          },
+          {
+            "text": "En situation de dysfonctionnement, notre système déclenche des alertes\n                                                grâce à des réseaux de communication\n                                                industrielle. Cette fonctionnalité nous permet d'automatiser diverses\n                                                opérations au sein de l'usine, couvrant des\n                                                aspects cruciaux tels que la qualité, la production, la régulation et\n                                                l'instrumentation. Notre offre logiciel de\n                                                supervision SCADA expert s'avère être une solution\n                                                polyvalente, permettant une gestion proactive des opérations et\n                                                une réactivité optimale face aux défis de l'environnement industriel\n                                                contemporain.",
+            "_tid": "jYKDDS"
+          },
+          {
+            "text": "Notre engagement envers la supervision industrielle SCADA est renforcé\n                                                par notre offre de formations SCADA, visant à\n                                                habiliter les acteurs de l'industrie à tirer pleinement parti des\n                                                fonctionnalités avancées de nos solutions. Ces\n                                                formations couvrent une gamme variée de sujets, allant de l'interface\n                                                SCADA à l'architecture SCADA, offrant ainsi une\n                                                compréhension approfondie des systèmes.",
+            "_tid": "hKTjCM"
+          },
+          {
+            "text": "En conclusion, notre approche intégrée, alliant expertise en\n                                                automatisation, utilisation de logiciels de supervision\n                                                SCADA de pointe, et engagement envers la formation\n                                                continue, positionne notre entreprise en tant que partenaire\n                                                privilégié pour les projets de modernisation industrielle. La mise en\n                                                œuvre réussie de nos solutions SCADA garantit une\n                                                transition fluide vers des opérations automatisées, efficientes et\n                                                conformes aux normes les plus exigeantes de\n                                                l'industrie.",
+            "_tid": "rbCVx3"
           }
         ],
         "subsections": [],
         "_tid": "noQ6fd"
+      },
+      {
+        "heading": "Quand remplacer son IHM par une SCADA ?",
+        "paragraphs": [
+          {
+            "text": "Le logiciel SCADA, ou Système de Contrôle et d'Acquisition\n                                                de Données, représente une technologie fondamentale pour la\n                                                supervision industrielle, le pilotage des opérations et le suivi des\n                                                données de production. Lorsqu'on se demande s'il\n                                                est temps de remplacer son Interface Homme-Machine (IHM) par une SCADA,\n                                                plusieurs éléments entrent en jeu. Tout d'abord,\n                                                définissons ces deux termes. Une IHM, ou Interface Homme-Machine, est un\n                                                écran fixe sur une machine permettant à\n                                                l'opérateur d'interagir avec celle-ci en temps réel. D'autre part, la\n                                                SCADA, qui signifie Supervision Contrôle et\n                                                Acquisition de Données en anglais, va au-delà de l'échelle d'une machine\n                                                pour superviser l'ensemble d'un réseau de\n                                                machines, voire d'usines, offrant une vue globale, et souvent\n                                                centralisée dans une salle de contrôle.",
+            "_tid": "B4TRql"
+          },
+          {
+            "text": "SCADA et IHM ont des similarités, notamment dans la remontée\n                                                de données provenant des capteurs et moteurs des machines.\n                                                Cependant, trois distinctions majeures justifient le passage de l'IHM à\n                                                la SCADA.",
+            "_tid": "3GHk3r"
+          },
+          {
+            "text": "Tout d'abord, l'échelle : là où l'IHM est locale, la SCADA\n                                                peut superviser des réseaux complets d'usines. Cette capacité\n                                                d'échelle permet également à la SCADA d'interagir avec\n                                                d'autres systèmes à un niveau plus élevé, comme les systèmes\n                                                ERP et MES, facilitant ainsi la communication à l'échelle de\n                                                l'entreprise.",
+            "_tid": "29HKz4"
+          },
+          {
+            "text": " Deuxièmement, la télémétrie : la SCADA offre des options de\n                                                communication plus avancées, permettant la connexion à\n                                                plusieurs automates et machines simultanément, avec la capacité\n                                                d'adapter ses protocoles de communication. Ceci facilite\n                                                le contrôle à distance, la télémétrie et l'interaction avec divers\n                                                réseaux et protocoles, répondant ainsi aux besoins de\n                                                l'Internet des Objets (IoT).",
+            "_tid": "KNwzzj"
+          },
+          {
+            "text": "Enfin, la troisième distinction réside dans la gestion des\n                                                données. Alors que l'IHM peut stocker jusqu'à 24 heures\n                                                d'activité, la SCADA peut conserver plusieurs mois\n                                                voire années d'historique, offrant des fonctionnalités avancées\n                                                d'analyse de données, de Business Intelligence (BI) et de Data\n                                                Analytics.",
+            "_tid": "acSqFo"
+          },
+          {
+            "text": "  Il est crucial de reconnaître que l'IHM a ses propres\n                                                avantages, mais à mesure que la production évolue en termes de\n                                                cadence et de volume, la SCADA devient essentielle pour une gestion\n                                                industrielle optimale. Les critères pour déterminer\n                                                le moment de passer de l'IHM à la SCADA dépendent des\n                                                besoins spécifiques de chaque usine, de son architecture et\n                                                des interactions requises avec les systèmes informatiques. Si vous vous\n                                                interrogez sur la meilleure approche pour\n                                                implémenter une solution SCADA dans votre contexte industriel, n'hésitez\n                                                pas à nous contacter.",
+            "_tid": "b9sQMv"
+          }
+        ],
+        "subsections": [
+          {
+            "heading": "",
+            "paragraphs": [
+              {
+                "text": "Marc Akoto – Intégrateur                                                         SCADA",
+                "_tid": "eJMCu8"
+              }
+            ],
+            "_tid": "O5XnAV"
+          }
+        ],
+        "_tid": "yMmOPt"
       }
     ]
   }
