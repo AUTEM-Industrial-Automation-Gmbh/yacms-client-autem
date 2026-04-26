@@ -7,28 +7,57 @@
     "tocTitle": "Sommaire",
     "sections": [
       {
-        "heading": "",
+        "heading": "Ignition SCADA : pourquoi choisir ce logiciel de supervision industrielle ?",
         "paragraphs": [],
-        "subsections": [
-          {
-            "heading": "",
-            "paragraphs": [
-              {
-                "text": "Trouver une entreprise d'automatisme spécialisée en industrie à Lyon",
-                "_tid": "WMtPSI"
-              }
-            ],
-            "_tid": "60uYGy"
-          }
-        ],
-        "_tid": "wrYe6K"
+        "subsections": [],
+        "_tid": "wrYe6K",
+        "image": {
+          "src": "/images/ignition-scada.jpeg",
+          "alt": "ignition scada,scada,scada definition,systeme scada,logiciel scada,formation scada,architecture scada,cours scada,ingenieur scada,interface scada,logiciel de supervision scada,scada expert,supervision industrielle scada"
+        }
       },
       {
-        "heading": "Entreprise d'automatisme ou automaticien indépendant ?",
+        "heading": "Comparatif Ignition SCADA comme logiciel de supervision industrielle",
         "paragraphs": [
           {
-            "text": "Choisir entre <strong>entreprise d'automatisme</strong> et automaticien indépendant n'est pas anodin. Les 2 profils de prestataire offrent peut-être des services similaires, mais n'ont pas les mêmes caractéristiques. Pour les similitudes, tous les 2 pourront couvrir vos besoins en programmation d'automate, configuration d'interface homme-machine, paramétrage de variateur et contrôle de mouvements, programmation de bras robotisés, électrotechnique et études électrique, mise en service et dépannage. Mais la différence entre un <bold>automaticien indépendant</bold> et une entreprise d'automatisme réside dans la taille, le spectre de compétences, et la flexibilité. Une entreprise d'automatisme de grande taille procure un avantage quand l'usine cliente souhaite une offre technique multi-service et clé en main. En effet, une société de 10 salariés et plus peut être perçue comme un gage de robustesse technique, commerciale et juridique, avec renommée et des références industrielles solides. A l'inverse la petite taille d'un automaticien indépendant favorise le relationnel et la flexibilité. Pour des cas urgents de dépannage ou d'absence de personnel, un indépendant (auto-entrepreneur ou intégrateur scada) pourra se libérer plus rapide qu'une grande entreprise nécessitant de longues procédures administratives. Un automaticien indépendant est également plus flexible sur les déplacements professionnels. De plus certains projets occassionnels ne sont pas intéressants pour des entreprises qui exigent souvent un seuil minimum de budget pour assurer la pérénité des projets et des équipes, alors qu'un automaticien indépendant n'aura aucun mal à accepter tout type de projet, que la durée soit de 1 jour ou 1 an, pour peu que l'aspect technique l'intéresse. Par ailleurs l'automaticien indépendant a souvent un profil plus spécialisé et versatile qu'une <bold>entreprise d'automatisme</bold> industriel. En effet chez les gros intégrateurs, les choix de technologie et les partenaires/fournisseurs de composants limitent les équipes à un spectre défini de marques et compétences techniques. Alors que les automaticiens intégrateur scada ont plus de liberté pour choisir des technologies plus modernes, s'y former, et diversifier le scope technique qu'ils peuvent offrir à leurs clients. Si vous recherchez un automaticien polyvalent, fiable, et flexible, contactez AUTEM !",
+            "text": "Lorsqu'on recherche la meilleure solution SCADA pour une\n                                                    entreprise, il est crucial de prendre le temps de comparer les\n                                                    options disponibles sur le marché. Cet article vise à fournir un\n                                                    aperçu approfondi des forces de diverses solutions,\n                                                    mettant en avant le logiciel de supervision industrielle\n                                                    Ignition SCADA aux côtés d'autres acteurs majeurs tels que\n                                                    SCorp-IO, Panorama, WinCC OA, PcVue, et Wonderware.",
             "_tid": "W1ZmXH"
+          },
+          {
+            "text": "Ignition SCADA se distingue par sa qualité universelle,\n                                                    offrant une solution polyvalente pour répondre aux besoins\n                                                    variés des entreprises. En effet, dans le panorama des solutions\n                                                    SCADA, Ignition se positionne comme une référence\n                                                    incontournable. En examinant les forces de différentes solutions,\n                                                    nous observons qu'Ignition SCADA, tout comme ses\n                                                    concurrents, présente des avantages spécifiques.",
+            "_tid": "c5UCpb"
+          },
+          {
+            "text": "Lors du comparatif, le premier critère abordé est celui\n                                                    des \"Références et Ancienneté\". Les solutions WinCC OA et\n                                                    Wonderware se démarquent avec une note maximale de 5, soulignant\n                                                    leur présence sur le marché depuis 1990. Cette\n                                                    longévité témoigne de leur expérience et de leur crédibilité.",
+            "_tid": "GafRKz"
+          },
+          {
+            "text": "Le critère suivant, \"Installation & Démarrage\", révèle\n                                                    que Ignition SCADA se place parmi les meilleures\n                                                    solutions,\n                                                    aux côtés de SCorp-IO et WinCC OA, en raison de leur facilité de\n                                                    déploiement en cloud. La portabilité est également un\n                                                    aspect essentiel, où SCorp-IO, Ignition et WinCC OA obtiennent la\n                                                    meilleure note de 5 pour leur capacité à être\n                                                    déployées sur toutes les plateformes.",
+            "_tid": "nW1Flh"
+          },
+          {
+            "text": "En matière de connectivité, le critère \"Serveur OPC-UA\"\n                                                    est essentiel. SCorp-IO, Ignition, Panorama, et WinCC OA se\n                                                    démarquent avec une note de 3. Pour la gestion des bases de données,\n                                                    SCorp-IO, Ignition et WinCC OA obtiennent la\n                                                    meilleure note de 5, soulignant leur capacité à s'interfacer avec\n                                                    toutes les bases de données du marché.",
+            "_tid": "dEvumK"
+          },
+          {
+            "text": "Le critère \"Web\" met en avant SCorp-IO et Ignition SCADA\n                                                    en obtenant une note de 5, grâce à leur intégration sans\n                                                    limitation de HTML5 et CSS. La mobilité est un aspect clé, où\n                                                    SCorp-IO et Ignition obtiennent la meilleure note de 5 en\n                                                    permettant l'utilisation de HTML5.",
+            "_tid": "euU1yc"
+          },
+          {
+            "text": "En ce qui concerne le \"Cloud\", SCorp-IO se distingue\n                                                    avec une note maximale de 5, étant le meilleur du Cloud de manière\n                                                    native. Pour le développement, SCorp-IO est reconnu avec une note de\n                                                    5 pour son approche no-code, simplifiant la\n                                                    configuration.",
+            "_tid": "NVarrg"
+          },
+          {
+            "text": "Le critère \"Support + Formation\" attribue une note de 4\n                                                    à SCorp-IO et Ignition SCADA, soulignant la\n                                                    facilité\n                                                    d'apprentissage à travers des formations gratuites. En ce qui\n                                                    concerne les \"Licensing + Coûts\", SCorp-IO et Ignition\n                                                    sont les mieux notés avec une note de 5, offrant des tarifs\n                                                    abordables.",
+            "_tid": "4FQLLG"
+          },
+          {
+            "text": "Pour la \"Maintenabilité, Versioning\", SCorp-IO, Ignition\n                                                    et WinCC OA obtiennent une note de 4, soulignant leur\n                                                    compatibilité avec GIT. Enfin, le critère \"Sécurité, Stabilité\"\n                                                    donne une note de 3 à toutes les solutions explorées,\n                                                    mettant en lumière les multiples aspects à considérer en matière de\n                                                    sécurité et de stabilité.",
+            "_tid": "iOMHqS"
+          },
+          {
+            "text": "En somme, cet article offre une analyse approfondie des\n                                                    critères de choix des solutions SCADA, mettant en avant\n                                                    Ignition SCADA comme une option de premier plan, et soulignant\n                                                    ses avantages significatifs dans le paysage complexe\n                                                    de la supervision industrielle.",
+            "_tid": "I7X4lA"
           }
         ],
         "subsections": [],
