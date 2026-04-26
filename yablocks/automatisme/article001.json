@@ -7,54 +7,161 @@
     "tocTitle": "Sommaire",
     "sections": [
       {
-        "heading": "",
-        "paragraphs": [],
-        "subsections": [
+        "heading": "Automatisme : définition et technique",
+        "paragraphs": [
           {
-            "heading": "",
-            "paragraphs": [
-              {
-                "text": "Trouver une entreprise d'automatisme spécialisée en industrie à Lyon",
-                "_tid": "WMtPSI"
-              }
-            ],
-            "_tid": "60uYGy"
+            "text": "L’automatisme industriel représente une révolution dans le domaine de la production, éliminant la nécessité d'une intervention humaine directe. Au cœur de cette transformation se trouve l'Automate Programmable Industriel (API), également connu sous le nom de PLC (Programmable Logic Controller) en anglais. Une fois programmé, cet API peut superviser et gérer entièrement ou partiellement une chaîne de production, offrant une flexibilité hors pair en termes d'horaires et de cadences.",
+            "_tid": "WBPAWT"
+          },
+          {
+            "text": "L'automatisme industriel s'étend à divers secteurs, tels que l'agroalimentaire, la pétrochimie, la pharmaceutique, la technologie des semi-conducteurs, l'agriculture et plus encore. Pour déployer efficacement l'automatisme dans le secteur industriel, une combinaison de compétences est essentielle, couvrant l'électronique, l'électrotechnique, la mécanique de précision, et les technologies de l'information et de la télécommunication. Avec l'avènement de l'IIoT (Internet Industriel des Objets) et de l'industrie 4.0, ces compétences deviennent cruciales pour rester compétitif.",
+            "_tid": "1E5sIc"
+          },
+          {
+            "text": "Un point central de l'automatisation est l'Automate Programmable, un dispositif modulaire et programmable sélectionné en fonction des besoins spécifiques de chaque application. L'automatisation peut être totale ou partielle, s'adaptant aux évolutions des cycles de production des produits fabriqués.",
+            "_tid": "W1F5lV"
+          },
+          {
+            "text": "Les avantages de l'automatisme industriel vont au-delà de l'augmentation de la productivité. Bien que les bras robotisés et les équipements automatisés soient souvent associés à une production continue, l'automatisation permet avant tout une qualité de travail exceptionnelle. La précision des machines programmées garantit une uniformité inégalée, des ajustements précis, et des implémentations de composants parfaites, même après des centaines de milliers de cycles.",
+            "_tid": "Gw1NKO"
+          },
+          {
+            "text": "De plus, la sécurité est renforcée grâce à des normes strictes, des flux constamment surveillés, et une historisation des actions pour prévenir les pannes et améliorer les performances.",
+            "_tid": "mbYzZO"
+          },
+          {
+            "text": "La structure de l'automatisme industriel varie en fonction des niveaux d'automation nécessaires. Une organisation industrielle de niveau 4 représente l'apogée de l'automation, où toutes les actions sont automatisées sans intervention humaine. En revanche, une organisation de niveau 0 effectue toutes les tâches manuellement, sauf la partie opérative où l'automatisme s'intègre dans les capteurs et actionneurs d'outils.",
+            "_tid": "ce3nGv"
+          },
+          {
+            "text": "L'équipement informatique joue un rôle essentiel dans l'automatisme industriel, avec des PC fanless automatisés au cœur de chaque outil de production automatisé. Ces ordinateurs résistants aux environnements extrêmes contribuent à la fiabilité et au contrôle des machines. De plus, l'acquisition de données est cruciale, et des modules dédiés sont disponibles pour répondre à ce besoin élémentaire.",
+            "_tid": "dwD1hG"
+          },
+          {
+            "text": "En conclusion, l'automatisme industriel redéfinit la manière dont les entreprises produisent, améliorant la qualité, la sécurité et l'efficacité à travers une automatisation intelligente et technologiquement avancée.",
+            "_tid": "lx9n4D"
           }
         ],
+        "subsections": [],
         "_tid": "wrYe6K"
       },
       {
-        "heading": "Entreprise d'automatisme ou automaticien indépendant ?",
+        "heading": "Se perfectionner en Automatisme : compétences pour l'industrie",
         "paragraphs": [
           {
-            "text": "Choisir entre <strong>entreprise d'automatisme</strong> et automaticien indépendant n'est pas anodin. Les 2 profils de prestataire offrent peut-être des services similaires, mais n'ont pas les mêmes caractéristiques. Pour les similitudes, tous les 2 pourront couvrir vos besoins en programmation d'automate, configuration d'interface homme-machine, paramétrage de variateur et contrôle de mouvements, programmation de bras robotisés, électrotechnique et études électrique, mise en service et dépannage. Mais la différence entre un <bold>automaticien indépendant</bold> et une entreprise d'automatisme réside dans la taille, le spectre de compétences, et la flexibilité. Une entreprise d'automatisme de grande taille procure un avantage quand l'usine cliente souhaite une offre technique multi-service et clé en main. En effet, une société de 10 salariés et plus peut être perçue comme un gage de robustesse technique, commerciale et juridique, avec renommée et des références industrielles solides. A l'inverse la petite taille d'un automaticien indépendant favorise le relationnel et la flexibilité. Pour des cas urgents de dépannage ou d'absence de personnel, un indépendant (auto-entrepreneur ou intégrateur scada) pourra se libérer plus rapide qu'une grande entreprise nécessitant de longues procédures administratives. Un automaticien indépendant est également plus flexible sur les déplacements professionnels. De plus certains projets occassionnels ne sont pas intéressants pour des entreprises qui exigent souvent un seuil minimum de budget pour assurer la pérénité des projets et des équipes, alors qu'un automaticien indépendant n'aura aucun mal à accepter tout type de projet, que la durée soit de 1 jour ou 1 an, pour peu que l'aspect technique l'intéresse. Par ailleurs l'automaticien indépendant a souvent un profil plus spécialisé et versatile qu'une <bold>entreprise d'automatisme</bold> industriel. En effet chez les gros intégrateurs, les choix de technologie et les partenaires/fournisseurs de composants limitent les équipes à un spectre défini de marques et compétences techniques. Alors que les automaticiens intégrateur scada ont plus de liberté pour choisir des technologies plus modernes, s'y former, et diversifier le scope technique qu'ils peuvent offrir à leurs clients. Si vous recherchez un automaticien polyvalent, fiable, et flexible, contactez AUTEM !",
+            "text": "Vous êtes passionné par l'automatisme et que vous souhaitez vous perfectionner dans ce domaine en constante évolution, cet article est fait pour vous ? Découvrez des conseils pratiques et des astuces qui vous aideront à progresser et à exceller dans le domaine de l'automatisme industriel. Comment Se Perfectionner et S'Épanouir dans le Monde de l'Automatisation Industrielle ?",
             "_tid": "W1ZmXH"
+          },
+          {
+            "text": "L'automatisme est un sujet central dans l'industrie moderne, où la maîtrise de technologies avancées est cruciale. Pour commencer, privilégiez des projets de travaux neufs, où vous pourrez créer une machine à partir de zéro en suivant un cahier des charges. Cette approche vous permettra d'acquérir une expérience solide dès les premières étapes de votre carrière.",
+            "_tid": "lkdacB"
+          },
+          {
+            "text": "L'apprentissage par la pratique est essentiel, et c'est là que les projets de rétrofit entrent en jeu. L'automatisme en maintenance devient alors une compétence clé, car vous devrez améliorer ou migrer des machines existantes vers des systèmes plus modernes. Cette polyvalence vous ouvrira des portes pour des missions d'automatisme variées, enrichissant ainsi votre expertise.",
+            "_tid": "QR8y33"
+          },
+          {
+            "text": "N'ayez pas peur des projets de dépannage, même s'ils sont souvent associés à des situations stressantes. En réalité, ces moments sont des opportunités d'apprentissage uniques. Les problèmes qui surviennent lors des premiers déploiements vous obligent à approfondir vos connaissances, à rester calme dans l'action, à résoudre des bugs et à vous former sur le tas.",
+            "_tid": "gCQvch"
+          },
+          {
+            "text": "Pour les automates chevronnés, l'efficacité devient la clé. Utilisez des outils comme automatisme commande pour rechercher des tutoriels sur YouTube de manière efficace. Cette approche peut considérablement augmenter votre productivité. De plus, créez votre propre bibliothèque de problèmes et solutions pour capitaliser sur vos expériences passées. Cela deviendra votre référence inestimable lorsque des pannes se reproduiront.",
+            "_tid": "188fAL"
+          },
+          {
+            "text": "La gestion des mots de passe est un aspect souvent négligé de la cybersécurité en automatisme. Utilisez des outils certifiés tels que automatisme expert et automatisme industriel pour sécuriser vos données. Organisez vos informations de manière efficace, en créant des comptes séparés pour les aspects professionnel et personnel.",
+            "_tid": "Hjn2qq"
+          },
+          {
+            "text": "Les machines virtuelles, telles que celles offertes par VMware et VirtualBox, deviennent des alliées précieuses pour gérer les différents logiciels des constructeurs. Cette approche facilite la maîtrise de plusieurs environnements sans conflits de licence.",
+            "_tid": "Yh7Z1Q"
+          },
+          {
+            "text": "Pour maximiser votre apprentissage, choisissez judicieusement votre entreprise. Optez pour des entreprises d'automatisme industriel et tertiaire, souvent des intégrateurs de machines ou des bureaux d'études. Ces entreprises vous offriront une diversité de projets, de technologies, et une expérience riche en automatisme à Lyon, Paris, Grenoble ou ailleurs.",
+            "_tid": "d3qUoW"
+          },
+          {
+            "text": "En conclusion, l'automatisme est une discipline en constante évolution, offrant des opportunités d'apprentissage infinies. Suivez ces conseils, restez curieux et n'hésitez pas à explorer de nouvelles technologies pour exceller dans le domaine de l'automatisme industriel. L'automatisme vous ouvre les portes d'un monde fascinant où la maîtrise technique et la diversité des projets sont les clés de la réussite.",
+            "_tid": "wBpNmU"
           }
         ],
         "subsections": [],
         "_tid": "3oZKTQ"
       },
       {
-        "heading": "Automaticien intégrateur : où trouver des spécialistes en Rhône-Alpes ?",
+        "heading": "Automatisme : Rédiger une Analyse Fonctionnelle",
         "paragraphs": [
           {
-            "text": "De nombreuses industries recherchent des automaticiens, et des <strong>entreprise d'automatisme industriel</strong> à Lyon. la raison est simple: l'automatisation bat son plein et les profils ayant le savoir-faire et les compétences sont rares. Comment donc trouver des spécialistes capables de programmer vos machines. Tout d'abord vous pouvez recruter un automaticien à Lyon ou Grenoble, en tant que salarié ou prestataire pour sous-traiter un développement, une programmation ou une configuration de machine automatisée. Vos automates, variateurs, IHM, supervisions et systèmes d'informatique industrielle. Ensuite vous avez accès à de nombreux intégrateurs et fabricants de machines et systèmes automatisés. Ceux-ci possèdent dans leurs équipes des ressources internes capables d'automatiser vos équipements et lignes de production. Si votre sites industriel de production, ne trouve toujours pas d'entreprise d'automatisme, vous pouvez également solliciter des recruteurs spécialisés dans le recrutement d' <strong>automaticien en région Rhône-Alpes</strong>. Leur réseau d'ingénieurs, techniciens et commerciaux peut accélérer votre recherche, car dans le monde de l'automatisme, certains profils spécialisés sont uniquement connus des chasseurs de tête, ou des experts techniques du domaines. AUTEM peut aussi vous faire bénéficier de son réseau : contactez-nous et nous vous aiderons à trouver l'automaticien ou l'entreprise d'automatisme adaptée à votre besoin et à votre cahier des charges techniques.",
+            "text": "Comment rédiger une Analyse Fonctionnelle d'Automatisme Industriel pour Optimiser Votre Processus Industriel ?",
             "_tid": "hlU2Hn"
-          }
-        ],
-        "subsections": [],
-        "_tid": "ehTFA1"
-      },
-      {
-        "heading": "L'automatisme en Rhônes-Alpes",
-        "paragraphs": [
+          },
           {
-            "text": "Les entreprises d'automatismes ont des particularités en région Rhônes-Alpes. A Lyon, les industrie de la chimie et la pharmaceutique ont poussé les intégrateurs à se spécialiser sur l'automatisme des process liquides et gaz. Ainsi des compétences comme la régulation et l'instrumentation de process sont très présents chez les entreprises d'automatisme. A Grenoble le secteur de l'électronique et des composants microélectroniques a permis de développer une expertise en précision de mouvement, motion control, programmation de variateurs moteurs. A Valence, on note une forte présence des fournisseurs OEM de composants pour l'automobile. Cela suppose la présence de nombreux roboticiens et automaticiens spécialisés dans la programmation de bras robotisés pour le soudage, le déplacement de pièces, et la mécanisation des lignes de production automobile. Tout ce écosystème s'est créé au fil des décennies grâce aux spécificités historiques et géographiques de la <strong>région Rhônes-Alpes</strong>. Historiquement l' <strong>automatisme en Rhônes-Alpes</strong> tire sa source des activités économiques qui étaient très variées dans le bassin du Rhône et dans les Alpes : soie, textile, horlogerie, transport fluvial, construction bâtiment. Cela a permis de construire un savoir-faire technique régional centré autour de la mécanisation avec notamment le métier à tisser, la chimie des couleurs pour le textile, les mines à charbon ainsi que les barrages de montagne pour l'énergie. Avec la 3è révolution industrielle, l'arrivée de l'électrotechnique et la réduction des composants électriques, toutes ses compétences ont ensuite servi de base pour forger de gros pôles de compétences autour de leaders techniques dans l'énergie, l'électricité, l'automobile, avec des débouchés dans toute la France. Géographiquement, la proximité avec de nombreux pays européens a favorisé l'implantation de sociétés internationales venant de Suisse, Allemagne, Italie et Espagne. Cela a également permis la formation de nombreux techniciens et ingénieurs qui sont à l'origine des multiples <strong>entreprises d'automatisme à Lyon</strong>, à Grenoble, Clermont-Ferrand et dans toutes la région Auvergne-Rhônes-Alpes (AURA). Désormais avec la 4è révolution industrielle, un <strong>automaticien à Lyon</strong> a une longueur d'avance sur la connectivité des machines et le traitement des données issues des usines, pour superviser, améliorer, optimiser les équipements d'usine, et faire communiquer des sites de production à distance.",
-            "_tid": "IZXTyk"
+            "text": "Que ce soit pour une mission d'automatisme maintenance, une recherche en automatisme électrique, ou une entreprise dédiée à l'automatisme industriel et tertiaire, il est crucial de comprendre les tenants et aboutissants de l'Analyse Fonctionnelle Automatisme.",
+            "_tid": "8XxfTQ"
+          },
+          {
+            "text": "Lorsqu'il s'agit d'optimiser les processus industriels, l'automatisme devient un élément clé. Il est essentiel de comprendre les nuances de cette discipline, que vous dirigiez une entreprise d'automatisme à Lyon ou à Paris, ou que vous cherchiez un expert en automatisme industriel à Grenoble. Ce paragraphe vise à expliquer la démarche à suivre pour mener une analyse fonctionnelle automatisme efficace.",
+            "_tid": "NoLhRe"
           }
         ],
-        "subsections": [],
-        "_tid": "noQ6fd"
+        "subsections": [
+          {
+            "heading": "",
+            "paragraphs": [
+              {
+                "text": "En suivant ces étapes, votre entreprise d'automatisme expert peut garantir des solutions efficaces, répondant aux normes les plus strictes de l'automatisme industriel.",
+                "_tid": "1zNPeL"
+              },
+              {
+                "text": "Optimisez votre approche de l'automatisme industriel en suivant ces conseils pour une analyse fonctionnelle complète et précise. Que vous soyez à Grenoble, Lyon, Paris ou ailleurs, l'automatisme industriel n'aura plus de secrets pour vous.",
+                "_tid": "wrFaDb"
+              }
+            ],
+            "_tid": "3GJ5ru"
+          }
+        ],
+        "_tid": "ehTFA1",
+        "list": {
+          "style": "ordered",
+          "items": [
+            {
+              "text": "Comprendre le Besoin Client : L'analyse fonctionnelle commence par une compréhension approfondie des besoins du client. Cela peut inclure des aspects spécifiques tels que la commande d'automatismes particuliers ou la mise en place d'une supervision automatisme.",
+              "_tid": "vcQvs6"
+            },
+            {
+              "text": "Établir le Cahier des Charges : Après avoir identifié les besoins, il est impératif de créer un cahier des charges précis. Cela peut impliquer des spécifications détaillées pour les composants, relevant souvent de la commande automatisme.",
+              "_tid": "qcMKCG"
+            },
+            {
+              "text": "Définir les Fonctions de la Machine : L'étape suivante consiste à définir les fonctions que l'automatisme industriel devra assurer. Cela peut inclure des aspects liés à la technique automatisme et aux fonctions de commande.",
+              "_tid": "TJ7MHo"
+            },
+            {
+              "text": "Déterminer les Organes Fonctionnels : Il est essentiel de définir les organes fonctionnels, qu'il s'agisse de logiciel automatisme ou d'éléments matériels comme les automates. Cette étape est cruciale pour la réalisation d'une analyse fonctionnelle complète.",
+              "_tid": "aJsbDm"
+            },
+            {
+              "text": "La Décomposition Détaillée du Système : En fonction du projet, il peut être nécessaire de procéder à une décomposition détaillée du système, en se concentrant sur la technique automatisme utilisée.",
+              "_tid": "v5662N"
+            },
+            {
+              "text": "Choix des Composants : Sélectionner les composants adéquats est un élément clé de l'analyse fonctionnelle. Ce choix peut impacter la maintenance automatisme à long terme.",
+              "_tid": "VLb1wI"
+            },
+            {
+              "text": "Architecture Réseau : Si le projet le nécessite, il est crucial de définir une architecture réseau appropriée, intégrant les dernières avancées en matière de supervision automatisme.",
+              "_tid": "pZIBKm"
+            },
+            {
+              "text": "Définir les Séquences de Fonctionnement : Préciser les séquences de fonctionnement, en utilisant un langage automatisme adapté, est indispensable pour assurer une automatisation sans faille.",
+              "_tid": "RggIH3"
+            },
+            {
+              "text": "Historique des Alarmes : Prévoir un historique des alarmes fait partie intégrante de l'analyse fonctionnelle, permettant une maintenance automatisme proactive.",
+              "_tid": "8EydNM"
+            }
+          ]
+        }
       }
     ]
   }
