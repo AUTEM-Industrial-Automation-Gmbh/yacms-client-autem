@@ -1,31 +1,16 @@
 {
   "meta": {
-    "title": "👷‍♂️ Formation & Techniciens pour l’Industrie du Futur 🏭 - Yannick SUTRA | Blog AUTEM",
-    "description": "Comment former les techniciens de demain ?",
+    "title": "Formation et Techniciens pour l'industrie du futur",
+    "description": "Découvre les compétences d'un automaticien en 2022",
     "keywords": [
-      "Evolution de l'industrie",
+      "Automation",
       "Astuces Carrière",
       "AUTEM",
       "automatisme industriel"
     ],
     "author": "AUTEM",
-    "canonical": "https://autem.ch/blog/formation-et-industrie/",
     "locale": "fr_CH",
     "robots": "index, follow",
-    "hreflang": [
-      {
-        "lang": "fr-CH",
-        "href": "https://autem.ch/blog/formation-et-industrie/"
-      },
-      {
-        "lang": "fr-FR",
-        "href": "https://autem-services.fr/blog/formation-et-industrie/"
-      },
-      {
-        "lang": "x-default",
-        "href": "https://autem-services.fr/blog/formation-et-industrie/"
-      }
-    ],
     "og": {
       "type": "website",
       "image": "/og-home.png",
@@ -66,10 +51,10 @@
   },
   "theme": "autem-default",
   "blocks": [
-    "../../_shared/navigation.json",
+    "@shared/navigation.json",
     "./hero011.json",
     "./article001.json",
     "./cta002.json",
-    "../../_shared/footer.json"
+    "@shared/footer.json"
   ]
 }

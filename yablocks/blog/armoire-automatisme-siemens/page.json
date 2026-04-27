@@ -1,31 +1,16 @@
 {
   "meta": {
-    "title": "Siemens Armoire d’automatisme | Identifier les organes | Autem | Blog AUTEM",
-    "description": "Identification des différents éléments de la gamme Siemens présent dans un banc d'essai",
+    "title": "Siemens Armoire d'Automatisme",
+    "description": "Découvre les compétences d'un automaticien en 2022",
     "keywords": [
       "Automation",
-      "PC Industriel",
+      "Astuces Carrière",
       "AUTEM",
       "automatisme industriel"
     ],
     "author": "AUTEM",
-    "canonical": "https://autem.ch/blog/armoire-automatisme-siemens/",
     "locale": "fr_CH",
     "robots": "index, follow",
-    "hreflang": [
-      {
-        "lang": "fr-CH",
-        "href": "https://autem.ch/blog/armoire-automatisme-siemens/"
-      },
-      {
-        "lang": "fr-FR",
-        "href": "https://autem-services.fr/blog/armoire-automatisme-siemens/"
-      },
-      {
-        "lang": "x-default",
-        "href": "https://autem-services.fr/blog/armoire-automatisme-siemens/"
-      }
-    ],
     "og": {
       "type": "website",
       "image": "/og-home.png",
@@ -66,10 +51,10 @@
   },
   "theme": "autem-default",
   "blocks": [
-    "../../_shared/navigation.json",
+    "@shared/navigation.json",
     "./hero011.json",
     "./article001.json",
     "./cta002.json",
-    "../../_shared/footer.json"
+    "@shared/footer.json"
   ]
 }
