@@ -1,0 +1,25 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Un projet d'architecture industrielle ?",
+      "de": "Ein Projekt für industrielle Architektur?"
+    },
+    "data.benefits[@dikefO].text": {
+      "source": "Conception d'architectures IT/OT convergentes",
+      "de": "Konzeption konvergenter IT/OT-Architekturen"
+    },
+    "data.benefits[@KKoa4z].text": {
+      "source": "Intégration Edge, Cloud & systèmes embarqués",
+      "de": "Integration von Edge, Cloud & eingebetteten Systemen"
+    },
+    "data.benefits[@szUOVM].text": {
+      "source": "Sécurisation et segmentation des réseaux",
+      "de": "Netzwerksicherheit und -segmentierung"
+    },
+    "data.cta.text": {
+      "source": "Discutons de votre projet",
+      "de": "Lassen Sie uns über Ihr Projekt sprechen"
+    }
+  }
+}

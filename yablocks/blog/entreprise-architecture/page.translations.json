@@ -1,0 +1,37 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Enterprise Architecture & Digital Transformation - Bindioa OUALI | Blog AUTEM",
+      "de": "Enterprise Architecture & Digitale Transformation - Bindioa OUALI | AUTEM Blog",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "The reality of digital transformation is that People and Processes get often neglected while choosing and deploying a new Technology. Discover more in this article.",
+      "de": "Die Realität der digitalen Transformation ist, dass Menschen und Prozesse bei der Auswahl und Implementierung neuer Technologien oft vernachlässigt werden. Erfahren Sie mehr in diesem Artikel.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "Architecture Systèmes",
+        "Gestion Projet Stratégique",
+        "Interview-Atelier LIVE",
+        "AUTEM",
+        "automatisme industriel"
+      ],
+      "de": [
+        "Systemarchitektur",
+        "Strategisches Projektmanagement",
+        "Interview-Workshop LIVE",
+        "AUTEM",
+        "industrielle Automatisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Blog technique automatisme et SCADA industriel",
+      "de": "AUTEM — Technischer Blog für industrielle Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}

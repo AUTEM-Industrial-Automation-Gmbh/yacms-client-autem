@@ -1,0 +1,37 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backLinkLabel": {
+      "source": "Retour au blog",
+      "de": "Zurück zum Blog"
+    },
+    "data.title": {
+      "source": "Enterprise Architecture & Digital Transformation - Bindioa OUALI",
+      "de": "Enterprise Architecture & Digitale Transformation - Bindioa OUALI"
+    },
+    "data.tags[@LEaPUG].label": {
+      "source": "Architecture Systèmes",
+      "de": "Systemarchitektur"
+    },
+    "data.tags[@JkauWz].label": {
+      "source": "Gestion Projet Stratégique",
+      "de": "Strategisches Projektmanagement"
+    },
+    "data.tags[@8VkUkB].label": {
+      "source": "Interview-Atelier LIVE",
+      "de": "Interview-Workshop LIVE"
+    },
+    "data.articleMeta.readTime": {
+      "source": "5 min lecture",
+      "de": "5 Minuten Lesezeit"
+    },
+    "data.articleMeta.publishDate": {
+      "source": "11/02/24",
+      "de": "11.02.24"
+    },
+    "data.articleMeta.updatedDate": {
+      "source": "17/03/26",
+      "de": "26.03.17"
+    }
+  }
+}
