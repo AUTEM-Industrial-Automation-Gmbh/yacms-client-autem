@@ -74,6 +74,7 @@
     "@shared/navigation.json",
     "./hero002.json",
     "./features008-symptomes.json",
+    "./feature-rich-content.json",
     "./features008-nouvelle-donne.json",
     "./features008-croissance.json",
     "./features008-accompagnement.json",
