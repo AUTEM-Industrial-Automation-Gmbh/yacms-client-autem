@@ -10,15 +10,18 @@
     "tags": [
       {
         "label": "Architecture Systèmes",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "LEaPUG"
       },
       {
         "label": "Gestion Projet Stratégique",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "JkauWz"
       },
       {
         "label": "Interview-Atelier LIVE",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "8VkUkB"
       }
     ],
     "articleMeta": {
