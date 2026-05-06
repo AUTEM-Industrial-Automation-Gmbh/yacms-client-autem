@@ -9,9 +9,16 @@
     "title": "Technology architecture benchmark study — MedTech leaders",
     "tags": [
       {
-        "label": "MedTech",
-        "type": "secteur",
-        "_tid": "G8UZMy"
+        "label": "Architecture Systèmes",
+        "type": "secteur"
+      },
+      {
+        "label": "MES-OEE",
+        "type": "categorie"
+      },
+      {
+        "label": "IoT Réseau",
+        "type": "categorie"
       }
     ],
     "articleMeta": {
