@@ -95,6 +95,34 @@
     "cards": [
       {
         "coverImage": {
+          "src": "/assets/architecture-technology-benchmark-medtech.jpg",
+          "alt": "MedTech Technology Architecture Benchmark"
+        },
+        "title": "Technology architecture benchmark study — MedTech leaders",
+        "link": "/blog/architecture-technology-benchmark-medtech",
+        "tags": [
+          {
+            "label": "Architecture Systèmes"
+          },
+          {
+            "label": "MES-OEE"
+          },
+          {
+            "label": "IoT Réseau"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "excerpt": "How are Medtronic, J&J, Abbott, Stryker and Becton Dickinson handling OT-IT integration, OEE measurement and data pipelines in their factories?",
+        "date": "06/05/2026"
+      },
+      {
+        "coverImage": {
           "src": "/assets/highByte-vs-kepware.jpg",
           "alt": "Intégrateur SCADA"
         },
