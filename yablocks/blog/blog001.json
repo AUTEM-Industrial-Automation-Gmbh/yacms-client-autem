@@ -3349,6 +3349,30 @@
         "excerpt": "Maintenance Industrielle - Le guide ultime pour comprendre comment diagnostiquer une panne machine en industrie.",
         "date": "29/04/2021",
         "_tid": "GJlF9x"
+      },
+      {
+        "coverImage": {
+          "src": "/blog/ignition to kafka v2.jpg",
+          "alt": "6 Habits that kill Old Machines"
+        },
+        "title": "Ignition - Kafka : Event Streams, Jython, 3 bridges compared (HTTP, Confluent, Debezium)",
+        "excerpt": "benchmark the top integration options to find out which one really connects best. Why Kafka for Manufacturing?. Limitations of the Built-in Event Stream Module. Three Integration Bridges Compared. The Unified Namespace (UNS) Requirement. Production vs. Lab Demo",
+        "link": "/blog/ignition-kafka",
+        "tags": [
+          {
+            "label": "Supervision SCADA",
+            "_tid": "Pm9n0n"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier_automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "01/04/2026",
+        "_tid": "lMbZ4w"
       }
     ]
   }
