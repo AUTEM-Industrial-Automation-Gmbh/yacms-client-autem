@@ -32,6 +32,14 @@
       "source": "AUTEM — Blog technique automatisme et SCADA industriel",
       "de": "AUTEM — Technischer Blog für industrielle Automatisierung und SCADA",
       "de:manual": true
+    },
+    "meta.locale": {
+      "source": "fr_CH",
+      "en": "en_CH"
+    },
+    "meta.canonical": {
+      "source": "https://autem.ch/blog/entreprise-architecture/",
+      "en": "https://autem.ch/en/blog/entreprise-architecture/"
     }
   }
 }
