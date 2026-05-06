@@ -9,16 +9,16 @@
       "automatisme industriel"
     ],
     "author": "AUTEM",
-    "canonical": "https://autem.ch/blog/historiser-des-donnee-en-opc/",
+    "canonical": "https://autem-services.fr/blog/historiser-des-donnee-en-opc/",
     "locale": "fr_CH",
     "robots": "index, follow",
     "hreflang": [
       {
-        "lang": "fr-CH",
+        "lang": "fr_CH",
         "href": "https://autem.ch/blog/historiser-des-donnee-en-opc/"
       },
       {
-        "lang": "fr-FR",
+        "lang": "fr_FR",
         "href": "https://autem-services.fr/blog/historiser-des-donnee-en-opc/"
       },
       {

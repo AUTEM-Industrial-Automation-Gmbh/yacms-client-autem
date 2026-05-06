@@ -14,11 +14,11 @@
     "robots": "index, follow",
     "hreflang": [
       {
-        "lang": "fr-CH",
+        "lang": "fr_CH",
         "href": "https://autem.ch/blog/prove-it-la-conference-40/"
       },
       {
-        "lang": "fr-FR",
+        "lang": "fr_FR",
         "href": "https://autem-services.fr/blog/prove-it-la-conference-40/"
       },
       {

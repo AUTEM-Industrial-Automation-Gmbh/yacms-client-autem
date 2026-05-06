@@ -47,7 +47,22 @@
           "closes": "17:00"
         }
       ]
-    }
+    },
+    "hreflang": [
+      {
+        "lang": "fr_CH",
+        "href": "https://autem.ch/blog/armoire-automatisme-siemens/"
+      },
+      {
+        "lang": "fr_FR",
+        "href": "https://autem-services.fr/blog/armoire-automatisme-siemens/"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://autem-services.fr/blog/armoire-automatisme-siemens/"
+      }
+    ],
+    "canonical": "https://autem-services.fr/blog/armoire-automatisme-siemens/"
   },
   "theme": "autem-default",
   "blocks": [

@@ -9,106 +9,130 @@
     "filterTags": [
       {
         "label": "Automation",
-        "value": "automation"
+        "value": "automation",
+        "_tid": "5VSxKQ"
       },
       {
         "label": "Supervision SCADA",
-        "value": "supervision-scada"
+        "value": "supervision-scada",
+        "_tid": "d3Jqd4"
       },
       {
         "label": "IoT Réseau",
-        "value": "iot-reseau"
+        "value": "iot-reseau",
+        "_tid": "HO6pgG"
       },
       {
         "label": "Actualités TECH",
-        "value": "actualites-tech"
+        "value": "actualites-tech",
+        "_tid": "vBl2jY"
       },
       {
         "label": "Astuces Carrière",
-        "value": "astuces-carriere"
+        "value": "astuces-carriere",
+        "_tid": "l46cMX"
       },
       {
         "label": "IA & Machine Learning",
-        "value": "ia-machine-learning"
+        "value": "ia-machine-learning",
+        "_tid": "I3FTAV"
       },
       {
         "label": "Evolution de l'industrie",
-        "value": "evolution-industrie"
+        "value": "evolution-industrie",
+        "_tid": "Ne0F5j"
       },
       {
         "label": "Cycle de Vie et Obsolescence",
-        "value": "cycle-vie-obsolescence"
+        "value": "cycle-vie-obsolescence",
+        "_tid": "tGxVFq"
       },
       {
         "label": "Motion & Robotique",
-        "value": "motion-robotique"
+        "value": "motion-robotique",
+        "_tid": "Bvqlx2"
       },
       {
         "label": "Architecture Systèmes",
-        "value": "architecture-systemes"
+        "value": "architecture-systemes",
+        "_tid": "z0TU5K"
       },
       {
         "label": "Machines Vintage",
-        "value": "machines-vintage"
+        "value": "machines-vintage",
+        "_tid": "iA13of"
       },
       {
         "label": "Transfert de Compétences",
-        "value": "transfert-competences"
+        "value": "transfert-competences",
+        "_tid": "Dwj7Se"
       },
       {
         "label": "Interview-Atelier LIVE",
-        "value": "interview-atelier-live"
+        "value": "interview-atelier-live",
+        "_tid": "G8duAp"
       },
       {
         "label": "Evenèments",
-        "value": "evenements"
+        "value": "evenements",
+        "_tid": "8GaYgn"
       },
       {
         "label": "MES-OEE",
-        "value": "mes-oee"
+        "value": "mes-oee",
+        "_tid": "S56W8G"
       },
       {
         "label": "Pareto-VSM",
-        "value": "pareto-vsm"
+        "value": "pareto-vsm",
+        "_tid": "rtGcrU"
       },
       {
         "label": "Gestion Projet Stratégique",
-        "value": "gestion-projet-strategique"
+        "value": "gestion-projet-strategique",
+        "_tid": "rjuSuz"
       },
       {
         "label": "GTB-GMAO",
-        "value": "gtb-gmao"
+        "value": "gtb-gmao",
+        "_tid": "8HnVX5"
       },
       {
         "label": "PC Industriel",
-        "value": "pc-industriel"
+        "value": "pc-industriel",
+        "_tid": "UfhPG3"
       },
       {
         "label": "Electricité",
-        "value": "electricite"
+        "value": "electricite",
+        "_tid": "9n0Avs"
       },
       {
         "label": "Instrumentation-Capteurs",
-        "value": "instrumentation-capteurs"
+        "value": "instrumentation-capteurs",
+        "_tid": "bbz7Go"
       }
     ],
     "cards": [
       {
         "coverImage": {
-          "src": "/assets/architecture-technology-benchmark-medtech.jpg",
+          "src": "/blog/medtech.png",
           "alt": "MedTech Technology Architecture Benchmark"
         },
         "title": "Technology architecture benchmark study — MedTech leaders",
         "link": "/blog/architecture-technology-benchmark-medtech",
         "tags": [
           {
-            "label": "Architecture Systèmes"
+            "label": "Architecture Systèmes",
+            "_tid": "LzHy9W"
           },
           {
-            "label": "MES-OEE"
+            "label": "MES-OEE",
+            "_tid": "9Kfx5t"
           },
           {
-            "label": "IoT Réseau"
+            "label": "IoT Réseau",
+            "_tid": "7wDa3j"
           }
         ],
         "author": {
@@ -119,7 +143,60 @@
           }
         },
         "excerpt": "How are Medtronic, J&J, Abbott, Stryker and Becton Dickinson handling OT-IT integration, OEE measurement and data pipelines in their factories?",
-        "date": "06/05/2026"
+        "date": "06/05/2026",
+        "_tid": "eRYDIe"
+      },
+      {
+        "coverImage": {
+          "src": "/blog/actu 23 - Q1 2026.jpg",
+          "alt": "3 trends to follow in PLC Automation"
+        },
+        "title": "Actus n°23 - PLC Automation is Changing !",
+        "excerpt": "News n°23 - 3 trends to follow in PLC Automation - Q1 2026\nTraining Platforms (plci.app & Easy PLC School), Troubleshooting Tools (Snap PLC), Programming Platforms (Copilot, Accelera, Cronax)",
+        "link": "/blog/news-mars-2026",
+        "tags": [
+          {
+            "label": "Actualités TECH",
+            "_tid": "dyFJun"
+          },
+          {
+            "label": "Automation",
+            "_tid": "0Pu0d8"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier_automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "14/04/2026",
+        "_tid": "mPJsDx"
+      },
+      {
+        "coverImage": {
+          "src": "/blog/ignition to kafka v2.jpg",
+          "alt": "6 Habits that kill Old Machines"
+        },
+        "title": "Ignition - Kafka : Event Streams, Jython, 3 bridges compared (HTTP, Confluent, Debezium)",
+        "excerpt": "benchmark the top integration options to find out which one really connects best. Why Kafka for Manufacturing?. Limitations of the Built-in Event Stream Module. Three Integration Bridges Compared. The Unified Namespace (UNS) Requirement. Production vs. Lab Demo",
+        "link": "/blog/ignition-kafka",
+        "tags": [
+          {
+            "label": "Supervision SCADA",
+            "_tid": "Pm9n0n"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier_automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "01/04/2026",
+        "_tid": "lMbZ4w"
       },
       {
         "coverImage": {
@@ -130,7 +207,8 @@
         "link": "/blog/highbyte-vs-kepware",
         "tags": [
           {
-            "label": "Supervision SCADA"
+            "label": "Supervision SCADA",
+            "_tid": "Dtobw9"
           }
         ],
         "author": {
@@ -141,7 +219,8 @@
           }
         },
         "excerpt": "Which trade-off to historize data in your factory ?",
-        "date": "08/03/2026"
+        "date": "08/03/2026",
+        "_tid": "dpuilP"
       },
       {
         "coverImage": {
@@ -152,7 +231,8 @@
         "link": "/blog/missing-your-true-identity",
         "tags": [
           {
-            "label": "Astuces Carrière"
+            "label": "Astuces Carrière",
+            "_tid": "FgazEY"
           }
         ],
         "author": {
@@ -163,7 +243,8 @@
           }
         },
         "excerpt": "Let's explore 3 reason why you should probably take a turn in your career.",
-        "date": "22/02/2026"
+        "date": "22/02/2026",
+        "_tid": "9jVLMP"
       },
       {
         "coverImage": {
@@ -174,10 +255,12 @@
         "link": "/blog/the-4-risks-of-a-retrofit-in-machine-automation",
         "tags": [
           {
-            "label": "Cycle de Vie et Obsolescence"
+            "label": "Cycle de Vie et Obsolescence",
+            "_tid": "gIbbXA"
           },
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "sYRrfW"
           }
         ],
         "author": {
@@ -188,7 +271,8 @@
           }
         },
         "excerpt": "Let's explore the 4 risks of a RETROFIT in Machine Automation",
-        "date": "15/02/2026"
+        "date": "15/02/2026",
+        "_tid": "UgghWf"
       },
       {
         "coverImage": {
@@ -199,10 +283,12 @@
         "link": "/blog/the-denial-of-age-vintage-machines",
         "tags": [
           {
-            "label": "Evolution de l'industrie"
+            "label": "Evolution de l'industrie",
+            "_tid": "7s5ii7"
           },
           {
-            "label": "Machines Vintage"
+            "label": "Machines Vintage",
+            "_tid": "9r0x3s"
           }
         ],
         "author": {
@@ -213,7 +299,8 @@
           }
         },
         "excerpt": "🏭 For people or machines in manufacturing, the shame of becoming DISPOSABLE is a reality. Let's explore !",
-        "date": "08/02/2026"
+        "date": "08/02/2026",
+        "_tid": "M9VgXr"
       },
       {
         "coverImage": {
@@ -224,10 +311,12 @@
         "link": "/blog/when-archeology-meets-manufacturing",
         "tags": [
           {
-            "label": "Evolution de l'industrie"
+            "label": "Evolution de l'industrie",
+            "_tid": "tZ9ARU"
           },
           {
-            "label": "Machines Vintage"
+            "label": "Machines Vintage",
+            "_tid": "LihyYw"
           }
         ],
         "author": {
@@ -238,7 +327,8 @@
           }
         },
         "excerpt": "Are Dinosaure Machines the Best ? Let's explore the question.",
-        "date": "01/02/2026"
+        "date": "01/02/2026",
+        "_tid": "50gXeW"
       },
       {
         "coverImage": {
@@ -249,10 +339,12 @@
         "link": "/blog/6-habits-that-kill-old-machines",
         "tags": [
           {
-            "label": "Cycle de Vie et Obsolescence"
+            "label": "Cycle de Vie et Obsolescence",
+            "_tid": "0PFdoe"
           },
           {
-            "label": "Machines Vintage"
+            "label": "Machines Vintage",
+            "_tid": "P1wyqf"
           }
         ],
         "author": {
@@ -263,7 +355,8 @@
           }
         },
         "excerpt": "Let's explore 6 Habits that kill Old Machines",
-        "date": "25/01/2026"
+        "date": "25/01/2026",
+        "_tid": "YtzoxT"
       },
       {
         "coverImage": {
@@ -274,10 +367,12 @@
         "link": "/blog/cybersecurity-containerization-open_source-digital_transformation",
         "tags": [
           {
-            "label": "Actualités TECH"
+            "label": "Actualités TECH",
+            "_tid": "bNaphH"
           },
           {
-            "label": "Evolution de l'industrie"
+            "label": "Evolution de l'industrie",
+            "_tid": "BvutPc"
           }
         ],
         "author": {
@@ -288,7 +383,8 @@
           }
         },
         "excerpt": "Cybersecurity, Containerization, Open Source, Digital Transformation",
-        "date": "25/01/2026"
+        "date": "25/01/2026",
+        "_tid": "svgHOR"
       },
       {
         "coverImage": {
@@ -299,10 +395,12 @@
         "link": "/blog/automate-your-engineering-report-with-ai",
         "tags": [
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "JBw3VU"
           },
           {
-            "label": "IA & Machine Learning"
+            "label": "IA & Machine Learning",
+            "_tid": "TEPWnS"
           }
         ],
         "author": {
@@ -313,7 +411,8 @@
           }
         },
         "excerpt": "Automate your Engineering Reports with AI - Real-Life example",
-        "date": "24/06/2025"
+        "date": "24/06/2025",
+        "_tid": "MKJNds"
       },
       {
         "coverImage": {
@@ -324,7 +423,8 @@
         "link": "/blog/automate-your-documentation",
         "tags": [
           {
-            "label": "Transfert de Compétences"
+            "label": "Transfert de Compétences",
+            "_tid": "teuIfk"
           }
         ],
         "author": {
@@ -335,7 +435,8 @@
           }
         },
         "excerpt": "It is really important to not just take for granted documentation, but to really own that activity as a way for you to leverage your business.",
-        "date": "17/06/2025"
+        "date": "17/06/2025",
+        "_tid": "gUoLdP"
       },
       {
         "coverImage": {
@@ -346,10 +447,12 @@
         "link": "/blog/project-and-team-collaboration",
         "tags": [
           {
-            "label": "Gestion Projet Stratégique"
+            "label": "Gestion Projet Stratégique",
+            "_tid": "kwvCqh"
           },
           {
-            "label": "Astuces Carrière"
+            "label": "Astuces Carrière",
+            "_tid": "k49xq0"
           }
         ],
         "author": {
@@ -360,7 +463,8 @@
           }
         },
         "excerpt": "Handle your team collaboration with Focalboard which provide more data ownership and more interoperability of your existing system.",
-        "date": "03/06/2025"
+        "date": "03/06/2025",
+        "_tid": "ATGAZK"
       },
       {
         "coverImage": {
@@ -371,10 +475,12 @@
         "link": "/blog/train-your-local-ai",
         "tags": [
           {
-            "label": "Transfert de Compétences"
+            "label": "Transfert de Compétences",
+            "_tid": "zZBJvM"
           },
           {
-            "label": "IA & Machine Learning"
+            "label": "IA & Machine Learning",
+            "_tid": "pJmOOY"
           }
         ],
         "author": {
@@ -385,7 +491,8 @@
           }
         },
         "excerpt": "Knowledge Base productivity",
-        "date": "06/05/2025"
+        "date": "06/05/2025",
+        "_tid": "nCZtTH"
       },
       {
         "coverImage": {
@@ -396,7 +503,8 @@
         "link": "/blog/mqtt-image-sampling",
         "tags": [
           {
-            "label": "IoT Réseau"
+            "label": "IoT Réseau",
+            "_tid": "OEhRUP"
           }
         ],
         "author": {
@@ -407,7 +515,8 @@
           }
         },
         "excerpt": "🖼️ Storing Images from your Machine Vision system in 10 minutes.",
-        "date": "06/05/2025"
+        "date": "06/05/2025",
+        "_tid": "PmEvQB"
       },
       {
         "coverImage": {
@@ -418,7 +527,8 @@
         "link": "/blog/modeliser-son-lifecycle-machine",
         "tags": [
           {
-            "label": "Cycle de Vie et Obsolescence"
+            "label": "Cycle de Vie et Obsolescence",
+            "_tid": "4s7AvR"
           }
         ],
         "author": {
@@ -429,7 +539,8 @@
           }
         },
         "excerpt": "3 paramètres pour des Décisions Objectives Maintenance Préventive",
-        "date": "16/04/2025"
+        "date": "16/04/2025",
+        "_tid": "lRnbl1"
       },
       {
         "coverImage": {
@@ -440,13 +551,16 @@
         "link": "/blog/ouverture-technologique-et-automation",
         "tags": [
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "4lXlqQ"
           },
           {
-            "label": "Actualités TECH"
+            "label": "Actualités TECH",
+            "_tid": "EN21Pq"
           },
           {
-            "label": "IA & Machine Learning"
+            "label": "IA & Machine Learning",
+            "_tid": "lspLwG"
           }
         ],
         "author": {
@@ -457,7 +571,8 @@
           }
         },
         "excerpt": "Actualités mensuelles mars 2025 de l'industrie 4.0 🏭 Commentée par un spécialiste de l'automatisation 👷 (mois de mars 2025)",
-        "date": "01/04/2025"
+        "date": "01/04/2025",
+        "_tid": "tkUvx5"
       },
       {
         "coverImage": {
@@ -468,10 +583,12 @@
         "link": "/blog/formation-et-industrie",
         "tags": [
           {
-            "label": "Evolution de l'industrie"
+            "label": "Evolution de l'industrie",
+            "_tid": "AICX4s"
           },
           {
-            "label": "Astuces Carrière"
+            "label": "Astuces Carrière",
+            "_tid": "NcZr1M"
           }
         ],
         "author": {
@@ -482,7 +599,8 @@
           }
         },
         "excerpt": "Comment former les techniciens de demain ?",
-        "date": "25/03/2025"
+        "date": "25/03/2025",
+        "_tid": "xwL5Ut"
       },
       {
         "coverImage": {
@@ -493,7 +611,8 @@
         "link": "/blog/obsolescence-perennite-penurie-inconnues",
         "tags": [
           {
-            "label": "Cycle de Vie et Obsolescence"
+            "label": "Cycle de Vie et Obsolescence",
+            "_tid": "ebXW8q"
           }
         ],
         "author": {
@@ -504,7 +623,8 @@
           }
         },
         "excerpt": "Une équation à 7 inconnues",
-        "date": "12/03/2025"
+        "date": "12/03/2025",
+        "_tid": "ksxbtD"
       },
       {
         "coverImage": {
@@ -515,7 +635,8 @@
         "link": "/blog/les-automaticiens-entrepreneurs",
         "tags": [
           {
-            "label": "Machines Vintage"
+            "label": "Machines Vintage",
+            "_tid": "jtRWez"
           }
         ],
         "author": {
@@ -526,7 +647,8 @@
           }
         },
         "excerpt": "✋ 3 conseils avant de se mettre à son compte",
-        "date": "04/03/2025"
+        "date": "04/03/2025",
+        "_tid": "rcb1mr"
       },
       {
         "coverImage": {
@@ -537,10 +659,12 @@
         "link": "/blog/prove-it-la-conference-40",
         "tags": [
           {
-            "label": "Actualités TECH"
+            "label": "Actualités TECH",
+            "_tid": "dNOy9e"
           },
           {
-            "label": "Evolution de l'industrie"
+            "label": "Evolution de l'industrie",
+            "_tid": "oxzcGm"
           }
         ],
         "author": {
@@ -551,7 +675,8 @@
           }
         },
         "excerpt": "Actualités mensuelles de l'industrie 4.0 🏭 Commentée par un spécialiste de l'automatisation 👷 (mois de février 2025)",
-        "date": "25/02/2025"
+        "date": "25/02/2025",
+        "_tid": "EGOh3F"
       },
       {
         "coverImage": {
@@ -562,7 +687,8 @@
         "link": "/blog/logiciel-industriels-licence-payante-ou-gratuite",
         "tags": [
           {
-            "label": "Architecture Systèmes"
+            "label": "Architecture Systèmes",
+            "_tid": "ZQ4hOI"
           }
         ],
         "author": {
@@ -573,7 +699,8 @@
           }
         },
         "excerpt": "Licence payante ou gratuite ? Propriétaire ou OpenSource ? Les tendances et suggestions.",
-        "date": "19/02/2025"
+        "date": "19/02/2025",
+        "_tid": "2ymbee"
       },
       {
         "coverImage": {
@@ -584,10 +711,12 @@
         "link": "/blog/evolution-dans-lindustrie-carriere-automatisme-et-communaute",
         "tags": [
           {
-            "label": "Evolution de l'industrie"
+            "label": "Evolution de l'industrie",
+            "_tid": "BRS9fh"
           },
           {
-            "label": "Interview-Atelier LIVE"
+            "label": "Interview-Atelier LIVE",
+            "_tid": "nYxaCk"
           }
         ],
         "author": {
@@ -598,7 +727,8 @@
           }
         },
         "excerpt": "Retour aux Origines avec Hocine BOUCHEMAL, Bertrand AYENE, Bourahima KAMAGATE, Giovanni AGBOCOU, Veysel DOGANEL",
-        "date": "11/02/2025"
+        "date": "11/02/2025",
+        "_tid": "Vp65GZ"
       },
       {
         "coverImage": {
@@ -609,10 +739,12 @@
         "link": "/blog/ladder-et-process-control-programmation-et-opensource",
         "tags": [
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "6JJ1rf"
           },
           {
-            "label": "Actualités TECH"
+            "label": "Actualités TECH",
+            "_tid": "lvLyxD"
           }
         ],
         "author": {
@@ -623,7 +755,8 @@
           }
         },
         "excerpt": "Actualités mensuelles de l'industrie 4.0 🏭 Commentée par un spécialiste de l'automatisation 👷 (mois de janvier 2025)",
-        "date": "28/01/2025"
+        "date": "28/01/2025",
+        "_tid": "aK82Ey"
       },
       {
         "coverImage": {
@@ -634,10 +767,12 @@
         "link": "/blog/stop-aux-formations-et-communaute-en-ligne",
         "tags": [
           {
-            "label": "Astuces Carrière"
+            "label": "Astuces Carrière",
+            "_tid": "ocfcqL"
           },
           {
-            "label": "Transfert de Compétences"
+            "label": "Transfert de Compétences",
+            "_tid": "wXjLZR"
           }
         ],
         "author": {
@@ -648,7 +783,8 @@
           }
         },
         "excerpt": "Des astuces utiles pour choisir sa formation et crée une communauté.",
-        "date": "22/01/2025"
+        "date": "22/01/2025",
+        "_tid": "9QdpHx"
       },
       {
         "coverImage": {
@@ -659,10 +795,12 @@
         "link": "/blog/protectionnisme-technologies-futures-en-industrie",
         "tags": [
           {
-            "label": "Actualités TECH"
+            "label": "Actualités TECH",
+            "_tid": "QXGZXi"
           },
           {
-            "label": "Evolution de l'industrie"
+            "label": "Evolution de l'industrie",
+            "_tid": "M06VKg"
           }
         ],
         "author": {
@@ -673,7 +811,8 @@
           }
         },
         "excerpt": "Actualités mensuelles de l'industrie 4.0 🏭 Commentée par un spécialiste de l'automatisation 👷 (mois de novembre et de décembre 2024)",
-        "date": "09/01/2025"
+        "date": "09/01/2025",
+        "_tid": "hcSrsX"
       },
       {
         "coverImage": {
@@ -684,13 +823,16 @@
         "link": "/blog/nos-galères-en-industrie",
         "tags": [
           {
-            "label": "Evolution de l'industrie"
+            "label": "Evolution de l'industrie",
+            "_tid": "6Ni38G"
           },
           {
-            "label": "Machines Vintage"
+            "label": "Machines Vintage",
+            "_tid": "erchVo"
           },
           {
-            "label": "Interview-Atelier LIVE"
+            "label": "Interview-Atelier LIVE",
+            "_tid": "tfS5YT"
           }
         ],
         "author": {
@@ -701,7 +843,8 @@
           }
         },
         "excerpt": "Bilan 2024 avec Marc AKOTO",
-        "date": "04/01/2025"
+        "date": "04/01/2025",
+        "_tid": "wmz6cv"
       },
       {
         "coverImage": {
@@ -712,10 +855,12 @@
         "link": "/blog/retrofit-carte-electronique-advantech",
         "tags": [
           {
-            "label": "PC Industriel"
+            "label": "PC Industriel",
+            "_tid": "nTGfBZ"
           },
           {
-            "label": "Cycle de Vie et Obsolescence"
+            "label": "Cycle de Vie et Obsolescence",
+            "_tid": "bt5aBj"
           }
         ],
         "author": {
@@ -726,7 +871,8 @@
           }
         },
         "excerpt": "Comment gérer l'obsolescence d'une machine industrielle équipée d'une carte électronique Advantech",
-        "date": "04/01/2025"
+        "date": "04/01/2025",
+        "_tid": "BRYrBE"
       },
       {
         "coverImage": {
@@ -737,10 +883,12 @@
         "link": "/blog/cest-qui-autem",
         "tags": [
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "Zi1sY3"
           },
           {
-            "label": "Evolution de l'industrie"
+            "label": "Evolution de l'industrie",
+            "_tid": "qkpuDR"
           }
         ],
         "author": {
@@ -751,7 +899,8 @@
           }
         },
         "excerpt": "Entre Hardware, Software, et Performance Industrielle ... je vous dis tout sur AUTEM, le volet Business, les clients Industriels, les équipes et partenaires.",
-        "date": "04/01/2025"
+        "date": "04/01/2025",
+        "_tid": "M9rlzf"
       },
       {
         "coverImage": {
@@ -762,13 +911,16 @@
         "link": "/blog/robot-optimus-et-frameworkx",
         "tags": [
           {
-            "label": "Motion & Robotique"
+            "label": "Motion & Robotique",
+            "_tid": "x5AEFU"
           },
           {
-            "label": "Actualités TECH"
+            "label": "Actualités TECH",
+            "_tid": "t2t6ff"
           },
           {
-            "label": "IA & Machine Learning"
+            "label": "IA & Machine Learning",
+            "_tid": "U904Ql"
           }
         ],
         "author": {
@@ -779,7 +931,8 @@
           }
         },
         "excerpt": "Actualités mensuelles de l'industrie 4.0: octobre 2024, 🏭 Commentée par un spécialiste de l'automatisation 👷",
-        "date": "20/11/2024"
+        "date": "20/11/2024",
+        "_tid": "QajAxt"
       },
       {
         "coverImage": {
@@ -790,10 +943,12 @@
         "link": "/blog/christiana-yapi-une-roboticienne-pionniere",
         "tags": [
           {
-            "label": "Motion & Robotique"
+            "label": "Motion & Robotique",
+            "_tid": "NFBHk4"
           },
           {
-            "label": "Interview-Atelier LIVE"
+            "label": "Interview-Atelier LIVE",
+            "_tid": "Tgij0Q"
           }
         ],
         "author": {
@@ -804,7 +959,8 @@
           }
         },
         "excerpt": "Christiana YAPI nous partage son expérience sur la robotique à travers cet échange très riche.",
-        "date": "11/11/2024"
+        "date": "11/11/2024",
+        "_tid": "eBKXxF"
       },
       {
         "coverImage": {
@@ -815,10 +971,12 @@
         "link": "/blog/exalens-process-monitoring-software",
         "tags": [
           {
-            "label": "IA & Machine Learning"
+            "label": "IA & Machine Learning",
+            "_tid": "nsjhJN"
           },
           {
-            "label": "Cycle de Vie et Obsolescence"
+            "label": "Cycle de Vie et Obsolescence",
+            "_tid": "41e4NT"
           }
         ],
         "author": {
@@ -829,7 +987,8 @@
           }
         },
         "excerpt": "Exalens, un outil innovant basé facilier vos rétrofits ou moderniser de vieilles machines.",
-        "date": "11/11/2024"
+        "date": "11/11/2024",
+        "_tid": "jpevnq"
       },
       {
         "coverImage": {
@@ -840,7 +999,8 @@
         "link": "/blog/adopter-docker-en-industrie",
         "tags": [
           {
-            "label": "Architecture Systèmes"
+            "label": "Architecture Systèmes",
+            "_tid": "mc7l5S"
           }
         ],
         "author": {
@@ -851,7 +1011,8 @@
           }
         },
         "excerpt": "4 raisons d'adopter DOCKER en Industrie | Containerisation VS Virtualisation",
-        "date": "21/10/2024"
+        "date": "21/10/2024",
+        "_tid": "4IIoCU"
       },
       {
         "coverImage": {
@@ -862,10 +1023,12 @@
         "link": "/blog/automobile-et-iot",
         "tags": [
           {
-            "label": "IoT Réseau"
+            "label": "IoT Réseau",
+            "_tid": "R0ezLH"
           },
           {
-            "label": "Actualités TECH"
+            "label": "Actualités TECH",
+            "_tid": "2zKsRQ"
           }
         ],
         "author": {
@@ -876,7 +1039,8 @@
           }
         },
         "excerpt": "Actualités mensuelles de l'industrie 4.0 🏭 Commentée par un spécialiste de l'automatisation 👷‍ (mois de septembre 2024)",
-        "date": "10/10/2024"
+        "date": "10/10/2024",
+        "_tid": "joQ5qn"
       },
       {
         "coverImage": {
@@ -887,10 +1051,12 @@
         "link": "/blog/retrofit-digitaliser",
         "tags": [
           {
-            "label": "Gestion Projet Stratégique"
+            "label": "Gestion Projet Stratégique",
+            "_tid": "oCpgPu"
           },
           {
-            "label": "Cycle de Vie et Obsolescence"
+            "label": "Cycle de Vie et Obsolescence",
+            "_tid": "DhXaRk"
           }
         ],
         "author": {
@@ -901,7 +1067,8 @@
           }
         },
         "excerpt": "Quelle est la priorité si l'on doit choisir entre faire un Rétrofit ou Digitaliser ?",
-        "date": "10/10/2024"
+        "date": "10/10/2024",
+        "_tid": "ZaRkSS"
       },
       {
         "coverImage": {
@@ -912,10 +1079,12 @@
         "link": "/blog/recruter-un-technicien",
         "tags": [
           {
-            "label": "Machines Vintage"
+            "label": "Machines Vintage",
+            "_tid": "bHFOL1"
           },
           {
-            "label": "Transfert de Compétences"
+            "label": "Transfert de Compétences",
+            "_tid": "NVO1Ni"
           }
         ],
         "author": {
@@ -926,7 +1095,8 @@
           }
         },
         "excerpt": "🔥Comment recruter un technicien en industrie 👷‍♂️ 7 étapes en ingénierie industrielle",
-        "date": "22/09/2024"
+        "date": "22/09/2024",
+        "_tid": "9hIrns"
       },
       {
         "coverImage": {
@@ -937,10 +1107,12 @@
         "link": "/blog/news-aout-2024",
         "tags": [
           {
-            "label": "Actualités TECH"
+            "label": "Actualités TECH",
+            "_tid": "hOFXNO"
           },
           {
-            "label": "Evolution de l'industrie"
+            "label": "Evolution de l'industrie",
+            "_tid": "DeEIfq"
           }
         ],
         "author": {
@@ -951,7 +1123,8 @@
           }
         },
         "excerpt": "Actualités mensuelles de l'industrie 4.0 🏭 Commentée par un spécialiste de l'automatisation 👷‍",
-        "date": "09/09/2024"
+        "date": "09/09/2024",
+        "_tid": "6cWFb3"
       },
       {
         "coverImage": {
@@ -962,7 +1135,8 @@
         "link": "/blog/equilibre-vie-perso-pro-pour-techiciens-en-industrie",
         "tags": [
           {
-            "label": "Machines Vintage"
+            "label": "Machines Vintage",
+            "_tid": "XDbgWF"
           }
         ],
         "author": {
@@ -973,7 +1147,8 @@
           }
         },
         "excerpt": "7 points pour relever les défis auxquels sont confrontés les techniciens dans l'industrie moderne.",
-        "date": "14/07/2024"
+        "date": "14/07/2024",
+        "_tid": "AzPCE1"
       },
       {
         "coverImage": {
@@ -984,10 +1159,12 @@
         "link": "/blog/news-juin-2024",
         "tags": [
           {
-            "label": "Supervision SCADA"
+            "label": "Supervision SCADA",
+            "_tid": "yDBQea"
           },
           {
-            "label": "Actualités TECH"
+            "label": "Actualités TECH",
+            "_tid": "ZibCfI"
           }
         ],
         "author": {
@@ -998,7 +1175,8 @@
           }
         },
         "excerpt": "Les actualités du mois de juin 2024: SnowFlake Data, Scada AWS et un Expert à suivre.",
-        "date": "14/07/2024"
+        "date": "14/07/2024",
+        "_tid": "NPPuJY"
       },
       {
         "coverImage": {
@@ -1009,10 +1187,12 @@
         "link": "/blog/les-techniciens-proposent-des-solutions",
         "tags": [
           {
-            "label": "Evolution de l'industrie"
+            "label": "Evolution de l'industrie",
+            "_tid": "pw14Vl"
           },
           {
-            "label": "Transfert de Compétences"
+            "label": "Transfert de Compétences",
+            "_tid": "cZoxQE"
           }
         ],
         "author": {
@@ -1023,7 +1203,8 @@
           }
         },
         "excerpt": "7 points pour relever les défis auxquels sont confrontés les techniciens dans l'industrie moderne.",
-        "date": "29/06/2024"
+        "date": "29/06/2024",
+        "_tid": "mNsnOB"
       },
       {
         "coverImage": {
@@ -1034,10 +1215,12 @@
         "link": "/blog/les-techniciens-fuient-lindustrie",
         "tags": [
           {
-            "label": "Evolution de l'industrie"
+            "label": "Evolution de l'industrie",
+            "_tid": "TRNsaX"
           },
           {
-            "label": "Astuces Carrière"
+            "label": "Astuces Carrière",
+            "_tid": "U1347R"
           }
         ],
         "author": {
@@ -1048,7 +1231,8 @@
           }
         },
         "excerpt": "Pourquoi les meilleurs quittent l'industrie ?",
-        "date": "29/06/2024"
+        "date": "29/06/2024",
+        "_tid": "bIo8y5"
       },
       {
         "coverImage": {
@@ -1059,7 +1243,8 @@
         "link": "/blog/politique-et-industrie-en-france",
         "tags": [
           {
-            "label": "Evolution de l'industrie"
+            "label": "Evolution de l'industrie",
+            "_tid": "s3akKN"
           }
         ],
         "author": {
@@ -1070,7 +1255,8 @@
           }
         },
         "excerpt": "Je compare les programmes des candidats",
-        "date": "18/06/2024"
+        "date": "18/06/2024",
+        "_tid": "qy8Lyc"
       },
       {
         "coverImage": {
@@ -1081,10 +1267,12 @@
         "link": "/blog/defi-de-l-industrialisation-en-afrique",
         "tags": [
           {
-            "label": "Evolution de l'industrie"
+            "label": "Evolution de l'industrie",
+            "_tid": "RfbMXD"
           },
           {
-            "label": "Interview-Atelier LIVE"
+            "label": "Interview-Atelier LIVE",
+            "_tid": "sMjtzV"
           }
         ],
         "author": {
@@ -1095,7 +1283,8 @@
           }
         },
         "excerpt": "Découvre les défis de l'Industrialisation en Afrique avec Boubacar MARIGO",
-        "date": "18/06/2024"
+        "date": "18/06/2024",
+        "_tid": "0Jt8fs"
       },
       {
         "coverImage": {
@@ -1106,10 +1295,12 @@
         "link": "/blog/arduino-sql-ot-bencmark",
         "tags": [
           {
-            "label": "Architecture Systèmes"
+            "label": "Architecture Systèmes",
+            "_tid": "G2UTVd"
           },
           {
-            "label": "Actualités TECH"
+            "label": "Actualités TECH",
+            "_tid": "ReDL7w"
           }
         ],
         "author": {
@@ -1120,7 +1311,8 @@
           }
         },
         "excerpt": "Les actualités du mois de mai 2024: Arduino, SQL et OT Benchmark.",
-        "date": "04/06/2024"
+        "date": "04/06/2024",
+        "_tid": "1Cmluq"
       },
       {
         "coverImage": {
@@ -1131,10 +1323,12 @@
         "link": "/blog/custom-solution-design",
         "tags": [
           {
-            "label": "IoT Réseau"
+            "label": "IoT Réseau",
+            "_tid": "gRyaLC"
           },
           {
-            "label": "Architecture Systèmes"
+            "label": "Architecture Systèmes",
+            "_tid": "1Hbbmf"
           }
         ],
         "author": {
@@ -1145,7 +1339,8 @@
           }
         },
         "excerpt": "In this article, explore \"when designing a custom solution becomes a better choice\".",
-        "date": "04/06/2024"
+        "date": "04/06/2024",
+        "_tid": "SlcH8q"
       },
       {
         "coverImage": {
@@ -1156,10 +1351,12 @@
         "link": "/blog/factory-automation-insiders",
         "tags": [
           {
-            "label": "Evolution de l'industrie"
+            "label": "Evolution de l'industrie",
+            "_tid": "xCvx09"
           },
           {
-            "label": "Interview-Atelier LIVE"
+            "label": "Interview-Atelier LIVE",
+            "_tid": "cKKVEw"
           }
         ],
         "author": {
@@ -1170,7 +1367,8 @@
           }
         },
         "excerpt": "Un partage entre experts, riche en vérités sur différents aspects de l'industrie",
-        "date": "01/06/2024"
+        "date": "01/06/2024",
+        "_tid": "Ge5OyO"
       },
       {
         "coverImage": {
@@ -1181,10 +1379,12 @@
         "link": "/blog/armoire-automatisme-beckhoff",
         "tags": [
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "ywUafy"
           },
           {
-            "label": "PC Industriel"
+            "label": "PC Industriel",
+            "_tid": "p22wox"
           }
         ],
         "author": {
@@ -1195,7 +1395,8 @@
           }
         },
         "excerpt": "Identification des différents éléments de la gamme Beckhoff présent dans un banc d'essai",
-        "date": "08/05/2024"
+        "date": "08/05/2024",
+        "_tid": "aKVDJW"
       },
       {
         "coverImage": {
@@ -1206,13 +1407,16 @@
         "link": "/blog/news-avril-2024",
         "tags": [
           {
-            "label": "MES-OEE"
+            "label": "MES-OEE",
+            "_tid": "ePTJ6q"
           },
           {
-            "label": "Pareto-VSM"
+            "label": "Pareto-VSM",
+            "_tid": "RB1Wik"
           },
           {
-            "label": "Actualités TECH"
+            "label": "Actualités TECH",
+            "_tid": "4Ytsze"
           }
         ],
         "author": {
@@ -1223,7 +1427,8 @@
           }
         },
         "excerpt": "Les actualités du mois d'avril 2024 dont le salon Hannover Messe",
-        "date": "01/05/2024"
+        "date": "01/05/2024",
+        "_tid": "udwFzp"
       },
       {
         "coverImage": {
@@ -1234,10 +1439,12 @@
         "link": "/blog/industrie-agroalimentaire-et-pharmaceutique",
         "tags": [
           {
-            "label": "Interview-Atelier LIVE"
+            "label": "Interview-Atelier LIVE",
+            "_tid": "yQAwqs"
           },
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "48369F"
           }
         ],
         "author": {
@@ -1248,7 +1455,8 @@
           }
         },
         "excerpt": "A la découverte du monde de l'industrie Agro et pharmaceutique",
-        "date": "28/04/2024"
+        "date": "28/04/2024",
+        "_tid": "clPqXV"
       },
       {
         "coverImage": {
@@ -1259,13 +1467,16 @@
         "link": "/blog/bilan-de-12-mois-dactualite",
         "tags": [
           {
-            "label": "Motion & Robotique"
+            "label": "Motion & Robotique",
+            "_tid": "4G3DMd"
           },
           {
-            "label": "Actualités TECH"
+            "label": "Actualités TECH",
+            "_tid": "49ksMn"
           },
           {
-            "label": "IA & Machine Learning"
+            "label": "IA & Machine Learning",
+            "_tid": "WMYM2g"
           }
         ],
         "author": {
@@ -1276,7 +1487,8 @@
           }
         },
         "excerpt": "Rétrospective sur les 12 derniers mois d'Actualités mensuelles de l'industrie 4.0",
-        "date": "01/04/2024"
+        "date": "01/04/2024",
+        "_tid": "f2Quvn"
       },
       {
         "coverImage": {
@@ -1287,10 +1499,12 @@
         "link": "/blog/dashboard-excel",
         "tags": [
           {
-            "label": "Architecture Systèmes"
+            "label": "Architecture Systèmes",
+            "_tid": "3Mo5x9"
           },
           {
-            "label": "Gestion Projet Stratégique"
+            "label": "Gestion Projet Stratégique",
+            "_tid": "EezPBv"
           }
         ],
         "author": {
@@ -1301,7 +1515,8 @@
           }
         },
         "excerpt": "Les dashboards entièrement développés sur Excel avec un expert Olivier YOUMBI",
-        "date": "30/03/2024"
+        "date": "30/03/2024",
+        "_tid": "xgJDfg"
       },
       {
         "coverImage": {
@@ -1312,10 +1527,12 @@
         "link": "/blog/zone-atex",
         "tags": [
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "jbEACy"
           },
           {
-            "label": "Interview-Atelier LIVE"
+            "label": "Interview-Atelier LIVE",
+            "_tid": "b7k9MG"
           }
         ],
         "author": {
@@ -1326,7 +1543,8 @@
           }
         },
         "excerpt": "Comment automatiser des machines quand on est en zone ATEX avec un expert Esteban TORIBIO",
-        "date": "20/03/2024"
+        "date": "20/03/2024",
+        "_tid": "JfQJWo"
       },
       {
         "coverImage": {
@@ -1337,10 +1555,12 @@
         "link": "/blog/news-fevrier-2024",
         "tags": [
           {
-            "label": "Actualités TECH"
+            "label": "Actualités TECH",
+            "_tid": "38RT9R"
           },
           {
-            "label": "Evolution de l'industrie"
+            "label": "Evolution de l'industrie",
+            "_tid": "j0655M"
           }
         ],
         "author": {
@@ -1351,7 +1571,8 @@
           }
         },
         "excerpt": "Actualités industrielles en janvier 2024 : Métallurgie, IHM, Langues, IA.",
-        "date": "10/03/2024"
+        "date": "10/03/2024",
+        "_tid": "3z9aWZ"
       },
       {
         "coverImage": {
@@ -1362,10 +1583,12 @@
         "link": "/blog/opportunites-et-metiers-futurs",
         "tags": [
           {
-            "label": "Astuces Carrière"
+            "label": "Astuces Carrière",
+            "_tid": "JRtuNU"
           },
           {
-            "label": "Interview-Atelier LIVE"
+            "label": "Interview-Atelier LIVE",
+            "_tid": "wqBqZ5"
           }
         ],
         "author": {
@@ -1376,7 +1599,8 @@
           }
         },
         "excerpt": "L'expérience d'un expert en Electricité, Automatisme et Instrumentation (EAI): Stéphane DANTIGNY.",
-        "date": "25/02/2024"
+        "date": "25/02/2024",
+        "_tid": "G1M6LQ"
       },
       {
         "coverImage": {
@@ -1387,7 +1611,8 @@
         "link": "/blog/challenge-champion-france",
         "tags": [
           {
-            "label": "Evenèments"
+            "label": "Evenèments",
+            "_tid": "H6xrUb"
           }
         ],
         "author": {
@@ -1398,7 +1623,8 @@
           }
         },
         "excerpt": "Incarnation de l'excellence industrielle avec Lazhar Benchelloug et Hugo Marquez.",
-        "date": "18/02/2024"
+        "date": "18/02/2024",
+        "_tid": "ZzxwHh"
       },
       {
         "coverImage": {
@@ -1409,7 +1635,8 @@
         "link": "/blog/news-janvier-2024",
         "tags": [
           {
-            "label": "Actualités TECH"
+            "label": "Actualités TECH",
+            "_tid": "SdfDH0"
           }
         ],
         "author": {
@@ -1420,7 +1647,8 @@
           }
         },
         "excerpt": "Actualités industrielles en janvier 2024 : Métallurgie, IHM, Langues, IA.",
-        "date": "17/02/2024"
+        "date": "17/02/2024",
+        "_tid": "OEtIap"
       },
       {
         "coverImage": {
@@ -1431,10 +1659,12 @@
         "link": "/blog/demo-live-automate-mitsubishi",
         "tags": [
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "8trkex"
           },
           {
-            "label": "Interview-Atelier LIVE"
+            "label": "Interview-Atelier LIVE",
+            "_tid": "rRu2hP"
           }
         ],
         "author": {
@@ -1445,7 +1675,8 @@
           }
         },
         "excerpt": "Démo en LIVE pour interfacer l'automate Mitsubishi avec la plateforme Ignition.",
-        "date": "17/02/2024"
+        "date": "17/02/2024",
+        "_tid": "Ut1h8v"
       },
       {
         "coverImage": {
@@ -1456,13 +1687,16 @@
         "link": "/blog/entreprise-architecture",
         "tags": [
           {
-            "label": "Architecture Systèmes"
+            "label": "Architecture Systèmes",
+            "_tid": "SxjcGz"
           },
           {
-            "label": "Gestion Projet Stratégique"
+            "label": "Gestion Projet Stratégique",
+            "_tid": "XSbunf"
           },
           {
-            "label": "Interview-Atelier LIVE"
+            "label": "Interview-Atelier LIVE",
+            "_tid": "PY5RND"
           }
         ],
         "author": {
@@ -1473,7 +1707,8 @@
           }
         },
         "excerpt": "The reality of digital transformation is that People and Processes get often neglected while choosing and deploying a new Technology. Discover more in this article.",
-        "date": "11/02/2024"
+        "date": "11/02/2024",
+        "_tid": "I4pVrS"
       },
       {
         "coverImage": {
@@ -1484,10 +1719,12 @@
         "link": "/blog/news-decembre-2023",
         "tags": [
           {
-            "label": "Actualités TECH"
+            "label": "Actualités TECH",
+            "_tid": "Q8kMQy"
           },
           {
-            "label": "Evolution de l'industrie"
+            "label": "Evolution de l'industrie",
+            "_tid": "0stZJ4"
           }
         ],
         "author": {
@@ -1498,7 +1735,8 @@
           }
         },
         "excerpt": "Actualités industrielles en novembre 2023 : Codesys, Flow Dashboard, Biggest Factory.",
-        "date": "03/02/2024"
+        "date": "03/02/2024",
+        "_tid": "WW8N5L"
       },
       {
         "coverImage": {
@@ -1509,7 +1747,8 @@
         "link": "/blog/midjourney-ia-et-industrie",
         "tags": [
           {
-            "label": "IA & Machine Learning"
+            "label": "IA & Machine Learning",
+            "_tid": "7gY6yI"
           }
         ],
         "author": {
@@ -1520,7 +1759,8 @@
           }
         },
         "excerpt": "Teste du générateur d'images Midjourney sur le thème de l'industrie 🏭 : Quelle représentation graphique l'algorithme se fait de l'industrie ?",
-        "date": "03/02/2024"
+        "date": "03/02/2024",
+        "_tid": "5vMpkI"
       },
       {
         "coverImage": {
@@ -1531,13 +1771,16 @@
         "link": "/blog/vision-ia-robotique",
         "tags": [
           {
-            "label": "IA & Machine Learning"
+            "label": "IA & Machine Learning",
+            "_tid": "xBmejg"
           },
           {
-            "label": "Motion & Robotique"
+            "label": "Motion & Robotique",
+            "_tid": "pVtDa8"
           },
           {
-            "label": "Interview-Atelier LIVE"
+            "label": "Interview-Atelier LIVE",
+            "_tid": "J61HVE"
           }
         ],
         "author": {
@@ -1548,7 +1791,8 @@
           }
         },
         "excerpt": "Vision IA et Robotique: challenges et perception sur le management de l'innovation dans les équipes R&D et bureaux d'études.",
-        "date": "13/12/2023"
+        "date": "13/12/2023",
+        "_tid": "xZmjYz"
       },
       {
         "coverImage": {
@@ -1559,10 +1803,12 @@
         "link": "/blog/digitalisation-simulation-protocoles-series",
         "tags": [
           {
-            "label": "Architecture Systèmes"
+            "label": "Architecture Systèmes",
+            "_tid": "laDhYA"
           },
           {
-            "label": "Actualités TECH"
+            "label": "Actualités TECH",
+            "_tid": "Uwyozv"
           }
         ],
         "author": {
@@ -1573,7 +1819,8 @@
           }
         },
         "excerpt": "Actualités industrielles en novembre 2023 : Digitalisation, Simulation, Protocoles Séries",
-        "date": "28/11/2023"
+        "date": "28/11/2023",
+        "_tid": "fIjb7e"
       },
       {
         "coverImage": {
@@ -1584,10 +1831,12 @@
         "link": "/blog/formation-emploi-carriere",
         "tags": [
           {
-            "label": "Astuces Carrière"
+            "label": "Astuces Carrière",
+            "_tid": "3UbEFF"
           },
           {
-            "label": "Interview-Atelier LIVE"
+            "label": "Interview-Atelier LIVE",
+            "_tid": "coUKTn"
           }
         ],
         "author": {
@@ -1598,7 +1847,8 @@
           }
         },
         "excerpt": "Unique perspective and perception in world of industrial automation in Cameroon.",
-        "date": "17/11/2023"
+        "date": "17/11/2023",
+        "_tid": "zDuGod"
       },
       {
         "coverImage": {
@@ -1609,10 +1859,12 @@
         "link": "/blog/agroindustrie-et-ingenierie-en-afrique",
         "tags": [
           {
-            "label": "Evolution de l'industrie"
+            "label": "Evolution de l'industrie",
+            "_tid": "ohBLb9"
           },
           {
-            "label": "Interview-Atelier LIVE"
+            "label": "Interview-Atelier LIVE",
+            "_tid": "SdzdAs"
           }
         ],
         "author": {
@@ -1623,7 +1875,8 @@
           }
         },
         "excerpt": "Performance et consommation énergétique: l'intrumentation et l'automatisme comme outil de mesure ces valeurs.",
-        "date": "10/11/2023"
+        "date": "10/11/2023",
+        "_tid": "NxkgKW"
       },
       {
         "coverImage": {
@@ -1634,7 +1887,8 @@
         "link": "/blog/communication-reseau-industriel",
         "tags": [
           {
-            "label": "IoT Réseau"
+            "label": "IoT Réseau",
+            "_tid": "Nj3jgv"
           }
         ],
         "author": {
@@ -1645,7 +1899,8 @@
           }
         },
         "excerpt": "Partage de mon expérience au concours Golden Tech 2022.",
-        "date": "01/11/2023"
+        "date": "01/11/2023",
+        "_tid": "v3aHLW"
       },
       {
         "coverImage": {
@@ -1656,13 +1911,16 @@
         "link": "/blog/edge-industriel-rexroth-dell-opto22-rockwell",
         "tags": [
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "tzvB7K"
           },
           {
-            "label": "MES-OEE"
+            "label": "MES-OEE",
+            "_tid": "bRSCYe"
           },
           {
-            "label": "Actualités TECH"
+            "label": "Actualités TECH",
+            "_tid": "yUsVTd"
           }
         ],
         "author": {
@@ -1673,7 +1931,8 @@
           }
         },
         "excerpt": "Actualités industrielles en septembre et octobre 2023 : Rexroth, Dell, Opto22, Rockwell",
-        "date": "29/10/2023"
+        "date": "29/10/2023",
+        "_tid": "mG5RgT"
       },
       {
         "coverImage": {
@@ -1684,10 +1943,12 @@
         "link": "/blog/electricite-et-haute-tension-en-afrique",
         "tags": [
           {
-            "label": "Electricité"
+            "label": "Electricité",
+            "_tid": "cd0jcd"
           },
           {
-            "label": "Interview-Atelier LIVE"
+            "label": "Interview-Atelier LIVE",
+            "_tid": "wUo5Q2"
           }
         ],
         "author": {
@@ -1698,7 +1959,8 @@
           }
         },
         "excerpt": "Electrité et haute tension en Afrique: acteurs de l'écosystème électrique et perspectives sur le développement des compétences nécessaires en haute tension.",
-        "date": "17/10/2023"
+        "date": "17/10/2023",
+        "_tid": "bU5JjG"
       },
       {
         "coverImage": {
@@ -1709,7 +1971,8 @@
         "link": "/blog/edge-benchmark-comparatif",
         "tags": [
           {
-            "label": "Architecture Systèmes"
+            "label": "Architecture Systèmes",
+            "_tid": "5Dxa8q"
           }
         ],
         "author": {
@@ -1720,7 +1983,8 @@
           }
         },
         "excerpt": "Comparaison de 4 solutions EDGE : CtrlX by Rexroth, TwinCAT/BSD by Beckhoff, Edge Controller by Wago, Groov Epic by Opto22",
-        "date": "26/09/2023"
+        "date": "26/09/2023",
+        "_tid": "Mfqc6X"
       },
       {
         "coverImage": {
@@ -1731,7 +1995,8 @@
         "link": "/blog/robotic-no-code-augmentus",
         "tags": [
           {
-            "label": "Motion & Robotique"
+            "label": "Motion & Robotique",
+            "_tid": "2XuPoZ"
           }
         ],
         "author": {
@@ -1742,7 +2007,8 @@
           }
         },
         "excerpt": "Complex Robot Programming Simplified with Augmentus",
-        "date": "05/09/2023"
+        "date": "05/09/2023",
+        "_tid": "Ohm6qX"
       },
       {
         "coverImage": {
@@ -1753,10 +2019,12 @@
         "link": "/blog/news-juillet-2023",
         "tags": [
           {
-            "label": "IoT Réseau"
+            "label": "IoT Réseau",
+            "_tid": "qdlat5"
           },
           {
-            "label": "Actualités TECH"
+            "label": "Actualités TECH",
+            "_tid": "YwqrKU"
           }
         ],
         "author": {
@@ -1767,7 +2035,8 @@
           }
         },
         "excerpt": "Actus industrielles - Juillet|Août 2023 : NodeRed, Private PROXY, MES, Interopérabilité, Version PLC, Jitsi, Lean, TwinGate",
-        "date": "29/08/2023"
+        "date": "29/08/2023",
+        "_tid": "6kViNu"
       },
       {
         "coverImage": {
@@ -1778,10 +2047,12 @@
         "link": "/blog/industrie-navale",
         "tags": [
           {
-            "label": "Interview-Atelier LIVE"
+            "label": "Interview-Atelier LIVE",
+            "_tid": "U5k1Yk"
           },
           {
-            "label": "Evolution de l'industrie"
+            "label": "Evolution de l'industrie",
+            "_tid": "qSBT2J"
           }
         ],
         "author": {
@@ -1792,7 +2063,8 @@
           }
         },
         "excerpt": "Décryptage de l'essentiel à savoir sur l'industrie Navale en 2023.",
-        "date": "17/08/2023"
+        "date": "17/08/2023",
+        "_tid": "r6STTa"
       },
       {
         "coverImage": {
@@ -1803,7 +2075,8 @@
         "link": "/blog/prestation-automatisme-industriel-tertiaire",
         "tags": [
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "gtuueO"
           }
         ],
         "author": {
@@ -1814,7 +2087,8 @@
           }
         },
         "excerpt": "L'automatisme industriel et tertiaire appliquée à la conception, installation et maintenance de machines.",
-        "date": "13/08/2023"
+        "date": "13/08/2023",
+        "_tid": "obxhuw"
       },
       {
         "coverImage": {
@@ -1825,7 +2099,8 @@
         "link": "/blog/integrateur-scada",
         "tags": [
           {
-            "label": "Supervision SCADA"
+            "label": "Supervision SCADA",
+            "_tid": "39JgeI"
           }
         ],
         "author": {
@@ -1836,7 +2111,8 @@
           }
         },
         "excerpt": "Quel avantage pour vos projets industriels ?",
-        "date": "13/08/2023"
+        "date": "13/08/2023",
+        "_tid": "FUb7tA"
       },
       {
         "coverImage": {
@@ -1847,7 +2123,8 @@
         "link": "/blog/freelance-en-industrie",
         "tags": [
           {
-            "label": "Astuces Carrière"
+            "label": "Astuces Carrière",
+            "_tid": "PrKL0o"
           }
         ],
         "author": {
@@ -1858,7 +2135,8 @@
           }
         },
         "excerpt": "Découvrez le freelancing en industrie et les bonnes pratiques pour s'y lancer avec Karim BELAMRI",
-        "date": "10/08/2023"
+        "date": "10/08/2023",
+        "_tid": "2qy6ZS"
       },
       {
         "coverImage": {
@@ -1869,7 +2147,8 @@
         "link": "/blog/cle-de-conduite-pour-reussir-son-projet-4-0",
         "tags": [
           {
-            "label": "Gestion Projet Stratégique"
+            "label": "Gestion Projet Stratégique",
+            "_tid": "vF2tdY"
           }
         ],
         "author": {
@@ -1880,7 +2159,8 @@
           }
         },
         "excerpt": "Découvrez clés de conduite du changement pour réussir son projet 4.0 avec Rija Rakotoarisoa",
-        "date": "03/08/2023"
+        "date": "03/08/2023",
+        "_tid": "9JQO7O"
       },
       {
         "coverImage": {
@@ -1891,10 +2171,12 @@
         "link": "/blog/chaudronnerie-et-digital",
         "tags": [
           {
-            "label": "Interview-Atelier LIVE"
+            "label": "Interview-Atelier LIVE",
+            "_tid": "eZPtXH"
           },
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "Rk13eR"
           }
         ],
         "author": {
@@ -1905,7 +2187,8 @@
           }
         },
         "excerpt": "(Re)Découvrez la chaudronnerie sous l'angle du digital avec Nicolas COUSIN",
-        "date": "20/07/2023"
+        "date": "20/07/2023",
+        "_tid": "f2egc4"
       },
       {
         "coverImage": {
@@ -1916,7 +2199,8 @@
         "link": "/blog/choisir-son-logiciel-industriel",
         "tags": [
           {
-            "label": "Architecture Systèmes"
+            "label": "Architecture Systèmes",
+            "_tid": "LJySIc"
           }
         ],
         "author": {
@@ -1927,7 +2211,8 @@
           }
         },
         "excerpt": "Découvre à travers cet article les avantages des logiciels Open-Source par rapport aux logiciels payants",
-        "date": "13/07/2023"
+        "date": "13/07/2023",
+        "_tid": "BNMSpi"
       },
       {
         "coverImage": {
@@ -1938,10 +2223,12 @@
         "link": "/blog/news-juin-2023",
         "tags": [
           {
-            "label": "Supervision SCADA"
+            "label": "Supervision SCADA",
+            "_tid": "LQtBdF"
           },
           {
-            "label": "Actualités TECH"
+            "label": "Actualités TECH",
+            "_tid": "bW9k0w"
           }
         ],
         "author": {
@@ -1952,7 +2239,8 @@
           }
         },
         "excerpt": "Actualités industrielles en juin 2023 : MongoDB, SAP, VivaTech, United Manufacturing Hub",
-        "date": "30/06/2023"
+        "date": "30/06/2023",
+        "_tid": "EQ9rdj"
       },
       {
         "coverImage": {
@@ -1963,13 +2251,16 @@
         "link": "/blog/digitalisation-de-la-gestion-de-leau",
         "tags": [
           {
-            "label": "IoT Réseau"
+            "label": "IoT Réseau",
+            "_tid": "pbPb3g"
           },
           {
-            "label": "GTB-GMAO"
+            "label": "GTB-GMAO",
+            "_tid": "TnEDTk"
           },
           {
-            "label": "Instrumentation-Capteurs"
+            "label": "Instrumentation-Capteurs",
+            "_tid": "fv2Pgn"
           }
         ],
         "author": {
@@ -1980,7 +2271,8 @@
           }
         },
         "excerpt": "Télégestion dans le secteur de l'eau avec 2Gi: infrastructure, flux de donnée et gestion de projet.",
-        "date": "16/06/2023"
+        "date": "16/06/2023",
+        "_tid": "bhaHb4"
       },
       {
         "coverImage": {
@@ -1991,10 +2283,12 @@
         "link": "/blog/convergence-it-ot-lindustrie-a-lere-du-numerique-nicolas-gonzalez-operametrix",
         "tags": [
           {
-            "label": "Architecture Systèmes"
+            "label": "Architecture Systèmes",
+            "_tid": "DXJWyH"
           },
           {
-            "label": "Interview-Atelier LIVE"
+            "label": "Interview-Atelier LIVE",
+            "_tid": "8opJ4u"
           }
         ],
         "author": {
@@ -2005,7 +2299,8 @@
           }
         },
         "excerpt": "Décrypte de la Convergence OT/IT avec Nicolas GONZALEZ: Convergence IT/OT, potentiel, compétences nécessaires et Cloud.",
-        "date": "09/06/2023"
+        "date": "09/06/2023",
+        "_tid": "3jpDIu"
       },
       {
         "coverImage": {
@@ -2016,10 +2311,12 @@
         "link": "/blog/actualités-tech-mqtt-azure-tesla-ia-and-industrie",
         "tags": [
           {
-            "label": "IoT Réseau"
+            "label": "IoT Réseau",
+            "_tid": "6Nfy71"
           },
           {
-            "label": "Actualités TECH"
+            "label": "Actualités TECH",
+            "_tid": "Knw73I"
           }
         ],
         "author": {
@@ -2030,7 +2327,8 @@
           }
         },
         "excerpt": "Actualités industrielles en mai 2023 : MQTT Azure, Tesla, Robotique AI, Plantformance, St-Gobain, Cloud Google",
-        "date": "01/06/2023"
+        "date": "01/06/2023",
+        "_tid": "kQMT8r"
       },
       {
         "coverImage": {
@@ -2041,10 +2339,12 @@
         "link": "/blog/pilotage-usine-a-distance",
         "tags": [
           {
-            "label": "IoT Réseau"
+            "label": "IoT Réseau",
+            "_tid": "hCngZE"
           },
           {
-            "label": "Architecture Systèmes"
+            "label": "Architecture Systèmes",
+            "_tid": "JIpQzT"
           }
         ],
         "author": {
@@ -2055,7 +2355,8 @@
           }
         },
         "excerpt": "Découvrez les solutions de connectivité pour relier vos usines à distance, optimiser la production et assurer une gestion efficace des opérations industrielles.",
-        "date": "25/05/2023"
+        "date": "25/05/2023",
+        "_tid": "AYeSOc"
       },
       {
         "coverImage": {
@@ -2066,7 +2367,8 @@
         "link": "/blog/benchmark-comparatif-scada",
         "tags": [
           {
-            "label": "Supervision SCADA"
+            "label": "Supervision SCADA",
+            "_tid": "jNvSxI"
           }
         ],
         "author": {
@@ -2077,7 +2379,8 @@
           }
         },
         "excerpt": "Un aperçu complet des fonctionnalités, performances et avantages des différents systèmes SCADA pour une meilleure prise de décision.",
-        "date": "11/05/2023"
+        "date": "11/05/2023",
+        "_tid": "i9h4iJ"
       },
       {
         "coverImage": {
@@ -2088,7 +2391,8 @@
         "link": "/blog/logiciels-sur-mesure-vs-sur-etagere",
         "tags": [
           {
-            "label": "Architecture Systèmes"
+            "label": "Architecture Systèmes",
+            "_tid": "vpDgQU"
           }
         ],
         "author": {
@@ -2099,7 +2403,8 @@
           }
         },
         "excerpt": "Logiciels sur-mesure et sur-étagère: Découverte et exploration du thème avec deux experts.",
-        "date": "04/05/2023"
+        "date": "04/05/2023",
+        "_tid": "hgMPdq"
       },
       {
         "coverImage": {
@@ -2110,13 +2415,16 @@
         "link": "/blog/news-avril-2023",
         "tags": [
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "0egS5N"
           },
           {
-            "label": "Supervision SCADA"
+            "label": "Supervision SCADA",
+            "_tid": "84vBQE"
           },
           {
-            "label": "Actualités TECH"
+            "label": "Actualités TECH",
+            "_tid": "g7HjZu"
           }
         ],
         "author": {
@@ -2127,7 +2435,8 @@
           }
         },
         "excerpt": "Actualités industrielles en Avril 2023 : Ignition Cloud, Décret BACS, CtrlX Core, Virtual PLC décryptées et analysées.",
-        "date": "27/04/2023"
+        "date": "27/04/2023",
+        "_tid": "bXjhON"
       },
       {
         "coverImage": {
@@ -2138,7 +2447,8 @@
         "link": "/blog/automaticien-methode-vs-marques",
         "tags": [
           {
-            "label": "Evenèments"
+            "label": "Evenèments",
+            "_tid": "H3e9O8"
           }
         ],
         "author": {
@@ -2149,7 +2459,8 @@
           }
         },
         "excerpt": "Automaticien, une question de méthode ou de marques : débat sur la question lors de la célébration des 3000 abonnés de la communauté AUTEM.",
-        "date": "20 avr. 2023"
+        "date": "20 avr. 2023",
+        "_tid": "dYmLVk"
       },
       {
         "coverImage": {
@@ -2160,10 +2471,12 @@
         "link": "/blog/logiciel-industriel",
         "tags": [
           {
-            "label": "Architecture Systèmes"
+            "label": "Architecture Systèmes",
+            "_tid": "FuHgoS"
           },
           {
-            "label": "Evolution de l'industrie"
+            "label": "Evolution de l'industrie",
+            "_tid": "ZKzxy3"
           }
         ],
         "author": {
@@ -2174,7 +2487,8 @@
           }
         },
         "excerpt": "Les logiciels industriels sont-ils adaptés à l'industrie 4.0 ? Réflexion sur leur évolution pour répondre aux nouveaux défis.",
-        "date": "13 avr. 2023"
+        "date": "13 avr. 2023",
+        "_tid": "SRQqUQ"
       },
       {
         "coverImage": {
@@ -2185,7 +2499,8 @@
         "link": "/blog/chiffrage",
         "tags": [
           {
-            "label": "Gestion Projet Stratégique"
+            "label": "Gestion Projet Stratégique",
+            "_tid": "Dcl8Bj"
           }
         ],
         "author": {
@@ -2196,7 +2511,8 @@
           }
         },
         "excerpt": "Conseils pour maîtriser le budget de vos projets dans l'industrie, l'automatisme, les machines et les logiciels.",
-        "date": "6 avr. 2023"
+        "date": "6 avr. 2023",
+        "_tid": "jOH3eR"
       },
       {
         "coverImage": {
@@ -2207,7 +2523,8 @@
         "link": "/blog/open-source-et-industrie-4-0",
         "tags": [
           {
-            "label": "Architecture Systèmes"
+            "label": "Architecture Systèmes",
+            "_tid": "I6k4Hj"
           }
         ],
         "author": {
@@ -2218,7 +2535,8 @@
           }
         },
         "excerpt": "Découvrez comment l'utilisation de logiciels open-source peut aider à accélérer la transformation numérique de l'industrie 4.0 et à améliorer l'efficacité opérationnelle.",
-        "date": "30/03/2023"
+        "date": "30/03/2023",
+        "_tid": "qycULI"
       },
       {
         "coverImage": {
@@ -2229,7 +2547,8 @@
         "link": "/blog/prospection",
         "tags": [
           {
-            "label": "Astuces Carrière"
+            "label": "Astuces Carrière",
+            "_tid": "kgMFsY"
           }
         ],
         "author": {
@@ -2240,7 +2559,8 @@
           }
         },
         "excerpt": "Rechercher des clients et des employeurs pour décrocher des missions sur le marché, en tant qu'automaticien.",
-        "date": "16/03/2023"
+        "date": "16/03/2023",
+        "_tid": "QMr5af"
       },
       {
         "coverImage": {
@@ -2251,7 +2571,8 @@
         "link": "/blog/chatgpt",
         "tags": [
           {
-            "label": "IA & Machine Learning"
+            "label": "IA & Machine Learning",
+            "_tid": "mvD88r"
           }
         ],
         "author": {
@@ -2262,7 +2583,8 @@
           }
         },
         "excerpt": "ChatGPT dans l'industrie 4.0 : analyse de l'impact de l'IA sur les processus industriels",
-        "date": "09/03/2023"
+        "date": "09/03/2023",
+        "_tid": "bdYAmQ"
       },
       {
         "coverImage": {
@@ -2273,7 +2595,8 @@
         "link": "/blog/le-salaire-des-automaticiens",
         "tags": [
           {
-            "label": "Astuces Carrière"
+            "label": "Astuces Carrière",
+            "_tid": "O6K32C"
           }
         ],
         "author": {
@@ -2284,7 +2607,8 @@
           }
         },
         "excerpt": "Analyse des salaires des automaticiens : chiffres et enjeux actuels pour cette profession de l'industrie.",
-        "date": "02/03/2023"
+        "date": "02/03/2023",
+        "_tid": "slzzSN"
       },
       {
         "coverImage": {
@@ -2295,7 +2619,8 @@
         "link": "/blog/gmao",
         "tags": [
           {
-            "label": "GTB-GMAO"
+            "label": "GTB-GMAO",
+            "_tid": "knU7F0"
           }
         ],
         "author": {
@@ -2306,7 +2631,8 @@
           }
         },
         "excerpt": "La digitalisation de la maintenance industrielle grâce à la GMAO, pour une meilleure gestion et organisation des opérations de maintenance.",
-        "date": "23/02/2023"
+        "date": "23/02/2023",
+        "_tid": "tBLEvx"
       },
       {
         "coverImage": {
@@ -2317,10 +2643,12 @@
         "link": "/blog/parole-dexpertes",
         "tags": [
           {
-            "label": "Interview-Atelier LIVE"
+            "label": "Interview-Atelier LIVE",
+            "_tid": "3MZzdS"
           },
           {
-            "label": "Evolution de l'industrie"
+            "label": "Evolution de l'industrie",
+            "_tid": "9c4Q4g"
           }
         ],
         "author": {
@@ -2331,7 +2659,8 @@
           }
         },
         "excerpt": "Des femmes expertes partagent leur point de vue sur la mixité, les stéréotypes, les quotas et les métiers techniques dans l'industrie.",
-        "date": "23/02/2023"
+        "date": "23/02/2023",
+        "_tid": "FfNxg9"
       },
       {
         "coverImage": {
@@ -2342,10 +2671,12 @@
         "link": "/blog/cognex-lecture-data-matrix",
         "tags": [
           {
-            "label": "Supervision SCADA"
+            "label": "Supervision SCADA",
+            "_tid": "ls81fR"
           },
           {
-            "label": "Instrumentation-Capteurs"
+            "label": "Instrumentation-Capteurs",
+            "_tid": "2BK8ZZ"
           }
         ],
         "author": {
@@ -2356,7 +2687,8 @@
           }
         },
         "excerpt": "Configuration et utilisation d'une caméra COGNEX pour effectuer la lecture des datamatrix avec Ignition.",
-        "date": "24/03/2022"
+        "date": "24/03/2022",
+        "_tid": "vqbld0"
       },
       {
         "coverImage": {
@@ -2367,10 +2699,12 @@
         "link": "/blog/historiser-des-donnee-en-opc",
         "tags": [
           {
-            "label": "Supervision SCADA"
+            "label": "Supervision SCADA",
+            "_tid": "dq9J8m"
           },
           {
-            "label": "Architecture Systèmes"
+            "label": "Architecture Systèmes",
+            "_tid": "tKpw5j"
           }
         ],
         "author": {
@@ -2381,7 +2715,8 @@
           }
         },
         "excerpt": "Historiser des données en OPC - SQL Kepware Datalogger: Les différentes étapes pour repérer une erreur sur une ligne de production.",
-        "date": "18/03/2022"
+        "date": "18/03/2022",
+        "_tid": "I2EVke"
       },
       {
         "coverImage": {
@@ -2392,7 +2727,8 @@
         "link": "/blog/protocoles-de-communication-industriels",
         "tags": [
           {
-            "label": "IoT Réseau"
+            "label": "IoT Réseau",
+            "_tid": "CGlvWe"
           }
         ],
         "author": {
@@ -2403,7 +2739,8 @@
           }
         },
         "excerpt": "Découvrez les différents protocoles de communication servant à mettre les machines en réseaux",
-        "date": "04/03/2022"
+        "date": "04/03/2022",
+        "_tid": "nsZ0of"
       },
       {
         "coverImage": {
@@ -2414,7 +2751,8 @@
         "link": "/blog/automatiser-des-feux-tricolores",
         "tags": [
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "8H9zO1"
           }
         ],
         "author": {
@@ -2425,7 +2763,8 @@
           }
         },
         "excerpt": "Les différentes étapes pour programmer et simuler un feu tricolore avec un seul timer avec une méthode optimiser.",
-        "date": "24/02/2022"
+        "date": "24/02/2022",
+        "_tid": "aQrcKE"
       },
       {
         "coverImage": {
@@ -2436,10 +2775,12 @@
         "link": "/blog/securite-incendie-alarmes-et-detection-automatique",
         "tags": [
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "aodwR9"
           },
           {
-            "label": "Electricité"
+            "label": "Electricité",
+            "_tid": "92AKv1"
           }
         ],
         "author": {
@@ -2450,7 +2791,8 @@
           }
         },
         "excerpt": "Comment fonctionne normalement un système de sécurité incendie ?",
-        "date": "13/02/2022"
+        "date": "13/02/2022",
+        "_tid": "L1BnxD"
       },
       {
         "coverImage": {
@@ -2461,10 +2803,12 @@
         "link": "/blog/armoire-automatisme-schneider-electrique",
         "tags": [
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "eC1ZtL"
           },
           {
-            "label": "Electricité"
+            "label": "Electricité",
+            "_tid": "NaG8gl"
           }
         ],
         "author": {
@@ -2475,7 +2819,8 @@
           }
         },
         "excerpt": "Identification des différents éléments de la gamme Schneider Electric présent dans un banc d'essai",
-        "date": "11/02/2022"
+        "date": "11/02/2022",
+        "_tid": "VufBLn"
       },
       {
         "coverImage": {
@@ -2486,7 +2831,8 @@
         "link": "/blog/portail-fermeture-automatique",
         "tags": [
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "wH7yV4"
           }
         ],
         "author": {
@@ -2497,7 +2843,8 @@
           }
         },
         "excerpt": "Fonctionnement d'un système automate de gestion d'ouverture et de fermerture automatique d'un portail.",
-        "date": "02/02/2022"
+        "date": "02/02/2022",
+        "_tid": "G0IHbg"
       },
       {
         "coverImage": {
@@ -2508,7 +2855,8 @@
         "link": "/blog/automatisme-et-aeroport",
         "tags": [
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "4e1AHN"
           }
         ],
         "author": {
@@ -2519,7 +2867,8 @@
           }
         },
         "excerpt": "Sauras-tu trouver le point commun présent à l'intérieur de tous les pupitres présent dans les aéroports ?",
-        "date": "25/01/2022"
+        "date": "25/01/2022",
+        "_tid": "OWsRMR"
       },
       {
         "coverImage": {
@@ -2530,10 +2879,12 @@
         "link": "/blog/armoire-automatisme-rockwell",
         "tags": [
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "YQXpF6"
           },
           {
-            "label": "PC Industriel"
+            "label": "PC Industriel",
+            "_tid": "B1GoQ8"
           }
         ],
         "author": {
@@ -2544,7 +2895,8 @@
           }
         },
         "excerpt": "Identification des différents éléments de la gamme ROCKWELL présent dans un banc d'essai",
-        "date": "10/01/2022"
+        "date": "10/01/2022",
+        "_tid": "EU4feX"
       },
       {
         "coverImage": {
@@ -2555,10 +2907,12 @@
         "link": "/blog/armoire-automatisme-siemens",
         "tags": [
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "h3HYTN"
           },
           {
-            "label": "PC Industriel"
+            "label": "PC Industriel",
+            "_tid": "qpCcac"
           }
         ],
         "author": {
@@ -2569,7 +2923,8 @@
           }
         },
         "excerpt": "Identification des différents éléments de la gamme Siemens présent dans un banc d'essai",
-        "date": "06/01/2022"
+        "date": "06/01/2022",
+        "_tid": "9UJHgZ"
       },
       {
         "coverImage": {
@@ -2580,10 +2935,12 @@
         "link": "/blog/10-competences-pour-automaticien",
         "tags": [
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "fBEur1"
           },
           {
-            "label": "Astuces Carrière"
+            "label": "Astuces Carrière",
+            "_tid": "HMAcZr"
           }
         ],
         "author": {
@@ -2594,7 +2951,8 @@
           }
         },
         "excerpt": "Découvre les compétences d'un automaticien en 2022",
-        "date": "03/01/2022"
+        "date": "03/01/2022",
+        "_tid": "T4IYt4"
       },
       {
         "coverImage": {
@@ -2605,10 +2963,12 @@
         "link": "/blog/automate-m340",
         "tags": [
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "La5dHP"
           },
           {
-            "label": "PC Industriel"
+            "label": "PC Industriel",
+            "_tid": "L8XoB3"
           }
         ],
         "author": {
@@ -2619,7 +2979,8 @@
           }
         },
         "excerpt": "Apprenez à mettre à jour des automates M340 et des modules Ethernet NOC 04 01",
-        "date": "27/12/2021"
+        "date": "27/12/2021",
+        "_tid": "yFGotu"
       },
       {
         "coverImage": {
@@ -2630,10 +2991,12 @@
         "link": "/blog/domore",
         "tags": [
           {
-            "label": "IoT Réseau"
+            "label": "IoT Réseau",
+            "_tid": "MNy05W"
           },
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "3jSXoC"
           }
         ],
         "author": {
@@ -2644,7 +3007,8 @@
           }
         },
         "excerpt": "Apprenez à communiquer au protocole Ethernet IP grâce au simulateur Do More",
-        "date": "24/12/2021"
+        "date": "24/12/2021",
+        "_tid": "g72stZ"
       },
       {
         "coverImage": {
@@ -2655,7 +3019,8 @@
         "link": "/blog/electrocution",
         "tags": [
           {
-            "label": "Electricité"
+            "label": "Electricité",
+            "_tid": "qiPJ6r"
           }
         ],
         "author": {
@@ -2666,7 +3031,8 @@
           }
         },
         "excerpt": "100A-24V VS 0,1A-24000V, que choisiras-tu ?",
-        "date": "21/12/2021"
+        "date": "21/12/2021",
+        "_tid": "Bgb70n"
       },
       {
         "coverImage": {
@@ -2677,7 +3043,8 @@
         "link": "/blog/filtre-wireshark",
         "tags": [
           {
-            "label": "IoT Réseau"
+            "label": "IoT Réseau",
+            "_tid": "SAXd7p"
           }
         ],
         "author": {
@@ -2688,7 +3055,8 @@
           }
         },
         "excerpt": "Découvrez le logiciel Wireshark",
-        "date": "19/12/2021"
+        "date": "19/12/2021",
+        "_tid": "MOMQjh"
       },
       {
         "coverImage": {
@@ -2699,10 +3067,12 @@
         "link": "/blog/pc-connecte-a-un-automate-s7-1500",
         "tags": [
           {
-            "label": "Supervision SCADA"
+            "label": "Supervision SCADA",
+            "_tid": "eFa84o"
           },
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "p1Stig"
           }
         ],
         "author": {
@@ -2713,7 +3083,8 @@
           }
         },
         "excerpt": "Wincc Unified - Les différentes étapes pour utiliser un SMART Phone pour commander un automate de la marque Siemens.",
-        "date": "17/12/2021"
+        "date": "17/12/2021",
+        "_tid": "wgmf2o"
       },
       {
         "coverImage": {
@@ -2724,10 +3095,12 @@
         "link": "/blog/diagnostic-profinet-sur-reseau-siemens",
         "tags": [
           {
-            "label": "IoT Réseau"
+            "label": "IoT Réseau",
+            "_tid": "YjnIYr"
           },
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "3RCmid"
           }
         ],
         "author": {
@@ -2738,7 +3111,8 @@
           }
         },
         "excerpt": "Profinet - Les différentes étapes pour faire du diagnostique sur les réseaux Profinet avec le logiciel PRONETA | AUTEM.",
-        "date": "24/11/2021"
+        "date": "24/11/2021",
+        "_tid": "420KsA"
       },
       {
         "coverImage": {
@@ -2749,7 +3123,8 @@
         "link": "/blog/programmer-un-automate-allen-bradley",
         "tags": [
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "S2dzFT"
           }
         ],
         "author": {
@@ -2760,7 +3135,8 @@
           }
         },
         "excerpt": "Utilisation du logiciel Studio 5000 pour programmer les gammes d’automates premium de Rockwell",
-        "date": "18/11/2021"
+        "date": "18/11/2021",
+        "_tid": "mDlwuF"
       },
       {
         "coverImage": {
@@ -2771,7 +3147,8 @@
         "link": "/blog/changer-son-adresse-ip",
         "tags": [
           {
-            "label": "IoT Réseau"
+            "label": "IoT Réseau",
+            "_tid": "y9Gk1C"
           }
         ],
         "author": {
@@ -2782,7 +3159,8 @@
           }
         },
         "excerpt": "IP Shifter - Apprenez à changer votre adresse IP avec l'outil qui va vous permettre de vous connecter plus rapidement à vos machines.",
-        "date": "07/11/2021"
+        "date": "07/11/2021",
+        "_tid": "SSAkRv"
       },
       {
         "coverImage": {
@@ -2793,10 +3171,12 @@
         "link": "/blog/connecter-excel-a-un-automate-siemens-s7-1500",
         "tags": [
           {
-            "label": "Supervision SCADA"
+            "label": "Supervision SCADA",
+            "_tid": "jQvTsh"
           },
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "JjNDpV"
           }
         ],
         "author": {
@@ -2807,7 +3187,8 @@
           }
         },
         "excerpt": "Automate & Microsoft Excel - Les différentes étapes pour apprendre à controler ton automate avec un fichier Excel.",
-        "date": "04/11/2021"
+        "date": "04/11/2021",
+        "_tid": "sEvOU8"
       },
       {
         "coverImage": {
@@ -2818,10 +3199,12 @@
         "link": "/blog/communiquer-en-opcua",
         "tags": [
           {
-            "label": "IoT Réseau"
+            "label": "IoT Réseau",
+            "_tid": "YGgEfb"
           },
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "qa9MCg"
           }
         ],
         "author": {
@@ -2832,7 +3215,8 @@
           }
         },
         "excerpt": "OPC UA - Découverte du protocole OPC UA à travers une simulation reliant un serveur OPC, PLCSIM et un client OPC, UA expert.",
-        "date": "31/10/2021"
+        "date": "31/10/2021",
+        "_tid": "7um46C"
       },
       {
         "coverImage": {
@@ -2843,10 +3227,12 @@
         "link": "/blog/retablir-la-connexion-usb-avec-so-machine",
         "tags": [
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "fgT77H"
           },
           {
-            "label": "PC Industriel"
+            "label": "PC Industriel",
+            "_tid": "MUf4f9"
           }
         ],
         "author": {
@@ -2857,7 +3243,8 @@
           }
         },
         "excerpt": "Schneider Electric et connexion USB - Résolution du problème de \"périphérique USB non reconnu\" sur certains automates Schneider Electric.",
-        "date": "26/10/2021"
+        "date": "26/10/2021",
+        "_tid": "bSCPxU"
       },
       {
         "coverImage": {
@@ -2868,10 +3255,12 @@
         "link": "/blog/communiquer-sans-automate",
         "tags": [
           {
-            "label": "IoT Réseau"
+            "label": "IoT Réseau",
+            "_tid": "nRfWfc"
           },
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "59TS2m"
           }
         ],
         "author": {
@@ -2882,7 +3271,8 @@
           }
         },
         "excerpt": "Mb Client, Modsim, PLCSIM Advanced - les différentes étapes pour établir une communication au protocole modbus avec 3 entités.",
-        "date": "08/07/2021"
+        "date": "08/07/2021",
+        "_tid": "bIAltL"
       },
       {
         "coverImage": {
@@ -2893,10 +3283,12 @@
         "link": "/blog/modbus-simuler-un-echange-sur-ton-pc",
         "tags": [
           {
-            "label": "IoT Réseau"
+            "label": "IoT Réseau",
+            "_tid": "qoWUPi"
           },
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "Oo1fBe"
           }
         ],
         "author": {
@@ -2907,7 +3299,8 @@
           }
         },
         "excerpt": "Protocole de communication Modbus - Les différentes étapes pour simuler un échange Modbus directement sur ton PC .",
-        "date": "10/06/2021"
+        "date": "10/06/2021",
+        "_tid": "ygIfMj"
       },
       {
         "coverImage": {
@@ -2918,7 +3311,8 @@
         "link": "/blog/rslogix-programmer-des-automates-allen-bradley",
         "tags": [
           {
-            "label": "Automation"
+            "label": "Automation",
+            "_tid": "y65uI9"
           }
         ],
         "author": {
@@ -2929,7 +3323,8 @@
           }
         },
         "excerpt": "Rockwell RSLogix500 - Les différentes étapes pour apprenez à créer vos premiers LADDER avec le logiciel RSLogix 500.",
-        "date": "28/05/2021"
+        "date": "28/05/2021",
+        "_tid": "Dsmut5"
       },
       {
         "coverImage": {
@@ -2940,7 +3335,8 @@
         "link": "/blog/wincc-configurer-un-ecran-de-supervision",
         "tags": [
           {
-            "label": "Supervision SCADA"
+            "label": "Supervision SCADA",
+            "_tid": "Y4AKM1"
           }
         ],
         "author": {
@@ -2951,7 +3347,8 @@
           }
         },
         "excerpt": "WinCC, Siemens, IHM - Les différentes étapes pour comprendre les IHM, WinCC, TIA Portal et apprendre à configurer un écran de supervision.",
-        "date": "06/05/2021"
+        "date": "06/05/2021",
+        "_tid": "govrBU"
       },
       {
         "coverImage": {
@@ -2962,7 +3359,8 @@
         "link": "/blog/diagnostique-panne-machine",
         "tags": [
           {
-            "label": "Instrumentation-Capteurs"
+            "label": "Instrumentation-Capteurs",
+            "_tid": "tV5wUX"
           }
         ],
         "author": {
@@ -2973,7 +3371,8 @@
           }
         },
         "excerpt": "Maintenance Industrielle - Le guide ultime pour comprendre comment diagnostiquer une panne machine en industrie.",
-        "date": "29/04/2021"
+        "date": "29/04/2021",
+        "_tid": "GJlF9x"
       }
     ]
   }

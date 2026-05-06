@@ -6,18 +6,21 @@
   "data": {
     "backLink": "/blog",
     "backLinkLabel": "Retour au blog",
-    "title": "Entreprise d'automatisme industriel à Lyon",
+    "title": "Automaticien | 10 compétences pour être automaticien en 2022 | Autem",
     "tags": [
       {
         "label": "Automation",
-        "type": "secteur",
-        "_tid": "G8UZMy"
+        "type": "secteur"
+      },
+      {
+        "label": "Astuces Carrière",
+        "type": "categorie"
       }
     ],
     "articleMeta": {
-      "readTime": "4 min lecture",
+      "readTime": "11 min lecture",
       "publishDate": "03/01/22",
-      "updatedDate": "16/04/26"
+      "updatedDate": "17/03/26"
     }
   }
 }

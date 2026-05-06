@@ -15,11 +15,11 @@
     "robots": "index, follow",
     "hreflang": [
       {
-        "lang": "fr-CH",
+        "lang": "fr_CH",
         "href": "https://autem.ch/blog/digitalisation-de-la-gestion-de-leau/"
       },
       {
-        "lang": "fr-FR",
+        "lang": "fr_FR",
         "href": "https://autem-services.fr/blog/digitalisation-de-la-gestion-de-leau/"
       },
       {

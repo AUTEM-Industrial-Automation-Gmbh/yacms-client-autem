@@ -9,16 +9,16 @@
       "automatisme industriel"
     ],
     "author": "AUTEM",
-    "canonical": "https://autem.ch/blog/communiquer-sans-automate/",
+    "canonical": "https://autem-services.fr/blog/communiquer-sans-automate/",
     "locale": "fr_CH",
     "robots": "index, follow",
     "hreflang": [
       {
-        "lang": "fr-CH",
+        "lang": "fr_CH",
         "href": "https://autem.ch/blog/communiquer-sans-automate/"
       },
       {
-        "lang": "fr-FR",
+        "lang": "fr_FR",
         "href": "https://autem-services.fr/blog/communiquer-sans-automate/"
       },
       {
