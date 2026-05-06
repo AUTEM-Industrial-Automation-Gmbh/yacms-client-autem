@@ -242,5 +242,6 @@
     "/assets/wireshark.png",
     "/assets/zone-atex.jpg"
   ],
-  "banners": []
+  "banners": [],
+  "blog": []
 }
