@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Blog / Architecture technology benchmark medtech",
-    "description": "Découvre les compétences d'un automaticien en 2022",
+    "title": "Technology architecture benchmark MedTech",
+    "description": "Benchmark study of MedTech leaders and their industrial digital transformation",
     "keywords": [
-      "Automation",
-      "Astuces Carrière",
-      "AUTEM",
-      "automatisme industriel"
+      "MedTech",
+      "OEE",
+      "Industrial IoT",
+      "Digital Transformation"
     ],
     "author": "AUTEM",
     "locale": "fr_CH",
@@ -14,7 +14,7 @@
     "og": {
       "type": "website",
       "image": "/og-home.png",
-      "imageAlt": "AUTEM — Blog technique automatisme et SCADA industriel"
+      "imageAlt": "MedTech Benchmark Study"
     },
     "structuredData": {
       "type": "LocalBusiness",
