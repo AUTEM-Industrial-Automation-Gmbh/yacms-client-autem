@@ -116,7 +116,7 @@
     "cards": [
       {
         "coverImage": {
-          "src": "/assets/architecture-technology-benchmark-medtech.jpg",
+          "src": "/blog/medtech.png",
           "alt": "MedTech Technology Architecture Benchmark"
         },
         "title": "Technology architecture benchmark study — MedTech leaders",
