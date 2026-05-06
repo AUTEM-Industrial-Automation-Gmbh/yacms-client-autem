@@ -148,6 +148,34 @@
       },
       {
         "coverImage": {
+          "src": "/blog/actu 23 - Q1 2026.jpg",
+          "alt": "3 trends to follow in PLC Automation"
+        },
+        "title": "Actus n°23 - PLC Automation is Changing !",
+        "excerpt": "News n°23 - 3 trends to follow in PLC Automation - Q1 2026\nTraining Platforms (plci.app & Easy PLC School), Troubleshooting Tools (Snap PLC), Programming Platforms (Copilot, Accelera, Cronax)",
+        "link": "/blog/news-mars-2026",
+        "tags": [
+          {
+            "label": "Actualités TECH",
+            "_tid": "dyFJun"
+          },
+          {
+            "label": "Automation",
+            "_tid": "0Pu0d8"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier_automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "14/04/2026",
+        "_tid": "mPJsDx"
+      },
+      {
+        "coverImage": {
           "src": "/assets/highByte-vs-kepware.jpg",
           "alt": "Intégrateur SCADA"
         },
@@ -3321,34 +3349,6 @@
         "excerpt": "Maintenance Industrielle - Le guide ultime pour comprendre comment diagnostiquer une panne machine en industrie.",
         "date": "29/04/2021",
         "_tid": "GJlF9x"
-      },
-      {
-        "coverImage": {
-          "src": "/blog/actu 23 - Q1 2026.jpg",
-          "alt": "3 trends to follow in PLC Automation"
-        },
-        "title": "Actus n°23 - PLC Automation is Changing !",
-        "excerpt": "News n°23 - 3 trends to follow in PLC Automation - Q1 2026\nTraining Platforms (plci.app & Easy PLC School), Troubleshooting Tools (Snap PLC), Programming Platforms (Copilot, Accelera, Cronax)",
-        "link": "",
-        "tags": [
-          {
-            "label": "Actualités TECH",
-            "_tid": "dyFJun"
-          },
-          {
-            "label": "Automation",
-            "_tid": "0Pu0d8"
-          }
-        ],
-        "author": {
-          "name": "Marc Akoto",
-          "image": {
-            "src": "/images/metier_automaticien.png",
-            "alt": "Marc Akoto"
-          }
-        },
-        "date": "14/04/2026",
-        "_tid": "mPJsDx"
       }
     ]
   }
