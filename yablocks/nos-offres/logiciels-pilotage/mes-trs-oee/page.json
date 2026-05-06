@@ -19,11 +19,11 @@
     "robots": "index, follow",
     "hreflang": [
       {
-        "lang": "fr-CH",
+        "lang": "fr_CH",
         "href": "https://autem.ch/nos-offres/logiciels-pilotage/mes-trs-oee/"
       },
       {
-        "lang": "fr-FR",
+        "lang": "fr_FR",
         "href": "https://autem-services.fr/nos-offres/logiciels-pilotage/mes-trs-oee/"
       },
       {

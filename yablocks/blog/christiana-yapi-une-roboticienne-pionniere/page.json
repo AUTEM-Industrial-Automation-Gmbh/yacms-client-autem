@@ -14,11 +14,11 @@
     "robots": "index, follow",
     "hreflang": [
       {
-        "lang": "fr-CH",
+        "lang": "fr_CH",
         "href": "https://autem.ch/blog/christiana-yapi-une-roboticienne-pionniere/"
       },
       {
-        "lang": "fr-FR",
+        "lang": "fr_FR",
         "href": "https://autem-services.fr/blog/christiana-yapi-une-roboticienne-pionniere/"
       },
       {
