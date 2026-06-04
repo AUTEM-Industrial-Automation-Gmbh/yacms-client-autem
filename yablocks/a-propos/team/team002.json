@@ -143,6 +143,22 @@
           }
         ],
         "_tid": "va7qHH"
+      },
+      {
+        "name": "Vincent Rivière",
+        "title": "Automatisme et Informatique Industrielle",
+        "location": "Lyon 🇫🇷",
+        "description": "👷‍ Consultant Indépendant 🚀 Fiabilisation & réduction des arrêts | 💸 Modernisation & sécurisation des installations | 🥇 GoldenTech 2024",
+        "image": {
+          "src": "",
+          "alt": ""
+        },
+        "hoverImage": {
+          "src": "",
+          "alt": "VR Automation (Partenaire)"
+        },
+        "linkedin": "https://www.linkedin.com/in/riviereautomation/",
+        "_tid": "ockqGJ"
       }
     ]
   }
