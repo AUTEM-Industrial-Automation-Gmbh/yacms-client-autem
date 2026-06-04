@@ -159,6 +159,22 @@
         },
         "linkedin": "https://vrautomation.fr/",
         "_tid": "ockqGJ"
+      },
+      {
+        "name": "Gerardo Gutiérrez - engizen.com",
+        "title": "Optimisation & Performance",
+        "location": "Annecy 🇫🇷",
+        "description": "Consultant en Automatisme & Informatique Industrielle | Optimisation & Performance des Bureaux d’Études\n\n  >>> Une expertise éprouvée EIA, avec un accompagnement personnalisé pour des projets de toute envergure.\n\n>>> Une capacité à transformer des défis techniques en opportunités de croissance grâce à des solutions sur-mesure.\n\n>>> Une approche méthodologique qui combine innovation technologique et efficacité opérationnelle.",
+        "image": {
+          "src": "/images/gerardo.jpg",
+          "alt": "Gerardo Gutiérrez - engizen.com"
+        },
+        "hoverImage": {
+          "src": "/images/engizen.jpg",
+          "alt": "Gerardo Gutiérrez - engizen.com"
+        },
+        "linkedin": "https://engizen.com/",
+        "_tid": "8lEMDv"
       }
     ]
   }
