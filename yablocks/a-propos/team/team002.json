@@ -10,12 +10,12 @@
     "members": [
       {
         "name": "Marc Akoto",
-        "title": "Fondateur & Expert Automaticien",
+        "title": "Projets & Architecture",
         "location": "Fribourg 🇨🇭",
         "description": "Automaticien spécialisé en SCADA, MES et IoT industriel. Fondateur d'AUTEM, intégrateur certifié GOLD Ignition avec 10+ ans d'expérience sur des projets industriels en France et à l'international.",
         "image": {
           "src": "/images/marc-akoto.jpg",
-          "alt": "Marc Akoto - Fondateur AUTEM"
+          "alt": "Marc Akoto - AUTEM"
         },
         "linkedin": "https://www.linkedin.com/in/akoto/",
         "qualities": [
@@ -54,7 +54,11 @@
             "_tid": "9dJMQB"
           }
         ],
-        "_tid": "4gGhd7"
+        "_tid": "4gGhd7",
+        "hoverImage": {
+          "src": "/images/Bio_Formation.jpeg",
+          "alt": "Marc Akoto - AUTEM"
+        }
       },
       {
         "name": "Idriss Benguezzou",
@@ -106,7 +110,7 @@
         "location": "Lyon 🇫🇷",
         "description": "Ingénieur automaticien autonome et polyvalent, capable de piloter un projet d'automatisation de bout en bout : de l'analyse fonctionnelle jusqu'à la mise en service sur site.",
         "image": {
-          "src": "/images/team/alexandre-saidi.jpg",
+          "src": "/images/engineers.png",
           "alt": "Alexandre Saïdi - Ingénieur Automaticien"
         },
         "linkedin": "https://www.linkedin.com/in/alexandre-s-0b7b33119/",
