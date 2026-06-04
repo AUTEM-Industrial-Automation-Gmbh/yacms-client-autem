@@ -61,6 +61,22 @@
         }
       },
       {
+        "name": "Matthew Smith - fieldcloud.com",
+        "title": "Connected Manufacturing | Risk & Continuity Advisor",
+        "location": "Grenoble 🇫🇷",
+        "description": "Most modernization efforts fail not because of technology, but because of forgotten knowledge, disconnected teams, and fragile systems. >>> 35+ years in the trenches of industrial IT, OT, and telecommunications and one thing has become crystal clear to me : I stand for industrial leaders who refuse to let legacy systems trap their future. ",
+        "image": {
+          "src": "/images/matthew.jpg",
+          "alt": ""
+        },
+        "hoverImage": {
+          "src": "/images/nsbox-ad.jpg",
+          "alt": ""
+        },
+        "linkedin": "https://fieldcloud.com/",
+        "_tid": "PAciSG"
+      },
+      {
         "name": "Idriss Benguezzou",
         "title": "Ingénieur Logiciel Industriel",
         "location": "Saint-Étienne 🇫🇷",
