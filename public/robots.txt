@@ -2,4 +2,10 @@ User-agent: *
 Allow: /
 Disallow: /404
 
+# Les versions /de/ et /en/ servent encore le contenu français sous un autre
+# `lang` : ce sont des quasi-doublons tant qu'elles ne sont pas traduites.
+# Retirer ces deux lignes au fur et à mesure que les traductions arrivent.
+Disallow: /de/
+Disallow: /en/
+
 Sitemap: https://autem.ch/sitemap-index.xml
