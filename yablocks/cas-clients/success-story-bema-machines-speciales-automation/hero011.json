@@ -13,11 +13,18 @@
     "tags": [
       {
         "label": "Machines spéciales",
-        "type": "secteur"
+        "type": "categorie",
+        "_tid": "ejUdaf"
       },
       {
         "label": "Automatisme",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "UdQL3U"
+      },
+      {
+        "label": "Bois-Wood-Holz",
+        "type": "secteur",
+        "_tid": "DqbB2o"
       }
     ]
   }
