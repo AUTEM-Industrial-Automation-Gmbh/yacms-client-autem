@@ -92,6 +92,7 @@
     "/logos/hermes.png",
     "/logos/ignition.png",
     "/logos/medtronic.jpg",
+    "/logos/mivelaz-bois-logo.png",
     "/logos/opc-ua.png",
     "/logos/parisaeroportcdg.jpg",
     "/logos/pepperl-fuchs.png",
@@ -106,7 +107,9 @@
     "/logos/sftrf.png",
     "/logos/sick.png",
     "/logos/siemens.png",
+    "/logos/sncf.png",
     "/logos/soitec.jpg",
+    "/logos/st-gobain.svg",
     "/logos/thalys.png",
     "/logos/tm.png",
     "/logos/trane.png",
@@ -118,9 +121,7 @@
     "/logos/wincc.png",
     "/logos/wonderlogix.png",
     "/logos/wonderware.png",
-    "/logos/world-class-manufacturing.png",
-    "/logos/sncf.png",
-    "/logos/st-gobain.svg"
+    "/logos/world-class-manufacturing.png"
   ],
   "assets": [
     "/assets/4-raisons-dadopter-docker-en industrie.jpg",
