@@ -12,12 +12,14 @@
     "title": "Rétrofit de la ligne de conditionnement aseptisée bioMérieux",
     "tags": [
       {
-        "label": "Pharma-Biotech",
-        "type": "secteur"
+        "label": "Pharma-Biotech-Medical",
+        "type": "secteur",
+        "_tid": "l4wwaC"
       },
       {
         "label": "Electricité",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "tLrh7Y"
       }
     ]
   }

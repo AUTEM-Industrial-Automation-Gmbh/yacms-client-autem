@@ -13,19 +13,28 @@
     "tags": [
       {
         "label": "PC Industriel",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "3XnMwC"
       },
       {
         "label": "MES-OEE",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "Qtj1qv"
       },
       {
         "label": "Architecture Systèmes",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "kLdRaD"
       },
       {
         "label": "Cycle de Vie et Obsolescence",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "KEJcqe"
+      },
+      {
+        "label": "Pharma-Biotech-Medical",
+        "type": "secteur",
+        "_tid": "TL2HXe"
       }
     ]
   }

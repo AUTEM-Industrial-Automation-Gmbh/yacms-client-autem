@@ -1,30 +1,30 @@
 {
   "meta": {
     "component": "blocks/hero/HeroArticleHeader",
-    "section": "cas-clients/success-story-bema-machines-speciales-automation/hero011"
+    "section": "cas-clients/success-story-mivelaz-machines-bois-renovation/hero011"
   },
   "data": {
     "backLink": "/cas-clients",
     "clientLogo": {
-      "src": "/logos/bema.png",
-      "alt": "BEMA"
+      "src": "/logos/mivelaz-bois-logo.png",
+      "alt": "MIVELAZ Bois SA"
     },
-    "title": "Programmation d'une machine de compactage de papier",
+    "title": "Rénovation d'un coffret électrique - Machine Egreneuse - Fabricant Makor",
     "tags": [
       {
         "label": "Machines spéciales",
         "type": "categorie",
-        "_tid": "ejUdaf"
+        "_tid": "qaxa3d"
       },
       {
-        "label": "Automatisme",
+        "label": "Electricité",
         "type": "categorie",
-        "_tid": "UdQL3U"
+        "_tid": "ZhbI4G"
       },
       {
         "label": "Bois-Wood-Holz",
         "type": "secteur",
-        "_tid": "DqbB2o"
+        "_tid": "tC0Z6F"
       }
     ]
   }
