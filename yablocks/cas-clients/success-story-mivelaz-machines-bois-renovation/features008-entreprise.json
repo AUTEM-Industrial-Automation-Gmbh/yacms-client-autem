@@ -5,6 +5,10 @@
   },
   "data": {
     "title": "L'entreprise",
-    "content": "<p>BEMA est une <strong>entreprise grenobloise spécialisée dans la conception et la fabrication de machines spéciales</strong> pour le traitement de matériaux industriels. Sa gamme de produits comprend des machines de compactage, de broyage et de traitement des déchets industriels, conçues sur mesure pour les besoins spécifiques de ses clients industriels.</p><p>Dans le cadre du développement d'une nouvelle machine de compactage de papier destinée à réduire les volumes de déchets papier en environnement industriel, BEMA a fait appel à AUTEM pour la <strong>programmation de l'automate et le développement de l'IHM</strong>.</p>"
+    "content": "<p><strong>MIVELAZ Bois</strong> est une entreprise suisse active dans la transformation et le travail du bois, implantée dans le canton de Fribourg.</p>\n\n<p>Dans le cadre de la modernisation de son outil de production, MIVELAZ a confié à AUTEM la <strong>rénovation électrique d'une machine d'égrenage de bois ancienne mais toujours opérationnelle</strong>. L'objectif était de prolonger sa durée de vie tout en fiabilisant son fonctionnement et en l'adaptant aux besoins actuels de l'atelier.</p>\n\n<p>Le projet a notamment porté sur la <strong>reconstruction du coffret électrique et de ses commandes</strong>, la remise au propre de l'installation et des schémas, ainsi que sur l'intégration de nouvelles fonctions de <strong>mesure d'énergie et de suivi digital du fonctionnement de la machine</strong>.</p>\n",
+    "image": {
+      "src": "/images/mivelaz-bois-references.png",
+      "alt": "mivelaz bois references"
+    }
   }
 }
