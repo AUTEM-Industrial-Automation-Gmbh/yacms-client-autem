@@ -6,10 +6,10 @@
   "data": {
     "backLink": "/cas-clients",
     "clientLogo": {
-      "src": "/logos/bema.png",
-      "alt": "BEMA"
+      "src": "/logos/mivelaz-bois-logo.png",
+      "alt": "MIVELAZ Bois SA"
     },
-    "title": "Programmation d'une machine de compactage de papier",
+    "title": "Rénovation d'un coffret électrique - Machine Egreneuse - Fabricant Makor",
     "tags": [
       {
         "label": "Machines spéciales",
@@ -17,7 +17,7 @@
         "_tid": "qaxa3d"
       },
       {
-        "label": "Automatisme",
+        "label": "Electricité",
         "type": "categorie",
         "_tid": "ZhbI4G"
       },
