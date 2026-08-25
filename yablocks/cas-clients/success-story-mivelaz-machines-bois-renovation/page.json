@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "title": "Cas Clients / Success Story Mivelaz Machines Bois Renovation",
+    "description": "AUTEM a programmé l'automate et l'IHM d'une machine de compactage de papier pour BEMA à Grenoble : cycles de compactage, sécurités et mise en service.",
+    "keywords": [
+      "machine compactage papier",
+      "programmation automate",
+      "machines spéciales",
+      "BEMA Grenoble",
+      "automatisme machine",
+      "AUTEM réalisation"
+    ],
+    "author": "AUTEM",
+    "locale": "fr_CH",
+    "robots": "index, follow",
+    "og": {
+      "type": "website",
+      "image": "/og-home.png",
+      "imageAlt": "AUTEM — Cas client industriel automatisme et SCADA"
+    },
+    "structuredData": {
+      "type": "LocalBusiness",
+      "name": "AUTEM",
+      "logo": "/logos/autem-logo.png",
+      "address": {
+        "street": "Route d'Avry 19",
+        "city": "Matran",
+        "postalCode": "1753",
+        "region": "Fribourg",
+        "country": "CH"
+      },
+      "geo": {
+        "latitude": 46.78559494018555,
+        "longitude": 7.088335037231445
+      },
+      "phone": "+41784427353",
+      "email": "team@autem.ch",
+      "priceRange": "€€€",
+      "openingHours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "17:00"
+        }
+      ]
+    }
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "@shared/navigation.json",
+    "./hero011.json",
+    "./features008-entreprise.json",
+    "./features008-challenge.json",
+    "./testimonial003.json",
+    "./features008-strategie.json",
+    "./features008-resultats.json",
+    "../../home/cta002.json",
+    "@shared/footer.json"
+  ]
+}
