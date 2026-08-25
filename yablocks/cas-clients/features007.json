@@ -34,10 +34,6 @@
             "_tid": "SQ9oOn"
           },
           {
-            "value": "Machines Spéciales",
-            "_tid": "g1w8Sm"
-          },
-          {
             "value": "Metallurgie",
             "_tid": "tXqdxa"
           },
@@ -56,6 +52,10 @@
           {
             "value": "Textile",
             "_tid": "xndsWy"
+          },
+          {
+            "value": "Bois-Wood-Holz",
+            "_tid": "O6SFDr"
           }
         ],
         "_tid": "rraTI7"
@@ -106,6 +106,10 @@
           {
             "value": "Supervision SCADA",
             "_tid": "Hnl2H2"
+          },
+          {
+            "value": "Machines spéciales",
+            "_tid": "0fCqbS"
           }
         ],
         "_tid": "rgBbbS"
@@ -489,6 +493,33 @@
         ],
         "date": 2020,
         "_tid": "gOUxeh"
+      },
+      {
+        "logo": {
+          "src": "/logos/mivelaz-bois-logo.png",
+          "alt": ""
+        },
+        "title": "Rénovation d'un coffret électrique - Machine Egreneuse - Fabricant Makor",
+        "link": "/cas-clients/success-story-mivelaz-machines-bois-renovation",
+        "tags": [
+          {
+            "label": "Machines spéciales",
+            "type": "categorie",
+            "_tid": "iMiXbc"
+          },
+          {
+            "label": "Electricité",
+            "type": "categorie",
+            "_tid": "JMiOEe"
+          },
+          {
+            "label": "Bois-Wood-Holz",
+            "type": "secteur",
+            "_tid": "9OaVJx"
+          }
+        ],
+        "date": 2026,
+        "_tid": "zdsPXy"
       }
     ]
   }
