@@ -5,9 +5,9 @@
   },
   "data": {
     "title": "L'entreprise",
-    "content": "<p><strong>MIVELAZ Bois</strong> est une entreprise suisse active dans la transformation et le travail du bois, implantée dans le canton de Fribourg.</p>\n\n<p>Dans le cadre de la modernisation de son outil de production, MIVELAZ a confié à AUTEM la <strong>rénovation électrique d'une machine d'égrenage de bois ancienne mais toujours opérationnelle</strong>. L'objectif était de prolonger sa durée de vie tout en fiabilisant son fonctionnement et en l'adaptant aux besoins actuels de l'atelier.</p>\n\n<p>Le projet a notamment porté sur la <strong>reconstruction du coffret électrique et de ses commandes</strong>, la remise au propre de l'installation et des schémas, ainsi que sur l'intégration de nouvelles fonctions de <strong>mesure d'énergie et de suivi digital du fonctionnement de la machine</strong>.</p>\n",
+    "content": "<p><strong>La Fromagerie de Mézières</strong>, située dans le canton de Fribourg, exploite dans sa cave un <strong>robot automatisé dédié au soin et à la manutention des meules de fromage</strong>.</p>\n\n<p>Mis en service depuis de nombreuses années, cet équipement constitue un élément important du fonctionnement de la cave. Son architecture associe automatismes, entraînements électriques, capteurs et modules d'entrées-sorties répartis sur plusieurs parties mobiles du robot.</p>\n\n<p>Avec le vieillissement de certains composants électroniques et électriques, des <strong>défauts intermittents difficiles à reproduire</strong> ont progressivement perturbé son exploitation. Certains arrêts nécessitaient un redémarrage complet du robot et pouvaient se reproduire plusieurs fois au cours d'une même journée.</p>\n\n<p>La Fromagerie de Mézières a confié à AUTEM une mission de <strong>fiabilisation et d'optimisation du robot</strong>, avec une approche privilégiant le diagnostic et l'amélioration ciblée de l'installation existante plutôt que son remplacement. L'objectif : <strong>réduire les pannes, optimiser le fonctionnement du robot et prolonger son cycle de vie</strong>.</p>",
     "image": {
-      "src": "/images/mivelaz-bois-references.png",
+      "src": "/images/fromagerie-mezieres-facade.jpg",
       "alt": "mivelaz bois references"
     }
   }

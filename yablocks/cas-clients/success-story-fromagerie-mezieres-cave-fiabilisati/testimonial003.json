@@ -8,10 +8,10 @@
       "src": "/images/background-indus.jpg",
       "alt": "Arrière-plan industriel"
     },
-    "quote": "<p>Cette rénovation illustre une approche pragmatique de la modernisation industrielle : <strong>conserver une mécanique encore fonctionnelle et moderniser uniquement ce qui apporte de la fiabilité, de la sécurité et de nouvelles possibilités de suivi</strong>.</p>\n\n<p>Plutôt que de reproduire à l'identique l'installation électrique historique, AUTEM a analysé avec MIVELAZ l'utilisation réelle de la machine afin de supprimer les fonctions devenues inutiles et de reconstruire une architecture électrique correspondant à son fonctionnement actuel.</p>\n\n<p>Cette approche permet également d'ouvrir la machine à de nouveaux usages digitaux, avec notamment la <strong>mesure de l'énergie consommée</strong> et la récupération de données de fonctionnement pouvant alimenter progressivement un suivi de production.</p>\n",
+    "quote": "Une démarche de fiabilisation construite dans la durée\n\nSur ce type d'équipement, une panne intermittente ne se résout pas nécessairement en une seule intervention. La démarche mise en œuvre avec la Fromagerie de Mézières repose donc sur des observations terrain, des mesures électriques, des essais ciblés et un suivi des défauts dans le temps.\n\nChaque intervention permet d'éliminer une hypothèse, d'en confirmer une autre et d'améliorer progressivement la connaissance du robot. Cette approche permet de ne pas se limiter au dépannage immédiat : elle vise à rendre l'installation durablement plus fiable et plus simple à maintenir.\n\nLe partenariat mis en place permet également aux équipes de la fromagerie de disposer d'un support en électricité et automation lorsqu'un nouveau comportement apparaît, tout en capitalisant sur les analyses et améliorations déjà réalisées.",
     "author": {
-      "name": "Directeur R&D",
-      "role": "BEMA — Grenoble"
+      "name": "Nicolas SCHMOUTZ",
+      "role": "Patron de la Fromagerie de Mézières"
     }
   }
 }
