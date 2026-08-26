@@ -13,7 +13,18 @@
     "tags": [
       {
         "label": "Logistique",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "bDbhc8"
+      },
+      {
+        "label": "Agroalimentaire",
+        "type": "secteur",
+        "_tid": "FD26iL"
+      },
+      {
+        "label": "Cycle de Vie et Obsolescence",
+        "type": "categorie",
+        "_tid": "aKUmCv"
       }
     ]
   }
