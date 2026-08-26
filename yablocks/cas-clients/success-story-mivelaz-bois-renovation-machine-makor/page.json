@@ -49,7 +49,22 @@
           "closes": "17:00"
         }
       ]
-    }
+    },
+    "hreflang": [
+      {
+        "lang": "fr_CH",
+        "href": "https://autem.ch/cas-clients/success-story-mivelaz-bois-renovation-machine-makor/"
+      },
+      {
+        "lang": "fr_FR",
+        "href": "https://autem-services.fr/cas-clients/success-story-mivelaz-bois-renovation-machine-makor/"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://autem.ch/cas-clients/success-story-mivelaz-bois-renovation-machine-makor/"
+      }
+    ],
+    "canonical": "https://autem.ch/cas-clients/success-story-mivelaz-bois-renovation-machine-makor/"
   },
   "theme": "autem-default",
   "blocks": [
