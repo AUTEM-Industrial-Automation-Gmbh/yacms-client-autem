@@ -1,0 +1,25 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.clientLogo.alt": {
+      "source": "MIVELAZ Bois SA",
+      "de": "MIVELAZ Bois SA"
+    },
+    "data.title": {
+      "source": "Rénovation d'un coffret électrique - Machine Egreneuse - Fabricant Makor",
+      "de": "Renovierung eines Schaltschranks – Entrindungsmaschine – Hersteller Makor"
+    },
+    "data.tags[@qaxa3d].label": {
+      "source": "Machines spéciales",
+      "de": "Sondermaschinen"
+    },
+    "data.tags[@ZhbI4G].label": {
+      "source": "Electricité",
+      "de": "Elektrik"
+    },
+    "data.tags[@tC0Z6F].label": {
+      "source": "Bois-Wood-Holz",
+      "de": "Holz-Wood-Holz"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "L'entreprise",
+      "de": "Das Unternehmen"
+    },
+    "data.content": {
+      "source": "<p><strong>MIVELAZ Bois</strong> est une entreprise suisse active dans la transformation et le travail du bois, implantée dans le canton de Fribourg.</p>\n\n<p>Dans le cadre de la modernisation de son outil de production, MIVELAZ a confié à AUTEM la <strong>rénovation électrique d'une machine d'égrenage de bois ancienne mais toujours opérationnelle</strong>. L'objectif était de prolonger sa durée de vie tout en fiabilisant son fonctionnement et en l'adaptant aux besoins actuels de l'atelier.</p>\n\n<p>Le projet a notamment porté sur la <strong>reconstruction du coffret électrique et de ses commandes</strong>, la remise au propre de l'installation et des schémas, ainsi que sur l'intégration de nouvelles fonctions de <strong>mesure d'énergie et de suivi digital du fonctionnement de la machine</strong>.</p>\n",
+      "de": "<p><strong>MIVELAZ Bois</strong> ist ein Schweizer Unternehmen, das sich mit der Holzverarbeitung beschäftigt und im Kanton Freiburg ansässig ist.</p>\n\n<p>Im Rahmen der Modernisierung seiner Produktionsmittel vertraute MIVELAZ AUTEM die <strong>elektrische Renovierung einer alten, aber noch funktionstüchtigen Entrindungsmaschine</strong> an. Ziel war es, ihre Lebensdauer zu verlängern, ihren Betrieb zu zuverlässiger zu gestalten und sie an die aktuellen Bedürfnisse der Werkstatt anzupassen.</p>\n\n<p>Das Projekt umfasste insbesondere den <strong>Umbau des Schaltschranks und seiner Steuerungen</strong>, die Bereinigung der Anlage und der Schaltpläne sowie die Integration neuer Funktionen zur <strong>Energiemessung und digitalen Überwachung des Maschinenbetriebs</strong>.</p>\n"
+    },
+    "data.image.alt": {
+      "source": "mivelaz bois references",
+      "de": "mivelaz bois referenzen"
+    }
+  }
+}

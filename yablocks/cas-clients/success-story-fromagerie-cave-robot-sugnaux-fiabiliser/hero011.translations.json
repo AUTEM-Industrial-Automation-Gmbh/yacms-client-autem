@@ -1,0 +1,29 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.clientLogo.alt": {
+      "source": "Fromagerie de Mézières",
+      "de": "Fromagerie de Mézières"
+    },
+    "data.title": {
+      "source": "Fiabilisation d'un robot de soin des meules - Cave de la Fromagerie de Mézières - Fabricant Sugnaux JNJ",
+      "de": "Zuverlässigkeit eines Käsepflegeroboters - Fromagerie de Mézières - Hersteller Sugnaux JNJ"
+    },
+    "data.tags[@qaxa3d].label": {
+      "source": "Automation",
+      "de": "Automatisierung"
+    },
+    "data.tags[@ZhbI4G].label": {
+      "source": "Electricité",
+      "de": "Elektrizität"
+    },
+    "data.tags[@ubMcmI].label": {
+      "source": "Cycle de Vie et Obsolescence",
+      "de": "Lebenszyklus und Obsoleszenz"
+    },
+    "data.tags[@tC0Z6F].label": {
+      "source": "Agroalimentaire",
+      "de": "Lebensmittelindustrie"
+    }
+  }
+}

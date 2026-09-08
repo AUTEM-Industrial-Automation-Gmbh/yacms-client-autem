@@ -1,0 +1,17 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "L'entreprise",
+      "de": "Das Unternehmen"
+    },
+    "data.content": {
+      "source": "<p><strong>La Fromagerie de Mézières</strong>, située dans le canton de Fribourg, exploite dans sa cave un <strong>robot automatisé dédié au soin et à la manutention des meules de fromage</strong>.</p>\n\n<p>Mis en service depuis de nombreuses années, cet équipement constitue un élément important du fonctionnement de la cave. Son architecture associe automatismes, entraînements électriques, capteurs et modules d'entrées-sorties répartis sur plusieurs parties mobiles du robot.</p>\n\n<p>Avec le vieillissement de certains composants électroniques et électriques, des <strong>défauts intermittents difficiles à reproduire</strong> ont progressivement perturbé son exploitation. Certains arrêts nécessitaient un redémarrage complet du robot et pouvaient se reproduire plusieurs fois au cours d'une même journée.</p>\n\n<p>La Fromagerie de Mézières a confié à AUTEM une mission de <strong>fiabilisation et d'optimisation du robot</strong>, avec une approche privilégiant le diagnostic et l'amélioration ciblée de l'installation existante plutôt que son remplacement. L'objectif : <strong>réduire les pannes, optimiser le fonctionnement du robot et prolonger son cycle de vie</strong>.</p>",
+      "de": "<p><strong>Die Fromagerie de Mézières</strong> im Kanton Freiburg betreibt in ihrem Käsekeller einen <strong>automatisierten Roboter zur Pflege und Handhabung von Käselaiben</strong>.</p>\n\n<p>Diese seit vielen Jahren im Einsatz befindliche Anlage ist ein wichtiger Bestandteil des Kellerbetriebs. Ihre Architektur kombiniert Automatisierungstechnik, elektrische Antriebe, Sensoren und Ein-/Ausgabemodule, die auf mehreren beweglichen Teilen des Roboters verteilt sind.</p>\n\n<p>Mit der Alterung bestimmter elektronischer und elektrischer Komponenten störten <strong>schwer reproduzierbare intermittierende Fehler</strong> zunehmend den Betrieb. Einige Ausfälle erforderten einen vollständigen Neustart des Roboters und konnten mehrmals am selben Tag auftreten.</p>\n\n<p>Die Fromagerie de Mézières beauftragte AUTEM mit der <strong>Zuverlässigkeitssteigerung und Optimierung des Roboters</strong>. Dabei wurde ein Ansatz verfolgt, der die Diagnose und gezielte Verbesserung der bestehenden Anlage anstelle ihres Austauschs bevorzugte. Ziel: <strong>Ausfälle reduzieren, den Roboterbetrieb optimieren und seine Lebensdauer verlängern</strong>.</p>"
+    },
+    "data.image.alt": {
+      "source": "mivelaz bois references",
+      "de": "mivelaz bois references"
+    }
+  }
+}

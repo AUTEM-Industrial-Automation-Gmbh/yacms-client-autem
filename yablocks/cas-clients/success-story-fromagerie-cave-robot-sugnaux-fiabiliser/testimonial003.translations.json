@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Arrière-plan industriel",
+      "de": "Industrieller Hintergrund"
+    },
+    "data.quote": {
+      "source": "Une démarche de fiabilisation construite dans la durée\n\nSur ce type d'équipement, une panne intermittente ne se résout pas nécessairement en une seule intervention. La démarche mise en œuvre avec la Fromagerie de Mézières repose donc sur des observations terrain, des mesures électriques, des essais ciblés et un suivi des défauts dans le temps.\n\nChaque intervention permet d'éliminer une hypothèse, d'en confirmer une autre et d'améliorer progressivement la connaissance du robot. Cette approche permet de ne pas se limiter au dépannage immédiat : elle vise à rendre l'installation durablement plus fiable et plus simple à maintenir.\n\nLe partenariat mis en place permet également aux équipes de la fromagerie de disposer d'un support en électricité et automation lorsqu'un nouveau comportement apparaît, tout en capitalisant sur les analyses et améliorations déjà réalisées.",
+      "de": "Ein Prozess zur Zuverlässigkeitssteigerung, der über die Zeit aufgebaut wird\n\nBei dieser Art von Anlage lässt sich eine intermittierende Störung nicht unbedingt mit einem einzigen Eingriff beheben. Der bei der Fromagerie de Mézières implementierte Ansatz basiert daher auf Beobachtungen vor Ort, elektrischen Messungen, gezielten Tests und einer zeitlichen Überwachung der Fehler.\n\nJeder Eingriff ermöglicht es, eine Hypothese auszuschließen, eine andere zu bestätigen und das Wissen über den Roboter schrittweise zu verbessern. Dieser Ansatz beschränkt sich nicht auf die sofortige Fehlerbehebung, sondern zielt darauf ab, die Anlage dauerhaft zuverlässiger und einfacher zu warten zu machen.\n\nDie geschaffene Partnerschaft ermöglicht es den Teams der Käserei auch, Unterstützung in den Bereichen Elektrik und Automatisierung zu erhalten, wenn ein neues Verhalten auftritt, und gleichzeitig auf den bereits durchgeführten Analysen und Verbesserungen aufzubauen."
+    },
+    "data.author.name": {
+      "source": "Nicolas SCHMOUTZ",
+      "de": "Nicolas SCHMOUTZ"
+    },
+    "data.author.role": {
+      "source": "Patron de la Fromagerie de Mézières",
+      "de": "Leiter der Fromagerie de Mézières"
+    }
+  }
+}

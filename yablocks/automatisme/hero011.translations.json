@@ -1,0 +1,29 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backLinkLabel": {
+      "source": "Retour au blog",
+      "de": "Zurück zum Blog"
+    },
+    "data.title": {
+      "source": "Automatisme - solutions et entreprises industrielles",
+      "de": "Automatisierung – Lösungen und Industrieunternehmen"
+    },
+    "data.tags[@G8UZMy].label": {
+      "source": "Automation",
+      "de": "Automatisierung"
+    },
+    "data.articleMeta.readTime": {
+      "source": "4 min lecture",
+      "de": "4 Minuten Lesezeit"
+    },
+    "data.articleMeta.publishDate": {
+      "source": "03/01/22",
+      "de": "03.01.22"
+    },
+    "data.articleMeta.updatedDate": {
+      "source": "16/04/26",
+      "de": "16.04.26"
+    }
+  }
+}

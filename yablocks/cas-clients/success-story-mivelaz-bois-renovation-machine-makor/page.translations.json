@@ -1,0 +1,39 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Cas Clients / Success Story Mivelaz Machines Bois Renovation",
+      "de": "Fallstudien / Erfolgsgeschichten Mivelaz Holzbearbeitungsmaschinen Renovierung",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "AUTEM a rénové le coffret électrique d'une machine d'égrenage de bois du fabircant Makor pour MIVELAZ au Mouret, canton de Fribourg : sécurité machine, mesure d'énergie",
+      "de": "AUTEM hat den Schaltschrank einer Holzbearbeitungsmaschine des Herstellers Makor für MIVELAZ in Le Mouret, Kanton Freiburg, renoviert: Maschinensicherheit, Energiemessung",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "machine égreneuse",
+        "makor",
+        "électricité",
+        "machines spéciales",
+        "Mivelaz",
+        "AUTEM réalisation"
+      ],
+      "de": [
+        "Holzbearbeitungsmaschine",
+        "Makor",
+        "Elektrizität",
+        "Sondermaschinen",
+        "Mivelaz",
+        "AUTEM Realisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Cas client industriel automatisme et SCADA",
+      "de": "AUTEM – Fallstudie Industrie Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}

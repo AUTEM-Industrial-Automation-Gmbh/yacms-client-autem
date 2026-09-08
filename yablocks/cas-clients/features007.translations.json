@@ -1,0 +1,437 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Réalisations techniques AUTEM — automatisme et SCADA industriel",
+      "de": "AUTEM-Referenzen – Automatisierung und industrielle SCADA-Systeme"
+    },
+    "data.title": {
+      "source": "Nos réalisations",
+      "de": "Unsere Referenzen"
+    },
+    "data.filterGroups[@rraTI7].label": {
+      "source": "Tous les secteurs",
+      "de": "Alle Sektoren"
+    },
+    "data.filterGroups[@rgBbbS].label": {
+      "source": "Toutes les expertises",
+      "de": "Alle Fachgebiete"
+    },
+    "data.filterGroups[@rraTI7].values[@2dB0a1].value": {
+      "source": "Agroalimentaire",
+      "de": "Lebensmittel"
+    },
+    "data.filterGroups[@rraTI7].values[@xxXggx].value": {
+      "source": "Chimie",
+      "de": "Chemie"
+    },
+    "data.filterGroups[@rraTI7].values[@TvyvhG].value": {
+      "source": "Cybersécurité",
+      "de": "Cybersicherheit"
+    },
+    "data.filterGroups[@rraTI7].values[@Pn0i3g].value": {
+      "source": "Energie-Batteries",
+      "de": "Energie-Batterien"
+    },
+    "data.filterGroups[@rraTI7].values[@SQ9oOn].value": {
+      "source": "Logistique",
+      "de": "Logistik"
+    },
+    "data.filterGroups[@rraTI7].values[@tXqdxa].value": {
+      "source": "Metallurgie",
+      "de": "Metallurgie"
+    },
+    "data.filterGroups[@rraTI7].values[@JaLaBL].value": {
+      "source": "Mobilité",
+      "de": "Mobilität"
+    },
+    "data.filterGroups[@rraTI7].values[@fnvjP1].value": {
+      "source": "Pharma-Biotech",
+      "de": "Pharma-Biotech"
+    },
+    "data.filterGroups[@rraTI7].values[@bgafyz].value": {
+      "source": "Semiconducteurs",
+      "de": "Halbleiter"
+    },
+    "data.filterGroups[@rraTI7].values[@xndsWy].value": {
+      "source": "Textile",
+      "de": "Textil"
+    },
+    "data.filterGroups[@rraTI7].values[@O6SFDr].value": {
+      "source": "Bois-Wood-Holz",
+      "de": "Holz"
+    },
+    "data.filterGroups[@rgBbbS].values[@wOZ6sw].value": {
+      "source": "Architecture Systèmes",
+      "de": "Systemarchitektur"
+    },
+    "data.filterGroups[@rgBbbS].values[@BA99Wb].value": {
+      "source": "Automation",
+      "de": "Automatisierung"
+    },
+    "data.filterGroups[@rgBbbS].values[@dNlKYH].value": {
+      "source": "Cycle de Vie et Obsolescence",
+      "de": "Lebenszyklus & Obsoleszenz"
+    },
+    "data.filterGroups[@rgBbbS].values[@NbOOgN].value": {
+      "source": "Electricité",
+      "de": "Elektrik"
+    },
+    "data.filterGroups[@rgBbbS].values[@BbheBK].value": {
+      "source": "Gestion Projet Stratégique",
+      "de": "Strategisches Projektmanagement"
+    },
+    "data.filterGroups[@rgBbbS].values[@cJOHs3].value": {
+      "source": "GTB-GMAO",
+      "de": "GTB-CAFM"
+    },
+    "data.filterGroups[@rgBbbS].values[@UDQ4AG].value": {
+      "source": "IoT Réseau",
+      "de": "IoT-Netzwerk"
+    },
+    "data.filterGroups[@rgBbbS].values[@Um9Zhu].value": {
+      "source": "MES-OEE",
+      "de": "MES-OEE"
+    },
+    "data.filterGroups[@rgBbbS].values[@hUq3Jt].value": {
+      "source": "Pareto-VSM",
+      "de": "Pareto-VSM"
+    },
+    "data.filterGroups[@rgBbbS].values[@YSzLPw].value": {
+      "source": "PC Industriel",
+      "de": "Industrie-PC"
+    },
+    "data.filterGroups[@rgBbbS].values[@Hnl2H2].value": {
+      "source": "Supervision SCADA",
+      "de": "SCADA-Überwachung"
+    },
+    "data.filterGroups[@rgBbbS].values[@0fCqbS].value": {
+      "source": "Machines spéciales",
+      "de": "Sondermaschinen"
+    },
+    "data.cards[@Y6DhKP].logo.alt": {
+      "source": "ADP Aéroports de Paris",
+      "de": "ADP Paris Airports"
+    },
+    "data.cards[@YoZ8mT].logo.alt": {
+      "source": "Verkor",
+      "de": "Verkor"
+    },
+    "data.cards[@2hnb6t].logo.alt": {
+      "source": "COOP",
+      "de": "COOP"
+    },
+    "data.cards[@RxWP8p].logo.alt": {
+      "source": "Medtronic",
+      "de": "Medtronic"
+    },
+    "data.cards[@ztdYbn].logo.alt": {
+      "source": "Caterpillar",
+      "de": "Caterpillar"
+    },
+    "data.cards[@MhXRlX].logo.alt": {
+      "source": "bioMérieux",
+      "de": "bioMérieux"
+    },
+    "data.cards[@CMi5G2].logo.alt": {
+      "source": "Soitec",
+      "de": "Soitec"
+    },
+    "data.cards[@xWRB3C].logo.alt": {
+      "source": "Hermès",
+      "de": "Hermès"
+    },
+    "data.cards[@vPKkn3].logo.alt": {
+      "source": "Procter & Gamble",
+      "de": "Procter & Gamble"
+    },
+    "data.cards[@y5nvYX].logo.alt": {
+      "source": "Equans Tinea",
+      "de": "Equans Tinea"
+    },
+    "data.cards[@8R047P].logo.alt": {
+      "source": "BEMA",
+      "de": "BEMA"
+    },
+    "data.cards[@EcFUhe].logo.alt": {
+      "source": "Thalys",
+      "de": "Thalys"
+    },
+    "data.cards[@vjqbfi].logo.alt": {
+      "source": "SEE / SFTRF",
+      "de": "SEE / SFTRF"
+    },
+    "data.cards[@gOUxeh].logo.alt": {
+      "source": "Seckiot",
+      "de": "Seckiot"
+    },
+    "data.cards[@zdsPXy].logo.alt": {
+      "source": "Mivelaz Bois SA",
+      "de": "Mivelaz Bois SA"
+    },
+    "data.cards[@WX9t5S].logo.alt": {
+      "source": "Fromagerie de Mézières",
+      "de": "Fromagerie de Mézières"
+    },
+    "data.cards[@Y6DhKP].title": {
+      "source": "Modernisation du système de tri bagage T2E à l'aéroport CDG",
+      "de": "Modernisierung des Gepäcksortiersystems T2E am Flughafen CDG"
+    },
+    "data.cards[@YoZ8mT].title": {
+      "source": "Développement SCADA et BMS pour batteries électriques industrielles",
+      "de": "SCADA- und BMS-Entwicklung für industrielle Elektrofahrzeugbatterien"
+    },
+    "data.cards[@2hnb6t].title": {
+      "source": "Automatisation d'un stockeur logistique",
+      "de": "Automatisierung eines Logistiklagers"
+    },
+    "data.cards[@RxWP8p].title": {
+      "source": "Revamping automatisme du four de séchage — Ligne pacemakers",
+      "de": "Automatisierungs-Revamping des Trocknungsofens – Herzschrittmacherlinie"
+    },
+    "data.cards[@ztdYbn].title": {
+      "source": "Intégration TRS, OEE et données MES pour l'usine Caterpillar",
+      "de": "Integration von TRS, OEE und MES-Daten für das Caterpillar-Werk"
+    },
+    "data.cards[@MhXRlX].title": {
+      "source": "Rétrofit de la ligne de conditionnement aseptisée bioMérieux",
+      "de": "Retrofit der aseptischen Abfüllanlage von bioMérieux"
+    },
+    "data.cards[@CMi5G2].title": {
+      "source": "Connectivité réseau et modernisation PC industriels pour ligne silicium",
+      "de": "Netzwerkverbindung und Modernisierung von Industrie-PCs für die Siliziumlinie"
+    },
+    "data.cards[@xWRB3C].title": {
+      "source": "Architecture data textile et systèmes métier industriels",
+      "de": "Textil-Datenarchitektur und industrielle Geschäftssysteme"
+    },
+    "data.cards[@vPKkn3].title": {
+      "source": "Développement SCADA logistique — Site de production P&G",
+      "de": "SCADA-Entwicklung für Logistik – Produktionsstandort P&G"
+    },
+    "data.cards[@y5nvYX].title": {
+      "source": "Développement SCADA pour systèmes logistiques — Equans Tinea",
+      "de": "SCADA-Entwicklung für Logistiksysteme – Equans Tinea"
+    },
+    "data.cards[@8R047P].title": {
+      "source": "Programmation d'une machine de compactage de papier",
+      "de": "Programmierung einer Papierkompaktierpresse"
+    },
+    "data.cards[@EcFUhe].title": {
+      "source": "Télémétrie, IoT, monétique et maintenance préventive AMOA vending machines",
+      "de": "Telemetrie, IoT, Zahlungsverkehr und vorausschauende Wartung AMOA Verkaufsautomaten"
+    },
+    "data.cards[@vjqbfi].title": {
+      "source": "Supervision réseau routier et ferroviaire, GTC et radio",
+      "de": "Überwachung von Straßen- und Schienennetzen, GTC und Funk"
+    },
+    "data.cards[@gOUxeh].title": {
+      "source": "Connectivité IoT des systèmes industriels en environnement cybersécurisé",
+      "de": "IoT-Konnektivität von Industriesystemen in einer cybersicheren Umgebung"
+    },
+    "data.cards[@zdsPXy].title": {
+      "source": "Rénovation d'un coffret électrique - Machine Egreneuse - Fabricant Makor",
+      "de": "Renovierung eines Schaltschrankes – Egrenier-Maschine – Hersteller Makor"
+    },
+    "data.cards[@WX9t5S].title": {
+      "source": "Fiabilisation d'un robot de soin des meules - Cave de la Fromagerie de Mézières - Fabricant Sugnaux JNJ",
+      "de": "Zuverlässigkeitssteigerung eines Mahlwerks-Pflegroboters – Kellerei der Fromagerie de Mézières – Hersteller Sugnaux JNJ"
+    },
+    "data.cards[@Y6DhKP].tags[@2II3cW].label": {
+      "source": "Mobilité",
+      "de": "Mobilität"
+    },
+    "data.cards[@Y6DhKP].tags[@bDXgc1].label": {
+      "source": "Automation",
+      "de": "Automatisierung"
+    },
+    "data.cards[@Y6DhKP].tags[@1gIFdp].label": {
+      "source": "IoT Réseau",
+      "de": "IoT-Netzwerk"
+    },
+    "data.cards[@Y6DhKP].tags[@oXiYtc].label": {
+      "source": "Cycle de Vie et Obsolescence",
+      "de": "Lebenszyklus & Obsoleszenz"
+    },
+    "data.cards[@YoZ8mT].tags[@zGdpMQ].label": {
+      "source": "Energie-Batteries",
+      "de": "Energie-Batterien"
+    },
+    "data.cards[@YoZ8mT].tags[@2q1rFg].label": {
+      "source": "Architecture Systèmes",
+      "de": "Systemarchitektur"
+    },
+    "data.cards[@YoZ8mT].tags[@cBvXes].label": {
+      "source": "GTB-GMAO",
+      "de": "GTB-CAFM"
+    },
+    "data.cards[@2hnb6t].tags[@P3Onz2].label": {
+      "source": "Logistique",
+      "de": "Logistik"
+    },
+    "data.cards[@2hnb6t].tags[@nm9KHE].label": {
+      "source": "Agroalimentaire",
+      "de": "Lebensmittel"
+    },
+    "data.cards[@2hnb6t].tags[@By3uBh].label": {
+      "source": "Cycle de Vie et Obsolescence",
+      "de": "Lebenszyklus & Obsoleszenz"
+    },
+    "data.cards[@RxWP8p].tags[@hbwkkm].label": {
+      "source": "PC Industriel",
+      "de": "Industrie-PC"
+    },
+    "data.cards[@RxWP8p].tags[@cCeEQc].label": {
+      "source": "MES-OEE",
+      "de": "MES-OEE"
+    },
+    "data.cards[@RxWP8p].tags[@YGhoJf].label": {
+      "source": "Architecture Systèmes",
+      "de": "Systemarchitektur"
+    },
+    "data.cards[@RxWP8p].tags[@65vyTW].label": {
+      "source": "Cycle de Vie et Obsolescence",
+      "de": "Lebenszyklus & Obsoleszenz"
+    },
+    "data.cards[@RxWP8p].tags[@O7nSVk].label": {
+      "source": "Pharma-Biotech",
+      "de": "Pharma-Biotech"
+    },
+    "data.cards[@ztdYbn].tags[@aJEQDo].label": {
+      "source": "Metallurgie",
+      "de": "Metallurgie"
+    },
+    "data.cards[@ztdYbn].tags[@nejfW6].label": {
+      "source": "MES-OEE",
+      "de": "MES-OEE"
+    },
+    "data.cards[@MhXRlX].tags[@m6ueHy].label": {
+      "source": "Pharma-Biotech",
+      "de": "Pharma-Biotech"
+    },
+    "data.cards[@MhXRlX].tags[@XKnnod].label": {
+      "source": "Electricité",
+      "de": "Elektrik"
+    },
+    "data.cards[@CMi5G2].tags[@sb1ZPd].label": {
+      "source": "Semiconducteurs",
+      "de": "Halbleiter"
+    },
+    "data.cards[@CMi5G2].tags[@vXewyS].label": {
+      "source": "IoT Réseau",
+      "de": "IoT-Netzwerk"
+    },
+    "data.cards[@CMi5G2].tags[@1lX2lO].label": {
+      "source": "PC Industriel",
+      "de": "Industrie-PC"
+    },
+    "data.cards[@CMi5G2].tags[@y1cAEz].label": {
+      "source": "Cycle de Vie et Obsolescence",
+      "de": "Lebenszyklus & Obsoleszenz"
+    },
+    "data.cards[@xWRB3C].tags[@uBteN0].label": {
+      "source": "Textile",
+      "de": "Textil"
+    },
+    "data.cards[@xWRB3C].tags[@pekUm1].label": {
+      "source": "Pareto-VSM",
+      "de": "Pareto-VSM"
+    },
+    "data.cards[@xWRB3C].tags[@1Y8kip].label": {
+      "source": "Gestion Projet Stratégique",
+      "de": "Strategisches Projektmanagement"
+    },
+    "data.cards[@xWRB3C].tags[@kb0ZoF].label": {
+      "source": "Cycle de Vie et Obsolescence",
+      "de": "Lebenszyklus & Obsoleszenz"
+    },
+    "data.cards[@vPKkn3].tags[@eEPN7L].label": {
+      "source": "Chimie",
+      "de": "Chemie"
+    },
+    "data.cards[@vPKkn3].tags[@cKrh3b].label": {
+      "source": "Supervision SCADA",
+      "de": "SCADA-Überwachung"
+    },
+    "data.cards[@y5nvYX].tags[@AtKDAm].label": {
+      "source": "Logistique",
+      "de": "Logistik"
+    },
+    "data.cards[@y5nvYX].tags[@NPEUJv].label": {
+      "source": "Supervision SCADA",
+      "de": "SCADA-Überwachung"
+    },
+    "data.cards[@8R047P].tags[@UjZekw].label": {
+      "source": "Machines Spéciales",
+      "de": "Sondermaschinen"
+    },
+    "data.cards[@8R047P].tags[@h62GLz].label": {
+      "source": "Automation",
+      "de": "Automatisierung"
+    },
+    "data.cards[@EcFUhe].tags[@Pc5bGq].label": {
+      "source": "Mobilité",
+      "de": "Mobilität"
+    },
+    "data.cards[@EcFUhe].tags[@XozU1C].label": {
+      "source": "Pareto-VSM",
+      "de": "Pareto-VSM"
+    },
+    "data.cards[@EcFUhe].tags[@g1UZLE].label": {
+      "source": "Architecture Systèmes",
+      "de": "Systemarchitektur"
+    },
+    "data.cards[@EcFUhe].tags[@j8a53o].label": {
+      "source": "Gestion Projet Stratégique",
+      "de": "Strategisches Projektmanagement"
+    },
+    "data.cards[@vjqbfi].tags[@0n8Xgk].label": {
+      "source": "Mobilité",
+      "de": "Mobilität"
+    },
+    "data.cards[@vjqbfi].tags[@0EA8cg].label": {
+      "source": "Supervision SCADA",
+      "de": "SCADA-Überwachung"
+    },
+    "data.cards[@gOUxeh].tags[@rBlAUq].label": {
+      "source": "Cybersécurité",
+      "de": "Cybersicherheit"
+    },
+    "data.cards[@gOUxeh].tags[@3l45tz].label": {
+      "source": "IoT Réseau",
+      "de": "IoT-Netzwerk"
+    },
+    "data.cards[@gOUxeh].tags[@NpKMkE].label": {
+      "source": "Architecture Systèmes",
+      "de": "Systemarchitektur"
+    },
+    "data.cards[@zdsPXy].tags[@iMiXbc].label": {
+      "source": "Machines spéciales",
+      "de": "Sondermaschinen"
+    },
+    "data.cards[@zdsPXy].tags[@JMiOEe].label": {
+      "source": "Electricité",
+      "de": "Elektrik"
+    },
+    "data.cards[@zdsPXy].tags[@9OaVJx].label": {
+      "source": "Bois-Wood-Holz",
+      "de": "Holz"
+    },
+    "data.cards[@WX9t5S].tags[@I65MRJ].label": {
+      "source": "Cycle de Vie et Obsolescence",
+      "de": "Lebenszyklus & Obsoleszenz"
+    },
+    "data.cards[@WX9t5S].tags[@LoU3qQ].label": {
+      "source": "Electricité",
+      "de": "Elektrik"
+    },
+    "data.cards[@WX9t5S].tags[@QeRZHv].label": {
+      "source": "Automation",
+      "de": "Automatisierung"
+    },
+    "data.cards[@WX9t5S].tags[@NhRA7G].label": {
+      "source": "Agroalimentaire",
+      "de": "Lebensmittel"
+    }
+  }
+}
