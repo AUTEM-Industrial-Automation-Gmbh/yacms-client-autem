@@ -1,0 +1,36 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Nos réalisations — Automatisme & SCADA industriel | AUTEM",
+      "fr": "Unsere Projekte – Automatisierung & industrielle SCADA | AUTEM",
+      "fr:manual": true
+    },
+    "meta.description": {
+      "source": "Découvrez les réalisations techniques d'AUTEM : automatisme, supervision SCADA, IoT industriel et MES auprès de grands industriels (Hermès, Amazon, Unilever, ArcelorMittal…).",
+      "fr": "Entdecken Sie die technischen Projekte von AUTEM: Automatisierung, SCADA-Überwachung, industrielle IoT und MES für große Industrieunternehmen (Hermès, Amazon, Unilever, ArcelorMittal…).",
+      "fr:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "réalisations automatisme",
+        "portfolio automatisme industriel",
+        "fournisseur automatisme",
+        "prestataire automatisme",
+        "cas clients SCADA",
+        "références automatisme",
+        "intégrateur industriel"
+      ],
+      "fr": [
+        "Automatisierungsprojekte",
+        "Industrielle Automatisierung Portfolio",
+        "Automatisierungsanbieter",
+        "Automatisierungsdienstleister",
+        "SCADA-Kundenfälle",
+        "Automatisierungsreferenzen",
+        "Industrieller Integrator"
+      ],
+      "fr:manual": true
+    }
+  }
+}
