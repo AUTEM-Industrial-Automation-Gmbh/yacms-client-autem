@@ -1,0 +1,37 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Cas Clients / Success Story Fromagerie Mézières Cave Fiabilisation Robot Sugnaux",
+      "de": "Fallstudien / Success Story Fromagerie Mézières Cave Robot-Zuverlässigkeit Sugnaux",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "AUTEM a fiabilisé un Robot de soin des meules, du fabricant Sugnaux JNJ, pour la cave de la Fromagerie de Mézières, canton de Fribourg : réduction des pannes, optimisation du robot, cycle de vie prolongé",
+      "de": "AUTEM hat einen Käseroboter (Sugnaux JNJ) für die Käserei Mézières im Kanton Freiburg zuverlässig gemacht: weniger Ausfälle, optimierter Roboter, verlängerte Lebensdauer",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "robot",
+        "électricité",
+        "Sugnaux",
+        "Fromagerie",
+        "AUTEM réalisations"
+      ],
+      "de": [
+        "Roboter",
+        "Elektrizität",
+        "Sugnaux",
+        "Käserei",
+        "AUTEM-Projekte"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Cas client industriel automatisme et SCADA",
+      "de": "AUTEM – Industriekundenfall Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}
