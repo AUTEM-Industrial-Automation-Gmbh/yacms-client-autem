@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Arrière-plan industriel",
+      "de": "Industrieller Hintergrund"
+    },
+    "data.quote": {
+      "source": "Cette rénovation illustre une approche pragmatique de la modernisation industrielle : conserver une mécanique encore fonctionnelle et moderniser uniquement ce qui apporte de la fiabilité, de la sécurité et de nouvelles possibilités de suivi.\n\nPlutôt que de reproduire à l'identique l'installation électrique historique, AUTEM a analysé avec MIVELAZ l'utilisation réelle de la machine afin de supprimer les fonctions devenues inutiles et de reconstruire une architecture électrique correspondant à son fonctionnement actuel.\n\nCette approche permet également d'ouvrir la machine à de nouveaux usages digitaux, avec notamment la mesure de l'énergie consommée et la récupération de données de fonctionnement pouvant alimenter progressivement un suivi de production.",
+      "de": "Diese Renovierung veranschaulicht einen pragmatischen Ansatz zur industriellen Modernisierung: Beibehaltung einer noch funktionierenden Mechanik und Modernisierung nur dessen, was Zuverlässigkeit, Sicherheit und neue Überwachungsmöglichkeiten bietet.\n\nAnstatt die historische Elektroinstallation identisch zu reproduzieren, analysierte AUTEM gemeinsam mit MIVELAZ die tatsächliche Nutzung der Maschine, um überflüssig gewordene Funktionen zu entfernen und eine Elektroarchitektur zu rekonstruieren, die ihrem aktuellen Betrieb entspricht.\n\nDieser Ansatz ermöglicht es auch, die Maschine für neue digitale Anwendungen zu öffnen, insbesondere durch die Messung des Energieverbrauchs und die Erfassung von Betriebsdaten, die schrittweise in eine Produktionsüberwachung eingespeist werden können."
+    },
+    "data.author.name": {
+      "source": "Ismaël MIVELAZ",
+      "de": "Ismaël MIVELAZ"
+    },
+    "data.author.role": {
+      "source": "Directeur Mivelaz Bois",
+      "de": "Direktor Mivelaz Bois"
+    }
+  }
+}
