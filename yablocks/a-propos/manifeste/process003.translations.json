@@ -2,60 +2,68 @@
   "sourceHash": "",
   "fields": {
     "data.overtitle": {
-      "source": "NOTRE MÉTHODE",
-      "de": "UNSERE METHODE"
+      "source": "Notre Approche Structurée",
+      "de": "Unser strukturierter Ansatz"
     },
     "data.title": {
-      "source": "Une approche structurée, du cahier des charges à la mise en service",
-      "de": "Ein strukturierter Ansatz, vom Lastenheft bis zur Inbetriebnahme"
+      "source": "Vos machines ont pris de l'âge ?  Parlons-en !",
+      "de": "Sind Ihre Maschinen in die Jahre gekommen? Sprechen wir darüber!"
     },
     "data.steps[@ncdxTu].title": {
-      "source": "Audit",
-      "de": "Audit"
+      "source": "Etat des Lieux",
+      "de": "Bestandsaufnahme"
     },
     "data.steps[@ZrqgNC].title": {
-      "source": "Conception",
-      "de": "Konzeption"
+      "source": "Ateliers teamwork",
+      "de": "Teamwork-Workshops"
     },
     "data.steps[@m47Xr9].title": {
-      "source": "Réalisation",
-      "de": "Realisierung"
+      "source": "Pensé pour les contraintes de Production",
+      "de": "Konzipiert für Produktionsanforderungen"
     },
     "data.steps[@Lb8x95].title": {
       "source": "Tests",
       "de": "Tests"
     },
     "data.steps[@esAWvP].title": {
-      "source": "Mise en service",
-      "de": "Inbetriebnahme"
+      "source": "Retour d'expérience ",
+      "de": "Erfahrungsaustausch"
     },
     "data.steps[@uP4Ewt].title": {
       "source": "Formation",
       "de": "Schulung"
     },
     "data.steps[@ncdxTu].description": {
-      "source": "Analyse de votre parc machine, systèmes existants et besoins prioritaires.",
-      "de": "Analyse Ihrer Maschinenparks, bestehenden Systeme und vorrangigen Bedürfnisse."
+      "source": "6 objectifs ciblés par vos équipes, établis suite à un audit conjoint",
+      "de": "6 von Ihren Teams angestrebte Ziele, die nach einer gemeinsamen Prüfung festgelegt wurden"
     },
     "data.steps[@ZrqgNC].description": {
-      "source": "Analyse fonctionnelle, architecture système et choix des technologies adaptées.",
-      "de": "Funktionale Analyse, Systemarchitektur und Auswahl geeigneter Technologien."
+      "source": "Workshops en équipe pendant 6 semaines tout au long de l'analyse. On privilégie des cycles projets ciblés et rentables",
+      "de": "Team-Workshops über 6 Wochen während der Analyse. Wir bevorzugen gezielte und rentable Projektzyklen"
     },
     "data.steps[@m47Xr9].description": {
-      "source": "Programmation automates, développement SCADA, intégration réseau et configuration.",
-      "de": "Steuerungs programmierung, SCADA-Entwicklung, Netzwerkintegration und Konfiguration."
+      "source": "Un programme flexible tout en s'adaptant aux imprévus inévitables. Cela permet de sortir du mode pompier, et passer du curatif au proactif.",
+      "de": "Ein flexibles Programm, das sich gleichzeitig an unvermeidliche unvorhergesehene Ereignisse anpasst. Dies ermöglicht es, den Feuerwehrmodus zu verlassen und vom reaktiven zum proaktiven Modus überzugehen."
     },
     "data.steps[@Lb8x95].description": {
       "source": "Tests en plateforme, FAT (Factory Acceptance Test) et SAT (Site Acceptance Test).",
       "de": "Plattformtests, FAT (Factory Acceptance Test) und SAT (Site Acceptance Test)."
     },
     "data.steps[@esAWvP].description": {
-      "source": "Démarrage sur site, accompagnement des équipes production et validation terrain.",
-      "de": "Inbetriebnahme vor Ort, Unterstützung der Produktionsteams und Feldvalidierung."
+      "source": "Reboucler pour tirer des observations et confirmer les fondations pour une suite fluide",
+      "de": "Feedback zur Gewinnung von Erkenntnissen und zur Bestätigung der Grundlagen für einen reibungslosen Ablauf"
     },
     "data.steps[@uP4Ewt].description": {
-      "source": "Transfert de compétences aux techniciens pour une autonomie complète sur vos systèmes.",
-      "de": "Kompetenztransfer an Techniker für vollständige Autonomie über Ihre Systeme."
+      "source": "Regain de maîtrise par les équipes, avec nos experts hardware et software. Cela permet d'investir dans un transfert au lieu d'une dépendance.",
+      "de": "Wiedererlangung der Kontrolle durch die Teams, mit unseren Hard- und Software-Experten. Dies ermöglicht Investitionen in Wissenstransfer anstelle von Abhängigkeit."
+    },
+    "data.steps[@Rhl54R].title": {
+      "source": "Alignement",
+      "de": "Abstimmung"
+    },
+    "data.steps[@Rhl54R].description": {
+      "source": "Combiner action technique et leadership stratégique",
+      "de": "Technische Maßnahmen und strategische Führung kombinieren"
     }
   }
 }

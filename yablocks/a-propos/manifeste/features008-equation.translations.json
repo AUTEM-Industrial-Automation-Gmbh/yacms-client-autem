@@ -2,12 +2,12 @@
   "sourceHash": "",
   "fields": {
     "data.title": {
-      "source": "La digitalisation industrielle en 3 niveaux",
-      "de": "Industrielle Digitalisierung in 3 Ebenen"
+      "source": "QUE gagnez-vous ?",
+      "de": "WAS profitieren Sie?"
     },
     "data.content": {
-      "source": "<p>Chez AUTEM, nous structurons tous nos projets autour de la pyramide d'automatisation.</p><p><strong>Niveau 1 — Terrain :</strong> automates (PLC/API), capteurs, actionneurs, réseaux industriels.</p><p><strong>Niveau 2 — Supervision :</strong> SCADA, IHM, télémétrie, alarmes temps réel, historisation.</p><p><strong>Niveau 3 — Pilotage :</strong> MES, TRS, connectivité IoT/IIoT, tableaux de bord et reporting.</p>",
-      "de": "<p>Bei AUTEM strukturieren wir alle unsere Projekte rund um die Automatisierungspyramide.</p><p><strong>Ebene 1 — Feld:</strong> Steuerungen (SPS), Sensoren, Aktoren, industrielle Netzwerke.</p><p><strong>Ebene 2 — Überwachung:</strong> SCADA, HMI, Telemetrie, Echtzeit-Alarmierung, Historisierung.</p><p><strong>Ebene 3 — Steuerung:</strong> MES, OEE, IoT/IIoT-Konnektivität, Dashboards und Reporting.</p>"
+      "source": "<p>Chez AUTEM, nous structurons tous nos projets autour de la durabilité et du cycle de vie long terme. Cela vous permet de :</p><p>Continuité et <strong>transfert de compétences proactif</strong> .</p>\n\n<p>Suivi <strong>Lifecycle</strong> : VSM, obsolescence, ROI, Pareto</p>\n\n<p>Décisions temps-réel, par une <strong>visibilité des Data</strong></p>",
+      "de": "<p>Bei AUTEM strukturieren wir alle unsere Projekte rund um Nachhaltigkeit und den langfristigen Lebenszyklus. Dies ermöglicht Ihnen:</p><p>Kontinuität und <strong>proaktiver Kompetenztransfer</strong>.</p>\n\n<p><strong>Lifecycle</strong>-Überwachung: VSM, Obsoleszenz, ROI, Pareto</p>\n\n<p>Echtzeit-Entscheidungen durch <strong>Datensichtbarkeit</strong></p>"
     },
     "data.image.alt": {
       "source": "Pyramide d'automatisation industrielle AUTEM — terrain, supervision, pilotage",
