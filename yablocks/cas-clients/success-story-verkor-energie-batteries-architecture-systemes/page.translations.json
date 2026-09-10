@@ -1,0 +1,59 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Verkor — SCADA BMS pour batteries électriques industrielles | AUTEM",
+      "de": "Verkor — SCADA BMS für industrielle Batterien | AUTEM",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Découvrez comment AUTEM a développé le SCADA et l'architecture BMS pour la ligne de production de batteries électriques de Verkor : supervision, GTB-GMAO et architecture systèmes.",
+      "de": "Erfahren Sie, wie AUTEM die SCADA- und BMS-Architektur für die Produktionslinie von Verkor-Batterien entwickelt hat: Überwachung, GTB-GMAO und Systemarchitektur.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "SCADA",
+        "BMS",
+        "HVAC",
+        "Electricity",
+        "Utilities",
+        "utilités",
+        "électricité",
+        "sécurité",
+        "fire",
+        "incendie",
+        "Verkor",
+        "supervision",
+        "énergie",
+        "architecture",
+        "batteries",
+        "Safety"
+      ],
+      "de": [
+        "SCADA",
+        "BMS",
+        "HVAC",
+        "Elektrizität",
+        "Versorger",
+        "Versorgungsunternehmen",
+        "Strom",
+        "Sicherheit",
+        "Feuer",
+        "Brand",
+        "Verkor",
+        "Überwachung",
+        "Energie",
+        "Architektur",
+        "Batterien",
+        "Sicherheit"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Cas client industriel automatisme et SCADA",
+      "de": "AUTEM – Industriekundenfall Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}

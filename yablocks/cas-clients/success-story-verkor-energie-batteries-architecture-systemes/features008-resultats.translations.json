@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Résultats & Apprentissages",
+      "de": "Ergebnisse & Erkenntnisse"
+    },
+    "data.content": {
+      "source": "<ul><li><strong>SCADA opérationnel au démarrage de la gigafactory</strong>, avec supervision centralisée de l'ensemble des lignes de formation ;</li><li>Traçabilité à 100% des paramètres de fabrication par numéro de série de cellule, conforme aux exigences qualité ;</li><li>GTB-GMAO déployé avec réduction estimée de 20% des arrêts non planifiés grâce à la maintenance préventive ;</li><li>Architecture scalable permettant l'extension future des lignes de production sans refonte du système ;</li><li>Équipes internes Verkor autonomes sur l'exploitation et la maintenance du SCADA depuis le transfert de compétences.</li></ul>",
+      "de": "<ul><li><strong>SCADA ist bei Inbetriebnahme der Gigafactory betriebsbereit</strong>, mit zentralisierter Überwachung aller Schulungslinien;</li><li>100%ige Rückverfolgbarkeit der Herstellungsparameter nach Zellseriennummer, konform mit den Qualitätsanforderungen;</li><li>GTB-GMAO implementiert mit einer geschätzten Reduzierung von 20% ungeplanter Ausfallzeiten dank vorbeugender Wartung;</li><li>Skalierbare Architektur, die eine zukünftige Erweiterung der Produktionslinien ohne Systemüberarbeitung ermöglicht;</li><li>Interne Verkor-Teams sind nach dem Wissenstransfer autonom für den Betrieb und die Wartung des SCADA.</li></ul>"
+    }
+  }
+}

@@ -13,15 +13,18 @@
     "tags": [
       {
         "label": "Energie-Batteries",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "tTDee8"
       },
       {
         "label": "Architecture Systèmes",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "cva612"
       },
       {
         "label": "GTB-GMAO",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "RxFbEb"
       }
     ]
   }
