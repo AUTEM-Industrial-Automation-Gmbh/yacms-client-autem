@@ -1,0 +1,133 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@Ts63Q0].heading": {
+      "source": "Introduction",
+      "de": "Einleitung"
+    },
+    "data.sections[@oH6T3I].heading": {
+      "source": "Data Modeling vs. Key-Value Pairs",
+      "de": "Datenmodellierung vs. Schlüssel-Wert-Paare"
+    },
+    "data.sections[@03nHJA].heading": {
+      "source": "Connectivity vs. Transformation",
+      "de": "Konnektivität vs. Transformation"
+    },
+    "data.sections[@KUThYa].heading": {
+      "source": "Infrastructure Trade-offs",
+      "de": "Infrastruktur-Kompromisse"
+    },
+    "data.sections[@vwBKcu].heading": {
+      "source": "The Decision Rule",
+      "de": "Die Entscheidungsregel"
+    },
+    "data.sections[@Ts63Q0].paragraphs[@feynF6].text": {
+      "source": "A lot of people are talking about HighByte at the moment, and I'm wondering if everyone know the difference between HighByte and classical tools like KepWare. Early i made a video on Kepware, how to use it to connect a manufacturing device to a database server . In this article, I really want to make clear the difference between both tools, HighBight and Kepware . There are some occasion when each tool is the most suited but we really need to understand the difference in order to make the best. So, in order to do that we will use a small lab - Gitlab container stack as usual to do it practically. We will try to pull some OPC data inside SQL Database. So in that case I use a time scaleDB. But the idea is to just use HighByte instead of Kepware in order to understand the difference.",
+      "de": "Viele Leute reden im Moment über HighByte, und ich frage mich, ob jeder den Unterschied zwischen HighByte und klassischen Werkzeugen wie KepWare kennt. Früher habe ich ein Video über Kepware gemacht, wie man es benutzt, um ein Fertigungsgerät mit einem Datenbankserver zu verbinden. In diesem Artikel möchte ich den Unterschied zwischen beiden Werkzeugen, HighBight und Kepware, wirklich verdeutlichen. Es gibt Anlässe, bei denen jedes Werkzeug am besten geeignet ist, aber wir müssen den Unterschied wirklich verstehen, um die beste Wahl zu treffen. Um dies zu tun, werden wir wie üblich einen kleinen Lab-Gitlab-Container-Stack verwenden, um es praktisch zu machen. Wir werden versuchen, OPC-Daten in eine SQL-Datenbank zu ziehen. In diesem Fall benutze ich eine Time-ScaleDB. Aber die Idee ist, einfach HighByte anstelle von Kepware zu verwenden, um den Unterschied zu verstehen."
+    },
+    "data.sections[@oH6T3I].paragraphs[@a3gf3T].text": {
+      "source": "First, here, we can see the fundamental difference in how these two tools handle information.",
+      "de": "Zuerst können wir hier den grundlegenden Unterschied sehen, wie diese beiden Werkzeuge Informationen verarbeiten."
+    },
+    "data.sections[@oH6T3I].paragraphs[@4S8S5O].text": {
+      "source": "Kepware: Its Data Logger module is \"flat.\" It takes a tag (like temperature or pressure) and writes it directly to a SQL table as a simple entry. It doesn't \"know\" that the temperature belongs to a specific machine; it just logs the raw name and value.",
+      "de": "Kepware: Sein Data Logger-Modul ist \"flach\". Es nimmt einen Tag (wie Temperatur oder Druck) und schreibt ihn direkt als einfachen Eintrag in eine SQL-Tabelle. Es \"weiß\" nicht, dass die Temperatur zu einer bestimmten Maschine gehört; es protokolliert nur den rohen Namen und Wert."
+    },
+    "data.sections[@oH6T3I].paragraphs[@mlfvAw].text": {
+      "source": "HighByte: The requirement to define a Model first are both call a \"beauty and a constraint.\" You must create a structured object (e.g., a \"Boiler\" with attributes for temperature, pressure, and speed) before any data flows. This ensures that every piece of data is contextualized and reusable across the enterprise.",
+      "de": "HighByte: Die Anforderung, zuerst ein Modell zu definieren, ist sowohl eine \"Schönheit als auch eine Einschränkung\". Sie müssen ein strukturiertes Objekt (z. B. einen \"Boiler\" mit Attributen für Temperatur, Druck und Geschwindigkeit) erstellen, bevor Daten fließen. Dies stellt sicher, dass jede Dateneinheit kontextualisiert und im gesamten Unternehmen wiederverwendbar ist."
+    },
+    "data.sections[@oH6T3I].paragraphs[@mj7goH].text": {
+      "source": "Explore the full content of this section here",
+      "de": "Entdecken Sie den vollständigen Inhalt dieses Abschnitts hier"
+    },
+    "data.sections[@03nHJA].paragraphs[@cyoMIl].text": {
+      "source": "Kepware (Connectivity) : Kepware is described as a \"specialized tool\" and a \"Swiss Knives\" for the factory floor. Its strength is its library of drivers; it can speak almost any industrial protocol (Modbus, Siemens, Rockwell, etc.) to read data from legacy hardware.",
+      "de": "Kepware (Konnektivität): Kepware wird als \"spezialisiertes Werkzeug\" und \"Schweizer Taschenmesser\" für die Fabriketage beschrieben. Seine Stärke liegt in seiner Treiberbibliothek; es kann fast jedes industrielle Protokoll (Modbus, Siemens, Rockwell usw.) sprechen, um Daten von älterer Hardware zu lesen."
+    },
+    "data.sections[@03nHJA].paragraphs[@0JCBkS].text": {
+      "source": "HighByte (DataOps) : HighBight is a \"DataOps\" tool. Its primary purpose isn't just reading data, but transforming and publishing it. While Kepware is excellent at \"reading only,\" HighByte is best when you need to change the data format or publish it to modern IT structures like a Unified Name Space (UNS).",
+      "de": "HighByte (DataOps): HighBight ist ein \"DataOps\"-Tool. Sein Hauptzweck ist nicht nur das Lesen von Daten, sondern deren Transformation und Veröffentlichung. Während Kepware hervorragend im \"Nur-Lesen\" ist, ist HighByte am besten geeignet, wenn Sie das Datenformat ändern oder es für moderne IT-Strukturen wie einen Unified Name Space (UNS) veröffentlichen müssen."
+    },
+    "data.sections[@03nHJA].paragraphs[@UfQvjF].text": {
+      "source": "Explore the full content of this section here",
+      "de": "Entdecken Sie den vollständigen Inhalt dieses Abschnitts hier"
+    },
+    "data.sections[@KUThYa].paragraphs[@J076rL].text": {
+      "source": "Kepware (Connectivity) : It is strictly Windows-only . This is a critical consideration for your \"edge device\". If you choose Kepware, you are locked into using hardware that can support a Windows operating system , which can impact your hardware costs and maintenance.",
+      "de": "Kepware (Konnektivität): Es ist ausschließlich für Windows. Dies ist ein kritischer Faktor für Ihr \"Edge-Gerät\". Wenn Sie sich für Kepware entscheiden, sind Sie an die Verwendung von Hardware gebunden, die ein Windows-Betriebssystem unterstützt, was Ihre Hardwarekosten und Wartung beeinträchtigen kann."
+    },
+    "data.sections[@KUThYa].paragraphs[@8rIcol].text": {
+      "source": "HighByte (DataOps) : It is built for modern IT environments, running natively on Docker and Linux . This allows you to deploy it on a wide variety of lightweight edge devices or cloud environments.",
+      "de": "HighByte (DataOps): Es ist für moderne IT-Umgebungen konzipiert und läuft nativ auf Docker und Linux. Dies ermöglicht es Ihnen, es auf einer Vielzahl von leichten Edge-Geräten oder Cloud-Umgebungen bereitzustellen."
+    },
+    "data.sections[@KUThYa].paragraphs[@5hHZba].text": {
+      "source": "Explore the full content of this section here",
+      "de": "Entdecken Sie den vollständigen Inhalt dieses Abschnitts hier"
+    },
+    "data.sections[@vwBKcu].paragraphs[@fJvcGz].text": {
+      "source": "Choose Kepware if your focus is on the \"Field\" level . If you have a variety of machines with different protocols and your main goal is simply to aggregate that data or log it to a single SQL table, Kepware is the more straightforward, high-connectivity choice.",
+      "de": "Wählen Sie Kepware, wenn Ihr Fokus auf der \"Feldebene\" liegt. Wenn Sie eine Vielzahl von Maschinen mit unterschiedlichen Protokollen haben und Ihr Hauptziel darin besteht, diese Daten einfach zu aggregieren oder in einer einzigen SQL-Tabelle zu protokollieren, ist Kepware die direktere Wahl mit hoher Konnektivität."
+    },
+    "data.sections[@vwBKcu].paragraphs[@QcT7ls].text": {
+      "source": "Choose HighByte if your focus is on the \"Data Management\" . If you need to send the same data to multiple destinations (like a database, MQTT broker, and a REST API simultaneously) or if you want to ensure your data is structured according to a specific model before it leaves the factory floor.",
+      "de": "Wählen Sie HighByte, wenn Ihr Fokus auf dem \"Datenmanagement\" liegt. Wenn Sie dieselben Daten gleichzeitig an mehrere Ziele senden müssen (wie eine Datenbank, einen MQTT-Broker und eine REST-API) oder wenn Sie sicherstellen möchten, dass Ihre Daten vor dem Verlassen des Werks nach einem bestimmten Modell strukturiert sind."
+    },
+    "data.sections[@vwBKcu].paragraphs[@k2kz0e].text": {
+      "source": "Explore the full content of this section here",
+      "de": "Entdecken Sie den vollständigen Inhalt dieses Abschnitts hier"
+    },
+    "data.sections[@Ts63Q0].links[@bFYi8b].text": {
+      "source": "Kepware, how to use it to connect a manufacturing device to a database server",
+      "de": "Kepware, wie man es benutzt, um ein Fertigungsgerät mit einem Datenbankserver zu verbinden"
+    },
+    "data.sections[@Ts63Q0].links[@ekShfC].text": {
+      "source": "small lab - Gitlab container stack",
+      "de": "kleinen Lab-Container-Stack"
+    },
+    "data.sections[@oH6T3I].links[@dowMBr].text": {
+      "source": "Visualize | Vidéo (01 min : 40 s)",
+      "de": "Visualisieren | Video (01 Min : 40 Sek)"
+    },
+    "data.sections[@03nHJA].links[@P1ZMly].text": {
+      "source": "Visualize | Vidéo (01 min : 52 s)",
+      "de": "Visualisieren | Video (01 Min : 52 Sek)"
+    },
+    "data.sections[@KUThYa].links[@dvSpQF].text": {
+      "source": "Visualize | Vidéo (01 min : 00 s)",
+      "de": "Visualisieren | Video (01 Min : 00 Sek)"
+    },
+    "data.sections[@vwBKcu].links[@cWm9EI].text": {
+      "source": "Visualize | Vidéo (01 min : 15 s)",
+      "de": "Visualisieren | Video (01 Min : 15 Sek)"
+    },
+    "data.sections[@Ts63Q0].links[@bFYi8b].href": {
+      "source": "https://youtu.be/_uMrMDzOapo",
+      "de": "https://youtu.be/_uMrMDzOapo"
+    },
+    "data.sections[@Ts63Q0].links[@ekShfC].href": {
+      "source": "https://github.com/zestones/highbyte-historian-lab",
+      "de": "https://github.com/zestones/highbyte-historian-lab"
+    },
+    "data.sections[@oH6T3I].links[@dowMBr].href": {
+      "source": "https://www.youtube.com/watch?v=66Ejja5bgRE&t=368s",
+      "de": "https://www.youtube.com/watch?v=66Ejja5bgRE&t=368s"
+    },
+    "data.sections[@03nHJA].links[@P1ZMly].href": {
+      "source": "https://www.youtube.com/watch?v=66Ejja5bgRE&t=603s",
+      "de": "https://www.youtube.com/watch?v=66Ejja5bgRE&t=603s"
+    },
+    "data.sections[@KUThYa].links[@dvSpQF].href": {
+      "source": "https://www.youtube.com/watch?v=66Ejja5bgRE&t=543s",
+      "de": "https://www.youtube.com/watch?v=66Ejja5bgRE&t=543s"
+    },
+    "data.sections[@vwBKcu].links[@cWm9EI].href": {
+      "source": "https://www.youtube.com/watch?v=66Ejja5bgRE&t=468s",
+      "de": "https://www.youtube.com/watch?v=66Ejja5bgRE&t=468s"
+    }
+  }
+}

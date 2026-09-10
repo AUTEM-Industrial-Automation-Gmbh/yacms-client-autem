@@ -1,0 +1,25 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Un projet de supervision ou SCADA ?",
+      "de": "Ein Überwachungs- oder SCADA-Projekt?"
+    },
+    "data.benefits[@j1LOvH].text": {
+      "source": "Développement d'interfaces SCADA & HMI",
+      "de": "Entwicklung von SCADA- & HMI-Schnittstellen"
+    },
+    "data.benefits[@xLHO9f].text": {
+      "source": "Historisation et reporting de données process",
+      "de": "Historisierung und Reporting von Prozessdaten"
+    },
+    "data.benefits[@ubm0yb].text": {
+      "source": "Supervision temps réel multi-sites",
+      "de": "Echtzeit-Überwachung für mehrere Standorte"
+    },
+    "data.cta.text": {
+      "source": "Discutons de votre projet",
+      "de": "Lassen Sie uns über Ihr Projekt sprechen"
+    }
+  }
+}
