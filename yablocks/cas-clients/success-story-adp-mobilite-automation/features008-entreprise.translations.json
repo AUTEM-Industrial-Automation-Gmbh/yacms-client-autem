@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "L'entreprise",
+      "de": "Das Unternehmen"
+    },
+    "data.content": {
+      "source": "<p>Groupe ADP (Aéroports de Paris) est l’un des <strong>premiers opérateurs aéroportuaires mondiaux</strong>, gérant notamment les aéroports de Paris‑Charles de Gaulle, Paris‑Orly et Paris‑Le Bourget. L’aéroport CDG, premier hub de fret et de passagers en Europe continentale, traite chaque jour des dizaines de milliers de bagages avec des exigences de fiabilité et de sécurité absolues.</p><p>Le terminal T2E, dédié aux vols long‑courriers, s’appuie sur un <strong>système automatisé de tri bagages</strong> de grande complexité intégrant convoyeurs haute vitesse, trieurs spécifiques, lecteurs automatiques et systèmes de réconciliation. La modernisation de ces installations est un enjeu stratégique pour maintenir la performance opérationnelle et garantir la conformité aux standards internationaux de sûreté. Dans ce contexte, Siemens Logistics assure la livraison et la mise en œuvre de solutions automatisées sur ce site, avec une forte dépendance à des systèmes existants multi‑fournisseurs et multi‑générations.</p>",
+      "de": "<p>Die ADP-Gruppe (Aéroports de Paris) ist <strong>einer der weltweit führenden Flughafenbetreiber</strong> und verwaltet insbesondere die Flughäfen Paris-Charles de Gaulle, Paris-Orly und Paris-Le Bourget. Der Flughafen CDG, der wichtigste Fracht- und Passagierdrehkreuz Kontinentaleuropas, wickelt täglich Zehntausende von Gepäckstücken ab, wobei absolute Zuverlässigkeit und Sicherheit gefordert sind.</p><p>Das Terminal T2E, das für Langstreckenflüge bestimmt ist, stützt sich auf ein hochkomplexes <strong>automatisiertes Gepäcksortiersystem</strong> mit Hochgeschwindigkeitsförderern, speziellen Sortieranlagen, automatischen Lesegeräten und Abgleichsystemen. Die Modernisierung dieser Anlagen ist eine strategische Aufgabe, um die operative Leistung aufrechtzuerhalten und die Einhaltung internationaler Sicherheitsstandards zu gewährleisten. In diesem Zusammenhang liefert und implementiert Siemens Logistics automatisierte Lösungen für diese Anlage, wobei eine starke Abhängigkeit von bestehenden Multi-Vendor- und Multi-Generation-Systemen besteht.</p>"
+    }
+  }
+}

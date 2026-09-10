@@ -13,19 +13,23 @@
     "tags": [
       {
         "label": "Mobilité",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "QxNcK5"
       },
       {
         "label": "Automation",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "yZrTTJ"
       },
       {
         "label": "IoT Réseau",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "Cj1Hnc"
       },
       {
         "label": "Cycle de Vie et Obsolescence",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "JEjDKP"
       }
     ]
   }

@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Résultats & Apprentissages",
+      "de": "Ergebnisse & Erkenntnisse"
+    },
+    "data.content": {
+      "source": "<ul><li><strong>Migration réalisée sans interruption de service prolongée</strong>, toutes les plages de maintenance respectées malgré des contraintes de planning et de badge d’accès ;</li><li><strong>Disponibilité système améliorée</strong> grâce au renouvellement des équipements critiques (moteurs, variateurs, relais, capteurs) et à la redondance réseau ;</li><li>Connectivité opérationnelle avec remontée temps réel des KPIs bagages (cadences, défauts, temps de panne) vers le centre de supervision, permettant une meilleure pilotage de la performance ;</li><li>Risque d’obsolescence éliminé sur une dizaine d’années avec un plan de maintien en condition opérationnelle structuré (documentation, modes de dépannage, schémas actualisés) ;</li><li>Équipes maintenance ADP autonomes sur les nouveaux équipements depuis la formation de transfert, avec des procédures de réglage et de dépannage documentées pour la mécanique, l’électricité et l’automatisme.</li></ul>",
+      "de": "<ul><li><strong>Migration ohne längere Serviceunterbrechung</strong> durchgeführt, alle Wartungsfenster eingehalten trotz Zeitplan- und Zugangsbeschränkungen;</li><li><strong>Verbesserte Systemverfügbarkeit</strong> durch Erneuerung kritischer Geräte (Motoren, Frequenzumrichter, Relais, Sensoren) und Netzredundanz;</li><li>Betriebsbereite Konnektivität mit Echtzeit-Übermittlung von Gepäck-KPIs (Taktraten, Fehler, Ausfallzeiten) an das Überwachungszentrum, was eine bessere Leistungssteuerung ermöglicht;</li><li>Risiko der Veralterung für etwa zehn Jahre eliminiert mit einem strukturierten Plan zur Aufrechterhaltung des Betriebszustands (Dokumentation, Fehlerbehebungsmethoden, aktualisierte Schaltpläne);</li><li>ADP-Wartungsteams sind dank Schulungen zum Wissenstransfer und dokumentierten Einstellungs- und Fehlerbehebungsprozeduren für Mechanik, Elektrik und Automatisierung autark für die neuen Geräte.</li></ul>"
+    }
+  }
+}

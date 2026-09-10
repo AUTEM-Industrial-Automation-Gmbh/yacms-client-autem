@@ -1,0 +1,29 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.clientLogo.alt": {
+      "source": "ADP Aéroports de Paris",
+      "de": "ADP Flughäfen Paris"
+    },
+    "data.title": {
+      "source": "Modernisation du système de tri bagage T2E à l'aéroport CDG",
+      "de": "Modernisierung des Gepäcksortiersystems T2E am Flughafen CDG"
+    },
+    "data.tags[@QxNcK5].label": {
+      "source": "Mobilité",
+      "de": "Mobilität"
+    },
+    "data.tags[@yZrTTJ].label": {
+      "source": "Automation",
+      "de": "Automatisierung"
+    },
+    "data.tags[@Cj1Hnc].label": {
+      "source": "IoT Réseau",
+      "de": "IoT Netzwerk"
+    },
+    "data.tags[@JEjDKP].label": {
+      "source": "Cycle de Vie et Obsolescence",
+      "de": "Lebenszyklus und Obsoleszenz"
+    }
+  }
+}
