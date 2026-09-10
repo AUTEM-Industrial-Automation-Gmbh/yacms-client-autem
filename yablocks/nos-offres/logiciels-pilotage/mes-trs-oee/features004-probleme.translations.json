@@ -1,0 +1,41 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.badges[@EQL6eR].alt": {
+      "source": "Ignition MES — Inductive Automation",
+      "de": "Ignition MES — Inductive Automation"
+    },
+    "data.badges[@1qghAf].alt": {
+      "source": "Siemens — WinCC & SIMATIC",
+      "de": "Siemens — WinCC & SIMATIC"
+    },
+    "data.badges[@c4UrfC].alt": {
+      "source": "Unilever — Oise",
+      "de": "Unilever — Oise"
+    },
+    "data.headline": {
+      "source": "Ce que vous ne mesurez pas vous coûte plus que ce que vous imaginez.",
+      "de": "Was Sie nicht messen, kostet Sie mehr, als Sie sich vorstellen können."
+    },
+    "data.paragraphs[@G8Pq5H].text": {
+      "source": "La plupart des ateliers industriels ont un TRS. Quelques-uns le calculent. Beaucoup le calculent avec un jour de décalage, à partir de relevés papier, par une seule personne — souvent le chef d'équipe — avant une réunion. Le problème : à ce moment-là, la perte est déjà consommée.",
+      "de": "Die meisten Industriehallen haben eine OEE-Kennzahl. Wenige berechnen sie. Viele berechnen sie mit einem Tag Verzögerung, basierend auf Papieraufzeichnungen, von einer einzigen Person — oft dem Schichtleiter — vor einem Meeting. Das Problem: Zu diesem Zeitpunkt ist der Verlust bereits eingetreten."
+    },
+    "data.paragraphs[@iNbc61].text": {
+      "source": "Les micro-arrêts sous 5 minutes ne sont jamais tracés. Les changements de série sont estimés au doigt mouillé. Les pannes répétitives sur le même équipement s'accumulent sans jamais déclencher de plan d'action structuré. Et la GMAO ne reçoit jamais les données du terrain en temps réel.",
+      "de": "Mikro-Stopps unter 5 Minuten werden nie erfasst. Serienwechsel werden geschätzt. Wiederkehrende Ausfälle an derselben Anlage häufen sich, ohne dass jemals ein strukturierter Aktionsplan ausgelöst wird. Und die Instandhaltungssoftware erhält nie Echtzeitdaten vom Werksgelände."
+    },
+    "data.paragraphs[@PcghKZ].text": {
+      "source": "Un MES bien intégré change l'équation : le TRS est calculé automatiquement depuis les signaux automates, les causes de perte sont saisies par les opérateurs à la source, et les tableaux de bord sont visibles par tout le monde — opérateurs, chefs d'équipe, direction — sans extraire une seule feuille Excel.",
+      "de": "Ein gut integriertes MES ändert die Gleichung: Die OEE wird automatisch aus den Automatisierungssignalen berechnet, die Verlustursachen werden von den Bedienern an der Quelle erfasst, und die Dashboards sind für alle sichtbar — Bediener, Schichtleiter, Management — ohne ein einziges Excel-Blatt zu extrahieren."
+    },
+    "data.paragraphs[@IMt3WO].text": {
+      "source": "AUTEM conçoit et déploie ce type d'intégration depuis les automates jusqu'aux écrans de supervision, en passant par la base de données et les KPIs — avec une double compétence automatisme et informatique industrielle que peu d'intégrateurs peuvent offrir.",
+      "de": "AUTEM konzipiert und implementiert diese Art der Integration von der Automatisierung bis zu den Überwachungsschirmen, einschließlich der Datenbank und der KPIs — mit einer doppelten Kompetenz in Automatisierung und industrieller IT, die nur wenige Integratoren bieten können."
+    },
+    "data.closing": {
+      "source": "Un TRS mesuré en temps réel, c'est une ligne de production qui peut s'améliorer — et une direction qui peut décider.",
+      "de": "Eine in Echtzeit gemessene OEE-Kennzahl bedeutet, dass eine Produktionslinie verbessert werden kann — und dass das Management Entscheidungen treffen kann."
+    }
+  }
+}

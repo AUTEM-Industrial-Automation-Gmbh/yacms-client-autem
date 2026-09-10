@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "LOGICIELS DE PILOTAGE",
+      "de": "STEUERSOFTWARE"
+    },
+    "data.title": {
+      "source": "KPI Production — MES, TRS, OEE.",
+      "de": "Produktions-KPIs — MES, OEE, Zykluszeiten."
+    },
+    "data.subtitle": {
+      "source": "Votre production se pilote encore au tableau blanc et à la feuille Excel ? AUTEM connecte vos machines, calcule votre TRS en temps réel et rend vos KPIs actionnables — là où ils servent : sur le terrain.",
+      "de": "Ihre Produktion wird noch auf Whiteboards und Excel-Tabellen gesteuert? AUTEM vernetzt Ihre Maschinen, berechnet Ihre OEE in Echtzeit und macht Ihre KPIs handlungsorientiert — dort, wo sie gebraucht werden: auf dem Werksgelände."
+    },
+    "data.backgroundImage.alt": {
+      "source": "KPI production MES TRS OEE tableau de bord industriel — AUTEM",
+      "de": "Produktions-KPIs MES OEE Dashboard Industrie — AUTEM"
+    }
+  }
+}
