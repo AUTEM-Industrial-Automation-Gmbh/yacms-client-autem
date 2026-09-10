@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Compatible avec tous les équipements — des générations les plus anciennes aux plus récentes",
+      "de": "Kompatibel mit allen Geräten – von den ältesten bis zu den neuesten Generationen"
+    },
+    "data.subtitle": {
+      "source": "Nous connaissons les équipements anciens comme les modèles récents, et leur cycle de vie réel",
+      "de": "Wir kennen alte Geräte ebenso wie aktuelle Modelle und deren tatsächlichen Lebenszyklus"
+    },
+    "data.logos[@5hRfty].alt": {
+      "source": "Siemens — S7-300, S7-400, S7-1500, TIA Portal, WinCC",
+      "de": "Siemens — S7-300, S7-400, S7-1500, TIA Portal, WinCC"
+    },
+    "data.logos[@cXA6eD].alt": {
+      "source": "Rockwell Allen-Bradley — PLC5, SLC500, ControlLogix, Studio 5000",
+      "de": "Rockwell Allen-Bradley — PLC5, SLC500, ControlLogix, Studio 5000"
+    },
+    "data.logos[@id9CHq].alt": {
+      "source": "Schneider Electric — TSX, Quantum, M340, EcoStruxure",
+      "de": "Schneider Electric — TSX, Quantum, M340, EcoStruxure"
+    },
+    "data.logos[@1lpgjs].alt": {
+      "source": "Eaton — XSoft-CoDeSys, Easy Series",
+      "de": "Eaton — XSoft-CoDeSys, Easy Series"
+    },
+    "data.logos[@VqP3EM].alt": {
+      "source": "AVEVA Wonderware — anciennes versions et migration",
+      "de": "AVEVA Wonderware — ältere Versionen und Migration"
+    }
+  }
+}

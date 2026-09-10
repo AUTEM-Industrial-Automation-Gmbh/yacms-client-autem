@@ -1,0 +1,41 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.badges[@alhsfi].alt": {
+      "source": "Siemens — S7-300, S7-400, fin de support 2023",
+      "de": "Siemens — S7-300, S7-400, Support-Ende 2023"
+    },
+    "data.badges[@eUUIlP].alt": {
+      "source": "Rockwell Allen-Bradley — PLC5, SLC500, fin de vie",
+      "de": "Rockwell Allen-Bradley — PLC5, SLC500, Lebensende"
+    },
+    "data.badges[@1xM0y3].alt": {
+      "source": "Schneider Electric — TSX, Quantum, Modicon fin de support",
+      "de": "Schneider Electric — TSX, Quantum, Modicon Support-Ende"
+    },
+    "data.headline": {
+      "source": "L'obsolescence ne vous prévient pas. Elle attend que votre production soit à l'arrêt pour se manifester.",
+      "de": "Obsoleszenz kündigt sich nicht an. Sie wartet, bis Ihre Produktion stillsteht, um sich zu zeigen."
+    },
+    "data.paragraphs[@sHiVr0].text": {
+      "source": "Un automate S7-300 en fin de support depuis 2023, une carte électronique introuvable chez tous les distributeurs, un PC industriel sous Windows XP sans solution de remplacement identifiée — les signaux d'alerte sont là. La vraie question n'est pas si la panne arrivera, mais quand. Et si votre équipe aura le matériel et le plan pour y répondre en quelques heures plutôt qu'en quelques semaines.",
+      "de": "Ein S7-300-Automaten, dessen Support 2023 ausläuft, eine Elektronikkarte, die bei keinem Händler mehr erhältlich ist, ein Industrie-PC unter Windows XP ohne identifizierte Ersatzlösung – die Warnsignale sind da. Die eigentliche Frage ist nicht, ob die Panne eintreten wird, sondern wann. Und ob Ihr Team in wenigen Stunden statt in wenigen Wochen über das Material und den Plan verfügt, um darauf zu reagieren."
+    },
+    "data.paragraphs[@goCvOg].text": {
+      "source": "La gestion de l'obsolescence est souvent différée. L'atelier tourne, les budgets sont sous pression, et changer un équipement qui fonctionne semble injustifiable. Jusqu'au jour où le fournisseur annonce 8 semaines de délai sur une carte de rechange, ou pire — l'arrêt définitif de la pièce. À ce moment, toute urgence a un coût : arrêt de ligne, stock de sécurité épuisé, production dégradée.",
+      "de": "Das Obsoleszenzmanagement wird oft aufgeschoben. Die Werkstatt läuft, die Budgets stehen unter Druck, und der Austausch einer funktionierenden Anlage erscheint nicht vertretbar. Bis zu dem Tag, an dem der Lieferant 8 Wochen Lieferzeit für eine Ersatzkarte ankündigt oder schlimmer – die endgültige Einstellung des Teils. Zu diesem Zeitpunkt hat jede Dringlichkeit ihren Preis: Produktionsstillstand, aufgebrauchter Sicherheitsbestand, beeinträchtigte Produktion."
+    },
+    "data.paragraphs[@qObgaO].text": {
+      "source": "Une cartographie d'obsolescence structurée permet d'objectiver la situation : quels équipements sont en fin de support ? Quels fabricants ont annoncé des dates d'arrêt ? Quels composants n'ont plus de stock ? Quelle est la criticité de chaque équipement sur la continuité de production ? Avec ces données, les décisions d'investissement deviennent traçables et défendables en CODIR.",
+      "de": "Eine strukturierte Obsoleszenz-Kartierung ermöglicht die Objektivierung der Situation: Welche Anlagen sind vom Support-Ende betroffen? Welche Hersteller haben Stillstandsdaten angekündigt? Welche Komponenten sind nicht mehr auf Lager? Wie kritisch ist jede Anlage für die Produktionskontinuität? Mit diesen Daten werden Investitionsentscheidungen nachvollziehbar und im Management-Meeting verteidigbar."
+    },
+    "data.paragraphs[@2E6C2i].text": {
+      "source": "AUTEM réalise ces audits et établit les plans de renouvellement associés — en tenant compte de vos contraintes budgétaires, de votre calendrier de maintenance et des opportunités de modernisation que représente chaque remplacement.",
+      "de": "AUTEM führt diese Audits durch und erstellt die dazugehörigen Erneuerungspläne – unter Berücksichtigung Ihrer Budgetbeschränkungen, Ihres Wartungskalenders und der Modernisierungsmöglichkeiten, die jeder Austausch bietet."
+    },
+    "data.closing": {
+      "source": "Un plan d'obsolescence construit cette année, c'est un budget cible sur 3 ans — et une direction qui pilote les investissements plutôt que de subir les pannes.",
+      "de": "Ein in diesem Jahr erstellter Obsoleszenzplan bedeutet ein Zielbudget für 3 Jahre – und eine Geschäftsleitung, die Investitionen steuert, anstatt von Pannen überrascht zu werden."
+    }
+  }
+}

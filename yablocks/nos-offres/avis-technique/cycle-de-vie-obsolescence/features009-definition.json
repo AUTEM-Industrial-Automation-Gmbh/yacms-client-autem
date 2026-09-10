@@ -8,27 +8,34 @@
     "title": "Audit d'obsolescence et plan de renouvellement : périmètre et livrables",
     "paragraphs": [
       {
-        "text": "L'audit d'obsolescence consiste à photographier précisément l'état du parc de vos équipements industriels (automates, IPC, logiciels, cartes électroniques, variateurs) vis-à-vis de leur cycle de vie éditeur — et à en déduire un plan de renouvellement priorisé, budgété et échelonné dans le temps."
+        "text": "L'audit d'obsolescence consiste à photographier précisément l'état du parc de vos équipements industriels (automates, IPC, logiciels, cartes électroniques, variateurs) vis-à-vis de leur cycle de vie éditeur — et à en déduire un plan de renouvellement priorisé, budgété et échelonné dans le temps.",
+        "_tid": "JU6pIH"
       }
     ],
     "highlights": [
       {
-        "text": "Inventaire exhaustif du parc automates, IPC, SCADA et logiciels : versions, dates de mise en service, statut support éditeur"
+        "text": "Inventaire exhaustif du parc automates, IPC, SCADA et logiciels : versions, dates de mise en service, statut support éditeur",
+        "_tid": "IGlRc5"
       },
       {
-        "text": "Cartographie de criticité : impact de chaque équipement sur la continuité de production en cas de défaillance"
+        "text": "Cartographie de criticité : impact de chaque équipement sur la continuité de production en cas de défaillance",
+        "_tid": "Kfhyak"
       },
       {
-        "text": "Identification des équipements en fin de support, fin de vie ou sans pièce de rechange disponible"
+        "text": "Identification des équipements en fin de support, fin de vie ou sans pièce de rechange disponible",
+        "_tid": "ZkCApg"
       },
       {
-        "text": "Plan de renouvellement pluriannuel : priorisation, coût estimatif, fenêtres d'intervention recommandées"
+        "text": "Plan de renouvellement pluriannuel : priorisation, coût estimatif, fenêtres d'intervention recommandées",
+        "_tid": "MI1OWO"
       },
       {
-        "text": "Identification des opportunités de modernisation : équipements à remplacer qui peuvent intégrer connectivité OPC-UA, MES ou télémétrie"
+        "text": "Identification des opportunités de modernisation : équipements à remplacer qui peuvent intégrer connectivité OPC-UA, MES ou télémétrie",
+        "_tid": "Nhhmy8"
       },
       {
-        "text": "Rapport livrable : document partageable avec la direction, le bureau d'études et les responsables maintenance"
+        "text": "Rapport livrable : document partageable avec la direction, le bureau d'études et les responsables maintenance",
+        "_tid": "HPEMBA"
       }
     ],
     "conclusion": "Résultat : une vision claire du parc existant, un plan d'action défendable en réunion de budget, et un programme de maintenance évolutive sur 3 à 5 ans.",

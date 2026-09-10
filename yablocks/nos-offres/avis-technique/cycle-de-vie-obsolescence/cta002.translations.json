@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Vos équipements industriels ont plus de 10 ans et vous n'avez pas de plan d'obsolescence ?",
+      "de": "Ihre Industrieanlagen sind über 10 Jahre alt und Sie haben keinen Obsoleszenzplan?"
+    },
+    "data.cta.text": {
+      "source": "Lancer votre audit d'obsolescence",
+      "de": "Starten Sie Ihre Obsoleszenzprüfung"
+    }
+  }
+}

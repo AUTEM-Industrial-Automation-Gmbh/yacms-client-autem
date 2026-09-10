@@ -1,0 +1,49 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "POURQUOI AUTEM",
+      "de": "WARUM AUTEM"
+    },
+    "data.title": {
+      "source": "Un expert qui connaît les équipements de l'intérieur — pas juste les références catalogue.",
+      "de": "Ein Experte, der die Anlagen von innen kennt – nicht nur die Katalogreferenzen."
+    },
+    "data.paragraphs[@Pu3ws1].text": {
+      "source": "Analyser l'obsolescence d'un parc industriel demande de savoir ce que représente vraiment un automate S7-300 ou un PC sous WinCC Flexible 2008 — pas juste lire une fiche de fin de support. AUTEM a programmé, migré et maintenu ces équipements. Nos audits parlent le langage de vos équipes maintenance.",
+      "de": "Die Analyse der Veralterung eines Industrieparks erfordert Wissen darüber, was eine S7-300-Steuerung oder ein PC mit WinCC Flexible 2008 wirklich bedeutet – nicht nur das Lesen eines End-of-Support-Datenblatts. AUTEM hat diese Geräte programmiert, migriert und gewartet. Unsere Audits sprechen die Sprache Ihrer Wartungsteams."
+    },
+    "data.highlights[@QAzaQd].text": {
+      "source": "Connaissance terrain des équipements : Siemens (S7-300/400/1200/1500), Rockwell (PLC5, SLC, ControlLogix), Schneider (TSX, Quantum, M340), Beckhoff, Wago",
+      "de": "Praxiserfahrung mit Anlagen: Siemens (S7-300/400/1200/1500), Rockwell (PLC5, SLC, ControlLogix), Schneider (TSX, Quantum, M340), Beckhoff, Wago"
+    },
+    "data.highlights[@vFC9rP].text": {
+      "source": "Maîtrise des logiciels de supervision sujets à l'obsolescence : WinCC Classic, WinCC Flexible, InduSoft, Wonderware",
+      "de": "Beherrschung von Veralterungsrisiko-gefährdeten SCADA-Software: WinCC Classic, WinCC Flexible, InduSoft, Wonderware"
+    },
+    "data.highlights[@keL52i].text": {
+      "source": "Audit indépendant : aucun intérêt commercial à sur-estimer l'urgence ou à préconiser une marque spécifique",
+      "de": "Unabhängiges Audit: Kein kommerzielles Interesse daran, die Dringlichkeit zu überschätzen oder eine bestimmte Marke zu empfehlen"
+    },
+    "data.highlights[@96b9EA].text": {
+      "source": "Rapport adapté à différents niveaux de lecture : résumé exécutif pour la direction, détail technique pour la maintenance",
+      "de": "Bericht für verschiedene Lesergruppen: Executive Summary für die Geschäftsleitung, technische Details für die Wartung"
+    },
+    "data.highlights[@jSi4Sf].text": {
+      "source": "Intégration dans votre politique de maintenance : articulation avec GMAO, plan de maintenance préventive et budget d'investissement",
+      "de": "Integration in Ihre Wartungsstrategie: Abstimmung mit CAFM, präventivem Wartungsplan und Investitionsbudget"
+    },
+    "data.highlights[@01lrTo].text": {
+      "source": "Accompagnement possible jusqu'aux remplacements : AUTEM peut piloter les rétrofits identifiés dans le plan",
+      "de": "Mögliche Unterstützung bis zum Austausch: AUTEM kann die im Plan identifizierten Nachrüstungen steuern"
+    },
+    "data.conclusion": {
+      "source": "Nos recommandations sont construites sur ce qu'on a vu tomber en panne, pas sur ce qu'un éditeur demande de vendre. L'objectif est votre continuité de production.",
+      "de": "Unsere Empfehlungen basieren auf dem, was wir ausfallen gesehen haben, nicht auf dem, was ein Hersteller verkaufen will. Ziel ist die Kontinuität Ihrer Produktion."
+    },
+    "data.image.alt": {
+      "source": "Expert AUTEM — audit obsolescence équipements industriels",
+      "de": "AUTEM-Experte — Audit zur Veralterung von Industrieanlagen"
+    }
+  }
+}
