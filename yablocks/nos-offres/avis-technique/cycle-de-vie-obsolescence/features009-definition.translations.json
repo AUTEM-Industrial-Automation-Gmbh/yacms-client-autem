@@ -1,0 +1,49 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "CYCLE DE VIE & OBSOLESCENCE",
+      "de": "LEBENSZYKLUS & OBSOLESZENZ"
+    },
+    "data.title": {
+      "source": "Audit d'obsolescence et plan de renouvellement : périmètre et livrables",
+      "de": "Obsoleszenzaudit und Erneuerungsplan: Umfang und Ergebnisse"
+    },
+    "data.paragraphs[@JU6pIH].text": {
+      "source": "L'audit d'obsolescence consiste à photographier précisément l'état du parc de vos équipements industriels (automates, IPC, logiciels, cartes électroniques, variateurs) vis-à-vis de leur cycle de vie éditeur — et à en déduire un plan de renouvellement priorisé, budgété et échelonné dans le temps.",
+      "de": "Das Obsoleszenzaudit besteht darin, den Zustand Ihrer industriellen Ausrüstung (Steuerungen, IPCs, Software, elektronische Karten, Frequenzumrichter) im Hinblick auf ihren Lebenszyklus beim Hersteller genau zu erfassen und daraus einen priorisierten, budgetierten und zeitlich gestaffelten Erneuerungsplan abzuleiten."
+    },
+    "data.highlights[@IGlRc5].text": {
+      "source": "Inventaire exhaustif du parc automates, IPC, SCADA et logiciels : versions, dates de mise en service, statut support éditeur",
+      "de": "Umfassende Bestandsaufnahme von Steuerungen, IPCs, SCADA und Software: Versionen, Inbetriebnahme-Daten, Support-Status des Herstellers"
+    },
+    "data.highlights[@Kfhyak].text": {
+      "source": "Cartographie de criticité : impact de chaque équipement sur la continuité de production en cas de défaillance",
+      "de": "Kritizitäts-Mapping: Auswirkung jeder Ausrüstung auf die Produktionskontinuität im Falle eines Ausfalls"
+    },
+    "data.highlights[@ZkCApg].text": {
+      "source": "Identification des équipements en fin de support, fin de vie ou sans pièce de rechange disponible",
+      "de": "Identifizierung von Geräten am Ende des Supports, am Ende der Lebensdauer oder ohne verfügbare Ersatzteile"
+    },
+    "data.highlights[@MI1OWO].text": {
+      "source": "Plan de renouvellement pluriannuel : priorisation, coût estimatif, fenêtres d'intervention recommandées",
+      "de": "Mehrjähriger Erneuerungsplan: Priorisierung, Kostenschätzung, empfohlene Eingriffsfenster"
+    },
+    "data.highlights[@Nhhmy8].text": {
+      "source": "Identification des opportunités de modernisation : équipements à remplacer qui peuvent intégrer connectivité OPC-UA, MES ou télémétrie",
+      "de": "Identifizierung von Modernisierungsmöglichkeiten: zu ersetzende Geräte, die OPC-UA-, MES- oder Telemetrie-Konnektivität integrieren können"
+    },
+    "data.highlights[@HPEMBA].text": {
+      "source": "Rapport livrable : document partageable avec la direction, le bureau d'études et les responsables maintenance",
+      "de": "Lieferbericht: Teilbares Dokument für die Geschäftsleitung, die Planungsabteilung und die Instandhaltungsleiter"
+    },
+    "data.conclusion": {
+      "source": "Résultat : une vision claire du parc existant, un plan d'action défendable en réunion de budget, et un programme de maintenance évolutive sur 3 à 5 ans.",
+      "de": "Ergebnis: Eine klare Vision des bestehenden Bestands, ein verteidigungsfähiger Aktionsplan für Budgetbesprechungen und ein zukunftsorientiertes Wartungsprogramm für 3 bis 5 Jahre."
+    },
+    "data.image.alt": {
+      "source": "Audit obsolescence équipements industriels — cartographie cycle de vie AUTEM",
+      "de": "Obsoleszenzaudit für Industrieanlagen – Lebenszyklus-Mapping AUTEM"
+    }
+  }
+}

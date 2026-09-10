@@ -1,0 +1,17 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "POURQUOI anticiper l'obsolescence ?",
+      "de": "WARUM Obsoleszenz antizipieren?"
+    },
+    "data.content": {
+      "source": "<strong>PROCESS</strong>\n<p>\n<li>Silos et zones d'ombre entre services</li>\n<li>Projets trop gros ou trop niche</li>\n</p>\n<strong>PEOPLE</strong>\n<p>\n<li>Manque de spécialistes qualifiés</li>\n<li>Défis leadership, politique interne</li>\n</p>\n<strong>TECHNOLOGIE</strong>\n<p>\n<li>Coût prohibitif des technologies</li>\n<li>Dépendance envers les fournisseurs</li>\n</p>",
+      "de": "<strong>PROZESS</strong>\n<p>\n<li>Silos und Schattenbereiche zwischen Abteilungen</li>\n<li>Projekte zu groß oder zu nischig</li>\n</p>\n<strong>PEOPLE</strong>\n<p>\n<li>Mangel an qualifizierten Spezialisten</li>\n<li>Herausforderungen bei Führung, interne Politik</li>\n</p>\n<strong>TECHNOLOGIE</strong>\n<p>\n<li>Unerschwingliche Kosten für Technologien</li>\n<li>Abhängigkeit von Lieferanten</li>\n</p>"
+    },
+    "data.image.alt": {
+      "source": "",
+      "de": ""
+    }
+  }
+}

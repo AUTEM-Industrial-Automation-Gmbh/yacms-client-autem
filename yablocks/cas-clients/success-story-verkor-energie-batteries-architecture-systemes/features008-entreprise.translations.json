@@ -1,0 +1,17 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "L'entreprise",
+      "de": "Das Unternehmen"
+    },
+    "data.content": {
+      "source": "<p>Verkor est une <strong>entreprise française pionnière dans la production de batteries décarbonées</strong> pour la mobilité électrique et le stockage d'énergie industriel. Fondée en 2020 et implantée à Dunkerque, elle ambitionne de devenir l'un des premiers fabricants européens de cellules de batteries lithium-ion à faible empreinte carbone.</p><p>La gigafactory de Verkor intègre des <strong>processus de fabrication de haute précision</strong> : formation, vieillissement, test et assemblage de cellules, pilotés par des systèmes de supervision critiques. La fiabilité du BMS (Battery Management System) et la supervision SCADA sont au cœur de la qualité et de la sécurité de la production.</p>",
+      "de": "<p>Verkor ist ein <strong>französisches Pionierunternehmen in der Produktion dekarbonisierter Batterien</strong> für die Elektromobilität und industrielle Energiespeicherung. Gegründet im Jahr 2020 und mit Sitz in Dünkirchen, hat es sich zum Ziel gesetzt, einer der führenden europäischen Hersteller von Lithium-Ionen-Batteriezellen mit geringem CO2-Fußabdruck zu werden.</p><p>Die Gigafactory von Verkor integriert <strong>hochpräzise Fertigungsprozesse</strong>: Formgebung, Alterung, Test und Montage von Zellen, gesteuert durch kritische Überwachungssysteme. Die Zuverlässigkeit des Batteriemanagementsystems (BMS) und die SCADA-Überwachung sind entscheidend für die Qualität und Sicherheit der Produktion.</p>"
+    },
+    "data.image.alt": {
+      "source": "BMS SCADA Verkor : Safety, HVAC, Electricity, Utilities",
+      "de": "BMS SCADA Verkor: Sicherheit, HLK, Elektrik, Versorgungseinrichtungen"
+    }
+  }
+}

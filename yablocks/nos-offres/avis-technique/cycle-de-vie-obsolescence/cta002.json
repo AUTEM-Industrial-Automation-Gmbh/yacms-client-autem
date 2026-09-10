@@ -8,15 +8,18 @@
     "benefits": [
       {
         "icon": "search",
-        "text": "Audit d'obsolescence complet : automates, IPC, SCADA, logiciels — toutes marques"
+        "text": "Audit d'obsolescence complet : automates, IPC, SCADA, logiciels — toutes marques",
+        "_tid": "YahhEK"
       },
       {
         "icon": "bar-chart",
-        "text": "Plan de renouvellement sur 3 à 5 ans : priorisé, budgété, avec fenêtres d'intervention"
+        "text": "Plan de renouvellement sur 3 à 5 ans : priorisé, budgété, avec fenêtres d'intervention",
+        "_tid": "VKwOmM"
       },
       {
         "icon": "shield",
-        "text": "Expert indépendant — aucun intérêt commercial lié aux marques recommandées"
+        "text": "Expert indépendant — aucun intérêt commercial lié aux marques recommandées",
+        "_tid": "anHagH"
       }
     ],
     "cta": {

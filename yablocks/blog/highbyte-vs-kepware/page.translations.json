@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "HighByte vs Kepware | Blog AUTEM",
+      "de": "HighByte vs Kepware | AUTEM Blog",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Which trade-off to historize data in your factory ?",
+      "de": "Welcher Kompromiss bei der Historisierung von Daten in Ihrem Werk?",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "Supervision SCADA",
+        "AUTEM",
+        "automatisme industriel"
+      ],
+      "de": [
+        "SCADA-Überwachung",
+        "AUTEM",
+        "Industrielle Automatisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Blog technique automatisme et SCADA industriel",
+      "de": "AUTEM – Blog für industrielle Automatisierung und SCADA-Technik",
+      "de:manual": true
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Aéroport Paris-CDG tapis bagages",
+      "de": "Gepäckband Flughafen Paris-CDG"
+    },
+    "data.quote": {
+      "source": "AUTEM a su gérer une migration d’envergure sur un système en exploitation active, dans un environnement Brownfield très contraint. Leur rigueur méthodologique et la maîtrise des contraintes opérationnelles ont été déterminantes pour respecter les plages de maintenance et les critères de sécurité. Le résultat est une installation modernisée, connectée et nettement plus fiable, avec un retour d’expérience enrichi sur les interfaces entre automates partenaires et la gestion des pannes dynamiques à haute cadence.",
+      "de": "AUTEM hat eine umfangreiche Migration eines aktiven Betriebs-Systems in einer sehr eingeschränkten Brownfield-Umgebung erfolgreich gemeistert. Ihre methodische Strenge und die Beherrschung der operativen Einschränkungen waren entscheidend für die Einhaltung der Wartungsfenster und Sicherheitskriterien. Das Ergebnis ist eine modernisierte, vernetzte und deutlich zuverlässigere Anlage mit bereicherten Erfahrungen über die Schnittstellen zwischen Partnerautomaten und dem Management von dynamischen Störungen bei hoher Taktfrequenz."
+    },
+    "data.author.name": {
+      "source": "Département Maintenance Systèmes Bagages",
+      "de": "Abteilung Gepäcksystem-Wartung"
+    },
+    "data.author.role": {
+      "source": "TBE 2E/2F - ADP Aéroport Paris-CDG",
+      "de": "TBE 2E/2F - ADP Flughafen Paris-CDG"
+    }
+  }
+}

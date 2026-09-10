@@ -1,0 +1,29 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backLinkLabel": {
+      "source": "Retour au blog",
+      "de": "Zurück zum Blog"
+    },
+    "data.title": {
+      "source": "HighByte vs Kepware",
+      "de": "HighByte vs Kepware"
+    },
+    "data.tags[@kJfH4b].label": {
+      "source": "Supervision SCADA",
+      "de": "SCADA-Überwachung"
+    },
+    "data.articleMeta.readTime": {
+      "source": "3 min lecture",
+      "de": "3 Minuten Lesezeit"
+    },
+    "data.articleMeta.publishDate": {
+      "source": "08/03/26",
+      "de": "08.03.26"
+    },
+    "data.articleMeta.updatedDate": {
+      "source": "17/03/26",
+      "de": "17.03.26"
+    }
+  }
+}

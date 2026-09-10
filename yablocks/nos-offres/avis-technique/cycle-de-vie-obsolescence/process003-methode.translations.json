@@ -1,0 +1,45 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "NOTRE MÉTHODE",
+      "de": "UNSER ANSATZ"
+    },
+    "data.title": {
+      "source": "De l'inventaire du parc à la feuille de route pluriannuelle : 4 étapes",
+      "de": "Von der Anlageninventarisierung zur mehrjährigen Roadmap: 4 Schritte"
+    },
+    "data.steps[@JxMOWN].title": {
+      "source": "Inventaire du parc existant",
+      "de": "Bestandsaufnahme der bestehenden Anlage"
+    },
+    "data.steps[@T9EHqP].title": {
+      "source": "Analyse du cycle de vie éditeurs",
+      "de": "Analyse des Lebenszyklus der Hersteller"
+    },
+    "data.steps[@K7tiio].title": {
+      "source": "Cartographie de criticité et de risque",
+      "de": "Kritikalitäts- und Risikobewertung"
+    },
+    "data.steps[@lJ9x7K].title": {
+      "source": "Plan de renouvellement pluriannuel",
+      "de": "Mehrjähriger Erneuerungsplan"
+    },
+    "data.steps[@JxMOWN].description": {
+      "source": "Collecte des données sur site ou sur documentation : références matérielles et logicielles, versions firmware, dates de mise en service, état des contrats de maintenance. Identification des lacunes documentaires et des équipements non référencés.",
+      "de": "Datenerfassung vor Ort oder anhand von Dokumentationen: Hardware- und Software-Referenzen, Firmware-Versionen, Inbetriebnahme-Daten, Wartungsvertragsstatus. Identifizierung von Dokumentationslücken und nicht erfassten Geräten."
+    },
+    "data.steps[@T9EHqP].description": {
+      "source": "Croisement de l'inventaire avec les informations officielles fabricants (Siemens, Rockwell, Schneider…) : dates de fin de support, disponibilité des pièces de rechange, accessibilité des firmwares et licences. Identification des équipements en zone de risque.",
+      "de": "Abgleich der Inventarisierung mit offiziellen Herstellerinformationen (Siemens, Rockwell, Schneider usw.): End-of-Support-Daten, Verfügbarkeit von Ersatzteilen, Zugriff auf Firmware und Lizenzen. Identifizierung von Geräten mit Risikobereich."
+    },
+    "data.steps[@K7tiio].description": {
+      "source": "Évaluation de l'impact de chaque équipement sur la production : criticité, délai de remplacement estimé, stock de pièces disponible, compétences internes pour l'intervention. Score de risque par équipement.",
+      "de": "Bewertung der Auswirkungen jedes Geräts auf die Produktion: Kritikalität, geschätzte Austauschzeit, verfügbarer Ersatzteilbestand, interne Kompetenzen für den Eingriff. Risikobewertung pro Gerät."
+    },
+    "data.steps[@lJ9x7K].description": {
+      "source": "Priorisation des actions selon le niveau de risque, le budget disponible et les fenêtres d'arrêt planifiées. Livraison d'un tableau de bord d'obsolescence actualisable et d'un plan de renouvellement sur 3 à 5 ans.",
+      "de": "Priorisierung der Maßnahmen nach Risikograd, verfügbarem Budget und geplanten Stillstandsfenstern. Lieferung eines aktualisierbaren Obsoleszenz-Dashboards und eines Erneuerungsplans für 3 bis 5 Jahre."
+    }
+  }
+}

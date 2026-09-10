@@ -8,15 +8,18 @@
     "benefits": [
       {
         "icon": "monitor",
-        "text": "Développement d'interfaces SCADA & HMI"
+        "text": "Développement d'interfaces SCADA & HMI",
+        "_tid": "j1LOvH"
       },
       {
         "icon": "database",
-        "text": "Historisation et reporting de données process"
+        "text": "Historisation et reporting de données process",
+        "_tid": "xLHO9f"
       },
       {
         "icon": "eye",
-        "text": "Supervision temps réel multi-sites"
+        "text": "Supervision temps réel multi-sites",
+        "_tid": "ubm0yb"
       }
     ],
     "cta": {

@@ -9,23 +9,28 @@
     "logos": [
       {
         "src": "/logos/siemens.png",
-        "alt": "Siemens — S7-300, S7-400, S7-1500, TIA Portal, WinCC"
+        "alt": "Siemens — S7-300, S7-400, S7-1500, TIA Portal, WinCC",
+        "_tid": "5hRfty"
       },
       {
         "src": "/logos/rockwell.png",
-        "alt": "Rockwell Allen-Bradley — PLC5, SLC500, ControlLogix, Studio 5000"
+        "alt": "Rockwell Allen-Bradley — PLC5, SLC500, ControlLogix, Studio 5000",
+        "_tid": "cXA6eD"
       },
       {
         "src": "/logos/schneider.png",
-        "alt": "Schneider Electric — TSX, Quantum, M340, EcoStruxure"
+        "alt": "Schneider Electric — TSX, Quantum, M340, EcoStruxure",
+        "_tid": "id9CHq"
       },
       {
         "src": "/logos/eaton.png",
-        "alt": "Eaton — XSoft-CoDeSys, Easy Series"
+        "alt": "Eaton — XSoft-CoDeSys, Easy Series",
+        "_tid": "1lpgjs"
       },
       {
         "src": "/logos/wonderware.png",
-        "alt": "AVEVA Wonderware — anciennes versions et migration"
+        "alt": "AVEVA Wonderware — anciennes versions et migration",
+        "_tid": "VqP3EM"
       }
     ]
   }

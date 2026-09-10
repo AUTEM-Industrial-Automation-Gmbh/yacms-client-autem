@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "AVIS TECHNIQUE",
+      "de": "TECHNISCHE MITTEILUNG"
+    },
+    "data.title": {
+      "source": "Cycle de Vie et Gestion de l'Obsolescence.",
+      "de": "Lebenszyklus und Obsoleszenzmanagement."
+    },
+    "data.subtitle": {
+      "source": "Vos automates et logiciels ont 10, 15 ou 20 ans ? La plupart des industriels découvrent l'obsolescence le jour d'une panne — quand il est trop tard pour planifier. AUTEM vous aide à anticiper, avant que votre ligne s'arrête.",
+      "de": "Ihre Automaten und Software sind 10, 15 oder 20 Jahre alt? Die meisten Industrieunternehmen entdecken Obsoleszenz am Tag einer Panne – wenn es zu spät für die Planung ist. AUTEM hilft Ihnen, vorauszudenken, bevor Ihre Produktionslinie stillsteht."
+    },
+    "data.backgroundImage.alt": {
+      "source": "Gestion cycle de vie obsolescence équipements industriels — AUTEM",
+      "de": "Lebenszyklusmanagement und Obsoleszenz von Industrieanlagen — AUTEM"
+    }
+  }
+}

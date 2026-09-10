@@ -1,0 +1,25 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Votre production se pilote encore à l'aveugle ou avec un jour de décalage ?",
+      "de": "Steuern Sie Ihre Produktion immer noch im Blindflug oder mit einem Tag Verzögerung?"
+    },
+    "data.benefits[@g2LDOG].text": {
+      "source": "TRS calculé automatiquement depuis vos automates — pas depuis des relevés papier",
+      "de": "OEE automatisch von Ihren SPS berechnet – nicht aus Papieraufzeichnungen"
+    },
+    "data.benefits[@BNcMVj].text": {
+      "source": "Tableaux de bord par poste, équipe et direction — accessibles depuis navigateur",
+      "de": "Dashboards pro Arbeitsplatz, Schicht und Management – zugänglich über den Browser"
+    },
+    "data.benefits[@hWqBkc].text": {
+      "source": "Formation opérateurs et documentation complète livrées à la mise en production",
+      "de": "Schulung der Bediener und vollständige Dokumentation bei Inbetriebnahme"
+    },
+    "data.cta.text": {
+      "source": "Démarrer votre projet MES",
+      "de": "Starten Sie Ihr MES-Projekt"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Cycle de Vie et Gestion de l'Obsolescence | AUTEM",
+      "de": "Lebenszyklus und Obsoleszenzmanagement | AUTEM",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Audits d'obsolescence industrielle, cartographie du patrimoine technique et plan de renouvellement pluriannuel — avant que la panne ne décide.",
+      "de": "Audits zur industriellen Obsoleszenz, Kartierung technischer Vermögenswerte und mehrjähriger Erneuerungsplan – bevor der Ausfall entscheidet.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "gestion obsolescence industrielle",
+        "audit patrimoine technique",
+        "cycle de vie automate",
+        "plan de renouvellement équipements",
+        "fin de vie composants industriels",
+        "obsolescence SCADA automate",
+        "retrofit obsolescence",
+        "AUTEM"
+      ],
+      "de": [
+        "Management industrieller Obsoleszenz",
+        "Audit technischer Vermögenswerte",
+        "Lebenszyklus von Automatisierungssystemen",
+        "Erneuerungsplan für Anlagen",
+        "End-of-Life von Industriekomponenten",
+        "Obsoleszenz von SCADA-Automatisierungssystemen",
+        "Obsoleszenz-Retrofit",
+        "AUTEM"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Gestion du cycle de vie et obsolescence industrielle",
+      "de": "AUTEM – Management von Lebenszyklen und industrieller Obsoleszenz",
+      "de:manual": true
+    }
+  }
+}

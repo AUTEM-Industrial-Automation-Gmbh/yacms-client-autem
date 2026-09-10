@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Ligne de production batteries électriques",
+      "de": "Produktionslinie für Elektrofahrzeugbatterien"
+    },
+    "data.quote": {
+      "source": "L'expertise d'AUTEM en architecture de systèmes industriels complexes a été un atout majeur pour structurer notre SCADA dès le démarrage de la gigafactory. Leur approche rigoureuse et leur capacité à intégrer BMS et GMAO dans un environnement aussi innovant ont été déterminantes.",
+      "de": "Die Expertise von AUTEM in der Architektur komplexer Industriesysteme war ein wichtiger Vorteil für die Strukturierung unseres SCADA von Beginn an in der Gigafactory. Ihr rigoroser Ansatz und ihre Fähigkeit, BMS und GMAO in einer solch innovativen Umgebung zu integrieren, waren entscheidend."
+    },
+    "data.author.name": {
+      "source": "Responsable Automatisation",
+      "de": "Leiter Automatisierung"
+    },
+    "data.author.role": {
+      "source": "Verkor — Gigafactory Dunkerque",
+      "de": "Verkor — Gigafactory Dünkirchen"
+    }
+  }
+}

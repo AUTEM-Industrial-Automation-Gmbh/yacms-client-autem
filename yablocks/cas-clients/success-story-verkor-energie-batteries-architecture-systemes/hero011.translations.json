@@ -1,0 +1,25 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.clientLogo.alt": {
+      "source": "Verkor",
+      "de": "Verkor"
+    },
+    "data.title": {
+      "source": "Développement SCADA et BMS pour batteries électriques industrielles",
+      "de": "SCADA- und BMS-Entwicklung für industrielle Elektrofahrzeugbatterien"
+    },
+    "data.tags[@tTDee8].label": {
+      "source": "Energie-Batteries",
+      "de": "Energie-Batterien"
+    },
+    "data.tags[@cva612].label": {
+      "source": "Architecture Systèmes",
+      "de": "Systemarchitektur"
+    },
+    "data.tags[@RxFbEb].label": {
+      "source": "GTB-GMAO",
+      "de": "GTB-GMAO"
+    }
+  }
+}

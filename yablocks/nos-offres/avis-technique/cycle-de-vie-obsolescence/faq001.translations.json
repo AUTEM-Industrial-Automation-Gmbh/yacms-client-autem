@@ -1,0 +1,53 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.sectionLabel": {
+      "source": "FAQ",
+      "de": "FAQ"
+    },
+    "data.title": {
+      "source": "Questions fréquentes sur la gestion de l'obsolescence industrielle",
+      "de": "Häufig gestellte Fragen zur Bewältigung industrieller Obsoleszenz"
+    },
+    "data.items[@sNZhKb].question": {
+      "source": "Comment savoir si mes automates sont en risque d'obsolescence ?",
+      "de": "Woher weiß ich, ob meine Steuerungen veraltet sind?"
+    },
+    "data.items[@bCl2ak].question": {
+      "source": "Quelle différence entre fin de support et fin de vie ?",
+      "de": "Was ist der Unterschied zwischen „End of Support“ und „End of Life“?"
+    },
+    "data.items[@5DTLY8].question": {
+      "source": "Faut-il tout remplacer d'un coup ?",
+      "de": "Muss alles auf einmal ersetzt werden?"
+    },
+    "data.items[@hVKX60].question": {
+      "source": "L'audit d'obsolescence concerne-t-il aussi les logiciels ?",
+      "de": "Betrifft die Obsoleszenzprüfung auch Software?"
+    },
+    "data.items[@1q2Yrh].question": {
+      "source": "Pouvez-vous réaliser les remplacements identifiés dans l'audit ?",
+      "de": "Können Sie die im Audit identifizierten Ersatzmaßnahmen durchführen?"
+    },
+    "data.items[@sNZhKb].answer": {
+      "source": "Les premiers indicateurs sont : l'âge des équipements (plus de 10 ans pour un automate est un signal), les notifications de fin de support des fabricants, les difficultés croissantes à trouver des pièces de rechange, les logiciels qui ne fonctionnent plus que sur des OS non supportés (Windows XP, 7), et les prestataires de maintenance qui refusent de prendre en charge certains équipements. Un audit structuré permet de quantifier le niveau de risque avec précision.",
+      "de": "Die ersten Anzeichen sind: das Alter der Geräte (mehr als 10 Jahre für eine Steuerung ist ein Warnsignal), die Meldungen der Hersteller über das Ende des Supports, zunehmende Schwierigkeiten bei der Ersatzteilbeschaffung, Software, die nur noch auf nicht unterstützten Betriebssystemen (Windows XP, 7) läuft, und Wartungsdienstleister, die die Wartung bestimmter Geräte ablehnen. Eine strukturierte Prüfung hilft, das Risikoniveau präzise zu quantifizieren."
+    },
+    "data.items[@bCl2ak].answer": {
+      "source": "La fin de support signifie que le fabricant ne publie plus de mises à jour (firmware, correctifs de sécurité) et réduit son support technique. L'équipement continue à fonctionner mais devient vulnérable. La fin de vie (EOL — End of Life) signifie l'arrêt de la production et souvent l'arrêt des pièces de rechange. C'est ce second seuil qui représente le risque de production le plus sérieux — d'autant que le stock de pièces chez les distributeurs s'épuise progressivement.",
+      "de": "„End of Support“ bedeutet, dass der Hersteller keine Updates (Firmware, Sicherheitspatches) mehr veröffentlicht und seinen technischen Support reduziert. Das Gerät funktioniert weiterhin, wird aber anfällig. „End of Life“ (EOL) bedeutet die Einstellung der Produktion und oft auch die Einstellung der Ersatzteilversorgung. Dieser zweite Schwellenwert stellt das ernsthafteste Risiko für die Produktion dar – zumal die Ersatzteilbestände bei den Händlern schrittweise zur Neige gehen."
+    },
+    "data.items[@5DTLY8].answer": {
+      "source": "Non. L'approche recommandée est un plan de renouvellement échelonné selon la criticité des équipements et vos fenêtres d'arrêt disponibles. On commence par ce qui est le plus critique pour la continuité de production, ou le plus urgent selon les informations des fabricants. Une migration totale en une seule intervention est en général plus risquée et plus coûteuse qu'un programme sur 3 à 5 ans.",
+      "de": "Nein. Der empfohlene Ansatz ist ein gestaffelter Erneuerungsplan, der sich nach der Kritikalität der Geräte und Ihren verfügbaren Stillstandzeiten richtet. Man beginnt mit dem, was für die Produktionskontinuität am kritischsten oder laut Herstellerangaben am dringendsten ist. Eine vollständige Migration in einem einzigen Schritt ist in der Regel riskanter und teurer als ein Programm über 3 bis 5 Jahre."
+    },
+    "data.items[@hVKX60].answer": {
+      "source": "Absolument. Les logiciels sont souvent oubliés : WinCC Flexible, WinCC Classic, InduSoft — certains ne sont plus maintenus ou ne fonctionnent que sur des OS en fin de support. Les licences logicielles liées à une version matérielle peuvent aussi bloquer une migration. Notre audit couvre le parc matériel ET logiciel, en incluant les versions des environnements de développement (Step 7, TIA Portal, Studio 5000).",
+      "de": "Absolut. Software wird oft vergessen: WinCC Flexible, WinCC Classic, InduSoft – einige werden nicht mehr gewartet oder laufen nur auf Betriebssystemen, die am Ende ihres Lebenszyklus sind. Softwarelizenzen, die an eine Hardwareversion gebunden sind, können ebenfalls eine Migration blockieren. Unsere Prüfung umfasst sowohl die Hardware als auch die Software und berücksichtigt die Versionen der Entwicklungsumgebungen (Step 7, TIA Portal, Studio 5000)."
+    },
+    "data.items[@1q2Yrh].answer": {
+      "source": "Oui. AUTEM peut mener à la fois l'audit d'obsolescence et les rétrofits identifiés comme prioritaires. Cela présente un avantage concret : l'équipe qui a cartographié le parc connaît déjà l'installation, les programmes existants et les interdépendances. La transition de l'audit à la migration est plus fluide et mieux documentée.",
+      "de": "Ja. AUTEM kann sowohl die Obsoleszenzprüfung als auch die als vorrangig eingestuften Nachrüstungen durchführen. Dies hat einen konkreten Vorteil: Das Team, das die Bestandsaufnahme durchgeführt hat, kennt die Anlage, die bestehenden Programme und die Abhängigkeiten bereits. Der Übergang von der Prüfung zur Migration ist reibungsloser und besser dokumentiert."
+    }
+  }
+}

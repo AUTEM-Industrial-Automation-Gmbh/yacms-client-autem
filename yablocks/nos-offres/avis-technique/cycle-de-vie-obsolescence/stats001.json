@@ -8,22 +8,26 @@
       {
         "value": "10",
         "label": "Années d'expérience sur les équipements Siemens, Rockwell, Schneider — y compris leurs gammes en fin de support",
-        "suffix": "+"
+        "suffix": "+",
+        "_tid": "RhgKGA"
       },
       {
         "value": "6",
         "label": "Marques d'automates maîtrisées dont les générations obsolètes (S7-300, PLC5, TSX, Quantum)",
-        "suffix": "+"
+        "suffix": "+",
+        "_tid": "hWrjl2"
       },
       {
         "value": "15",
         "label": "Clients dont nous avons audité ou rénové le parc d'équipements industriels",
-        "suffix": "+"
+        "suffix": "+",
+        "_tid": "VkvRX1"
       },
       {
         "value": "100",
         "label": "Des audits livrés avec rapport exécutif, plan de renouvellement et budget estimatif",
-        "suffix": "%"
+        "suffix": "%",
+        "_tid": "pHftU4"
       }
     ]
   }

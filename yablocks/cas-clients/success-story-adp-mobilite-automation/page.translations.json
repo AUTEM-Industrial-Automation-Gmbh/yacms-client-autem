@@ -1,0 +1,39 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "ADP — Modernisation du tri bagage T2E à l'aéroport CDG | AUTEM",
+      "de": "ADP — Modernisierung der Gepäcksortieranlage T2E am Flughafen CDG | AUTEM",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Découvrez comment AUTEM a modernisé le système de tri bagage du terminal T2E de l'aéroport Paris-CDG : automatisme, IoT industriel et gestion du cycle de vie des équipements.",
+      "de": "Erfahren Sie, wie AUTEM das Gepäcksortiersystem des Terminals T2E am Flughafen Paris-CDG modernisiert hat: Automatisierung, industrielle IoT und Management des Lebenszyklus von Geräten.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "automatisme aéroport",
+        "tri bagage CDG",
+        "IoT industriel",
+        "cycle de vie équipements",
+        "modernisation automatisme",
+        "AUTEM réalisation"
+      ],
+      "de": [
+        "Flughafenautomatisierung",
+        "Gepäcksortierung CDG",
+        "Industrielles IoT",
+        "Lebenszyklus von Geräten",
+        "Automatisierungsmodernisierung",
+        "AUTEM-Realisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Cas client industriel automatisme et SCADA",
+      "de": "AUTEM — Industriefall Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}
