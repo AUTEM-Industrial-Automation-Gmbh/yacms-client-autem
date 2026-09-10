@@ -8,15 +8,18 @@
     "benefits": [
       {
         "icon": "bar-chart",
-        "text": "TRS calculé automatiquement depuis vos automates — pas depuis des relevés papier"
+        "text": "TRS calculé automatiquement depuis vos automates — pas depuis des relevés papier",
+        "_tid": "g2LDOG"
       },
       {
         "icon": "layers",
-        "text": "Tableaux de bord par poste, équipe et direction — accessibles depuis navigateur"
+        "text": "Tableaux de bord par poste, équipe et direction — accessibles depuis navigateur",
+        "_tid": "BNcMVj"
       },
       {
         "icon": "book-open",
-        "text": "Formation opérateurs et documentation complète livrées à la mise en production"
+        "text": "Formation opérateurs et documentation complète livrées à la mise en production",
+        "_tid": "hWqBkc"
       }
     ],
     "cta": {

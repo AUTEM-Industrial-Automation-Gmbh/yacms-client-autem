@@ -1,0 +1,53 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.sectionLabel": {
+      "source": "FAQ",
+      "de": "FAQ"
+    },
+    "data.title": {
+      "source": "Questions fréquentes sur le MES, le TRS et les KPIs de production",
+      "de": "Häufig gestellte Fragen zu MES, OEE und Produktions-KPIs"
+    },
+    "data.items[@SMi9Ay].question": {
+      "source": "Quelle différence entre TRS, OEE et MES ?",
+      "de": "Was ist der Unterschied zwischen OEE, TRS und MES?"
+    },
+    "data.items[@1nO0oh].question": {
+      "source": "Peut-on intégrer des machines sans automate connecté ?",
+      "de": "Können Maschinen ohne angeschlossene SPS integriert werden?"
+    },
+    "data.items[@JqMzIv].question": {
+      "source": "Combien de temps pour déployer un tableau de bord TRS sur une ligne ?",
+      "de": "Wie lange dauert die Implementierung eines OEE-Dashboards für eine Linie?"
+    },
+    "data.items[@jGd0Ar].question": {
+      "source": "Peut-on connecter les données de production à notre ERP ?",
+      "de": "Können Produktionsdaten mit unserem ERP verbunden werden?"
+    },
+    "data.items[@OzH7Za].question": {
+      "source": "Ignition est-il obligatoire pour un projet MES avec AUTEM ?",
+      "de": "Ist Ignition für ein MES-Projekt mit AUTEM zwingend erforderlich?"
+    },
+    "data.items[@SMi9Ay].answer": {
+      "source": "Le TRS (Taux de Rendement Synthétique) et l'OEE (Overall Equipment Effectiveness) sont deux noms pour le même indicateur exprimé différemment : TRS est le terme francophone, OEE l'anglophone. Il mesure la performance réelle d'un équipement en combinant Disponibilité × Performance × Qualité. Le MES (Manufacturing Execution System) est le système qui collecte, stocke et restitue ces indicateurs — ainsi que d'autres données de production (ordres de fabrication, traçabilité, qualité). Le MES est l'outil ; le TRS/OEE en est un des indicateurs clés.",
+      "de": "OEE (Overall Equipment Effectiveness) und TRS (Taux de Rendement Synthétique) sind zwei Bezeichnungen für denselben Indikator, der unterschiedlich ausgedrückt wird: TRS ist der französische Begriff, OEE der englische. Er misst die tatsächliche Leistung einer Anlage, indem er Verfügbarkeit × Leistung × Qualität kombiniert. MES (Manufacturing Execution System) ist das System, das diese Indikatoren – sowie andere Produktionsdaten (Fertigungsaufträge, Rückverfolgbarkeit, Qualität) – sammelt, speichert und wiedergibt. MES ist das Werkzeug; OEE/TRS ist einer der Schlüsselindikatoren."
+    },
+    "data.items[@1nO0oh].answer": {
+      "source": "Oui. Pour les machines sans port Ethernet ou sans API, on peut utiliser des compteurs d'impulsions, des capteurs inductifs ou des modules d'acquisition déportés qui remontent les signaux de production vers le système de collecte. La solution dépend du type de machine et du signal disponible — nous évaluons le cas lors de l'audit terrain.",
+      "de": "Ja. Für Maschinen ohne Ethernet-Port oder SPS können Impulszähler, induktive Sensoren oder dezentrale Erfassungsmodule verwendet werden, die die Produktionssignale an das Sammelsystem weiterleiten. Die Lösung hängt von der Art der Maschine und dem verfügbaren Signal ab – wir bewerten den Fall während der Feldinspektion."
+    },
+    "data.items[@JqMzIv].answer": {
+      "source": "Pour une ligne avec un automate déjà connecté et des signaux disponibles, le déploiement d'un premier tableau de bord TRS peut prendre 2 à 4 semaines (audit + intégration + formation). Un projet multi-lignes avec saisie des causes de perte et reporting automatique s'étend généralement sur 6 à 12 semaines selon la complexité du modèle de données.",
+      "de": "Für eine Linie mit einer bereits angeschlossenen SPS und verfügbaren Signalen kann die Implementierung eines ersten OEE-Dashboards 2 bis 4 Wochen dauern (Inspektion + Integration + Schulung). Ein Multi-Linien-Projekt mit Erfassung von Verlustursachen und automatischer Berichterstattung erstreckt sich in der Regel über 6 bis 12 Wochen, abhängig von der Komplexität des Datenmodells."
+    },
+    "data.items[@jGd0Ar].answer": {
+      "source": "Oui. Les données MES peuvent être exposées via API REST, ODBC ou fichiers d'échange vers vos ERP (SAP, Sage, Odoo…). Nous analysons les formats d'échange requis lors de la phase de conception et mettons en place les connecteurs nécessaires.",
+      "de": "Ja. MES-Daten können über REST-API, ODBC oder Austauschdateien für Ihr ERP (SAP, Sage, Odoo...) bereitgestellt werden. Wir analysieren die erforderlichen Austauschformate während der Entwurfsphase und richten die notwendigen Konnektoren ein."
+    },
+    "data.items[@OzH7Za].answer": {
+      "source": "Non. Ignition est notre plateforme de référence pour les nouveaux projets car elle est sans limite de tags, modulaire et web-native. Mais nous intervenons également sur WinCC (Siemens), FactoryTalk (Rockwell) ou Wonderware (AVEVA) si votre infrastructure l'impose. Le choix de plateforme dépend de vos contraintes, pas de nos préférences commerciales.",
+      "de": "Nein. Ignition ist unsere Referenzplattform für neue Projekte, da sie keine Tag-Beschränkungen hat, modular und webbasiert ist. Aber wir arbeiten auch mit WinCC (Siemens), FactoryTalk (Rockwell) oder Wonderware (AVEVA), falls Ihre Infrastruktur dies erfordert. Die Wahl der Plattform hängt von Ihren Einschränkungen ab, nicht von unseren kommerziellen Präferenzen."
+    }
+  }
+}
