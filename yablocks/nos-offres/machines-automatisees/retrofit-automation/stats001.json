@@ -8,22 +8,26 @@
       {
         "value": "10",
         "label": "Années d'expérience en rétrofit industriel",
-        "suffix": "+"
+        "suffix": "+",
+        "_tid": "0quIa8"
       },
       {
         "value": "6",
         "label": "Marques d'automates maîtrisées",
-        "suffix": "+"
+        "suffix": "+",
+        "_tid": "g2Vwfo"
       },
       {
         "value": "15",
         "label": "Clients accompagnés en France et à l'international",
-        "suffix": "+"
+        "suffix": "+",
+        "_tid": "idiOAW"
       },
       {
         "value": "100",
         "label": "Des projets livrés avec documentation complète",
-        "suffix": "%"
+        "suffix": "%",
+        "_tid": "BPobOb"
       }
     ]
   }

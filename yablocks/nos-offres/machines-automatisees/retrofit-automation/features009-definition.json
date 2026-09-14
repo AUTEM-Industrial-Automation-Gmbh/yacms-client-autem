@@ -8,27 +8,34 @@
     "title": "Migration d'automate industriel : définition et périmètre",
     "paragraphs": [
       {
-        "text": "Remplacer la couche logicielle et/ou matérielle d'une machine obsolète, sans toucher à sa mécanique. L'objectif : prolonger sa durée de vie, supprimer les risques d'obsolescence, et rendre vos équipes à nouveau autonomes."
+        "text": "Remplacer la couche logicielle et/ou matérielle d'une machine obsolète, sans toucher à sa mécanique. L'objectif : prolonger sa durée de vie, supprimer les risques d'obsolescence, et rendre vos équipes à nouveau autonomes.",
+        "_tid": "3ehOdR"
       }
     ],
     "highlights": [
       {
-        "text": "Migration Siemens S7-300/400 → S7-1200/1500 (TIA Portal)"
+        "text": "Migration Siemens S7-300/400 → S7-1200/1500 (TIA Portal)",
+        "_tid": "vreTX5"
       },
       {
-        "text": "Migration Rockwell SLC-500 / PLC-5 → ControlLogix / CompactLogix"
+        "text": "Migration Rockwell SLC-500 / PLC-5 → ControlLogix / CompactLogix",
+        "_tid": "tdrNWA"
       },
       {
-        "text": "Migration Schneider TSX → Modicon M340/M580 (EcoStruxure)"
+        "text": "Migration Schneider TSX → Modicon M340/M580 (EcoStruxure)",
+        "_tid": "mNkdeK"
       },
       {
-        "text": "Récupération et réécriture de programmes mal documentés"
+        "text": "Récupération et réécriture de programmes mal documentés",
+        "_tid": "DoFSyr"
       },
       {
-        "text": "Mise à jour IHM : Siemens WinCC, Ignition, Panel PC tactile"
+        "text": "Mise à jour IHM : Siemens WinCC, Ignition, Panel PC tactile",
+        "_tid": "xK9ae5"
       },
       {
-        "text": "Documentation complète livrée : programme commenté, schémas, manuel"
+        "text": "Documentation complète livrée : programme commenté, schémas, manuel",
+        "_tid": "RbAidI"
       }
     ],
     "conclusion": "Résultat : votre machine repart pour un nouveau cycle de vie. Vos techniciens peuvent intervenir en autonomie. Et votre production ne dépend plus d'une seule personne ou d'un fournisseur devenu invisible.",

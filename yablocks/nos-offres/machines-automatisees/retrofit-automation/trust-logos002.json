@@ -9,23 +9,28 @@
     "logos": [
       {
         "src": "/logos/siemens.png",
-        "alt": "Siemens — TIA Portal S7-1200/1500"
+        "alt": "Siemens — TIA Portal S7-1200/1500",
+        "_tid": "IeqzII"
       },
       {
         "src": "/logos/rockwell.png",
-        "alt": "Rockwell Allen-Bradley — Studio 5000"
+        "alt": "Rockwell Allen-Bradley — Studio 5000",
+        "_tid": "mt8irf"
       },
       {
         "src": "/logos/schneider.png",
-        "alt": "Schneider Electric — EcoStruxure Modicon"
+        "alt": "Schneider Electric — EcoStruxure Modicon",
+        "_tid": "14Hsg3"
       },
       {
         "src": "/logos/eaton.png",
-        "alt": "Eaton — XSoft-CoDeSys"
+        "alt": "Eaton — XSoft-CoDeSys",
+        "_tid": "3bhN21"
       },
       {
         "src": "/logos/ignition.png",
-        "alt": "Ignition — migration IHM SCADA"
+        "alt": "Ignition — migration IHM SCADA",
+        "_tid": "dXZL4C"
       }
     ]
   }

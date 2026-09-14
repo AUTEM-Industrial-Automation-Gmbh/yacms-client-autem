@@ -1,0 +1,53 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.sectionLabel": {
+      "source": "FAQ",
+      "de": "FAQ"
+    },
+    "data.title": {
+      "source": "Questions fréquentes sur le rétrofit d'automates",
+      "de": "Häufig gestellte Fragen zur SPS-Retrofitierung"
+    },
+    "data.items[@V2joGq].question": {
+      "source": "Combien de temps dure un projet de rétrofit ?",
+      "de": "Wie lange dauert ein Retrofit-Projekt?"
+    },
+    "data.items[@cKqozZ].question": {
+      "source": "Peut-on migrer sans arrêter la production ?",
+      "de": "Kann eine Migration ohne Produktionsunterbrechung erfolgen?"
+    },
+    "data.items[@8XsM2e].question": {
+      "source": "Que se passe-t-il si la documentation de la machine est perdue ?",
+      "de": "Was passiert, wenn die Maschinendokumentation verloren gegangen ist?"
+    },
+    "data.items[@3uXAj8].question": {
+      "source": "Travaillez-vous sur toutes les marques d'automates ?",
+      "de": "Arbeiten Sie mit allen SPS-Marken?"
+    },
+    "data.items[@GuqkEi].question": {
+      "source": "La formation des équipes est-elle incluse ?",
+      "de": "Ist die Schulung der Teams inbegriffen?"
+    },
+    "data.items[@V2joGq].answer": {
+      "source": "Cela dépend de la complexité du programme existant et de la taille de la machine. Un rétrofit ciblé (migration S7-300 vers S7-1500 sur une machine simple) prend 2 à 4 semaines. Un projet complet avec mise à jour IHM et formation des équipes s'étend généralement sur 4 à 8 semaines.",
+      "de": "Das hängt von der Komplexität des bestehenden Programms und der Größe der Maschine ab. Ein gezieltes Retrofit (Migration S7-300 zu S7-1500 an einer einfachen Maschine) dauert 2 bis 4 Wochen. Ein vollständiges Projekt mit HMI-Update und Team-Schulung erstreckt sich in der Regel über 4 bis 8 Wochen."
+    },
+    "data.items[@cKqozZ].answer": {
+      "source": "Dans la plupart des cas, oui. Nous développons et testons en parallèle sur banc, puis basculons lors d'un arrêt planifié réduit (weekend, maintenance préventive). Le FAT absorbe l'essentiel des corrections avant d'arriver sur site.",
+      "de": "In den meisten Fällen ja. Wir entwickeln und testen parallel auf einem Prüfstand und schalten dann während einer reduzierten geplanten Stillstandszeit (Wochenende, vorbeugende Wartung) um. Das FAT (Factory Acceptance Test) absorbiert die meisten Korrekturen, bevor wir vor Ort sind."
+    },
+    "data.items[@8XsM2e].answer": {
+      "source": "C'est l'un des cas les plus fréquents. Nous récupérons le programme directement depuis l'automate, nous le relisons intégralement, et nous rédigeons une nouvelle analyse fonctionnelle avec vos équipes. Le projet repart sur des bases saines, avec une documentation complète à la livraison.",
+      "de": "Das ist einer der häufigsten Fälle. Wir holen das Programm direkt von der SPS, lesen es vollständig aus und erstellen mit Ihren Teams eine neue Funktionsanalyse. Das Projekt startet auf einer soliden Basis mit einer vollständigen Dokumentation bei der Auslieferung."
+    },
+    "data.items[@3uXAj8].answer": {
+      "source": "Oui. AUTEM est agnostique et multimarque : Siemens (TIA Portal S7-1200/1500), Rockwell Allen-Bradley (Studio 5000), Schneider Electric (EcoStruxure Modicon), Wago et Eaton. Nous recommandons la plateforme qui correspond à vos contraintes — budget, compétences équipe, parc existant.",
+      "de": "Ja. AUTEM ist markenunabhängig und herstellerübergreifend: Siemens (TIA Portal S7-1200/1500), Rockwell Allen-Bradley (Studio 5000), Schneider Electric (EcoStruxure Modicon), Wago und Eaton. Wir empfehlen die Plattform, die Ihren Anforderungen entspricht – Budget, Teamkompetenzen, bestehender Maschinenpark."
+    },
+    "data.items[@GuqkEi].answer": {
+      "source": "Oui, le transfert de compétences fait partie de notre engagement sur chaque projet. Nous formons vos techniciens sur le nouveau programme, l'environnement de développement et les procédures de dépannage. L'objectif : une autonomie complète dès la mise en service.",
+      "de": "Ja, der Wissenstransfer ist Teil unseres Engagements bei jedem Projekt. Wir schulen Ihre Techniker in Bezug auf das neue Programm, die Entwicklungsumgebung und die Fehlerbehebungsverfahren. Ziel: vollständige Autonomie ab der Inbetriebnahme."
+    }
+  }
+}

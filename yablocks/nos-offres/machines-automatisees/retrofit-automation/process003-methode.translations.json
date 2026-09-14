@@ -1,0 +1,61 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "NOTRE MÉTHODE",
+      "de": "UNSER ANSATZ"
+    },
+    "data.title": {
+      "source": "De l'audit à la mise en service : 6 étapes pour un rétrofit réussi",
+      "de": "Von der Prüfung bis zur Inbetriebnahme: 6 Schritte für ein erfolgreiches Retrofit"
+    },
+    "data.steps[@Ma9sT0].title": {
+      "source": "Audit & Inventaire",
+      "de": "Prüfung & Inventur"
+    },
+    "data.steps[@ovThzX].title": {
+      "source": "Analyse Fonctionnelle",
+      "de": "Funktionale Analyse"
+    },
+    "data.steps[@UlcNYo].title": {
+      "source": "Migration & Développement",
+      "de": "Migration & Entwicklung"
+    },
+    "data.steps[@d38b7E].title": {
+      "source": "Tests FAT (Usine)",
+      "de": "FAT-Tests (Werk)"
+    },
+    "data.steps[@JZNFUX].title": {
+      "source": "Mise en service SAT (Site)",
+      "de": "SAT-Inbetriebnahme (Standort)"
+    },
+    "data.steps[@BF1NvZ].title": {
+      "source": "Formation & Transfert",
+      "de": "Schulung & Übergabe"
+    },
+    "data.steps[@Ma9sT0].description": {
+      "source": "Récupération du programme existant, inventaire des composants, identification des risques d'obsolescence et des points de blocage.",
+      "de": "Erfassung des bestehenden Programms, Inventur der Komponenten, Identifizierung von Obsoleszenzrisiken und Engpässen."
+    },
+    "data.steps[@ovThzX].description": {
+      "source": "Relecture des cycles, clarification des fonctions non documentées, rédaction du cahier des charges de migration avec vos équipes.",
+      "de": "Überprüfung der Zyklen, Klärung undokumentierter Funktionen, Erstellung der Migrationsspezifikationen mit Ihren Teams."
+    },
+    "data.steps[@UlcNYo].description": {
+      "source": "Réécriture structurée du programme sur la nouvelle plateforme. Code commenté, organisé en blocs fonctionnels réutilisables.",
+      "de": "Strukturierte Neuprogrammierung auf der neuen Plattform. Kommentierter Code, organisiert in wiederverwendbare Funktionsblöcke."
+    },
+    "data.steps[@d38b7E].description": {
+      "source": "Tests de conformité en plateforme avant livraison site. Simulation des entrées/sorties, validation de chaque cycle et de chaque sécurité.",
+      "de": "Konformitätstests auf der Plattform vor der Auslieferung an den Standort. Simulation von Ein-/Ausgängen, Validierung jedes Zyklus und jeder Sicherheitseinrichtung."
+    },
+    "data.steps[@JZNFUX].description": {
+      "source": "Démarrage sur site client. Validation en conditions réelles, accompagnement des équipes maintenance et production pendant le démarrage.",
+      "de": "Inbetriebnahme beim Kunden vor Ort. Validierung unter realen Bedingungen, Begleitung der Wartungs- und Produktionsteams während der Inbetriebnahme."
+    },
+    "data.steps[@BF1NvZ].description": {
+      "source": "Formation de vos techniciens sur le nouveau système. Remise de la documentation complète : programme commenté, schémas, manuel opérateur.",
+      "de": "Schulung Ihrer Techniker am neuen System. Übergabe der vollständigen Dokumentation: kommentiertes Programm, Schaltpläne, Bedienhandbuch."
+    }
+  }
+}

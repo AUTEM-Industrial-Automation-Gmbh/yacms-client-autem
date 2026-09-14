@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Nous intervenons sur toutes les plateformes automates",
+      "de": "Wir sind auf allen Automatenplattformen tätig"
+    },
+    "data.subtitle": {
+      "source": "Multimarque et agnostique — nous choisissons la technologie adaptée à vos contraintes",
+      "de": "Markenunabhängig und agnostisch — wir wählen die Technologie, die Ihren Anforderungen entspricht"
+    },
+    "data.logos[@IeqzII].alt": {
+      "source": "Siemens — TIA Portal S7-1200/1500",
+      "de": "Siemens — TIA Portal S7-1200/1500"
+    },
+    "data.logos[@mt8irf].alt": {
+      "source": "Rockwell Allen-Bradley — Studio 5000",
+      "de": "Rockwell Allen-Bradley — Studio 5000"
+    },
+    "data.logos[@14Hsg3].alt": {
+      "source": "Schneider Electric — EcoStruxure Modicon",
+      "de": "Schneider Electric — EcoStruxure Modicon"
+    },
+    "data.logos[@3bhN21].alt": {
+      "source": "Eaton — XSoft-CoDeSys",
+      "de": "Eaton — XSoft-CoDeSys"
+    },
+    "data.logos[@dXZL4C].alt": {
+      "source": "Ignition — migration IHM SCADA",
+      "de": "Ignition — HMI SCADA-Migration"
+    }
+  }
+}

@@ -8,15 +8,18 @@
     "benefits": [
       {
         "icon": "cpu",
-        "text": "Multimarque : Siemens, Rockwell, Schneider, Wago, Eaton"
+        "text": "Multimarque : Siemens, Rockwell, Schneider, Wago, Eaton",
+        "_tid": "sYkehl"
       },
       {
         "icon": "file-text",
-        "text": "Documentation complète livrée à chaque projet"
+        "text": "Documentation complète livrée à chaque projet",
+        "_tid": "wjccg5"
       },
       {
         "icon": "users",
-        "text": "Formation incluse pour l'autonomie de vos équipes"
+        "text": "Formation incluse pour l'autonomie de vos équipes",
+        "_tid": "gXmhh1"
       }
     ],
     "cta": {

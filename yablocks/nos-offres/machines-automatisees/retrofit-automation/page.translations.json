@@ -1,0 +1,45 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Rétrofit Automation — Migration d'automates | AUTEM",
+      "de": "Retrofit Automatisierung — Migration von Steuerungen | AUTEM",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Migration d'automates obsolètes (S7-300, TSX, SLC-500) vers des plateformes modernes. Audit, migration, FAT, SAT, formation. Multimarque.",
+      "de": "Migration veralteter Steuerungen (S7-300, TSX, SLC-500) auf moderne Plattformen. Audit, Migration, FAT, SAT, Schulung. Mehrere Marken.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "rétrofit automatisme",
+        "migration automate industriel",
+        "retrofit PLC",
+        "modernisation automate",
+        "Siemens S7-300",
+        "migration TIA Portal",
+        "automate obsolète",
+        "AUTEM",
+        "programmation automate"
+      ],
+      "de": [
+        "Automatisierungs-Retrofit",
+        "Industriesteuerungs-Migration",
+        "SPS-Retrofit",
+        "Steuerungsmodernisierung",
+        "Siemens S7-300",
+        "TIA Portal Migration",
+        "Veraltete Steuerung",
+        "AUTEM",
+        "Steuerungsprogrammierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Rétrofit et migration d'automates industriels",
+      "de": "AUTEM — Retrofit und Migration von Industrie-Steuerungen",
+      "de:manual": true
+    }
+  }
+}

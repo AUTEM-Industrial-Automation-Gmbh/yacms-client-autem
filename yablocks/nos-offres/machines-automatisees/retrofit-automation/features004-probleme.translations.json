@@ -1,0 +1,41 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.badges[@CTqlW1].alt": {
+      "source": "Siemens — TIA Portal",
+      "de": "Siemens — TIA Portal"
+    },
+    "data.badges[@HgdcH5].alt": {
+      "source": "Rockwell / Allen-Bradley",
+      "de": "Rockwell / Allen-Bradley"
+    },
+    "data.badges[@lp8y5h].alt": {
+      "source": "Schneider Electric",
+      "de": "Schneider Electric"
+    },
+    "data.headline": {
+      "source": "Réparer, migrer ou remplacer : la bonne réponse au cas par cas.",
+      "de": "Reparieren, migrieren oder ersetzen: die richtige Antwort für jeden Einzelfall."
+    },
+    "data.paragraphs[@m93awW].text": {
+      "source": "Un automate en fin de vie ne prévient pas. Il tombe en panne au pire moment : en pleine production, avec des pièces de rechange introuvables et une documentation incomplète. La question n'est pas de savoir si cela va arriver — c'est quand.",
+      "de": "Ein Automatisierungsgerät am Ende seiner Lebensdauer kündigt sich nicht an. Es fällt im ungünstigsten Moment aus: mitten in der Produktion, mit nicht auffindbaren Ersatzteilen und unvollständiger Dokumentation. Die Frage ist nicht, ob es passieren wird – sondern wann."
+    },
+    "data.paragraphs[@6s9bi8].text": {
+      "source": "Pourtant, trop d'industriels restent coincés dans ce dilemme : remplacer entièrement la machine (investissement lourd, délais longs) ou continuer à rafistoler (pannes récurrentes, coûts cachés, stress permanent). Il existe une troisième voie : le rétrofit ciblé.",
+      "de": "Dennoch stecken zu viele Industrieunternehmen in diesem Dilemma fest: die Maschine komplett ersetzen (hohe Investition, lange Lieferzeiten) oder weiter flicken (wiederkehrende Ausfälle, versteckte Kosten, ständiger Stress). Es gibt einen dritten Weg: das gezielte Retrofit."
+    },
+    "data.paragraphs[@OhgLvs].text": {
+      "source": "Chez AUTEM, nous intervenons sur la couche logicielle et la couche matérielle de vos automates, de façon chirurgicale. Nous récupérons les programmes existants, nous les migrons vers une plateforme moderne, et nous documentons l'ensemble pour que vos équipes reprennent la main en toute autonomie.",
+      "de": "Bei AUTEM greifen wir chirurgisch in die Software- und Hardware-Schicht Ihrer Automatisierungsgeräte ein. Wir übernehmen bestehende Programme, migrieren sie auf eine moderne Plattform und dokumentieren alles, damit Ihre Teams die Kontrolle in voller Autonomie zurückgewinnen können."
+    },
+    "data.paragraphs[@x5hSu9].text": {
+      "source": "Nous ne sommes affiliés à aucun constructeur. Nous choisissons la technologie qui répond le mieux à vos contraintes : budget, délai, plateforme existante, compétences de vos équipes.",
+      "de": "Wir sind an keinen Hersteller gebunden. Wir wählen die Technologie, die Ihren Anforderungen am besten entspricht: Budget, Zeitrahmen, bestehende Plattform, Kompetenzen Ihrer Teams."
+    },
+    "data.closing": {
+      "source": "De quel côté serez-vous — celui qui anticipe, ou celui qui subit ?",
+      "de": "Auf welcher Seite werden Sie stehen – der, der vorausschauend handelt, oder der, der leidet?"
+    }
+  }
+}

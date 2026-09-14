@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "MACHINES AUTOMATISÉES",
+      "de": "AUTOMATISIERTE MASCHINEN"
+    },
+    "data.title": {
+      "source": "Rétrofit & Migration d'automates industriels.",
+      "de": "Retrofit & Migration von Industrieautomaten."
+    },
+    "data.subtitle": {
+      "source": "Votre automate est obsolète, le fournisseur est injoignable, les pièces sont introuvables ? AUTEM migre vos systèmes vers des technologies modernes — sans arrêter votre production plus que nécessaire.",
+      "de": "Ihr Automatisierungsgerät ist veraltet, der Hersteller nicht erreichbar, Ersatzteile nicht auffindbar? AUTEM migriert Ihre Systeme auf moderne Technologien — ohne Ihre Produktion länger als nötig zu unterbrechen."
+    },
+    "data.backgroundImage.alt": {
+      "source": "Rétrofit automate industriel AUTEM — migration PLC",
+      "de": "Retrofit Industrieautomat AUTEM — SPS-Migration"
+    }
+  }
+}

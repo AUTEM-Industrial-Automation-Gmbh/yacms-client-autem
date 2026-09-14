@@ -1,0 +1,49 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "POURQUOI AUTEM",
+      "de": "WARUM AUTEM"
+    },
+    "data.title": {
+      "source": "Agnostique, documenté, et formateur — pas juste réparateur.",
+      "de": "Agnostisch, dokumentiert und Schulung – nicht nur Reparatur."
+    },
+    "data.paragraphs[@Ro6NtQ].text": {
+      "source": "Chaque rétrofit AUTEM est aussi une mise à plat : on nettoie, on restructure, on commente — et on forme, pour que vos équipes reprennent la main dès le premier jour.",
+      "de": "Jedes AUTEM-Retrofit ist auch eine Grundreinigung: Wir säubern, strukturieren, kommentieren – und schulen, damit Ihre Teams vom ersten Tag an wieder die Kontrolle übernehmen."
+    },
+    "data.highlights[@qfjw0t].text": {
+      "source": "Aucune affiliation constructeur — nous recommandons le bon outil, pas celui qui nous rapporte une commission",
+      "de": "Keine Herstellerbindung – wir empfehlen das richtige Werkzeug, nicht das, das uns eine Provision einbringt"
+    },
+    "data.highlights[@BDNcqB].text": {
+      "source": "Programme livré structuré, commenté et versionné (Git ou archive)",
+      "de": "Programm strukturiert, kommentiert und versioniert (Git oder Archiv) geliefert"
+    },
+    "data.highlights[@WEnarI].text": {
+      "source": "Analyse fonctionnelle écrite avant toute ligne de code",
+      "de": "Funktionale Analyse vor jeder Codezeile geschrieben"
+    },
+    "data.highlights[@duYNBC].text": {
+      "source": "FAT systématique : zéro surprise lors de la mise en service",
+      "de": "Systematische FAT: keine Überraschungen bei der Inbetriebnahme"
+    },
+    "data.highlights[@rVvzz6].text": {
+      "source": "Formation incluse : vos techniciens maintiennent en autonomie dès le premier jour",
+      "de": "Schulung inklusive: Ihre Techniker warten vom ersten Tag an eigenständig"
+    },
+    "data.highlights[@GBoSYE].text": {
+      "source": "Intervention possible sur machines en production : planning de bascule optimisé",
+      "de": "Einsatz auf Maschinen in Produktion möglich: optimierter Wechselplan"
+    },
+    "data.conclusion": {
+      "source": "Nous ne faisons pas du rétrofit pour faire du rétrofit. Nous le faisons pour que vous n'en ayez plus besoin de rustines à la va-vite dans 3 ans.",
+      "de": "Wir machen kein Retrofit, um Retrofit zu machen. Wir tun es, damit Sie in 3 Jahren keine überstürzten Flickschusterei mehr brauchen."
+    },
+    "data.image.alt": {
+      "source": "Automaticien AUTEM — rétrofit industriel documenté et formateur",
+      "de": "AUTEM-Automatisierungstechniker – dokumentiertes und schulisches Industrie-Retrofit"
+    }
+  }
+}
