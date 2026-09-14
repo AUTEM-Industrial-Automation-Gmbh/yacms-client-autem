@@ -1,0 +1,53 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.sectionLabel": {
+      "source": "FAQ",
+      "de": "FAQ"
+    },
+    "data.title": {
+      "source": "Questions fréquentes sur l'IoT et les réseaux industriels",
+      "de": "Häufig gestellte Fragen zu IoT und Industrie-Netzwerken"
+    },
+    "data.items[@dFwFy4].question": {
+      "source": "Peut-on connecter des machines anciennes sans Ethernet ?",
+      "de": "Können alte Maschinen ohne Ethernet angeschlossen werden?"
+    },
+    "data.items[@LFKxBq].question": {
+      "source": "OPC-UA ou MQTT : comment choisir ?",
+      "de": "OPC-UA oder MQTT: Wie wählt man aus?"
+    },
+    "data.items[@DoGmL4].question": {
+      "source": "La segmentation réseau est-elle vraiment nécessaire si on n'est pas connecté à Internet ?",
+      "de": "Ist eine Netzwerksegmentierung wirklich notwendig, wenn keine Internetverbindung besteht?"
+    },
+    "data.items[@zPBVCW].question": {
+      "source": "Intervenez-vous sur les réseaux sans-fil (WiFi industriel, 4G/LTE) ?",
+      "de": "Sind Sie auch für drahtlose Netzwerke (Industrie-WLAN, 4G/LTE) zuständig?"
+    },
+    "data.items[@Ya5cdj].question": {
+      "source": "Fournissez-vous la documentation réseau à la fin du projet ?",
+      "de": "Liefern Sie die Netzwer dokumentation am Ende des Projekts?"
+    },
+    "data.items[@dFwFy4].answer": {
+      "source": "Oui. Les machines sans port Ethernet peuvent être connectées via des passerelles série (RS-232/485 → Modbus TCP), des convertisseurs Profibus → Profinet, ou des modules d'acquisition déportés. Nous évaluons systématiquement les options pour éviter de modifier le câblage existant.",
+      "de": "Ja. Maschinen ohne Ethernet-Anschluss können über serielle Gateways (RS-232/485 → Modbus TCP), Profibus → Profinet-Konverter oder dezentrale Erfassungsmodule angeschlossen werden. Wir bewerten systematisch die Optionen, um eine Änderung der bestehenden Verkabelung zu vermeiden."
+    },
+    "data.items[@LFKxBq].answer": {
+      "source": "Les deux servent des besoins complémentaires. OPC-UA est idéal pour les échanges structurés entre automates et SCADA en LAN industriel — fiable, standardisé, fortement typé. MQTT (souvent avec Sparkplug B) convient aux architectures IoT légères, multi-sites, où les équipements publient vers un broker central. Nous vous conseillons l'architecture adaptée à votre contexte.",
+      "de": "Beide dienen komplementären Bedürfnissen. OPC-UA ist ideal für den strukturierten Datenaustausch zwischen Steuerungen und SCADA in industriellen LANs – zuverlässig, standardisiert, stark typisiert. MQTT (oft mit Sparkplug B) eignet sich für schlanke, standortübergreifende IoT-Architekturen, bei denen Geräte zu einem zentralen Broker veröffentlichen. Wir beraten Sie zur für Ihren Kontext passenden Architektur."
+    },
+    "data.items[@DoGmL4].answer": {
+      "source": "Oui. La principale menace ne vient pas d'Internet mais de l'intérieur : une clé USB infectée, un PC bureau mal protégé, un accès VPN mal configuré. Sans segmentation VLAN, un incident bureautique peut atteindre directement vos automates. La segmentation OT/IT est une exigence de plus en plus intégrée dans les assurances industrielles et les normes (IEC 62443, NIS2).",
+      "de": "Ja. Die Hauptgefahr geht nicht vom Internet aus, sondern von innen: ein infizierter USB-Stick, ein schlecht geschützter Büro-PC, eine falsch konfigurierte VPN-Verbindung. Ohne VLAN-Segmentierung kann ein Vorfall im Büronetzwerk direkt Ihre Steuerungen erreichen. Die OT/IT-Segmentierung ist eine zunehmend integrierte Anforderung in Industrieversicherungen und Normen (IEC 62443, NIS2)."
+    },
+    "data.items[@zPBVCW].answer": {
+      "source": "Oui. Nous concevons et déployons des architectures sans-fil industrielles pour les machines mobiles, les sites distants ou les zones difficiles à câbler. Nous travaillons avec du WiFi industriel (IEEE 802.11ac/ax en bande 5 GHz) et des solutions 4G/LTE avec VPN intégré pour les équipements en extérieur ou multi-sites.",
+      "de": "Ja. Wir konzipieren und implementieren drahtlose Industrie-Architekturen für mobile Maschinen, entfernte Standorte oder schwer zu verkabelnde Bereiche. Wir arbeiten mit Industrie-WLAN (IEEE 802.11ac/ax im 5-GHz-Band) und 4G/LTE-Lösungen mit integriertem VPN für Außenbereiche oder standortübergreifende Anlagen."
+    },
+    "data.items[@Ya5cdj].answer": {
+      "source": "Systématiquement. Chaque projet IoT/réseau AUTEM se termine par la livraison d'un schéma réseau as-built complet (IP, VLANs, équipements, règles de sécurité), des configurations sauvegardées et archivées, et un guide de maintenance. Vous ne dépendez plus d'une seule personne pour comprendre votre infrastructure.",
+      "de": "Systematisch. Jedes IoT/Netzwerkprojekt von AUTEM endet mit der Lieferung eines vollständigen As-Built-Netzwerkdiagramms (IP, VLANs, Geräte, Sicherheitsregeln), gesicherter und archivierter Konfigurationen sowie einer Wartungsanleitung. Sie sind nicht mehr auf eine einzige Person angewiesen, um Ihre Infrastruktur zu verstehen."
+    }
+  }
+}

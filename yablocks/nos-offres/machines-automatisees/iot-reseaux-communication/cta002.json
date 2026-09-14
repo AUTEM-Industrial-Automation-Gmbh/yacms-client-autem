@@ -8,15 +8,18 @@
     "benefits": [
       {
         "icon": "globe",
-        "text": "Multiprotocole : OPC-UA, MQTT, Profinet, Modbus, BACnet, Ethernet/IP"
+        "text": "Multiprotocole : OPC-UA, MQTT, Profinet, Modbus, BACnet, Ethernet/IP",
+        "_tid": "8xWd53"
       },
       {
         "icon": "shield",
-        "text": "Architecture VLAN sécurisée OT/IT, conformité NIS2 et IEC 62443"
+        "text": "Architecture VLAN sécurisée OT/IT, conformité NIS2 et IEC 62443",
+        "_tid": "lp4e60"
       },
       {
         "icon": "file-text",
-        "text": "Documentation réseau complète livrée à chaque projet"
+        "text": "Documentation réseau complète livrée à chaque projet",
+        "_tid": "oZV09q"
       }
     ],
     "cta": {
