@@ -1,0 +1,97 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "PROTOCOLES & TECHNOLOGIES",
+      "de": "PROTOKOLLE & TECHNOLOGIEN"
+    },
+    "data.title": {
+      "source": "Nous parlons la langue de vos machines",
+      "de": "Wir sprechen die Sprache Ihrer Maschinen"
+    },
+    "data.cards[@R37VB7].image.alt": {
+      "source": "Protocoles terrain industriels",
+      "de": "Industrielle Feldprotokolle"
+    },
+    "data.cards[@1iGNSl].image.alt": {
+      "source": "Protocoles IIoT et middleware",
+      "de": "IIoT- und Middleware-Protokolle"
+    },
+    "data.cards[@dqYlDB].image.alt": {
+      "source": "Infrastructure réseau industrielle sécurisée",
+      "de": "Sichere industrielle Netzwerkinfrastruktur"
+    },
+    "data.cards[@R37VB7].title": {
+      "source": "Protocoles terrain",
+      "de": "Feldprotokolle"
+    },
+    "data.cards[@1iGNSl].title": {
+      "source": "Middleware IIoT",
+      "de": "IIoT-Middleware"
+    },
+    "data.cards[@dqYlDB].title": {
+      "source": "Infrastructure & Sécurité",
+      "de": "Infrastruktur & Sicherheit"
+    },
+    "data.cards[@R37VB7].bullets[@ZwsuhH].text": {
+      "source": "Profinet / Profibus DP & PA",
+      "de": "Profinet / Profibus DP & PA"
+    },
+    "data.cards[@R37VB7].bullets[@kG7xOM].text": {
+      "source": "Ethernet/IP (Allen-Bradley)",
+      "de": "Ethernet/IP (Allen-Bradley)"
+    },
+    "data.cards[@R37VB7].bullets[@I9dhMA].text": {
+      "source": "Modbus RTU / Modbus TCP",
+      "de": "Modbus RTU / Modbus TCP"
+    },
+    "data.cards[@R37VB7].bullets[@cichJP].text": {
+      "source": "AS-interface (AS-i)",
+      "de": "AS-interface (AS-i)"
+    },
+    "data.cards[@R37VB7].bullets[@UWH5OO].text": {
+      "source": "CANopen / DeviceNet",
+      "de": "CANopen / DeviceNet"
+    },
+    "data.cards[@1iGNSl].bullets[@QqnqUC].text": {
+      "source": "OPC-UA (Unified Architecture)",
+      "de": "OPC-UA (Unified Architecture)"
+    },
+    "data.cards[@1iGNSl].bullets[@tLEatB].text": {
+      "source": "MQTT / Sparkplug B",
+      "de": "MQTT / Sparkplug B"
+    },
+    "data.cards[@1iGNSl].bullets[@mIz9zV].text": {
+      "source": "BACnet IP & BACnet MS/TP",
+      "de": "BACnet IP & BACnet MS/TP"
+    },
+    "data.cards[@1iGNSl].bullets[@V5R8vR].text": {
+      "source": "REST API & JSON over HTTP",
+      "de": "REST API & JSON über HTTP"
+    },
+    "data.cards[@1iGNSl].bullets[@yUg4KR].text": {
+      "source": "AMQP / ActiveMQ",
+      "de": "AMQP / ActiveMQ"
+    },
+    "data.cards[@dqYlDB].bullets[@JCLG88].text": {
+      "source": "Segmentation VLAN OT / IT / DMZ",
+      "de": "OT/IT/DMZ VLAN-Segmentierung"
+    },
+    "data.cards[@dqYlDB].bullets[@7aKWrX].text": {
+      "source": "Pare-feux industriels (Siemens Scalance, Fortinet)",
+      "de": "Industrielle Firewalls (Siemens Scalance, Fortinet)"
+    },
+    "data.cards[@dqYlDB].bullets[@vxp3KD].text": {
+      "source": "VPN industriel pour accès distant sécurisé",
+      "de": "Industrielles VPN für sicheren Fernzugriff"
+    },
+    "data.cards[@dqYlDB].bullets[@2Gccvh].text": {
+      "source": "Audit et conformité NIS2 / IEC 62443",
+      "de": "Audit und Compliance NIS2 / IEC 62443"
+    },
+    "data.cards[@dqYlDB].bullets[@GHHN7L].text": {
+      "source": "Documentation réseau complète livrée",
+      "de": "Umfassende Netzwer dokumentation wird geliefert"
+    }
+  }
+}

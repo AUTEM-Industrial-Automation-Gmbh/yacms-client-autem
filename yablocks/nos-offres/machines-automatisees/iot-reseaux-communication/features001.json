@@ -13,7 +13,8 @@
         "image": {
           "src": "/images/background-indus.jpg",
           "alt": "Intégration OT/IT passerelle protocoles industriels"
-        }
+        },
+        "_tid": "buamNc"
       },
       {
         "title": "IoT industriel & télémétrie",
@@ -21,7 +22,8 @@
         "image": {
           "src": "/images/homa-appliances.jpg",
           "alt": "IoT industriel télémétrie MQTT capteurs distants"
-        }
+        },
+        "_tid": "0pr6Hf"
       },
       {
         "title": "Architecture réseau & sécurité ICS",
@@ -29,7 +31,8 @@
         "image": {
           "src": "/images/background-indus.jpg",
           "alt": "Sécurité réseau industriel VLAN segmentation ICS"
-        }
+        },
+        "_tid": "zM0lJz"
       }
     ]
   }
