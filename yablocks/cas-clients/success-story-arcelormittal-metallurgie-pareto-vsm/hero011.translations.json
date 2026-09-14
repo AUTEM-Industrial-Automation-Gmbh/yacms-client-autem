@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.clientLogo.alt": {
+      "source": "ArcelorMittal",
+      "de": "ArcelorMittal"
+    },
+    "data.title": {
+      "source": "Optimisation des performances d'un atelier d'usinage",
+      "de": "Leistungsoptimierung in einem Bearbeitungszentrum"
+    },
+    "data.tags[@h27Jzl].label": {
+      "source": "Métallurgie",
+      "de": "Metallurgie"
+    },
+    "data.tags[@6x133r].label": {
+      "source": "Automatisme",
+      "de": "Automatisierung"
+    }
+  }
+}

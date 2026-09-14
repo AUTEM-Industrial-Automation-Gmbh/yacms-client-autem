@@ -13,11 +13,13 @@
     "tags": [
       {
         "label": "Métallurgie",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "h27Jzl"
       },
       {
         "label": "Automatisme",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "6x133r"
       }
     ]
   }

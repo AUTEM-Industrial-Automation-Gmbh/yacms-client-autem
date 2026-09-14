@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Challenge & Objectif",
+      "de": "Herausforderung & Ziel"
+    },
+    "data.content": {
+      "source": "<p>La mission portait sur l'<strong>optimisation des performances de l'atelier d'usinage</strong> : réduire les temps de cycle, améliorer la disponibilité des machines-outils et mettre en place des indicateurs de suivi de performance.</p><ul><li>Programmes automates anciens, non documentés, avec des logiques perfectibles ;</li><li>Temps morts non maîtrisés entre les opérations d'usinage ;</li><li>Absence d'indicateurs de performance permettant d'identifier et de prioriser les actions d'amélioration ;</li><li>Contrainte d'intervention sans arrêt production prolongé.</li></ul>",
+      "de": "<p>Die Aufgabe bestand in der <strong>Leistungsoptimierung des Bearbeitungszentrums</strong>: Reduzierung der Zykluszeiten, Verbesserung der Verfügbarkeit der Werkzeugmaschinen und Einführung von Leistungsüberwachungsinstrumenten.</p><ul><li>Alte, undokumentierte SPS-Programme mit verbesserungswürdiger Logik;</li><li>Nicht kontrollierte Leerlaufzeiten zwischen den Bearbeitungsvorgängen;</li><li>Fehlende Leistungsindikatoren zur Identifizierung und Priorisierung von Verbesserungsmaßnahmen;</li><li>Einschränkungen bei Eingriffen ohne längere Produktionsunterbrechungen.</li></ul>"
+    }
+  }
+}

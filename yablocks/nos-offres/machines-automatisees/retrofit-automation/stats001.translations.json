@@ -1,0 +1,53 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.stats[@0quIa8].value": {
+      "source": "10",
+      "de": "10"
+    },
+    "data.stats[@g2Vwfo].value": {
+      "source": "6",
+      "de": "6"
+    },
+    "data.stats[@idiOAW].value": {
+      "source": "15",
+      "de": "15"
+    },
+    "data.stats[@BPobOb].value": {
+      "source": "100",
+      "de": "100"
+    },
+    "data.stats[@0quIa8].label": {
+      "source": "Années d'expérience en rétrofit industriel",
+      "de": "Jahre Erfahrung in der industriellen Nachrüstung"
+    },
+    "data.stats[@g2Vwfo].label": {
+      "source": "Marques d'automates maîtrisées",
+      "de": "Beherrschte Automatenmarken"
+    },
+    "data.stats[@idiOAW].label": {
+      "source": "Clients accompagnés en France et à l'international",
+      "de": "Begleitete Kunden in Frankreich und im Ausland"
+    },
+    "data.stats[@BPobOb].label": {
+      "source": "Des projets livrés avec documentation complète",
+      "de": "Projekte mit vollständiger Dokumentation geliefert"
+    },
+    "data.stats[@0quIa8].suffix": {
+      "source": "+",
+      "de": " +"
+    },
+    "data.stats[@g2Vwfo].suffix": {
+      "source": "+",
+      "de": " +"
+    },
+    "data.stats[@idiOAW].suffix": {
+      "source": "+",
+      "de": " +"
+    },
+    "data.stats[@BPobOb].suffix": {
+      "source": "%",
+      "de": " %"
+    }
+  }
+}

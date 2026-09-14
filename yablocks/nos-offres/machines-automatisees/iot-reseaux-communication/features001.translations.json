@@ -1,0 +1,49 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.sectionLabel": {
+      "source": "NOS DOMAINES D'INTERVENTION",
+      "de": "UNSERE TÄTIGKEITSBEREICHE"
+    },
+    "data.title": {
+      "source": "Connecter, collecter, sécuriser — sur tous vos équipements",
+      "de": "Verbinden, sammeln, sichern – über alle Geräte hinweg"
+    },
+    "data.items[@buamNc].image.alt": {
+      "source": "Intégration OT/IT passerelle protocoles industriels",
+      "de": "OT/IT-Integration industrielle Protokoll-Gateways"
+    },
+    "data.items[@0pr6Hf].image.alt": {
+      "source": "IoT industriel télémétrie MQTT capteurs distants",
+      "de": "Industrielles IoT MQTT-Telemetrie entfernte Sensoren"
+    },
+    "data.items[@zM0lJz].image.alt": {
+      "source": "Sécurité réseau industriel VLAN segmentation ICS",
+      "de": "Industrielle Netzwerksicherheit VLAN-Segmentierung ICS"
+    },
+    "data.items[@buamNc].title": {
+      "source": "Intégration OT/IT & passerelles de communication",
+      "de": "OT/IT-Integration & Kommunikations-Gateways"
+    },
+    "data.items[@0pr6Hf].title": {
+      "source": "IoT industriel & télémétrie",
+      "de": "Industrielles IoT & Telemetrie"
+    },
+    "data.items[@zM0lJz].title": {
+      "source": "Architecture réseau & sécurité ICS",
+      "de": "Netzwerkarchitektur & ICS-Sicherheit"
+    },
+    "data.items[@buamNc].description": {
+      "source": "Mise en place des ponts entre le terrain automates (Profinet, Profibus, Ethernet/IP, Modbus, AS-i) et vos couches supérieures (SCADA, MES, ERP). Configuration de passerelles OPC-UA, traduction de protocoles, architecture serveur-client standardisée. Vos données de production remontent — dans la plupart des cas sans toucher un seul programme automate.",
+      "de": "Einrichtung von Brücken zwischen der Feldebene (SPS) (Profinet, Profibus, Ethernet/IP, Modbus, AS-i) und Ihren höheren Ebenen (SCADA, MES, ERP). Konfiguration von OPC-UA-Gateways, Protokollübersetzung, standardisierte Client-Server-Architektur. Ihre Produktionsdaten werden hochgeladen – in den meisten Fällen, ohne ein einziges SPS-Programm anzufassen."
+    },
+    "data.items[@0pr6Hf].description": {
+      "source": "Connexion de machines dans des environnements sans câblage Ethernet (MQTT over 4G/LTE/WiFi industriel, capteurs sans-fil, BACnet pour le bâtiment industriel). Collecte de données distantes, alarmes temps réel, intégration dans des plateformes de supervision ou des bases de données historiques. Projets mobiles, multi-sites et multi-équipements.",
+      "de": "Verbindung von Maschinen in Umgebungen ohne Ethernet-Verkabelung (MQTT über 4G/LTE/industrielles WLAN, drahtlose Sensoren, BACnet für Industriegebäude). Erfassung von Fernmeldedaten, Echtzeit-Alarmen, Integration in Überwachungsplattformen oder historische Datenbanken. Mobile, Multi-Site- und Multi-Geräte-Projekte."
+    },
+    "data.items[@zM0lJz].description": {
+      "source": "Conception et déploiement de l'architecture réseau industrielle : segmentation VLAN OT/IT/DMZ, pare-feux industriels (Fortinet, Cisco, Siemens Scalance), conformité NIS2 et bonnes pratiques ICS/SCADA. Votre réseau terrain est isolé, documenté et auditables. Plus jamais une infection bureautique qui atteint vos automates.",
+      "de": "Entwurf und Bereitstellung der industriellen Netzwerkarchitektur: OT/IT/DMZ VLAN-Segmentierung, industrielle Firewalls (Fortinet, Cisco, Siemens Scalance), NIS2-Konformität und ICS/SCADA-Best Practices. Ihr Feldbereich ist isoliert, dokumentiert und auditierbar. Nie wieder eine Büroinfektion, die Ihre SPS erreicht."
+    }
+  }
+}

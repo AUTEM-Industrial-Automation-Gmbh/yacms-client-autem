@@ -15,21 +15,27 @@
         "title": "Protocoles terrain",
         "bullets": [
           {
-            "text": "Profinet / Profibus DP & PA"
+            "text": "Profinet / Profibus DP & PA",
+            "_tid": "ZwsuhH"
           },
           {
-            "text": "Ethernet/IP (Allen-Bradley)"
+            "text": "Ethernet/IP (Allen-Bradley)",
+            "_tid": "kG7xOM"
           },
           {
-            "text": "Modbus RTU / Modbus TCP"
+            "text": "Modbus RTU / Modbus TCP",
+            "_tid": "I9dhMA"
           },
           {
-            "text": "AS-interface (AS-i)"
+            "text": "AS-interface (AS-i)",
+            "_tid": "cichJP"
           },
           {
-            "text": "CANopen / DeviceNet"
+            "text": "CANopen / DeviceNet",
+            "_tid": "UWH5OO"
           }
-        ]
+        ],
+        "_tid": "R37VB7"
       },
       {
         "image": {
@@ -39,21 +45,27 @@
         "title": "Middleware IIoT",
         "bullets": [
           {
-            "text": "OPC-UA (Unified Architecture)"
+            "text": "OPC-UA (Unified Architecture)",
+            "_tid": "QqnqUC"
           },
           {
-            "text": "MQTT / Sparkplug B"
+            "text": "MQTT / Sparkplug B",
+            "_tid": "tLEatB"
           },
           {
-            "text": "BACnet IP & BACnet MS/TP"
+            "text": "BACnet IP & BACnet MS/TP",
+            "_tid": "mIz9zV"
           },
           {
-            "text": "REST API & JSON over HTTP"
+            "text": "REST API & JSON over HTTP",
+            "_tid": "V5R8vR"
           },
           {
-            "text": "AMQP / ActiveMQ"
+            "text": "AMQP / ActiveMQ",
+            "_tid": "yUg4KR"
           }
-        ]
+        ],
+        "_tid": "1iGNSl"
       },
       {
         "image": {
@@ -63,21 +75,27 @@
         "title": "Infrastructure & Sécurité",
         "bullets": [
           {
-            "text": "Segmentation VLAN OT / IT / DMZ"
+            "text": "Segmentation VLAN OT / IT / DMZ",
+            "_tid": "JCLG88"
           },
           {
-            "text": "Pare-feux industriels (Siemens Scalance, Fortinet)"
+            "text": "Pare-feux industriels (Siemens Scalance, Fortinet)",
+            "_tid": "7aKWrX"
           },
           {
-            "text": "VPN industriel pour accès distant sécurisé"
+            "text": "VPN industriel pour accès distant sécurisé",
+            "_tid": "vxp3KD"
           },
           {
-            "text": "Audit et conformité NIS2 / IEC 62443"
+            "text": "Audit et conformité NIS2 / IEC 62443",
+            "_tid": "2Gccvh"
           },
           {
-            "text": "Documentation réseau complète livrée"
+            "text": "Documentation réseau complète livrée",
+            "_tid": "GHHN7L"
           }
-        ]
+        ],
+        "_tid": "dqYlDB"
       }
     ]
   }

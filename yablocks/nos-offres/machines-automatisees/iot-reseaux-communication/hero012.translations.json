@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "MACHINES AUTOMATISÉES",
+      "de": "AUTOMATISIERTE MASCHINEN"
+    },
+    "data.title": {
+      "source": "IoT, Réseaux & Communication Industrielle.",
+      "de": "IoT, Netzwerke & Industrielle Kommunikation."
+    },
+    "data.subtitle": {
+      "source": "Vos automates, capteurs et systèmes de supervision ne se parlent pas ? AUTEM conçoit et déploie l'architecture de communication qui unifie votre terrain OT avec vos outils IT — de manière sécurisée et documentée.",
+      "de": "Ihre Automaten, Sensoren und Überwachungssysteme sprechen nicht miteinander? AUTEM konzipiert und implementiert die Kommunikationsarchitektur, die Ihr OT-Umfeld sicher und dokumentiert mit Ihren IT-Tools vereint."
+    },
+    "data.backgroundImage.alt": {
+      "source": "Réseau industriel IoT communication OPC-UA MQTT — AUTEM",
+      "de": "Industrielles IoT-Netzwerk OPC-UA MQTT-Kommunikation — AUTEM"
+    }
+  }
+}

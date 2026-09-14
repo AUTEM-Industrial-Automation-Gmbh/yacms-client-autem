@@ -1,0 +1,25 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Votre automate est obsolète ou en fin de vie ?",
+      "de": "Ist Ihre SPS veraltet oder am Ende ihrer Lebensdauer?"
+    },
+    "data.benefits[@sYkehl].text": {
+      "source": "Multimarque : Siemens, Rockwell, Schneider, Wago, Eaton",
+      "de": "Herstellerübergreifend: Siemens, Rockwell, Schneider, Wago, Eaton"
+    },
+    "data.benefits[@wjccg5].text": {
+      "source": "Documentation complète livrée à chaque projet",
+      "de": "Vollständige Dokumentation bei jedem Projekt"
+    },
+    "data.benefits[@gXmhh1].text": {
+      "source": "Formation incluse pour l'autonomie de vos équipes",
+      "de": "Schulung für die Autonomie Ihrer Teams inklusive"
+    },
+    "data.cta.text": {
+      "source": "Discutons de votre projet",
+      "de": "Sprechen wir über Ihr Projekt"
+    }
+  }
+}

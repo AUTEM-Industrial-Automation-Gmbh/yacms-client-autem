@@ -1,0 +1,25 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Vos machines sont en silo ou votre réseau industriel n'est pas sécurisé ?",
+      "de": "Ihre Maschinen sind isoliert oder Ihr Industrie-Netzwerk ist nicht sicher?"
+    },
+    "data.benefits[@8xWd53].text": {
+      "source": "Multiprotocole : OPC-UA, MQTT, Profinet, Modbus, BACnet, Ethernet/IP",
+      "de": "Multiprotokoll: OPC-UA, MQTT, Profinet, Modbus, BACnet, Ethernet/IP"
+    },
+    "data.benefits[@lp4e60].text": {
+      "source": "Architecture VLAN sécurisée OT/IT, conformité NIS2 et IEC 62443",
+      "de": "Sichere OT/IT-VLAN-Architektur, Konformität mit NIS2 und IEC 62443"
+    },
+    "data.benefits[@oZV09q].text": {
+      "source": "Documentation réseau complète livrée à chaque projet",
+      "de": "Umfassende Netzwer dokumentation für jedes Projekt"
+    },
+    "data.cta.text": {
+      "source": "Discutons de votre architecture",
+      "de": "Lassen Sie uns über Ihre Architektur sprechen"
+    }
+  }
+}

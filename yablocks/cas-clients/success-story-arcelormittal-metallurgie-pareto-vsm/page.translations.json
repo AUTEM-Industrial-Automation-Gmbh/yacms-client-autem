@@ -1,0 +1,39 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "ArcelorMittal — Optimisation de performances d'un atelier d'usinage | AUTEM",
+      "de": "ArcelorMittal — Leistungsoptimierung einer mechanischen Werkstatt | AUTEM",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "AUTEM a optimisé les performances de l'atelier d'usinage d'ArcelorMittal Luxembourg : audit des programmes automates, réduction des temps de cycle et mise en place d'indicateurs TRS.",
+      "de": "AUTEM hat die Leistung der mechanischen Werkstatt von ArcelorMittal Luxemburg optimiert: Audit von SPS-Programmen, Reduzierung der Zykluszeiten und Implementierung von OEE-Indikatoren.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "optimisation atelier usinage",
+        "automatisme métallurgie",
+        "ArcelorMittal",
+        "TRS usinage",
+        "performance machine",
+        "AUTEM réalisation"
+      ],
+      "de": [
+        "Leistungsoptimierung mechanische Werkstatt",
+        "Automatisierung Metallurgie",
+        "ArcelorMittal",
+        "OEE Mechanik",
+        "Maschinenleistung",
+        "AUTEM Realisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Cas client industriel automatisme et SCADA",
+      "de": "AUTEM — Industriefall Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}

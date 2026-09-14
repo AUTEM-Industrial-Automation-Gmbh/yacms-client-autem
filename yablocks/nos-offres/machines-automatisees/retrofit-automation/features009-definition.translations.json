@@ -1,0 +1,49 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "RÉTROFIT AUTOMATION",
+      "de": "AUTOMATISIERUNG NACHRÜSTEN"
+    },
+    "data.title": {
+      "source": "Migration d'automate industriel : définition et périmètre",
+      "de": "Migration von Industrie-Steuerungen: Definition und Umfang"
+    },
+    "data.paragraphs[@3ehOdR].text": {
+      "source": "Remplacer la couche logicielle et/ou matérielle d'une machine obsolète, sans toucher à sa mécanique. L'objectif : prolonger sa durée de vie, supprimer les risques d'obsolescence, et rendre vos équipes à nouveau autonomes.",
+      "de": "Ersetzen Sie die Software- und/oder Hardware-Schicht einer veralteten Maschine, ohne deren Mechanik zu verändern. Das Ziel: ihre Lebensdauer verlängern, Obsoleszenzrisiken beseitigen und Ihre Teams wieder unabhängig machen."
+    },
+    "data.highlights[@vreTX5].text": {
+      "source": "Migration Siemens S7-300/400 → S7-1200/1500 (TIA Portal)",
+      "de": "Migration Siemens S7-300/400 → S7-1200/1500 (TIA Portal)"
+    },
+    "data.highlights[@tdrNWA].text": {
+      "source": "Migration Rockwell SLC-500 / PLC-5 → ControlLogix / CompactLogix",
+      "de": "Migration Rockwell SLC-500 / PLC-5 → ControlLogix / CompactLogix"
+    },
+    "data.highlights[@mNkdeK].text": {
+      "source": "Migration Schneider TSX → Modicon M340/M580 (EcoStruxure)",
+      "de": "Migration Schneider TSX → Modicon M340/M580 (EcoStruxure)"
+    },
+    "data.highlights[@DoFSyr].text": {
+      "source": "Récupération et réécriture de programmes mal documentés",
+      "de": "Wiederherstellung und Umschreibung schlecht dokumentierter Programme"
+    },
+    "data.highlights[@xK9ae5].text": {
+      "source": "Mise à jour IHM : Siemens WinCC, Ignition, Panel PC tactile",
+      "de": "HMI-Update: Siemens WinCC, Ignition, Touch Panel PC"
+    },
+    "data.highlights[@RbAidI].text": {
+      "source": "Documentation complète livrée : programme commenté, schémas, manuel",
+      "de": "Umfassende Dokumentation geliefert: kommentiertes Programm, Schaltpläne, Handbuch"
+    },
+    "data.conclusion": {
+      "source": "Résultat : votre machine repart pour un nouveau cycle de vie. Vos techniciens peuvent intervenir en autonomie. Et votre production ne dépend plus d'une seule personne ou d'un fournisseur devenu invisible.",
+      "de": "Ergebnis: Ihre Maschine startet in einen neuen Lebenszyklus. Ihre Techniker können selbstständig eingreifen. Und Ihre Produktion hängt nicht mehr von einer einzigen Person oder einem unsichtbar gewordenen Lieferanten ab."
+    },
+    "data.image.alt": {
+      "source": "Migration automate industriel Siemens Rockwell Schneider — AUTEM rétrofit",
+      "de": "Migration von Industrie-Steuerungen Siemens Rockwell Schneider — AUTEM Nachrüstung"
+    }
+  }
+}

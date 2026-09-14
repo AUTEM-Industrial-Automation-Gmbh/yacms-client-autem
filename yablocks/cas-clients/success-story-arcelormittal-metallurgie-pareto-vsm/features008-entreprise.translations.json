@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "L'entreprise",
+      "de": "Das Unternehmen"
+    },
+    "data.content": {
+      "source": "<p>ArcelorMittal est le <strong>premier groupe sidérurgique mondial</strong> avec des implantations dans plus de 60 pays. Son site de Luxembourg abrite un atelier d'usinage de précision produisant des composants métallurgiques pour l'industrie lourde et l'automobile, soumis à des exigences strictes de cadence et de qualité.</p><p>Dans un contexte de pression sur les coûts et d'exigences accrues en matière de disponibilité, ArcelorMittal a lancé une initiative d'<strong>optimisation des performances</strong> de ses ateliers de production.</p>",
+      "de": "<p>ArcelorMittal ist der <strong>weltweit führende Stahlkonzern</strong> mit Niederlassungen in über 60 Ländern. Der Standort Luxemburg beherbergt ein Präzisionsbearbeitungszentrum, das metallurgische Komponenten für die Schwerindustrie und die Automobilindustrie herstellt und strengen Anforderungen an Taktzeit und Qualität unterliegt.</p><p>Angesichts des Kostendrucks und der gestiegenen Anforderungen an die Verfügbarkeit hat ArcelorMittal eine Initiative zur <strong>Leistungsoptimierung</strong> seiner Produktionszentren gestartet.</p>"
+    }
+  }
+}

@@ -10,32 +10,38 @@
       {
         "title": "Audit & Inventaire",
         "description": "Récupération du programme existant, inventaire des composants, identification des risques d'obsolescence et des points de blocage.",
-        "icon": "search"
+        "icon": "search",
+        "_tid": "Ma9sT0"
       },
       {
         "title": "Analyse Fonctionnelle",
         "description": "Relecture des cycles, clarification des fonctions non documentées, rédaction du cahier des charges de migration avec vos équipes.",
-        "icon": "file-text"
+        "icon": "file-text",
+        "_tid": "ovThzX"
       },
       {
         "title": "Migration & Développement",
         "description": "Réécriture structurée du programme sur la nouvelle plateforme. Code commenté, organisé en blocs fonctionnels réutilisables.",
-        "icon": "layers"
+        "icon": "layers",
+        "_tid": "UlcNYo"
       },
       {
         "title": "Tests FAT (Usine)",
         "description": "Tests de conformité en plateforme avant livraison site. Simulation des entrées/sorties, validation de chaque cycle et de chaque sécurité.",
-        "icon": "check-circle"
+        "icon": "check-circle",
+        "_tid": "d38b7E"
       },
       {
         "title": "Mise en service SAT (Site)",
         "description": "Démarrage sur site client. Validation en conditions réelles, accompagnement des équipes maintenance et production pendant le démarrage.",
-        "icon": "zap"
+        "icon": "zap",
+        "_tid": "JZNFUX"
       },
       {
         "title": "Formation & Transfert",
         "description": "Formation de vos techniciens sur le nouveau système. Remise de la documentation complète : programme commenté, schémas, manuel opérateur.",
-        "icon": "book-open"
+        "icon": "book-open",
+        "_tid": "BF1NvZ"
       }
     ]
   }

@@ -11,29 +11,35 @@
       "tags": [
         {
           "icon": "wifi-off",
-          "label": "Silos OT"
+          "label": "Silos OT",
+          "_tid": "C7IST2"
         },
         {
           "icon": "alert-triangle",
-          "label": "Protocoles hétérogènes"
+          "label": "Protocoles hétérogènes",
+          "_tid": "toacGn"
         },
         {
           "icon": "shield",
-          "label": "Sécurité absente"
+          "label": "Sécurité absente",
+          "_tid": "j1NJE7"
         }
       ],
       "items": [
         {
           "value": "60–80%",
-          "label": "Des machines industrielles non accessibles à distance"
+          "label": "Des machines industrielles non accessibles à distance",
+          "_tid": "pCCOd2"
         },
         {
           "value": "3–6",
-          "label": "Protocoles différents sur un même site de production"
+          "label": "Protocoles différents sur un même site de production",
+          "_tid": "iM4pEi"
         },
         {
           "value": "0",
-          "label": "Segmentation réseau OT/IT dans la majorité des PME industrielles"
+          "label": "Segmentation réseau OT/IT dans la majorité des PME industrielles",
+          "_tid": "XWvRBn"
         }
       ],
       "quote": "Sans architecture de communication maîtrisée, chaque projet d'intégration SCADA, MES ou IoT repart de zéro — avec les mêmes câbles, les mêmes drivers, les mêmes galères."
@@ -42,19 +48,23 @@
     "values": [
       {
         "icon": "layers",
-        "text": "Données de production inaccessibles depuis le SCADA ou le MES — pilotage à l'aveugle."
+        "text": "Données de production inaccessibles depuis le SCADA ou le MES — pilotage à l'aveugle.",
+        "_tid": "gKHoSW"
       },
       {
         "icon": "clock",
-        "text": "Chaque nouvelle intégration prend des semaines à cause de l'hétérogénéité des protocoles."
+        "text": "Chaque nouvelle intégration prend des semaines à cause de l'hétérogénéité des protocoles.",
+        "_tid": "KlWro2"
       },
       {
         "icon": "shield",
-        "text": "Réseau OT directement exposé au réseau bureau — aucune segmentation, surface d'attaque maximale."
+        "text": "Réseau OT directement exposé au réseau bureau — aucune segmentation, surface d'attaque maximale.",
+        "_tid": "GTXWZS"
       },
       {
         "icon": "file-text",
-        "text": "Aucune documentation réseau. Quand l'intégrateur part, la connaissance disparaît avec lui."
+        "text": "Aucune documentation réseau. Quand l'intégrateur part, la connaissance disparaît avec lui.",
+        "_tid": "01cl5n"
       }
     ]
   }
