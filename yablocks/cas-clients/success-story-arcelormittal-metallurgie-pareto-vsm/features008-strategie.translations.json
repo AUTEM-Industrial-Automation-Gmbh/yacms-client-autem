@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Stratégie",
+      "de": "Strategie"
+    },
+    "data.content": {
+      "source": "<ol><li><p><strong>Audit des programmes automates existants</strong><br>Analyse des grafcets et ladder existants, identification des séquences à optimiser et documentation de l'existant (qui n'existait pas).</p></li><li><p><strong>Optimisation des séquences d'usinage</strong><br>Réduction des temps d'attente entre opérations, parallélisation des séquences compatibles, optimisation des gestions d'outils et des changements de programme pièce.</p></li><li><p><strong>Mise en place des indicateurs TRS</strong><br>Développement de la collecte automatique des données sur les automates existants pour calculer le TRS (disponibilité, performance, qualité) et identifier les principales sources de pertes.</p></li><li><p><strong>Amélioration des diagnostics de pannes</strong><br>Enrichissement des programmes automates avec des messages de diagnostic contextuel facilitant l'intervention des techniciens de maintenance.</p></li></ol>",
+      "de": "<ol><li><p><strong>Analyse der bestehenden SPS-Programme</strong><br>Analyse der vorhandenen Grafcet- und Ladder-Diagramme, Identifizierung zu optimierender Sequenzen und Dokumentation des Bestehenden (was bisher fehlte).</p></li><li><p><strong>Optimierung der Bearbeitungssequenzen</strong><br>Reduzierung der Wartezeiten zwischen den Vorgängen, Parallelisierung kompatibler Sequenzen, Optimierung der Werkzeugverwaltung und der Werkstückprogrammwechsel.</p></li><li><p><strong>Einführung von OEE-Indikatoren</strong><br>Entwicklung der automatischen Datenerfassung auf den bestehenden SPS zur Berechnung des OEE (Verfügbarkeit, Leistung, Qualität) und zur Identifizierung der Hauptverlustquellen.</p></li><li><p><strong>Verbesserung der Fehlerdiagnose</strong><br>Anreicherung der SPS-Programme mit kontextbezogenen Diagnosemeldungen zur Erleichterung der Eingriffe durch Wartungstechniker.</p></li></ol>"
+    }
+  }
+}
