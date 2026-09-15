@@ -8,22 +8,26 @@
       {
         "value": "10",
         "label": "Années d'expérience en analyse de performance industrielle",
-        "suffix": "+"
+        "suffix": "+",
+        "_tid": "XM981t"
       },
       {
         "value": "3",
         "label": "Méthodologies d'analyse maîtrisées : Pareto, VSM, arbre des causes",
-        "suffix": ""
+        "suffix": "",
+        "_tid": "dDgG8U"
       },
       {
         "value": "15",
         "label": "Clients accompagnés en amélioration continue",
-        "suffix": "+"
+        "suffix": "+",
+        "_tid": "KnLDS1"
       },
       {
         "value": "100",
         "label": "Des missions livrées avec feuille de route priorisée et ROI chiffré",
-        "suffix": "%"
+        "suffix": "%",
+        "_tid": "cCwZNX"
       }
     ]
   }

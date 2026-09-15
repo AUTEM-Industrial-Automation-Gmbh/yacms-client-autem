@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Projet ArcelorMittal Luxembourg — optimisation performance atelier usinage",
+      "de": "Projekt ArcelorMittal Luxemburg – Optimierung der Leistung von Bearbeitungswerkstätten"
+    },
+    "data.quote": {
+      "source": "L'analyse AUTEM a mis en évidence les véritables causes de nos pertes de performance. En quelques semaines, nous avions une feuille de route priorisée avec des gains chiffrés — et les premiers résultats étaient mesurables dès le mois suivant.",
+      "de": "Die AUTEM-Analyse hat die wahren Ursachen unserer Leistungsverluste aufgezeigt. Innerhalb weniger Wochen hatten wir eine priorisierte Roadmap mit bezifferten Einsparungen – und die ersten Ergebnisse waren bereits im Folgemonat messbar."
+    },
+    "data.author.name": {
+      "source": "Directeur Industriel",
+      "de": "Industriedirektor"
+    },
+    "data.author.role": {
+      "source": "ArcelorMittal — Luxembourg",
+      "de": "ArcelorMittal – Luxemburg"
+    }
+  }
+}

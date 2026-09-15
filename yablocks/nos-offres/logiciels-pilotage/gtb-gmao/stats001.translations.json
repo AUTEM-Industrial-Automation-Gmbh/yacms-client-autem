@@ -1,0 +1,53 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.stats[@T8Cd3w].value": {
+      "source": "10",
+      "de": "10"
+    },
+    "data.stats[@Uwzxw3].value": {
+      "source": "3",
+      "de": "3"
+    },
+    "data.stats[@FHtvx7].value": {
+      "source": "15",
+      "de": "15"
+    },
+    "data.stats[@HsLhRj].value": {
+      "source": "100",
+      "de": "100"
+    },
+    "data.stats[@T8Cd3w].label": {
+      "source": "Années d'expérience en supervision industrielle et infrastructure bâtiment",
+      "de": "Jahre Erfahrung in der Überwachung von Industrie- und Gebäudeinfrastrukturen"
+    },
+    "data.stats[@Uwzxw3].label": {
+      "source": "Protocoles GTB maîtrisés : BACnet, Modbus, LonWorks",
+      "de": "Beherrschte GLT-Protokolle: BACnet, Modbus, LonWorks"
+    },
+    "data.stats[@FHtvx7].label": {
+      "source": "Clients accompagnés en France et à l'international",
+      "de": "Begleitete Kunden in Frankreich und im Ausland"
+    },
+    "data.stats[@HsLhRj].label": {
+      "source": "Des projets livrés avec documentation et formation équipe maintenance",
+      "de": "Abgeschlossene Projekte mit Dokumentation und Schulung des Wartungsteams"
+    },
+    "data.stats[@T8Cd3w].suffix": {
+      "source": "+",
+      "de": " +"
+    },
+    "data.stats[@Uwzxw3].suffix": {
+      "source": "",
+      "de": ""
+    },
+    "data.stats[@FHtvx7].suffix": {
+      "source": "+",
+      "de": " +"
+    },
+    "data.stats[@HsLhRj].suffix": {
+      "source": "%",
+      "de": " %"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "NOTRE MÉTHODE",
+      "de": "UNSER ANSATZ"
+    },
+    "data.title": {
+      "source": "De l'audit bâtiment à la maintenance pilotée par les données : 4 étapes",
+      "de": "Vom Gebäudeaudit zur datengesteuerten Wartung: 4 Schritte"
+    },
+    "data.steps[@gLeW2j].title": {
+      "source": "Audit infrastructure & équipements",
+      "de": "Audit Infrastruktur & Anlagen"
+    },
+    "data.steps[@hble34].title": {
+      "source": "Architecture GTB & intégration",
+      "de": "GLT-Architektur & Integration"
+    },
+    "data.steps[@GRI3DB].title": {
+      "source": "Paramétrage GMAO & automatisation",
+      "de": "CMMS-Konfiguration & Automatisierung"
+    },
+    "data.steps[@J9GdQX].title": {
+      "source": "Formation & mise en production",
+      "de": "Schulung & Inbetriebnahme"
+    },
+    "data.steps[@gLeW2j].description": {
+      "source": "Inventaire des équipements du bâtiment industriel (CVC, énergie, utilités, éclairage), des protocoles de communication disponibles et des données déjà collectées. Identification des équipements candidats à la maintenance préventive et des gisements d'économies énergétiques.",
+      "de": "Inventarisierung der Anlagen eines Industriegebäudes (HLK, Energie, Versorgung, Beleuchtung), der verfügbaren Kommunikationsprotokolle und der bereits gesammelten Daten. Identifizierung von Anlagenkandidaten für die vorbeugende Wartung und von Potenzialen zur Energieeinsparung."
+    },
+    "data.steps[@hble34].description": {
+      "source": "Conception de l'architecture de supervision bâtiment : passerelles BACnet/Modbus, configuration des points de mesure, structure de données énergie. Intégration dans Ignition avec tableaux de bord énergie par zone, courbes de tendance et alarmes de dérive.",
+      "de": "Entwurf der Gebäudeüberwachungsarchitektur: BACnet/Modbus-Gateways, Konfiguration von Messpunkten, Energie-Datenstruktur. Integration in Ignition mit Energie-Dashboards pro Zone, Trendkurven und Abweichungsalarmen."
+    },
+    "data.steps[@GRI3DB].description": {
+      "source": "Configuration de la GMAO : import des équipements, définition des plans de maintenance préventive, paramétrage des déclencheurs automatiques depuis les données terrain. Mise en place des workflows OT (création, affectation, clôture, compte-rendu d'intervention).",
+      "de": "Konfiguration des CMMS: Import von Anlagen, Definition von vorbeugenden Wartungsplänen, Konfiguration von automatischen Auslösern aus den Felddaten. Einrichtung von OT-Workflows (Erstellung, Zuweisung, Abschluss, Einsatzbericht)."
+    },
+    "data.steps[@J9GdQX].description": {
+      "source": "Formation des équipes maintenance sur l'interface GMAO et les tableaux de bord énergétiques. Formation des techniciens de bâtiment sur la supervision GTB. Livraison de la documentation complète et support au démarrage.",
+      "de": "Schulung der Wartungsteams in der CMMS-Oberfläche und den Energie-Dashboards. Schulung der Gebäudetechniker in der GLT-Überwachung. Lieferung der vollständigen Dokumentation und Unterstützung beim Start."
+    }
+  }
+}

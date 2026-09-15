@@ -1,0 +1,37 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.badges[@kLMhP7].alt": {
+      "source": "Ignition — historien de données industriel",
+      "de": "Ignition — industrieller Datenhistoriker"
+    },
+    "data.badges[@nQ6I67].alt": {
+      "source": "Siemens — SIMATIC",
+      "de": "Siemens — SIMATIC"
+    },
+    "data.badges[@JT6dJH].alt": {
+      "source": "ArcelorMittal — Luxembourg",
+      "de": "ArcelorMittal — Luxemburg"
+    },
+    "data.headline": {
+      "source": "Des données, il y en a partout. Des décisions basées sur ces données — beaucoup moins.",
+      "de": "Daten gibt es überall. Entscheidungen, die auf diesen Daten basieren — viel weniger."
+    },
+    "data.paragraphs[@BeNpTL].text": {
+      "source": "La plupart des usines que nous rencontrons ont des données. Parfois 10 ans d'historique SCADA, des exports Excel accumulés, des tableaux de bord construits au fil du temps. Le problème : personne ne sait vraiment les lire. Et quand un problème survient — une panne récurrente, une dérive qualité, un goulot de production —, on revient à l'interprétation chacun de son côté.",
+      "de": "Die meisten Fabriken, die wir kennen, haben Daten. Manchmal 10 Jahre SCADA-Historie, angesammelte Excel-Exporte, im Laufe der Zeit erstellte Dashboards. Das Problem: Niemand weiß wirklich, wie man sie liest. Und wenn ein Problem auftritt — eine wiederkehrende Panne, eine Qualitätsabweichung, ein Produktionsengpass —, greift jeder auf seine eigene Interpretation zurück."
+    },
+    "data.paragraphs[@DKMGJW].text": {
+      "source": "L'analyse Pareto permet d'identifier les 20 % de causes qui génèrent 80 % des pertes. La cartographie VSM (Value Stream Mapping) révèle où le flux de valeur est interrompu, où les temps d'attente s'accumulent, où les retouches masquent des problèmes de fond. Mais ces analyses ne valent rien si elles ne débouchent pas sur des actions priorisées, chiffrées et suivies.",
+      "de": "Die Pareto-Analyse hilft, die 20 % der Ursachen zu identifizieren, die 80 % der Verluste verursachen. Die VSM-Karten (Value Stream Mapping) zeigen auf, wo der Wertstrom unterbrochen ist, wo sich Wartezeiten ansammeln, wo Nacharbeiten tiefere Probleme verdecken. Aber diese Analysen sind wertlos, wenn sie nicht zu priorisierten, bezifferten und verfolgten Maßnahmen führen."
+    },
+    "data.paragraphs[@HbVAoD].text": {
+      "source": "AUTEM mène ces analyses à partir de vos données réelles — SCADA, automates, ERP, papier si nécessaire. Nous ne livrons pas des slides PowerPoint : nous livrons des actions concrètes avec un chiffrage ROI que vos équipes peuvent défendre en comité de direction.",
+      "de": "AUTEM führt diese Analysen anhand Ihrer realen Daten durch — SCADA, SPS, ERP, bei Bedarf auch Papier. Wir liefern keine PowerPoint-Folien: Wir liefern konkrete Maßnahmen mit einer ROI-Berechnung, die Ihre Teams im Management-Meeting verteidigen können."
+    },
+    "data.closing": {
+      "source": "Une analyse sans plan d'action, c'est un rapport. Une analyse avec ROI et priorisation, c'est un levier de décision.",
+      "de": "Eine Analyse ohne Aktionsplan ist ein Bericht. Eine Analyse mit ROI und Priorisierung ist ein Entscheidungsinstrument."
+    }
+  }
+}

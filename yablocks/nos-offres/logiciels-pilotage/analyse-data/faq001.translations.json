@@ -1,0 +1,53 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.sectionLabel": {
+      "source": "FAQ",
+      "de": "FAQ"
+    },
+    "data.title": {
+      "source": "Questions fréquentes sur l'analyse data et l'amélioration continue",
+      "de": "Häufig gestellte Fragen zu Datenanalyse und kontinuierlicher Verbesserung"
+    },
+    "data.items[@wc05Z7].question": {
+      "source": "Quelle différence entre une analyse Pareto et un VSM ?",
+      "de": "Was ist der Unterschied zwischen einer Pareto-Analyse und einem VSM?"
+    },
+    "data.items[@MPt1Gh].question": {
+      "source": "On a des données en Excel depuis 5 ans — peut-on partir de là ?",
+      "de": "Wir haben seit 5 Jahren Excel-Daten – können wir damit anfangen?"
+    },
+    "data.items[@zWxi7w].question": {
+      "source": "Combien de temps dure une mission d'analyse ?",
+      "de": "Wie lange dauert ein Analyseauftrag?"
+    },
+    "data.items[@epXWcl].question": {
+      "source": "Le ROI est-il vraiment calculable avant de démarrer les améliorations ?",
+      "de": "Ist der ROI wirklich berechenbar, bevor die Verbesserungen beginnen?"
+    },
+    "data.items[@Mdczic].question": {
+      "source": "Peut-on piloter l'amélioration continue après la mission ?",
+      "de": "Kann die kontinuierliche Verbesserung nach dem Auftrag gesteuert werden?"
+    },
+    "data.items[@wc05Z7].answer": {
+      "source": "L'analyse Pareto classe les causes de perte par ordre de fréquence ou d'impact pour identifier les 20 % de causes qui génèrent 80 % des problèmes. C'est une analyse quantitative sur des événements passés. Le VSM (Value Stream Mapping) est une cartographie visuelle du flux de production : il montre comment la matière et l'information circulent, où les stocks s'accumulent, où les temps d'attente se créent. Les deux sont complémentaires : le Pareto dit « quoi » améliorer, le VSM dit « où » et « pourquoi » dans le flux.",
+      "de": "Die Pareto-Analyse klassifiziert die Ursachen von Verlusten nach Häufigkeit oder Auswirkung, um die 20 % der Ursachen zu identifizieren, die 80 % der Probleme verursachen. Es handelt sich um eine quantitative Analyse vergangener Ereignisse. VSM (Value Stream Mapping) ist eine visuelle Darstellung des Produktionsflusses: Sie zeigt, wie Material und Informationen fließen, wo sich Lagerbestände ansammeln und wo Wartezeiten entstehen. Beide sind komplementär: Pareto sagt „was“ verbessert werden soll, VSM sagt „wo“ und „warum“ im Fluss."
+    },
+    "data.items[@MPt1Gh].answer": {
+      "source": "Oui, c'est même fréquent. Nous structurons et nettoyons vos données Excel existantes avant toute analyse. Si ces données sont insuffisantes ou peu fiables, nous mettons en place une collecte terrain complémentaire (relevés opérateurs, extraction SCADA, compteurs) pour la durée nécessaire. Nous ne reportons jamais à cause d'un manque de données — nous nous adaptons à ce que vous avez.",
+      "de": "Ja, das ist sogar häufig der Fall. Wir strukturieren und bereinigen Ihre vorhandenen Excel-Daten vor jeder Analyse. Wenn diese Daten nicht ausreichen oder unzuverlässig sind, richten wir eine ergänzende Datenerfassung vor Ort ein (Betreibererhebungen, SCADA-Extraktion, Zähler) für die benötigte Dauer. Wir verschieben niemals einen Auftrag aufgrund fehlender Daten – wir passen uns an das an, was Sie haben."
+    },
+    "data.items[@zWxi7w].answer": {
+      "source": "Une mission d'analyse ciblée (audit terrain + Pareto + feuille de route) prend généralement 2 à 4 semaines selon la taille de l'atelier et la disponibilité des données. Un projet VSM complet (as-is + to-be + ROI + présentation direction) s'étend plutôt sur 4 à 6 semaines.",
+      "de": "Ein gezielter Analyseauftrag (Vor-Ort-Audit + Pareto + Roadmap) dauert in der Regel 2 bis 4 Wochen, abhängig von der Größe des Arbeitsbereichs und der Verfügbarkeit von Daten. Ein vollständiges VSM-Projekt (Ist-Zustand + Soll-Zustand + ROI + Präsentation für die Geschäftsleitung) erstreckt sich eher über 4 bis 6 Wochen."
+    },
+    "data.items[@epXWcl].answer": {
+      "source": "Oui, avec des hypothèses transparentes. Nous calculons le ROI à partir des données de perte mesurées (arrêts, rebuts, temps d'attente) et d'une hypothèse de réduction réaliste basée sur des projets comparables. Nous présentons toujours les hypothèses avec le résultat — vous pouvez les challenger et les adapter à votre contexte. Un ROI bien documenté avec ses hypothèses vaut mieux qu'un chiffre sorti de nulle part.",
+      "de": "Ja, mit transparenten Annahmen. Wir berechnen den ROI anhand der gemessenen Verlustdaten (Stillstände, Ausschuss, Wartezeiten) und einer realistischen Reduktionsannahme, die auf vergleichbaren Projekten basiert. Wir präsentieren die Annahmen immer zusammen mit dem Ergebnis – Sie können diese hinterfragen und an Ihren Kontext anpassen. Ein gut dokumentierter ROI mit seinen Annahmen ist besser als eine Zahl aus dem Nichts."
+    },
+    "data.items[@Mdczic].answer": {
+      "source": "Oui. Nous mettons en place les indicateurs de suivi et les tableaux de bord qui permettent à vos équipes de piloter l'avancement des actions en autonomie. Si vous souhaitez un accompagnement dans la durée (coaching équipe, revue mensuelle des KPIs), nous pouvons le proposer sous forme de mission de suivi.",
+      "de": "Ja. Wir richten die Überwachungskennzahlen und Dashboards ein, die es Ihren Teams ermöglichen, den Fortschritt der Maßnahmen eigenständig zu steuern. Wenn Sie eine längerfristige Begleitung wünschen (Team-Coaching, monatliche KPI-Überprüfung), können wir dies in Form eines Follow-up-Auftrags anbieten."
+    }
+  }
+}

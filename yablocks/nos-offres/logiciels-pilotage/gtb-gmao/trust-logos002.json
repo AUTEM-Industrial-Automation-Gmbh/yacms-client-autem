@@ -9,23 +9,28 @@
     "logos": [
       {
         "src": "/logos/siemens.png",
-        "alt": "Siemens — Desigo GTB, régulateurs CVC"
+        "alt": "Siemens — Desigo GTB, régulateurs CVC",
+        "_tid": "1Unfjy"
       },
       {
         "src": "/logos/schneider.png",
-        "alt": "Schneider Electric — EcoStruxure Building"
+        "alt": "Schneider Electric — EcoStruxure Building",
+        "_tid": "hxrVGj"
       },
       {
         "src": "/logos/ignition.png",
-        "alt": "Ignition — supervision GTB unifiée"
+        "alt": "Ignition — supervision GTB unifiée",
+        "_tid": "Hc6WF6"
       },
       {
         "src": "/logos/eaton.png",
-        "alt": "Eaton — distribution électrique industrielle"
+        "alt": "Eaton — distribution électrique industrielle",
+        "_tid": "SiRLzA"
       },
       {
         "src": "/logos/pepperl-fuchs.png",
-        "alt": "Pepperl+Fuchs — instrumentation terrain"
+        "alt": "Pepperl+Fuchs — instrumentation terrain",
+        "_tid": "K7ex3u"
       }
     ]
   }

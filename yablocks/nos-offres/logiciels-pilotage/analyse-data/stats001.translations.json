@@ -1,0 +1,53 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.stats[@XM981t].value": {
+      "source": "10",
+      "de": "10"
+    },
+    "data.stats[@dDgG8U].value": {
+      "source": "3",
+      "de": "3"
+    },
+    "data.stats[@KnLDS1].value": {
+      "source": "15",
+      "de": "15"
+    },
+    "data.stats[@cCwZNX].value": {
+      "source": "100",
+      "de": "100"
+    },
+    "data.stats[@XM981t].label": {
+      "source": "Années d'expérience en analyse de performance industrielle",
+      "de": "Jahre Erfahrung in der industriellen Leistungsanalyse"
+    },
+    "data.stats[@dDgG8U].label": {
+      "source": "Méthodologies d'analyse maîtrisées : Pareto, VSM, arbre des causes",
+      "de": "Beherrschte Analysemethoden: Pareto, VSM, Ursachenanalyse"
+    },
+    "data.stats[@KnLDS1].label": {
+      "source": "Clients accompagnés en amélioration continue",
+      "de": "Kunden, die bei der kontinuierlichen Verbesserung begleitet wurden"
+    },
+    "data.stats[@cCwZNX].label": {
+      "source": "Des missions livrées avec feuille de route priorisée et ROI chiffré",
+      "de": "Aufgaben mit priorisiertem Fahrplan und beziffertem ROI geliefert"
+    },
+    "data.stats[@XM981t].suffix": {
+      "source": "+",
+      "de": ""
+    },
+    "data.stats[@dDgG8U].suffix": {
+      "source": "",
+      "de": ""
+    },
+    "data.stats[@KnLDS1].suffix": {
+      "source": "+",
+      "de": ""
+    },
+    "data.stats[@cCwZNX].suffix": {
+      "source": "%",
+      "de": ""
+    }
+  }
+}

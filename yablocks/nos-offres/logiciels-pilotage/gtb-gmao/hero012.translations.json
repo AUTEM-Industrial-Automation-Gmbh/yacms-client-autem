@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "LOGICIELS DE PILOTAGE",
+      "de": "STEUERSOFTWARE"
+    },
+    "data.title": {
+      "source": "GTB & GMAO Industriels.",
+      "de": "Industrielle Gebäudeleittechnik & Instandhaltungsmanagement."
+    },
+    "data.subtitle": {
+      "source": "Vos bâtiments et équipements industriels fonctionnent sans supervision unifiée, votre maintenance est 100 % curative et votre facture énergétique reste inexpliquée ? AUTEM déploie la GTB et la GMAO qui mettent fin à ce pilotage à l'aveugle.",
+      "de": "Ihre Industriegebäude und Anlagen laufen ohne einheitliche Überwachung, Ihre Wartung ist zu 100 % reaktiv und Ihre Energierechnung bleibt unerklärlich? AUTEM implementiert die Gebäudeleittechnik und das Instandhaltungsmanagement, die dieser blinden Steuerung ein Ende setzen."
+    },
+    "data.backgroundImage.alt": {
+      "source": "GTB GMAO supervision bâtiment industriel maintenance préventive — AUTEM",
+      "de": "Gebäudeleittechnik Instandhaltungsmanagement Überwachung Industriegebäude vorausschauende Wartung — AUTEM"
+    }
+  }
+}

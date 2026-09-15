@@ -8,22 +8,26 @@
       {
         "value": "10",
         "label": "Années d'expérience en supervision industrielle et infrastructure bâtiment",
-        "suffix": "+"
+        "suffix": "+",
+        "_tid": "T8Cd3w"
       },
       {
         "value": "3",
         "label": "Protocoles GTB maîtrisés : BACnet, Modbus, LonWorks",
-        "suffix": ""
+        "suffix": "",
+        "_tid": "Uwzxw3"
       },
       {
         "value": "15",
         "label": "Clients accompagnés en France et à l'international",
-        "suffix": "+"
+        "suffix": "+",
+        "_tid": "FHtvx7"
       },
       {
         "value": "100",
         "label": "Des projets livrés avec documentation et formation équipe maintenance",
-        "suffix": "%"
+        "suffix": "%",
+        "_tid": "HsLhRj"
       }
     ]
   }

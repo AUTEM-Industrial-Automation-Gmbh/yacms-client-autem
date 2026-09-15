@@ -8,27 +8,34 @@
     "title": "Automaticien industriel — pas installateur CVC ni éditeur GMAO.",
     "paragraphs": [
       {
-        "text": "La GTB et la GMAO sont souvent déployées en silos : l'installateur CVC fait sa supervision bâtiment, l'éditeur GMAO fait son démarrage logiciel, et personne ne fait le lien avec le process industriel. AUTEM intègre tout dans la même supervision — et connaît aussi bien les automates de production que les protocoles BACnet du CVC."
+        "text": "La GTB et la GMAO sont souvent déployées en silos : l'installateur CVC fait sa supervision bâtiment, l'éditeur GMAO fait son démarrage logiciel, et personne ne fait le lien avec le process industriel. AUTEM intègre tout dans la même supervision — et connaît aussi bien les automates de production que les protocoles BACnet du CVC.",
+        "_tid": "7U2qdA"
       }
     ],
     "highlights": [
       {
-        "text": "Supervision unifiée process + bâtiment sur Ignition — une seule interface, pas deux systèmes qui ne se parlent pas"
+        "text": "Supervision unifiée process + bâtiment sur Ignition — une seule interface, pas deux systèmes qui ne se parlent pas",
+        "_tid": "GlcgVO"
       },
       {
-        "text": "BACnet, Modbus et LonWorks natifs : nous intégrons les équipements bâtiment existants sans les remplacer"
+        "text": "BACnet, Modbus et LonWorks natifs : nous intégrons les équipements bâtiment existants sans les remplacer",
+        "_tid": "JCseNT"
       },
       {
-        "text": "Maintenance préventive basée sur les données terrain — pas sur des calendriers théoriques déconnectés de la réalité"
+        "text": "Maintenance préventive basée sur les données terrain — pas sur des calendriers théoriques déconnectés de la réalité",
+        "_tid": "sAqp3z"
       },
       {
-        "text": "Aucun intérêt commercial sur les équipements ou les licences GMAO — nous recommandons ce qui répond à vos besoins"
+        "text": "Aucun intérêt commercial sur les équipements ou les licences GMAO — nous recommandons ce qui répond à vos besoins",
+        "_tid": "gWgbc6"
       },
       {
-        "text": "Intégration avec votre ERP ou outil de production si nécessaire : les OT peuvent être déclenchés depuis la supervision process"
+        "text": "Intégration avec votre ERP ou outil de production si nécessaire : les OT peuvent être déclenchés depuis la supervision process",
+        "_tid": "MvFutb"
       },
       {
-        "text": "Formation terrain : vos techniciens de maintenance utilisent la GMAO au quotidien, pas seulement le responsable"
+        "text": "Formation terrain : vos techniciens de maintenance utilisent la GMAO au quotidien, pas seulement le responsable",
+        "_tid": "bPp6rl"
       }
     ],
     "conclusion": "Le résultat : un bâtiment industriel supervisé, des consommations maîtrisées, et une équipe maintenance qui anticipe les pannes au lieu de les subir.",

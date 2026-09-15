@@ -1,0 +1,49 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "ANALYSE DATA INDUSTRIELLE",
+      "de": "INDUSTRIELLE DATENANALYSE"
+    },
+    "data.title": {
+      "source": "Pareto, VSM, ROI : structurer la donnée pour décider",
+      "de": "Pareto, VSM, ROI: Daten strukturieren für bessere Entscheidungen"
+    },
+    "data.paragraphs[@6GJgXI].text": {
+      "source": "Utiliser vos données de production existantes — ou collecter les données manquantes — pour identifier les pertes cachées, cartographier les flux, prioriser les actions d'amélioration et chiffrer leur retour sur investissement.",
+      "de": "Nutzen Sie Ihre vorhandenen Produktionsdaten – oder sammeln Sie fehlende Daten –, um versteckte Verluste zu identifizieren, Flüsse zu kartieren, Verbesserungsmaßnahmen zu priorisieren und deren Kapitalrendite zu beziffern."
+    },
+    "data.highlights[@taEZwK].text": {
+      "source": "Analyse Pareto des pannes et arrêts : identification des équipements critiques et des causes racines",
+      "de": "Pareto-Analyse von Ausfällen und Stillständen: Identifizierung kritischer Anlagen und Ursachen"
+    },
+    "data.highlights[@8CK4yp].text": {
+      "source": "Cartographie VSM as-is : mesure des temps de cycle, d'attente et des stocks intermédiaires",
+      "de": "VSM-Ist-Zustandsaufnahme: Messung von Zykluszeiten, Wartezeiten und Zwischenbeständen"
+    },
+    "data.highlights[@od4eco].text": {
+      "source": "VSM to-be : modélisation du flux optimisé et quantification des gains potentiels",
+      "de": "VSM-Soll-Zustand: Modellierung des optimierten Flusses und Quantifizierung potenzieller Gewinne"
+    },
+    "data.highlights[@TOYJhI].text": {
+      "source": "Calcul ROI pour chaque action d'amélioration : payback, économies annuelles, réduction des pertes",
+      "de": "ROI-Berechnung für jede Verbesserungsmaßnahme: Amortisation, jährliche Einsparungen, Verlustreduzierung"
+    },
+    "data.highlights[@sxYrm1].text": {
+      "source": "Mise en place des tableaux de bord de suivi des actions d'amélioration continue",
+      "de": "Einrichtung von Dashboards zur Überwachung kontinuierlicher Verbesserungsmaßnahmen"
+    },
+    "data.highlights[@fTWsww].text": {
+      "source": "Livrables actionnables : rapport Pareto, VSM as-is/to-be, feuille de route priorisée",
+      "de": "Umsetzbare Ergebnisse: Pareto-Bericht, VSM Ist/Soll-Zustand, priorisierte Roadmap"
+    },
+    "data.conclusion": {
+      "source": "Résultat : une feuille de route d'amélioration continue que vous pouvez défendre en interne — avec des données, pas des opinions.",
+      "de": "Ergebnis: Eine Roadmap für kontinuierliche Verbesserung, die Sie intern vertreten können – mit Daten, nicht mit Meinungen."
+    },
+    "data.image.alt": {
+      "source": "Analyse Pareto VSM performance industrielle — AUTEM",
+      "de": "Pareto VSM Analyse industrielle Leistung – AUTEM"
+    }
+  }
+}

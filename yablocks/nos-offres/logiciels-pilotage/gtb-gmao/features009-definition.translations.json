@@ -1,0 +1,49 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "GTB — GMAO",
+      "de": "GTB — GMAO"
+    },
+    "data.title": {
+      "source": "Supervision bâtiment et maintenance pilotée par les données : périmètre",
+      "de": "Gebäudemanagement und datengesteuerte Instandhaltung: der Umfang"
+    },
+    "data.paragraphs[@t2NJh9].text": {
+      "source": "Connecter les équipements du bâtiment industriel (CVC, éclairage, énergie, utilités) à une supervision unifiée, et alimenter la GMAO avec des données terrain en temps réel pour passer d'une maintenance curative à une maintenance préventive basée sur l'état réel des équipements.",
+      "de": "Verbinden Sie die Anlagen von Industriegebäuden (HLK, Beleuchtung, Energie, Versorgungseinrichtungen) mit einer einheitlichen Überwachung und versorgen Sie das Instandhaltungsmanagement mit Echtzeit-Felddaten, um von einer reaktiven zu einer zustandsbasierten vorausschauenden Instandhaltung überzugehen."
+    },
+    "data.highlights[@rm3KPO].text": {
+      "source": "GTB : supervision CVC, éclairage, énergie, groupes froids, compresseurs, utilités",
+      "de": "GTB: Überwachung von HLK, Beleuchtung, Energie, Kälteanlagen, Kompressoren, Versorgungseinrichtungen"
+    },
+    "data.highlights[@K23dKP].text": {
+      "source": "Protocoles BACnet IP/MS-TP, Modbus TCP/RTU, LonWorks — intégration de tous les équipements terrain existants",
+      "de": "BACnet IP/MS-TP, Modbus TCP/RTU, LonWorks-Protokolle – Integration aller vorhandenen Feldgeräte"
+    },
+    "data.highlights[@uIzDD2].text": {
+      "source": "Tableau de bord énergie : consommation par zone, par équipement, par heure — détection des dérives",
+      "de": "Energie-Dashboard: Verbrauch pro Zone, pro Gerät, pro Stunde – Erkennung von Abweichungen"
+    },
+    "data.highlights[@gjhkMP].text": {
+      "source": "GMAO : gestion des ordres de travail, planification maintenance préventive, historique des interventions",
+      "de": "GMAO: Verwaltung von Arbeitsaufträgen, Planung vorbeugender Instandhaltung, Historie der Einsätze"
+    },
+    "data.highlights[@7f2E1C].text": {
+      "source": "Déclenchement automatique des OT préventifs depuis les données terrain (compteurs horaires, températures, vibrations)",
+      "de": "Automatisches Auslösen von vorbeugenden Arbeitsaufträgen basierend auf Felddaten (Betriebsstundenzähler, Temperaturen, Vibrationen)"
+    },
+    "data.highlights[@c1UM0o].text": {
+      "source": "Supervision unifiée process + bâtiment sur une seule plateforme Ignition — une seule interface pour tout",
+      "de": "Einheitliche Überwachung von Prozess und Gebäude auf einer einzigen Ignition-Plattform – eine einzige Schnittstelle für alles"
+    },
+    "data.conclusion": {
+      "source": "Résultat : des consommations énergétiques maîtrisées, des pannes évitées grâce à la maintenance préventive, et une traçabilité complète de toutes les interventions — accessible par toute l'équipe maintenance.",
+      "de": "Ergebnis: Beherrschte Energieverbräuche, vermiedene Ausfälle dank vorbeugender Instandhaltung und vollständige Rückverfolgbarkeit aller Einsätze – zugänglich für das gesamte Wartungsteam."
+    },
+    "data.image.alt": {
+      "source": "GTB supervision bâtiment industriel GMAO maintenance AUTEM",
+      "de": "GTB Gebäudeüberwachung Industrie GMAO Wartung AUTEM"
+    }
+  }
+}

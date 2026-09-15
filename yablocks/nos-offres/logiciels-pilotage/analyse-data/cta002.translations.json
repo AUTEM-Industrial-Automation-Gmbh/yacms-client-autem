@@ -1,0 +1,25 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Vous savez qu'il y a des pertes, mais pas exactement où ni combien ?",
+      "de": "Sie wissen, dass es Verluste gibt, aber nicht genau wo oder wie viel?"
+    },
+    "data.benefits[@dqSjnD].text": {
+      "source": "Analyse Pareto, VSM et arbre des causes — depuis vos données réelles",
+      "de": "Pareto-Analyse, VSM und Ursachenanalyse – basierend auf Ihren realen Daten"
+    },
+    "data.benefits[@bdfQah].text": {
+      "source": "Feuille de route priorisée avec ROI chiffré et hypothèses transparentes",
+      "de": "Priorisierte Roadmap mit beziffertem ROI und transparenten Annahmen"
+    },
+    "data.benefits[@FqYkec].text": {
+      "source": "Livrables actionnables et défendables en comité de direction",
+      "de": "Umsetzbare und vor der Geschäftsleitung verteidigbare Ergebnisse"
+    },
+    "data.cta.text": {
+      "source": "Demander un diagnostic data",
+      "de": "Datenanalyse anfordern"
+    }
+  }
+}
