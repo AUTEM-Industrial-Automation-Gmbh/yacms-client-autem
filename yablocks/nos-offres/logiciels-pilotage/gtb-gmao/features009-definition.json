@@ -8,27 +8,34 @@
     "title": "Supervision bâtiment et maintenance pilotée par les données : périmètre",
     "paragraphs": [
       {
-        "text": "Connecter les équipements du bâtiment industriel (CVC, éclairage, énergie, utilités) à une supervision unifiée, et alimenter la GMAO avec des données terrain en temps réel pour passer d'une maintenance curative à une maintenance préventive basée sur l'état réel des équipements."
+        "text": "Connecter les équipements du bâtiment industriel (CVC, éclairage, énergie, utilités) à une supervision unifiée, et alimenter la GMAO avec des données terrain en temps réel pour passer d'une maintenance curative à une maintenance préventive basée sur l'état réel des équipements.",
+        "_tid": "t2NJh9"
       }
     ],
     "highlights": [
       {
-        "text": "GTB : supervision CVC, éclairage, énergie, groupes froids, compresseurs, utilités"
+        "text": "GTB : supervision CVC, éclairage, énergie, groupes froids, compresseurs, utilités",
+        "_tid": "rm3KPO"
       },
       {
-        "text": "Protocoles BACnet IP/MS-TP, Modbus TCP/RTU, LonWorks — intégration de tous les équipements terrain existants"
+        "text": "Protocoles BACnet IP/MS-TP, Modbus TCP/RTU, LonWorks — intégration de tous les équipements terrain existants",
+        "_tid": "K23dKP"
       },
       {
-        "text": "Tableau de bord énergie : consommation par zone, par équipement, par heure — détection des dérives"
+        "text": "Tableau de bord énergie : consommation par zone, par équipement, par heure — détection des dérives",
+        "_tid": "uIzDD2"
       },
       {
-        "text": "GMAO : gestion des ordres de travail, planification maintenance préventive, historique des interventions"
+        "text": "GMAO : gestion des ordres de travail, planification maintenance préventive, historique des interventions",
+        "_tid": "gjhkMP"
       },
       {
-        "text": "Déclenchement automatique des OT préventifs depuis les données terrain (compteurs horaires, températures, vibrations)"
+        "text": "Déclenchement automatique des OT préventifs depuis les données terrain (compteurs horaires, températures, vibrations)",
+        "_tid": "7f2E1C"
       },
       {
-        "text": "Supervision unifiée process + bâtiment sur une seule plateforme Ignition — une seule interface pour tout"
+        "text": "Supervision unifiée process + bâtiment sur une seule plateforme Ignition — une seule interface pour tout",
+        "_tid": "c1UM0o"
       }
     ],
     "conclusion": "Résultat : des consommations énergétiques maîtrisées, des pannes évitées grâce à la maintenance préventive, et une traçabilité complète de toutes les interventions — accessible par toute l'équipe maintenance.",

@@ -1,0 +1,37 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.badges[@XSAopF].alt": {
+      "source": "Siemens — Desigo GTB",
+      "de": "Siemens — Desigo GLT"
+    },
+    "data.badges[@QJYz7O].alt": {
+      "source": "Schneider — EcoStruxure Building",
+      "de": "Schneider — EcoStruxure Building"
+    },
+    "data.badges[@AyTLhO].alt": {
+      "source": "Ignition — supervision GTB industrielle",
+      "de": "Ignition — Industrielle GLT-Überwachung"
+    },
+    "data.headline": {
+      "source": "Un bâtiment industriel non supervisé est une facture énergétique que vous payez sans jamais pouvoir l'expliquer.",
+      "de": "Ein nicht überwachtes Industriegebäude ist eine Energierechnung, die Sie bezahlen, ohne sie jemals erklären zu können."
+    },
+    "data.paragraphs[@hgbA4H].text": {
+      "source": "La GTB (Gestion Technique du Bâtiment) est le chaînon manquant dans beaucoup d'usines. Les automates de production sont supervisés — mais le CVC, l'éclairage, l'énergie globale, les groupes froids, les compresseurs d'air et les utilités ne le sont pas. Résultat : personne ne sait vraiment pourquoi la facture électrique augmente, ni quand un groupe froid commence à dériver avant la panne.",
+      "de": "Die GLT (Gebäudeleittechnik) ist das fehlende Bindeglied in vielen Fabriken. Produktionssteuerungen werden überwacht – aber HLK, Beleuchtung, Gesamtenergie, Kältemaschinen, Luftkompressoren und Versorgungsanlagen nicht. Ergebnis: Niemand weiß wirklich, warum die Stromrechnung steigt, oder wann eine Kältemaschine vor dem Ausfall zu driften beginnt."
+    },
+    "data.paragraphs[@jSHhnj].text": {
+      "source": "La GMAO (Gestion de Maintenance Assistée par Ordinateur) est dans le même cas. Beaucoup d'entreprises ont un système GMAO — mais il n'est pas alimenté en temps réel par les données terrain. Les ordres de travail préventifs sont générés sur calendrier, pas sur l'état réel des équipements. Et quand un technicien intervient, l'historique des pannes précédentes est dans la tête du plus expérimenté, pas dans une base de données consultable.",
+      "de": "Das Instandhaltungsmanagement (Computerized Maintenance Management System, CMMS) ist in der gleichen Situation. Viele Unternehmen verfügen über ein CMMS-System – aber es wird nicht in Echtzeit mit Daten vom Feld gespeist. Präventive Arbeitsaufträge werden nach Kalender generiert, nicht nach dem tatsächlichen Zustand der Anlagen. Und wenn ein Techniker eingreift, liegt die Historie früherer Ausfälle im Gedächtnis des Erfahrensten, nicht in einer abrufbaren Datenbank."
+    },
+    "data.paragraphs[@2Sxb8v].text": {
+      "source": "AUTEM intègre la GTB et la GMAO avec la même rigueur que pour la supervision process : les équipements du bâtiment (CVC, éclairage, énergie) sont connectés via BACnet ou Modbus, visualisés dans une supervision unifiée avec Ignition, et les données d'état remontent automatiquement dans votre GMAO pour déclencher les ordres de travail au bon moment.",
+      "de": "AUTEM integriert GLT und Instandhaltungsmanagement mit der gleichen Sorgfalt wie die Prozessüberwachung: Die Gebäudeanlagen (HLK, Beleuchtung, Energie) werden über BACnet oder Modbus angeschlossen, in einer einheitlichen Überwachung mit Ignition visualisiert und die Zustandsdaten werden automatisch in Ihr Instandhaltungsmanagement übertragen, um Arbeitsaufträge zum richtigen Zeitpunkt auszulösen."
+    },
+    "data.closing": {
+      "source": "Une GTB bien intégrée ne coûte pas — elle économise : énergie, pièces de rechange, et temps de production perdu sur des pannes évitables.",
+      "de": "Eine gut integrierte GLT kostet nicht – sie spart: Energie, Ersatzteile und Produktionszeit, die durch vermeidbare Ausfälle verloren geht."
+    }
+  }
+}

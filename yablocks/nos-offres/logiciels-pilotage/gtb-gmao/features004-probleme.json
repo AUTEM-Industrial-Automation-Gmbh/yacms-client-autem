@@ -7,27 +7,33 @@
     "badges": [
       {
         "src": "/logos/siemens.png",
-        "alt": "Siemens — Desigo GTB"
+        "alt": "Siemens — Desigo GTB",
+        "_tid": "XSAopF"
       },
       {
         "src": "/logos/schneider.png",
-        "alt": "Schneider — EcoStruxure Building"
+        "alt": "Schneider — EcoStruxure Building",
+        "_tid": "QJYz7O"
       },
       {
         "src": "/logos/ignition.png",
-        "alt": "Ignition — supervision GTB industrielle"
+        "alt": "Ignition — supervision GTB industrielle",
+        "_tid": "AyTLhO"
       }
     ],
     "headline": "Un bâtiment industriel non supervisé est une facture énergétique que vous payez sans jamais pouvoir l'expliquer.",
     "paragraphs": [
       {
-        "text": "La GTB (Gestion Technique du Bâtiment) est le chaînon manquant dans beaucoup d'usines. Les automates de production sont supervisés — mais le CVC, l'éclairage, l'énergie globale, les groupes froids, les compresseurs d'air et les utilités ne le sont pas. Résultat : personne ne sait vraiment pourquoi la facture électrique augmente, ni quand un groupe froid commence à dériver avant la panne."
+        "text": "La GTB (Gestion Technique du Bâtiment) est le chaînon manquant dans beaucoup d'usines. Les automates de production sont supervisés — mais le CVC, l'éclairage, l'énergie globale, les groupes froids, les compresseurs d'air et les utilités ne le sont pas. Résultat : personne ne sait vraiment pourquoi la facture électrique augmente, ni quand un groupe froid commence à dériver avant la panne.",
+        "_tid": "hgbA4H"
       },
       {
-        "text": "La GMAO (Gestion de Maintenance Assistée par Ordinateur) est dans le même cas. Beaucoup d'entreprises ont un système GMAO — mais il n'est pas alimenté en temps réel par les données terrain. Les ordres de travail préventifs sont générés sur calendrier, pas sur l'état réel des équipements. Et quand un technicien intervient, l'historique des pannes précédentes est dans la tête du plus expérimenté, pas dans une base de données consultable."
+        "text": "La GMAO (Gestion de Maintenance Assistée par Ordinateur) est dans le même cas. Beaucoup d'entreprises ont un système GMAO — mais il n'est pas alimenté en temps réel par les données terrain. Les ordres de travail préventifs sont générés sur calendrier, pas sur l'état réel des équipements. Et quand un technicien intervient, l'historique des pannes précédentes est dans la tête du plus expérimenté, pas dans une base de données consultable.",
+        "_tid": "jSHhnj"
       },
       {
-        "text": "AUTEM intègre la GTB et la GMAO avec la même rigueur que pour la supervision process : les équipements du bâtiment (CVC, éclairage, énergie) sont connectés via BACnet ou Modbus, visualisés dans une supervision unifiée avec Ignition, et les données d'état remontent automatiquement dans votre GMAO pour déclencher les ordres de travail au bon moment."
+        "text": "AUTEM intègre la GTB et la GMAO avec la même rigueur que pour la supervision process : les équipements du bâtiment (CVC, éclairage, énergie) sont connectés via BACnet ou Modbus, visualisés dans une supervision unifiée avec Ignition, et les données d'état remontent automatiquement dans votre GMAO pour déclencher les ordres de travail au bon moment.",
+        "_tid": "2Sxb8v"
       }
     ],
     "closing": "Une GTB bien intégrée ne coûte pas — elle économise : énergie, pièces de rechange, et temps de production perdu sur des pannes évitables."
