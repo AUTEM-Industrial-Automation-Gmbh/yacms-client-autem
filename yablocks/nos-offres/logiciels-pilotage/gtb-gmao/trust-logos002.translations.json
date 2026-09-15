@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Protocoles et équipements GTB maîtrisés",
+      "de": "Beherrschte GLT-Protokolle und -Anlagen"
+    },
+    "data.subtitle": {
+      "source": "Agnostique fabricant — nous nous adaptons aux équipements de votre bâtiment industriel existant",
+      "de": "Herstellerunabhängig – wir passen uns an die Anlagen Ihres bestehenden Industriegebäudes an"
+    },
+    "data.logos[@1Unfjy].alt": {
+      "source": "Siemens — Desigo GTB, régulateurs CVC",
+      "de": "Siemens – Desigo GLT, HLK-Regler"
+    },
+    "data.logos[@hxrVGj].alt": {
+      "source": "Schneider Electric — EcoStruxure Building",
+      "de": "Schneider Electric – EcoStruxure Building"
+    },
+    "data.logos[@Hc6WF6].alt": {
+      "source": "Ignition — supervision GTB unifiée",
+      "de": "Ignition – vereinheitlichte GLT-Überwachung"
+    },
+    "data.logos[@SiRLzA].alt": {
+      "source": "Eaton — distribution électrique industrielle",
+      "de": "Eaton – industrielle Stromverteilung"
+    },
+    "data.logos[@K7ex3u].alt": {
+      "source": "Pepperl+Fuchs — instrumentation terrain",
+      "de": "Pepperl+Fuchs – Feldinstrumentierung"
+    }
+  }
+}

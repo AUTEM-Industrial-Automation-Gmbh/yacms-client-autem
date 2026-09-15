@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Projet Thalys Bruxelles — IoT télémétrie maintenance préventive AUTEM",
+      "de": "Projekt Thalys Brüssel – IoT Telemetrie vorausschauende Wartung AUTEM"
+    },
+    "data.quote": {
+      "source": "La mise en place de la télémétrie et du suivi de maintenance par AUTEM a transformé notre approche opérationnelle. Les interventions sont désormais anticipées, documentées et planifiées — les pannes non planifiées ont significativement diminué.",
+      "de": "Die Implementierung der Telemetrie und der Wartungsüberwachung durch AUTEM hat unseren operativen Ansatz verändert. Eingriffe werden nun antizipiert, dokumentiert und geplant – ungeplante Ausfälle sind signifikant zurückgegangen."
+    },
+    "data.author.name": {
+      "source": "Responsable Maintenance",
+      "de": "Leiter Instandhaltung"
+    },
+    "data.author.role": {
+      "source": "Thalys — Bruxelles",
+      "de": "Thalys – Brüssel"
+    }
+  }
+}
