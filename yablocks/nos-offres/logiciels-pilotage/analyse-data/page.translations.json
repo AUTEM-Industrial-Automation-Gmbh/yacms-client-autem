@@ -1,0 +1,43 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Analyse Data — Pareto, VSM, ROI | AUTEM",
+      "de": "Datenanalyse — Pareto, VSM, ROI | AUTEM",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "AUTEM analyse vos données de production : Pareto, VSM, ROI. Identifiez les pertes, cartographiez vos flux et chiffrez vos améliorations.",
+      "de": "AUTEM analysiert Ihre Produktionsdaten: Pareto, VSM, ROI. Identifizieren Sie Verluste, bilden Sie Ihre Prozesse ab und beziffern Sie Ihre Verbesserungen.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "analyse data industrielle",
+        "Pareto production",
+        "VSM Value Stream Mapping",
+        "ROI amélioration continue",
+        "diagnostic performance industrielle",
+        "KPI usine",
+        "lean manufacturing",
+        "AUTEM"
+      ],
+      "de": [
+        "industrielle Datenanalyse",
+        "Pareto Produktion",
+        "VSM Value Stream Mapping",
+        "ROI kontinuierliche Verbesserung",
+        "industrielle Leistungsdiagnose",
+        "Werks-KPIs",
+        "Lean Manufacturing",
+        "AUTEM"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Analyse data industrielle Pareto VSM ROI",
+      "de": "AUTEM — Industrielle Datenanalyse Pareto VSM ROI",
+      "de:manual": true
+    }
+  }
+}

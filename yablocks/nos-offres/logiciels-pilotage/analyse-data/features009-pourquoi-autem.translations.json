@@ -1,0 +1,49 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "POURQUOI AUTEM",
+      "de": "WARUM AUTEM"
+    },
+    "data.title": {
+      "source": "Analyse terrain, pas analyse de tableaux de bord.",
+      "de": "Geländeanalyse statt Dashboard-Analyse."
+    },
+    "data.paragraphs[@1eapUr].text": {
+      "source": "Une analyse Pareto menée depuis un bureau sur des données mal collectées aboutit à de mauvais plans d'action. AUTEM mène ses analyses de terrain : nous observons, nous interrogeons les opérateurs, nous croisons les données avec ce que nous voyons — et nous livrons des conclusions que votre équipe peut défendre.",
+      "de": "Eine Pareto-Analyse, die im Büro auf schlecht gesammelten Daten durchgeführt wird, führt zu falschen Handlungsplänen. AUTEM führt seine Analysen vor Ort durch: Wir beobachten, befragen die Mitarbeiter, gleichen die Daten mit dem ab, was wir sehen – und liefern Schlussfolgerungen, die Ihr Team vertreten kann."
+    },
+    "data.highlights[@PZwSed].text": {
+      "source": "Nous partons des données réelles : SCADA, automates, ERP, papier si nécessaire — pas d'hypothèses théoriques",
+      "de": "Wir gehen von realen Daten aus: SCADA, SPS, ERP, bei Bedarf auch Papier – keine theoretischen Annahmen."
+    },
+    "data.highlights[@LHa4iG].text": {
+      "source": "Double compétence automatisme + analyse industrielle : nous comprenons pourquoi une panne se produit, pas seulement qu'elle se produit",
+      "de": "Doppelte Kompetenz Automatisierungstechnik + Industrieanalyse: Wir verstehen, warum ein Ausfall auftritt, nicht nur, dass er auftritt."
+    },
+    "data.highlights[@ICzP5o].text": {
+      "source": "Indépendance totale : nos recommandations ne sont liées à aucune vente de logiciel ou d'équipement",
+      "de": "Völlige Unabhängigkeit: Unsere Empfehlungen sind an keinen Software- oder Geräteverkauf gebunden."
+    },
+    "data.highlights[@IVulkE].text": {
+      "source": "Méthodologie structurée : Pareto + VSM + arbre des causes + ROI, livrés ensemble, pas séparément",
+      "de": "Strukturierte Methodik: Pareto + VSM + Ursachenbaum + ROI, zusammen geliefert, nicht getrennt."
+    },
+    "data.highlights[@ecA29L].text": {
+      "source": "Livrables actionnables et défendables en comité de direction — avec chiffres et hypothèses transparentes",
+      "de": "Umsetzbare und vertretbare Ergebnisse für die Geschäftsleitung – mit transparenten Zahlen und Annahmen."
+    },
+    "data.highlights[@OCYyaT].text": {
+      "source": "Transfert de méthode : vos équipes apprennent à reproduire l'analyse en autonomie",
+      "de": "Methodentransfer: Ihre Teams lernen, die Analyse selbstständig zu wiederholen."
+    },
+    "data.conclusion": {
+      "source": "Le résultat : vous savez où sont vos vraies pertes, combien elles coûtent, et dans quel ordre les traiter — sans avoir à deviner.",
+      "de": "Das Ergebnis: Sie wissen, wo Ihre wirklichen Verluste liegen, was sie kosten und in welcher Reihenfolge Sie sie angehen müssen – ohne raten zu müssen."
+    },
+    "data.image.alt": {
+      "source": "Ingénieur AUTEM — analyse data Pareto VSM performance industrielle",
+      "de": "AUTEM-Ingenieur – Pareto-Datenanalyse VSM industrielle Leistung"
+    }
+  }
+}
