@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "LOGICIELS DE PILOTAGE",
+      "de": "STEUERSOFTWARE"
+    },
+    "data.title": {
+      "source": "Analyse Data — Pareto, VSM, ROI.",
+      "de": "Datenanalyse — Pareto, VSM, ROI."
+    },
+    "data.subtitle": {
+      "source": "Vous collectez des données depuis des années. Mais savoir où sont vraiment les pertes, quelles actions prioriser et quel ROI attendre ? AUTEM structure votre donnée, identifie les vrais leviers et chiffre les gains avant de commencer.",
+      "de": "Sie sammeln seit Jahren Daten. Aber wissen Sie wirklich, wo die Verluste liegen, welche Maßnahmen Priorität haben und welchen ROI Sie erwarten können? AUTEM strukturiert Ihre Daten, identifiziert die wahren Hebel und beziffert die Gewinne, bevor Sie beginnen."
+    },
+    "data.backgroundImage.alt": {
+      "source": "Analyse data industrielle Pareto VSM ROI — AUTEM",
+      "de": "Industrielle Datenanalyse Pareto VSM ROI — AUTEM"
+    }
+  }
+}
