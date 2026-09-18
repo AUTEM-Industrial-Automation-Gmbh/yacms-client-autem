@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Résultats & Apprentissages",
+      "de": "Ergebnisse & Lernerfahrungen"
+    },
+    "data.content": {
+      "source": "<ul><li><strong>Ligne remise en service dans les délais</strong> avec qualification GMP maintenue et aucune non-conformité documentaire ;</li><li>Installation électrique entièrement conforme aux normes NF EN 60204-1 et aux exigences GMP pharma ;</li><li><strong>Plans as-built complets</strong> remis à bioMérieux pour faciliter les futures interventions de maintenance ;</li><li>Réduction du risque d'arrêt non planifié grâce au remplacement des composants en fin de vie ;</li><li>Équipes maintenance bioMérieux formées sur la nouvelle installation et les nouveaux schémas électriques.</li></ul>",
+      "de": "<ul><li><strong>Linie termingerecht wieder in Betrieb genommen</strong> unter Beibehaltung der GMP-Qualifizierung und ohne dokumentarische Beanstandungen;</li><li>Elektrische Anlage vollständig konform mit den Normen NF EN 60204-1 und den pharmazeutischen GMP-Anforderungen;</li><li><strong>Vollständige As-built-Pläne</strong> an bioMérieux übergeben, um zukünftige Wartungsarbeiten zu erleichtern;</li><li>Reduzierung des Risikos ungeplanter Ausfälle durch den Austausch von Komponenten am Ende ihrer Lebensdauer;</li><li>Wartungsteams von bioMérieux geschult für die neue Anlage und die neuen Schaltpläne.</li></ul>"
+    }
+  }
+}

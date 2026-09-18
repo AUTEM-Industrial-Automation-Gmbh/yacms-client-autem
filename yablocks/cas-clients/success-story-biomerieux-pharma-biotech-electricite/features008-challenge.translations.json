@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Challenge & Objectif",
+      "de": "Herausforderung & Ziel"
+    },
+    "data.content": {
+      "source": "<p>La mission confiée à AUTEM portait sur le <strong>rétrofit complet de l'installation électrique et du câblage de la ligne de conditionnement aseptisée</strong> : remplacement des armoires électriques vétustes, refonte du câblage terrain et mise en conformité avec les normes GMP et les directives machines.</p><p>Parmi les défis identifiés :</p><ul><li>Intervention en zone propre — protocoles de gestion des contaminations stricts sur tout le chantier ;</li><li>Maintien de la <strong>qualification GMP</strong> de la ligne : chaque modification électrique devait être documentée et qualifiée selon les exigences 21 CFR Part 211 ;</li><li>Remplacement des armoires électriques en fin de vie avec câblage complet dans un espace contraint ;</li><li>Coordination étroite avec les équipes Procédés et Qualité bioMérieux pour la validation de chaque phase ;</li><li>Durée d'indisponibilité minimisée pour limiter l'impact sur le planning de production des lots de réactifs.</li></ul>",
+      "de": "<p>Der AUTEM anvertraute Auftrag umfasste das <strong>vollständige Retrofit der elektrischen Anlage und der Verkabelung der aseptischen Abfüllanlage</strong>: Austausch veralteter Schaltschränke, Überarbeitung der Feldverkabelung und Anpassung an GMP-Normen und Maschinenrichtlinien.</p><p>Zu den identifizierten Herausforderungen gehörten:</p><ul><li>Eingriffe in Reinräumen – strenge Protokolle zur Kontaminationskontrolle während der gesamten Baustelle;</li><li>Aufrechterhaltung der <strong>GMP-Qualifizierung</strong> der Anlage: Jede elektrische Änderung musste gemäß den Anforderungen von 21 CFR Part 211 dokumentiert und qualifiziert werden;</li><li>Austausch von Schaltschränken am Ende ihrer Lebensdauer mit vollständiger Verkabelung auf engstem Raum;</li><li>Enge Koordination mit den Prozess- und Qualitätsteams von bioMérieux zur Validierung jeder Phase;</li><li>Minimierte Stillstandszeiten zur Begrenzung der Auswirkungen auf den Produktionsplan für Reagenzienchargen.</li></ul>"
+    }
+  }
+}

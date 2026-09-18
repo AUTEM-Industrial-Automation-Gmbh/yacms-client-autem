@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Stratégie",
+      "de": "Strategie"
+    },
+    "data.content": {
+      "source": "<ol><li><p><strong>Audit électrique et plan de rétrofit</strong><br>Analyse complète de l'installation existante, identification des non-conformités normatives (NF EN 60204-1, ATEX si applicable) et élaboration du plan d'intervention phasé compatible avec les impératifs de production.</p></li><li><p><strong>Conception et fabrication des nouvelles armoires électriques</strong><br>Conception des schémas électriques conformes aux normes en vigueur, fabrication des armoires avec composants certifiés, et tests FAT en atelier avant intervention sur site.</p></li><li><p><strong>Chantier électrique en zone propre</strong><br>Réalisation du câblage terrain et remplacement des armoires selon les procédures qualifiées : gestion des contaminations, traçabilité de chaque câble et connexion dans les plans de câblage as-built.</p></li><li><p><strong>Qualification et remise en service</strong><br>Exécution des tests IQ/OQ avec enregistrement des paramètres, validation de l'intégrité aseptique et remise de la documentation complète au service Qualité bioMérieux.</p></li></ol>",
+      "de": "<ol><li><p><strong>Elektrische Prüfung und Nachrüstungsplan</strong><br>Umfassende Analyse der bestehenden Anlage, Identifizierung von Abweichungen von den Normen (NF EN 60204-1, ATEX, falls zutreffend) und Ausarbeitung eines phasenweisen Interventionsplans, der mit den Produktionsanforderungen vereinbar ist.</p></li><li><p><strong>Konstruktion und Herstellung neuer Schaltschränke</strong><br>Entwurf von Schaltplänen gemäß den geltenden Normen, Herstellung der Schränke mit zertifizierten Komponenten und FAT-Tests im Werk vor der Intervention vor Ort.</p></li><li><p><strong>Elektrische Baustelle in Reinraumzone</strong><br>Durchführung der Feldverkabelung und Austausch der Schränke gemäß qualifizierten Verfahren: Verwaltung von Kontaminationen, Rückverfolgbarkeit jedes Kabels und jeder Verbindung in den As-built-Verkabelungsplänen.</p></li><li><p><strong>Qualifizierung und Inbetriebnahme</strong><br>Durchführung von IQ/OQ-Tests mit Aufzeichnung der Parameter, Validierung der aseptischen Integrität und Übergabe der vollständigen Dokumentation an die Qualitätsabteilung von bioMérieux.</p></li></ol>"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Ligne de conditionnement bioMérieux",
+      "de": "Abfüllanlage von bioMérieux"
+    },
+    "data.quote": {
+      "source": "AUTEM a parfaitement intégré les contraintes d'un environnement aseptique et réglementaire pharma. La rigueur du chantier, la qualité de la documentation de qualification et le respect du planning d'arrêt de ligne témoignent d'une vraie maîtrise des interventions en milieu GMP.",
+      "de": "AUTEM hat die Einschränkungen eines aseptischen und pharmazeutischen regulatorischen Umfelds perfekt integriert. Die Sorgfalt der Baustelle, die Qualität der Qualifizierungsdokumentation und die Einhaltung des Stillstandszeitplans zeugen von einer echten Beherrschung von Eingriffen in GMP-Umgebungen."
+    },
+    "data.author.name": {
+      "source": "Responsable Maintenance",
+      "de": "Leiter Instandhaltung"
+    },
+    "data.author.role": {
+      "source": "bioMérieux — Site de production France",
+      "de": "bioMérieux – Produktionsstandort Frankreich"
+    }
+  }
+}
