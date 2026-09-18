@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.clientLogo.alt": {
+      "source": "Medtronic",
+      "de": "Medtronic"
+    },
+    "data.title": {
+      "source": "Revamping automatisme du four de séchage — Ligne pacemakers",
+      "de": "Modernisierung der Trockenofen-Automatisierung – Herzschrittmacherlinie"
+    },
+    "data.tags[@3XnMwC].label": {
+      "source": "PC Industriel",
+      "de": "Industrie-PC"
+    },
+    "data.tags[@Qtj1qv].label": {
+      "source": "MES-OEE",
+      "de": "MES-OEE"
+    },
+    "data.tags[@kLdRaD].label": {
+      "source": "Architecture Systèmes",
+      "de": "Systemarchitektur"
+    },
+    "data.tags[@KEJcqe].label": {
+      "source": "Cycle de Vie et Obsolescence",
+      "de": "Lebenszyklus und Obsoleszenz"
+    },
+    "data.tags[@TL2HXe].label": {
+      "source": "Pharma-Biotech-Medical",
+      "de": "Pharma-Biotech-Medizin"
+    }
+  }
+}

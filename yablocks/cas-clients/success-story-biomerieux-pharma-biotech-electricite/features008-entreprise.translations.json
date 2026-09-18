@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "L'entreprise",
+      "de": "Das Unternehmen"
+    },
+    "data.content": {
+      "source": "<p>bioMérieux est un <strong>leader mondial du diagnostic in vitro</strong>, présent dans plus de 160 pays avec des solutions de microbiologie et d'immunologie destinées aux laboratoires cliniques et industriels. Son site de production français fabrique des réactifs et des consommables biologiques soumis aux exigences les plus strictes des industries pharmaceutiques et agroalimentaires.</p><p>La ligne de conditionnement aseptisée est un équipement critique : elle assure le remplissage et le scellement sous atmosphère contrôlée de flacons et de cartouches contenant des réactifs biologiques sensibles. Le <strong>maintien de l'intégrité aseptique</strong> tout au long du process et la qualification GMP de toute intervention sont des impératifs absolus.</p>",
+      "de": "<p>bioMérieux ist ein <strong>weltweit führendes Unternehmen im Bereich der In-vitro-Diagnostik</strong> und in mehr als 160 Ländern mit Mikrobiologie- und Immunologielösungen für klinische und industrielle Labore vertreten. Sein französischer Produktionsstandort stellt biologische Reagenzien und Verbrauchsmaterialien her, die den strengsten Anforderungen der Pharma- und Lebensmittelindustrie unterliegen.</p><p>Die aseptische Abfüllanlage ist eine kritische Ausrüstung: Sie gewährleistet das Abfüllen und Verschließen von Fläschchen und Kartuschen mit empfindlichen biologischen Reagenzien unter kontrollierter Atmosphäre. Die <strong>Aufrechterhaltung der aseptischen Integrität</strong> während des gesamten Prozesses und die GMP-Qualifizierung aller Eingriffe sind absolute Notwendigkeiten.</p>"
+    }
+  }
+}

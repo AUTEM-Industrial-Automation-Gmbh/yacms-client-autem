@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Challenge & Objectif",
+      "de": "Herausforderung & Ziel"
+    },
+    "data.content": {
+      "source": "<p>La mission confiée à AUTEM portait sur l’<strong>analyse des goulots d’étranglement</strong> et la fiabilisation du pilotage des flux de caisses sur le site logistique. L’objectif était de comprendre, à partir des données disponibles et des observations terrain, pourquoi certaines zones du système ne permettaient pas d’atteindre les cadences attendues sur tous les créneaux horaires.</p><p>Les principaux enjeux identifiés étaient les suivants :</p><ul><li>Mesurer les cadences réelles par ligne et par plage horaire afin de comparer les performances au besoin opérationnel ;</li><li>Identifier les zones générant le plus d’arrêts et de blocages récurrents sur le tampon à caisses ;</li><li>Qualifier les causes principales des perturbations, qu’elles soient mécaniques, automatiques ou liées à l’exploitation ;</li><li>Structurer les données de production pour fiabiliser les analyses OEE et faciliter le suivi dans les outils de supervision ;</li><li>Proposer un plan d’action réaliste, compatible avec le fonctionnement du site en conditions réelles d’exploitation.</li></ul>",
+      "de": "<p>Die AUTEM übertragene Aufgabe bestand in der <strong>Analyse von Engpässen</strong> und der Zuverlässigkeit der Steuerung der Kistenströme im Logistikzentrum. Ziel war es, anhand der verfügbaren Daten und Feldbeobachtungen zu verstehen, warum bestimmte Bereiche des Systems die erwarteten Durchsätze nicht in allen Zeitfenstern erreichen konnten.</p><p>Die wichtigsten identifizierten Herausforderungen waren:</p><ul><li>Messung der tatsächlichen Durchsätze pro Linie und pro Zeitfenster, um die Leistung mit dem operativen Bedarf zu vergleichen;</li><li>Identifizierung der Bereiche, die die meisten wiederkehrenden Stopps und Blockaden im Kistenpuffer verursachen;</li><li>Qualifizierung der Hauptursachen für Störungen, seien sie mechanischer, automatischer oder betriebsbedingter Natur;</li><li>Strukturierung der Produktionsdaten zur Zuverlässigkeitssteigerung der OEE-Analysen und zur Erleichterung der Überwachung in den Überwachungswerkzeugen;</li><li>Vorschlag eines realistischen Aktionsplans, der mit dem Betrieb des Standorts unter realen Betriebsbedingungen vereinbar ist.</li></ul>"
+    }
+  }
+}

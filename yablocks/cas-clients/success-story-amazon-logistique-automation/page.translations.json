@@ -1,0 +1,39 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Amazon — Automatisation d'entrepôt mécanisé : convoyage, traçabilité et WCS | AUTEM",
+      "de": "Amazon – Mechanisierte Lagerautomatisierung: Fördertechnik, Rückverfolgbarkeit und WCS | AUTEM",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Découvrez comment AUTEM a automatisé un entrepôt mécanisé Amazon à Paris : systèmes de convoyage, traçabilité colis et WCS (Warehouse Control System).",
+      "de": "Erfahren Sie, wie AUTEM ein automatisiertes Lager für Amazon in Paris realisiert hat: Fördertechnik, Paketverfolgung und WCS (Warehouse Control System).",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "automatisme logistique",
+        "WCS entrepôt",
+        "convoyage automatisé",
+        "traçabilité colis",
+        "automatisme Amazon",
+        "AUTEM réalisation"
+      ],
+      "de": [
+        "Logistikautomatisierung",
+        "Lager WCS",
+        "automatisierte Fördertechnik",
+        "Paketverfolgung",
+        "Amazon-Automatisierung",
+        "AUTEM-Realisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Cas client industriel automatisme et SCADA",
+      "de": "AUTEM – Industriekundenfall Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}

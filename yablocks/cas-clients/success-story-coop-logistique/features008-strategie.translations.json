@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Stratégie",
+      "de": "Strategie"
+    },
+    "data.content": {
+      "source": "<ol><li><p><strong>Analyse des données de production</strong>\nExploitation des historiques disponibles pour comparer les cadences réelles aux besoins théoriques, avec une lecture par ligne, par heure et par période d’activité dans la base AVEVA PI (OSISoft PI Vision).</p></li><li><p><strong>Identification des goulots d’étranglement</strong>\nAnalyse détaillée des zones de ralentissement et des causes de blocage, en particulier sur les ascenseurs, convoyeurs et buffers du tampon à caisses.</p></li><li><p><strong>Structuration du suivi opérationnel</strong>\nMise en forme des indicateurs nécessaires au suivi des performances, afin de faciliter la lecture des écarts et le partage avec les équipes de terrain.</p></li><li><p><strong>Plan d’actions priorisé</strong>\nDéfinition d’actions ciblées pour améliorer les cadences, réduire les blocages récurrents et renforcer la remontée d’information lors des incidents.</p></li></ol>",
+      "de": "<ul><li><p><strong>Analyse der Produktionsdaten</strong><br>Auswertung der verfügbaren Historien, um tatsächliche Taktraten mit theoretischen Anforderungen zu vergleichen, mit einer Lesung pro Linie, pro Stunde und pro Aktivitätsperiode in der AVEVA PI-Datenbank (OSISoft PI Vision).</p></li><li><p><strong>Identifizierung von Engpässen</strong><br>Detaillierte Analyse von Verlangsamungsbereichen und Blockierungsursachen, insbesondere bei Aufzügen, Förderbändern und Kistenpuffern.</p></li><li><p><strong>Strukturierung der operativen Überwachung</strong><br>Formatierung der für die Leistungsüberwachung erforderlichen Indikatoren, um die Abweichungen leichter lesen und mit den Außendienstteams teilen zu können.</p></li><li><p><strong>Priorisierte Maßnahmenplanung</strong><br>Definition gezielter Maßnahmen zur Verbesserung der Taktraten, zur Reduzierung wiederkehrender Blockaden und zur Stärkung der Informationsweitergabe bei Zwischenfällen.</p></li></ul>"
+    }
+  }
+}

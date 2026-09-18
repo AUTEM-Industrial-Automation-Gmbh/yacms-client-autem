@@ -1,0 +1,25 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.clientLogo.alt": {
+      "source": "COOP",
+      "de": "COOP"
+    },
+    "data.title": {
+      "source": "Automatisation d'un stockeur logistique",
+      "de": "Automatisierung eines Logistiklagers"
+    },
+    "data.tags[@bDbhc8].label": {
+      "source": "Logistique",
+      "de": "Logistik"
+    },
+    "data.tags[@FD26iL].label": {
+      "source": "Agroalimentaire",
+      "de": "Lebensmittel"
+    },
+    "data.tags[@aKUmCv].label": {
+      "source": "Cycle de Vie et Obsolescence",
+      "de": "Lebenszyklus und Obsoleszenz"
+    }
+  }
+}

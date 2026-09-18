@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.clientLogo.alt": {
+      "source": "bioMérieux",
+      "de": "bioMérieux"
+    },
+    "data.title": {
+      "source": "Rétrofit de la ligne de conditionnement aseptisée bioMérieux",
+      "de": "Retrofit der aseptischen Abfüllanlage von bioMérieux"
+    },
+    "data.tags[@l4wwaC].label": {
+      "source": "Pharma-Biotech-Medical",
+      "de": "Pharma-Biotech-Medizin"
+    },
+    "data.tags[@tLrh7Y].label": {
+      "source": "Electricité",
+      "de": "Elektrik"
+    }
+  }
+}

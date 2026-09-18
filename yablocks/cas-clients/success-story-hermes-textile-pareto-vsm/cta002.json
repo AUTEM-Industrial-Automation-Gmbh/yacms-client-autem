@@ -8,15 +8,18 @@
     "benefits": [
       {
         "icon": "award",
-        "text": "Intégrateur Ignition Certifié GOLD"
+        "text": "Intégrateur Ignition Certifié GOLD",
+        "_tid": "CdGeYy"
       },
       {
         "icon": "shield",
-        "text": "Expertise multi-constructeurs (Siemens, Rockwell, Schneider)"
+        "text": "Expertise multi-constructeurs (Siemens, Rockwell, Schneider)",
+        "_tid": "RLlSpi"
       },
       {
         "icon": "users",
-        "text": "Interventions France & International"
+        "text": "Interventions France & International",
+        "_tid": "YC68rA"
       }
     ],
     "cta": {

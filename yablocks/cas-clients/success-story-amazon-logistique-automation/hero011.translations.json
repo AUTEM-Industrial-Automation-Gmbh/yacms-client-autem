@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.clientLogo.alt": {
+      "source": "Amazon",
+      "de": "Amazon"
+    },
+    "data.title": {
+      "source": "Automatisation d'entrepôt mécanisé : convoyage, traçabilité et WCS",
+      "de": "Automatisierte Lagerlogistik: Fördertechnik, Rückverfolgbarkeit und WCS"
+    },
+    "data.tags[@yinBHt].label": {
+      "source": "Logistique",
+      "de": "Logistik"
+    },
+    "data.tags[@nW13V6].label": {
+      "source": "Automatisme",
+      "de": "Automatisierung"
+    }
+  }
+}

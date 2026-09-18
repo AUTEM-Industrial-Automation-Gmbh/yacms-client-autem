@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Challenge & Objectif",
+      "de": "Herausforderung & Ziel"
+    },
+    "data.content": {
+      "source": "<p>La mission portait sur la <strong>programmation complète d'une machine de compactage de papier</strong> : automate industriel, cycles de compactage, gestion des sécurités opérateur et IHM de conduite.</p><ul><li>Gestion des <strong>cycles de compactage</strong> avec contrôle de la force de presse, détection de bourrage et gestion des fins de cycle ;</li><li>Sécurités opérateur conformes aux normes machines européennes (EN 13849) : barrières immatérielles, verrouillages, arrêt d'urgence ;</li><li>IHM intuitive permettant aux opérateurs non-automaticiens de conduire la machine de façon autonome ;</li><li>Tests FAT chez BEMA puis mise en service SAT sur site client.</li></ul>",
+      "de": "<p>Die Aufgabe umfasste die <strong>vollständige Programmierung einer Papierpresse</strong>: Industrie-SPS, Presszyklen, Verwaltung der Bedienersicherheit und der Fahr-HMI.</p><ul><li>Verwaltung der <strong>Presszyklen</strong> mit Steuerung der Presskraft, Stau-Erkennung und Zyklusende-Management;</li><li>Bedienersicherheit gemäß europäischen Maschinenrichtlinien (EN 13849): Lichtschranken, Verriegelungen, Not-Aus;</li><li>Intuitive HMI, die es Nicht-Automatisierungstechnikern ermöglicht, die Maschine autonom zu bedienen;</li><li>FAT-Tests bei BEMA, gefolgt von der SAT-Inbetriebnahme beim Kunden vor Ort.</li></ul>"
+    }
+  }
+}

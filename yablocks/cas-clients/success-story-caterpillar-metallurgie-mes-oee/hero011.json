@@ -13,11 +13,13 @@
     "tags": [
       {
         "label": "Metallurgie",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "5N6zgb"
       },
       {
         "label": "MES-OEE",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "qWJifc"
       }
     ]
   }

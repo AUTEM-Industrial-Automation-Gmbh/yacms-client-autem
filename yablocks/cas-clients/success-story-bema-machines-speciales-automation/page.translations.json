@@ -1,0 +1,39 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "BEMA — Programmation d'une machine de compactage de papier | AUTEM",
+      "de": "BEMA — Programmierung einer Papierpressenmaschine | AUTEM",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "AUTEM a programmé l'automate et l'IHM d'une machine de compactage de papier pour BEMA à Grenoble : cycles de compactage, sécurités et mise en service.",
+      "de": "AUTEM hat die SPS und das HMI einer Papierpressenmaschine für BEMA in Grenoble programmiert: Presszyklen, Sicherheitsfunktionen und Inbetriebnahme.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "machine compactage papier",
+        "programmation automate",
+        "machines spéciales",
+        "BEMA Grenoble",
+        "automatisme machine",
+        "AUTEM réalisation"
+      ],
+      "de": [
+        "Papierpresse",
+        "SPS Programmierung",
+        "Sondermaschinen",
+        "BEMA Grenoble",
+        "Maschinenautomatisierung",
+        "AUTEM Realisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Cas client industriel automatisme et SCADA",
+      "de": "AUTEM — Industriefall Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}

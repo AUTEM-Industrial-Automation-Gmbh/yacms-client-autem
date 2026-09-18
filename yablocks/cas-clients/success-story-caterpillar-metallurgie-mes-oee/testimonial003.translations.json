@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Usine de production Caterpillar",
+      "de": "Caterpillar Produktionsanlage"
+    },
+    "data.quote": {
+      "source": " Grâce à l’intégration menée par AUTEM, nos équipes disposent désormais d’un indicateur OEE fiable et visualisable en continu. Les décisions d’amélioration sont déclenchées sur base de données factuelles, ce qui renforce considérablement notre réactivité et la précision de nos analyses de performance. ",
+      "de": " Dank der von AUTEM durchgeführten Integration verfügen unsere Teams nun über eine zuverlässige und kontinuierlich visualisierbare OEE-Kennzahl. Verbesserungsentscheidungen werden auf der Grundlage von Fakten getroffen, was unsere Reaktionsfähigkeit und die Genauigkeit unserer Leistungsanalysen erheblich verbessert. "
+    },
+    "data.author.name": {
+      "source": "Responsable Performance Industrielle",
+      "de": "Leiter Industrielle Leistung"
+    },
+    "data.author.role": {
+      "source": "Caterpillar — Usine de production",
+      "de": "Caterpillar — Produktionsanlage"
+    }
+  }
+}

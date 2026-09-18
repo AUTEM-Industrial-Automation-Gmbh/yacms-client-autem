@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Ligne de fabrication dispositifs médicaux",
+      "de": "Fertigungslinie für Medizinprodukte"
+    },
+    "data.quote": {
+      "source": "AUTEM a su naviguer avec maîtrise dans un environnement réglementaire très exigeant. Le revamping a été conduit de façon transparente : les paramètres du process sont restés stables, la qualification FDA a été maintenue, et nous disposons désormais d'un système moderne et pleinement intégré à notre MES.",
+      "de": "AUTEM hat es verstanden, sich mit Meisterschaft in einem sehr anspruchsvollen regulatorischen Umfeld zu bewegen. Die Modernisierung wurde transparent durchgeführt: Die Prozessparameter blieben stabil, die FDA-Qualifizierung wurde beibehalten und wir verfügen nun über ein modernes System, das vollständig in unser MES integriert ist."
+    },
+    "data.author.name": {
+      "source": "Ingénieur Process",
+      "de": "Prozessingenieur"
+    },
+    "data.author.role": {
+      "source": "Medtronic — Ligne pacemakers",
+      "de": "Medtronic – Herzschrittmacherlinie"
+    }
+  }
+}

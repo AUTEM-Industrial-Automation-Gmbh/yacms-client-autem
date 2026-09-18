@@ -1,0 +1,25 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.clientLogo.alt": {
+      "source": "BEMA",
+      "de": "BEMA"
+    },
+    "data.title": {
+      "source": "Programmation d'une machine de compactage de papier",
+      "de": "Programmierung einer Papierpresse"
+    },
+    "data.tags[@ejUdaf].label": {
+      "source": "Machines spéciales",
+      "de": "Sondermaschinen"
+    },
+    "data.tags[@UdQL3U].label": {
+      "source": "Automatisme",
+      "de": "Automatisierung"
+    },
+    "data.tags[@DqbB2o].label": {
+      "source": "Bois-Wood-Holz",
+      "de": "Holz-Wood-Bois"
+    }
+  }
+}

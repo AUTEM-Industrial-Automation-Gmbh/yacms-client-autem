@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Challenge & Objectif",
+      "de": "Herausforderung & Ziel"
+    },
+    "data.content": {
+      "source": "<p>La mission confiée à AUTEM portait sur la <strong>conception de l'architecture des systèmes de contrôle-commande</strong> d'une installation industrielle au sein d'un atelier de production parisien d'Hermès. Le défi principal résidait dans l'intégration d'équipements hétérogènes dans un environnement à très haute exigence de <strong>fiabilité et de traçabilité</strong>.</p><p>Parmi les contraintes identifiées :</p><ul><li>Équipements multi-constructeurs à interfacer sur un réseau industriel unifié ;</li><li>Exigences strictes de <strong>traçabilité des matières</strong> et des pièces en cours de fabrication ;</li><li>Disponibilité maximale requise — tout arrêt machine impacte directement la chaîne artisanale ;</li><li>Respect des contraintes architecturales des ateliers (esthétique, discrétion des installations).</li></ul><p>L'objectif était de livrer une <strong>architecture documentée, validée et maintenable</strong>, transférable aux équipes internes Hermès pour les opérations courantes et les évolutions futures.</p>",
+      "de": "<p>Die AUTEM übertragene Aufgabe umfasste die <strong>Konzeption der Steuerungsarchitektur</strong> einer Industrieanlage in einer Pariser Produktionswerkstatt von Hermès. Die Hauptherausforderung bestand in der Integration heterogener Geräte in eine Umgebung mit sehr hohen Anforderungen an <strong>Zuverlässigkeit und Rückverfolgbarkeit</strong>.</p><p>Zu den identifizierten Einschränkungen gehörten:</p><ul><li>Schnittstellen für Geräte verschiedener Hersteller in einem einheitlichen Industrienetzwerk;</li><li>Strenge Anforderungen an die <strong>Rückverfolgbarkeit von Materialien</strong> und Teilen während der Herstellung;</li><li>Maximale Verfügbarkeit erforderlich – jeder Maschinenstillstand wirkt sich direkt auf die handwerkliche Kette aus;</li><li>Einhaltung der architektonischen Gegebenheiten der Werkstätten (Ästhetik, Diskretion der Anlagen).</li></ul><p>Ziel war die Lieferung einer <strong>dokumentierten, validierten und wartbaren Architektur</strong>, die für den laufenden Betrieb und zukünftige Weiterentwicklungen an die internen Teams von Hermès übertragen werden kann.</p>"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "L'entreprise",
+      "de": "Das Unternehmen"
+    },
+    "data.content": {
+      "source": "<p><strong>AUTEM Services</strong> a accompagné <strong>Caterpillar</strong>, acteur mondial des moteurs et équipements industriels, dans la digitalisation de ses processus de production sur son site de mécanique de précision. Ce site fabrique des composants essentiels de moteurs — tels que boîtiers et engrenages — soumis à des niveaux de qualité, de traçabilité et de productivité particulièrement élevés. L’amélioration continue du TRS (Taux de Rendement Synthétique) constitue un levier stratégique pour Caterpillar, clairement orienté vers une exploitation optimisée des données issues du terrain.</p>",
+      "de": "<p><strong>AUTEM Services</strong> hat <strong>Caterpillar</strong>, einen weltweit führenden Anbieter von Motoren und Industrieanlagen, bei der Digitalisierung seiner Produktionsprozesse in seinem Präzisionsmechanikwerk unterstützt. Dieses Werk stellt wesentliche Motorkomponenten – wie Gehäuse und Zahnräder – her, die besonders hohen Qualitäts-, Rückverfolgbarkeits- und Produktivitätsanforderungen unterliegen. Die kontinuierliche Verbesserung der Gesamtanlageneffektivität (OEE) ist ein strategischer Hebel für Caterpillar, der klar auf eine optimierte Nutzung der Daten aus dem Feld ausgerichtet ist.</p>"
+    }
+  }
+}

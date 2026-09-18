@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Challenge & Objectif",
+      "de": "Herausforderung & Ziel"
+    },
+    "data.content": {
+      "source": "<p>La mission confiée à AUTEM portait sur le <strong>revamping complet de l'automatisme du four de séchage</strong> de la ligne pacemakers Medtronic : remplacer le PC industriel et le logiciel de contrôle en fin de vie, tout en conservant la qualification FDA du process et en intégrant le suivi MES-OEE.</p><p>Parmi les défis identifiés :</p><ul><li><strong>Contraintes réglementaires sévères</strong> (FDA 21 CFR Part 11, GAMP5) imposant une validation documentaire exhaustive de chaque modification ;</li><li>PC industriel et OS en fin de support — risque cybersécurité élevé et pièces de rechange introuvables ;</li><li>Continuité du process qualifié : les paramètres thermiques et la logique de séquençage ne devaient pas être altérés ;</li><li>Intégration du nouveau système dans le MES Medtronic pour la remontée automatique des données OEE et de traçabilité lot ;</li><li>Zéro arrêt non planifié toléré sur une ligne à forte valeur ajoutée et aux cadences contraintes.</li></ul>",
+      "de": "<p>Die AUTEM übertragene Aufgabe bestand in der <strong>vollständigen Modernisierung der Trockenofen-Automatisierung</strong> der Medtronic-Herzschrittmacherlinie: Austausch des Industrie-PCs und der Steuersoftware am Ende ihrer Lebensdauer unter Beibehaltung der FDA-Qualifizierung des Prozesses und Integration der MES-OEE-Überwachung.</p><p>Zu den identifizierten Herausforderungen gehörten:</p><ul><li><strong>Strenge regulatorische Auflagen</strong> (FDA 21 CFR Part 11, GAMP5), die eine umfassende dokumentarische Validierung jeder Änderung erfordern;</li><li>Industrie-PC und Betriebssystem am Ende des Supports – hohes Cybersicherheitsrisiko und nicht mehr verfügbare Ersatzteile;</li><li>Kontinuität des qualifizierten Prozesses: Die thermischen Parameter und die Sequenzierungslogik durften nicht verändert werden;</li><li>Integration des neuen Systems in das Medtronic MES zur automatischen Übermittlung von OEE- und Chargenrückverfolgbarkeitsdaten;</li><li>Keine tolerierbaren ungeplanten Stillstände in einer Linie mit hohem Mehrwert und begrenzten Taktraten.</li></ul>"
+    }
+  }
+}

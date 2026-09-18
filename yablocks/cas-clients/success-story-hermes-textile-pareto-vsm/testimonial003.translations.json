@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Atelier industriel",
+      "de": "Industriewerkstatt"
+    },
+    "data.quote": {
+      "source": "AUTEM a su s'adapter à nos contraintes d'atelier avec sérieux et professionnalisme. L'architecture livrée est claire, bien documentée et nos équipes ont pu la prendre en main rapidement. Nous recommandons leur expertise pour tout projet d'automatisme en environnement de production exigeant.",
+      "de": "AUTEM konnte sich mit Ernsthaftigkeit und Professionalität an unsere Werkstattbedingungen anpassen. Die gelieferte Architektur ist klar, gut dokumentiert und unsere Teams konnten sie schnell übernehmen. Wir empfehlen ihre Expertise für jedes Automatisierungsprojekt in anspruchsvollen Produktionsumgebungen."
+    },
+    "data.author.name": {
+      "source": "Responsable Technique",
+      "de": "Technischer Leiter"
+    },
+    "data.author.role": {
+      "source": "Hermès — Atelier de production Paris",
+      "de": "Hermès — Pariser Produktionswerkstatt"
+    }
+  }
+}

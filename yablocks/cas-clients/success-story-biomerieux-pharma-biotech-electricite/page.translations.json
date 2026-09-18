@@ -1,0 +1,37 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "bioMérieux — Rétrofit ligne de conditionnement aseptisée | AUTEM",
+      "de": "bioMérieux — Retrofit aseptischer Abfülllinie | AUTEM",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Découvrez comment AUTEM a réalisé le rétrofit électrique et automatisme de la ligne de conditionnement aseptisée bioMérieux : coffrets électriques, câblage industriel et mise en service.",
+      "de": "Erfahren Sie, wie AUTEM den elektrischen Retrofit und die Automatisierung der aseptischen Abfülllinie von bioMérieux durchgeführt hat: Schaltschränke, industrielle Verkabelung und Inbetriebnahme.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "rétrofit ligne conditionnement",
+        "automatisme pharma",
+        "bioMérieux électricité",
+        "conditionnement aseptisé",
+        "AUTEM réalisation"
+      ],
+      "de": [
+        "Retrofit Abfülllinie",
+        "Pharma-Automatisierung",
+        "bioMérieux Elektrik",
+        "aseptische Abfüllung",
+        "AUTEM Realisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Cas client industriel automatisme et SCADA",
+      "de": "AUTEM — Industriefall Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}

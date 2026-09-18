@@ -1,0 +1,41 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Medtronic — Revamping automatisme four de séchage ligne pacemakers | AUTEM",
+      "de": "Medtronic — Umbau von Trockenofen-Automatisierung für Herzschrittmacher-Linien | AUTEM",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Découvrez comment AUTEM a réalisé le revamping de l'automatisme du four de séchage sur la ligne pacemakers Medtronic : PC industriel, MES-OEE et gestion de l'obsolescence.",
+      "de": "Erfahren Sie, wie AUTEM die Automatisierung eines Trockenofens für Medtronic-Herzschrittmacher-Linien umgebaut hat: Industrie-PCs, MES-OEE und Obsoleszenzmanagement.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "revamping automatisme",
+        "four de séchage",
+        "PC industriel",
+        "MES OEE médical",
+        "medtronic automatisme",
+        "cycle de vie équipements",
+        "AUTEM réalisation"
+      ],
+      "de": [
+        "Umbau Automatisierung",
+        "Trockenofen",
+        "Industrie-PC",
+        "MES OEE Medizin",
+        "Medtronic Automatisierung",
+        "Lebenszyklus von Geräten",
+        "AUTEM Realisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Cas client industriel automatisme et SCADA",
+      "de": "AUTEM – Industriekundenfall Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}

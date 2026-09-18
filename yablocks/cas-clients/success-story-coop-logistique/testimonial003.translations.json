@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Entrepôt logistique automatisé",
+      "de": "Automatisiertes Logistiklager"
+    },
+    "data.quote": {
+      "source": "Les analyses ont permis de mettre en évidence les écarts de performance entre les lignes, ainsi que les zones de blocage les plus pénalisantes pour le débit global. AUTEM a su proposer une lecture claire des données et des actions concrètes, directement exploitables par les équipes techniques et maintenance.",
+      "de": "Die Analysen haben die Leistungsunterschiede zwischen den Linien sowie die blockierenden Bereiche, die den Gesamtdurchsatz am stärksten beeinträchtigen, aufgezeigt. AUTEM konnte eine klare Interpretation der Daten und konkrete, direkt von den technischen und Wartungsteams nutzbare Maßnahmen vorschlagen."
+    },
+    "data.author.name": {
+      "source": "Responsable Logistique",
+      "de": "Logistikverantwortlicher"
+    },
+    "data.author.role": {
+      "source": "COOP — Plateforme logistique",
+      "de": "COOP — Logistikplattform"
+    }
+  }
+}

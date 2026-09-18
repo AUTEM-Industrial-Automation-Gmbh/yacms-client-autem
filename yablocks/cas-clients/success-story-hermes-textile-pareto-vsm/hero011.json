@@ -13,11 +13,13 @@
     "tags": [
       {
         "label": "Luxe",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "cgAEqb"
       },
       {
         "label": "Automatisme",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "KVofMS"
       }
     ]
   }

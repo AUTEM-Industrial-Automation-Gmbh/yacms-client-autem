@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.clientLogo.alt": {
+      "source": "Hermès",
+      "de": "Hermès"
+    },
+    "data.title": {
+      "source": "Architecture des systèmes de contrôle et automatismes industriels",
+      "de": "Architektur von Steuerungs- und Industrieautomatisierungssystemen"
+    },
+    "data.tags[@cgAEqb].label": {
+      "source": "Luxe",
+      "de": "Luxus"
+    },
+    "data.tags[@KVofMS].label": {
+      "source": "Automatisme",
+      "de": "Automatisierung"
+    }
+  }
+}
