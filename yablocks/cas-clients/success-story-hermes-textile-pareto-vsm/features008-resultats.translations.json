@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Résultats & Apprentissages",
+      "de": "Ergebnisse & Erkenntnisse"
+    },
+    "data.content": {
+      "source": "<ul><li><strong>Architecture validée et mise en service</strong> dans les délais impartis, sans interruption de la production artisanale ;</li><li><strong>Documentation technique complète</strong> remise aux équipes Hermès, permettant une prise en main autonome pour la maintenance et les évolutions ;</li><li><strong>Réseau industriel Profinet</strong> stable et segmenté, répondant aux exigences de disponibilité et de sécurité fonctionnelle du site ;</li><li><strong>Traçabilité des équipements</strong> assurée dès le démarrage, facilitant les audits internes et la conformité réglementaire ;</li><li>Mission réalisée en <strong>environnement contraint</strong> (atelier en activité), démontrant la capacité d'AUTEM à intervenir dans des contextes exigeants sans impact sur la production.</li></ul>",
+      "de": "<ul><li><strong>Architektur validiert und in Betrieb genommen</strong> innerhalb der vorgegebenen Fristen, ohne Unterbrechung der handwerklichen Produktion;</li><li><strong>Vollständige technische Dokumentation</strong> an die Hermès-Teams übergeben, die eine eigenständige Übernahme für Wartung und Weiterentwicklung ermöglicht;</li><li><strong>Stabiles und segmentiertes Profinet-Industrienetzwerk</strong>, das die Anforderungen an Verfügbarkeit und funktionale Sicherheit des Standorts erfüllt;</li><li><strong>Rückverfolgbarkeit der Geräte</strong> ab Inbetriebnahme gewährleistet, was interne Audits und die Einhaltung von Vorschriften erleichtert;</li><li>Mission durchgeführt in einer <strong>eingeschränkten Umgebung</strong> (laufende Werkstatt), was die Fähigkeit von AUTEM demonstriert, in anspruchsvollen Kontexten ohne Beeinträchtigung der Produktion zu agieren.</li></ul>"
+    }
+  }
+}

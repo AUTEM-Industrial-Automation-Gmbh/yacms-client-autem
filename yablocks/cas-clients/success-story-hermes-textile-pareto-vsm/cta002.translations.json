@@ -1,0 +1,25 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Un projet d'automatisme ou de digitalisation industrielle ?",
+      "de": "Ein Projekt für Automatisierung oder industrielle Digitalisierung?"
+    },
+    "data.benefits[@CdGeYy].text": {
+      "source": "Intégrateur Ignition Certifié GOLD",
+      "de": "Zertifizierter GOLD Ignition Integrator"
+    },
+    "data.benefits[@RLlSpi].text": {
+      "source": "Expertise multi-constructeurs (Siemens, Rockwell, Schneider)",
+      "de": "Multi-Hersteller-Expertise (Siemens, Rockwell, Schneider)"
+    },
+    "data.benefits[@YC68rA].text": {
+      "source": "Interventions France & International",
+      "de": "Einsätze in Frankreich & International"
+    },
+    "data.cta.text": {
+      "source": "Contactez-nous",
+      "de": "Kontaktieren Sie uns"
+    }
+  }
+}

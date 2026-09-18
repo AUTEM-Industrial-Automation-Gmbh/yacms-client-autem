@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "L'entreprise",
+      "de": "Das Unternehmen"
+    },
+    "data.content": {
+      "source": "<p>Hermès est une <strong>maison de luxe française</strong> fondée en 1837 à Paris, reconnue mondialement pour la qualité artisanale de ses produits en cuir, soieries, prêt-à-porter et parfumerie. Avec plus de <strong>300 boutiques dans le monde</strong> et une production majoritairement réalisée en France dans ses ateliers (les « maisons »), Hermès maintient un niveau d'exigence exceptionnel sur chacune de ses lignes de fabrication.</p><p>Dans le cadre de ses investissements continus en faveur de l'<strong>optimisation des conditions de travail artisanal</strong>, la maison intègre des technologies d'automatisme et de contrôle industriel dans ses ateliers de production, tout en préservant le savoir-faire humain au cœur du processus de fabrication.</p>",
+      "de": "<p>Hermès ist ein <strong>französisches Luxusmodehaus</strong>, das 1837 in Paris gegründet wurde und weltweit für die handwerkliche Qualität seiner Lederwaren, Seidenstoffe, Prêt-à-porter-Kleidung und Parfüms bekannt ist. Mit über <strong>300 Boutiquen weltweit</strong> und einer Produktion, die überwiegend in Frankreich in seinen Werkstätten (den „Maisons“) stattfindet, hält Hermès einen außergewöhnlichen Qualitätsstandard für jede seiner Produktionslinien aufrecht.</p><p>Im Rahmen seiner kontinuierlichen Investitionen zur <strong>Optimierung der handwerklichen Arbeitsbedingungen</strong> integriert das Modehaus Automatisierungs- und Industriesteuerungstechnologien in seine Produktionswerkstätten und bewahrt gleichzeitig das menschliche Know-how im Mittelpunkt des Herstellungsprozesses.</p>"
+    }
+  }
+}
