@@ -13,11 +13,13 @@
     "tags": [
       {
         "label": "Logistique",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "yinBHt"
       },
       {
         "label": "Automatisme",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "nW13V6"
       }
     ]
   }

@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Challenge & Objectif",
+      "de": "Herausforderung & Ziel"
+    },
+    "data.content": {
+      "source": "<p>La mission confiée à AUTEM portait sur l'<strong>automatisation d'un entrepôt mécanisé</strong> : intégrer dans un système de contrôle unifié des équipements hétérogènes (convoyeurs, trieurs, portiques codes-barres, bras de palettisation) afin d'atteindre les cadences cibles et garantir la traçabilité de chaque colis.</p><p>Parmi les défis identifiés :</p><ul><li>Hétérogénéité des équipements terrain (multi-fournisseurs) à interfacer sur un réseau industriel commun ;</li><li>Exigences de <strong>disponibilité maximale</strong> — tout arrêt se traduit directement par un retard de livraison ;</li><li>Traçabilité à 100% des colis depuis l'entrée en entrepôt jusqu'à l'expédition ;</li><li>Intégration du WCS avec le WMS (Warehouse Management System) d'Amazon ;</li><li>Contraintes de déploiement en entrepôt en activité, avec plages de maintenance réduites.</li></ul>",
+      "de": "<p>Die der AUTEM übertragene Aufgabe bestand in der <strong>Automatisierung eines mechanisierten Lagers</strong>: Integration heterogener Geräte (Förderbänder, Sortieranlagen, Barcode-Scanner, Palettierroboter) in ein einheitliches Steuerungssystem, um die Ziel-Taktzeiten zu erreichen und die Rückverfolgbarkeit jedes Pakets zu gewährleisten.</p><p>Zu den identifizierten Herausforderungen gehörten:</p><ul><li>Heterogenität der Feldgeräte (verschiedene Anbieter), die in ein gemeinsames Industrienetzwerk integriert werden müssen;</li><li>Anforderungen an <strong>maximale Verfügbarkeit</strong> – jeder Ausfall führt direkt zu Lieferverzögerungen;</li><li>100%ige Rückverfolgbarkeit der Pakete vom Wareneingang bis zum Versand;</li><li>Integration des WCS mit dem WMS (Warehouse Management System) von Amazon;</li><li>Einschränkungen bei der Bereitstellung im laufenden Lagerbetrieb mit begrenzten Wartungsfenstern.</li></ul>"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "L'entreprise",
+      "de": "Das Unternehmen"
+    },
+    "data.content": {
+      "source": "<p>Amazon est le <strong>leader mondial du e-commerce et de la logistique</strong>, exploitant en France un réseau de centres de distribution hautement automatisés pour satisfaire des millions de commandes quotidiennes. Son site logistique parisien est un entrepôt mécanisé de grande envergure, conçu pour traiter des volumes importants de colis avec des cadences exigeantes.</p><p>L'automatisation des entrepôts Amazon repose sur une architecture de contrôle complexe intégrant des <strong>systèmes de convoyage, de tri automatique, de palettisation et de traçabilité</strong> en temps réel — au cœur desquels intervient un WCS (Warehouse Control System) chargé de coordonner l'ensemble des équipements terrain.</p>",
+      "de": "<p>Amazon ist der <strong>weltweite Marktführer im E-Commerce und in der Logistik</strong> und betreibt in Frankreich ein Netzwerk hochautomatisierter Distributionszentren, um Millionen von täglichen Bestellungen zu bearbeiten. Der Logistikstandort Paris ist ein groß angelegtes, mechanisiertes Lager, das für die Abwicklung großer Paketvolumen mit anspruchsvollen Taktzeiten ausgelegt ist.</p><p>Die Automatisierung der Amazon-Lager basiert auf einer komplexen Steuerungsarchitektur, die <strong>Fördersysteme, automatische Sortierung, Palettierung und Echtzeit-Rückverfolgbarkeit</strong> integriert – im Mittelpunkt steht ein WCS (Warehouse Control System), das für die Koordination aller Feldgeräte zuständig ist.</p>"
+    }
+  }
+}

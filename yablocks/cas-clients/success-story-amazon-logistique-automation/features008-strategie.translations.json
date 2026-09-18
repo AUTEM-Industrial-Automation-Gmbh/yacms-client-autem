@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Stratégie",
+      "de": "Strategie"
+    },
+    "data.content": {
+      "source": "<ol><li><p><strong>Analyse des flux et spécification du WCS</strong><br>Cartographie complète des flux physiques de l'entrepôt, identification des points de convergence et des contraintes de cadence pour définir la logique de contrôle du WCS.</p></li><li><p><strong>Programmation des automates de convoyage</strong><br>Développement des programmes automates (Siemens S7 / Rockwell) pour piloter les convoyeurs, trieurs et équipements de manutention, avec gestion des accumulations, des aiguillages et des zones tampon.</p></li><li><p><strong>Intégration du système de traçabilité</strong><br>Mise en place des lecteurs codes-barres et portiques RFID, avec remontée des données en temps réel vers le WCS et synchronisation avec le WMS Amazon.</p></li><li><p><strong>Tests en usine (FAT) et mise en service (SAT)</strong><br>Validation des séquences en atelier avant déploiement sur site, puis mise en service progressive par zone pour limiter l'impact sur l'activité.</p></li></ol>",
+      "de": "<ol><li><p><strong>Analyse der Flüsse und Spezifikation des WCS</strong><br>Vollständige Kartierung der physischen Lagerflüsse, Identifizierung von Konvergenzpunkten und Taktzeitbeschränkungen zur Definition der Steuerungslogik des WCS.</p></li><li><p><strong>Programmierung der Förderanlagen-Steuerungen</strong><br>Entwicklung von SPS-Programmen (Siemens S7 / Rockwell) zur Steuerung von Förderbändern, Sortieranlagen und Handhabungsgeräten, einschließlich der Verwaltung von Staus, Weichen und Pufferzonen.</p></li><li><p><strong>Integration des Rückverfolgbarkeitssystems</strong><br>Installation von Barcode-Scannern und RFID-Gates mit Echtzeit-Datenübertragung an das WCS und Synchronisation mit dem Amazon WMS.</p></li><li><p><strong>Werksabnahme (FAT) und Inbetriebnahme (SAT)</strong><br>Validierung der Abläufe im Werk vor der Bereitstellung vor Ort, gefolgt von einer schrittweisen Inbetriebnahme nach Zonen, um die Auswirkungen auf den Betrieb zu begrenzen.</p></li></ol>"
+    }
+  }
+}

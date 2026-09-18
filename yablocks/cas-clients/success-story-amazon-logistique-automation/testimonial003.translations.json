@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Entrepôt logistique",
+      "de": "Logistiklager"
+    },
+    "data.quote": {
+      "source": "AUTEM a livré une intégration solide et dans les temps. L'équipe a su s'adapter aux contraintes de notre entrepôt en activité et la traçabilité est désormais totale sur l'ensemble du flux. Un partenaire fiable sur des projets d'automatisme industriel exigeants.",
+      "de": "AUTEM hat eine solide und termingerechte Integration geliefert. Das Team konnte sich an die Gegebenheiten unseres laufenden Lagerbetriebs anpassen und die Rückverfolgbarkeit über den gesamten Fluss ist nun vollständig. Ein zuverlässiger Partner für anspruchsvolle Projekte in der industriellen Automatisierung."
+    },
+    "data.author.name": {
+      "source": "Responsable Technique",
+      "de": "Technischer Leiter"
+    },
+    "data.author.role": {
+      "source": "Amazon — Site logistique Paris",
+      "de": "Amazon – Logistikstandort Paris"
+    }
+  }
+}
