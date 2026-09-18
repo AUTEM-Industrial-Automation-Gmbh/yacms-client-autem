@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "L'entreprise",
+      "de": "Das Unternehmen"
+    },
+    "data.content": {
+      "source": "<p>COOP est un <strong>acteur suisse majeur de la distribution</strong> coopérative disposant d’un réseau logistique hautement automatisé. Pour accompagner l’évolution de ses volumes et garantir une disponibilité optimale de ses produits, COOP a entrepris la modernisation d’une partie de ses infrastructures à Aclens, avec un accent particulier sur la digitalisation et la fiabilité de ses processus.</p>\n<p>Le stockeur logistique concerné est un <strong>système automatisé de grande capacité</strong> piloté par automates industriels et par un WMS avancé, permettant un suivi en temps réel de la disponibilité des emplacements et des cadences. Ce dispositif forme la colonne vertébrale du centre de distribution et impacte directement la performance des flux vers les points de vente.</p>",
+      "de": "<p>COOP ist ein <strong>führender Schweizer Akteur im genossenschaftlichen Vertrieb</strong> mit einem hochautomatisierten Logistiknetzwerk. Um die Entwicklung seines Volumens zu unterstützen und die optimale Verfügbarkeit seiner Produkte zu gewährleisten, hat COOP die Modernisierung eines Teils seiner Infrastruktur in Aclens eingeleitet, mit besonderem Schwerpunkt auf der Digitalisierung und Zuverlässigkeit seiner Prozesse.</p>\n<p>Das betreffende Logistiklager ist ein <strong>automatisiertes System mit großer Kapazität</strong>, das von Industrieautomaten und einem fortschrittlichen WMS gesteuert wird und eine Echtzeitverfolgung der Verfügbarkeit von Stellplätzen und Durchsätzen ermöglicht. Diese Einrichtung bildet das Rückgrat des Distributionszentrums und wirkt sich direkt auf die Leistung der Flüsse zu den Verkaufsstellen aus.</p>"
+    }
+  }
+}
