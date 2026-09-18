@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Résultats & Apprentissages",
+      "de": "Ergebnisse & Erkenntnisse"
+    },
+    "data.content": {
+      "source": "<ul><li><strong>Machine validée lors des tests FAT</strong> sans anomalie bloquante, avec toutes les sécurités conformes EN 13849 ;</li><li><strong>Mise en service SAT réussie</strong> avec formation des opérateurs réalisée en une journée grâce à la clarté de l'IHM ;</li><li>Cycles de compactage fiables et reproductibles, avec gestion robuste des bourrages ;</li><li>Documentation technique complète remise à BEMA pour la maintenance et la réplication éventuelle ;</li><li>Mission conduite dans les délais contractuels, permettant à BEMA de livrer sa machine client à temps.</li></ul>",
+      "de": "<ul><li><strong>Maschine während FAT-Tests ohne blockierende Anomalien validiert</strong>, alle Sicherheitsvorrichtungen gemäß EN 13849 konform;</li><li><strong>SAT-Inbetriebnahme erfolgreich</strong>, Schulung der Bediener dank klarer HMI an einem Tag abgeschlossen;</li><li>Zuverlässige und reproduzierbare Verdichtungszyklen mit robuster Stauverwaltung;</li><li>Vollständige technische Dokumentation an BEMA für Wartung und mögliche Replikation übergeben;</li><li>Auftrag innerhalb der vertraglichen Fristen abgeschlossen, sodass BEMA seine Maschine rechtzeitig an den Kunden liefern konnte.</li></ul>"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "L'entreprise",
+      "de": "Das Unternehmen"
+    },
+    "data.content": {
+      "source": "<p>BEMA est une <strong>entreprise grenobloise spécialisée dans la conception et la fabrication de machines spéciales</strong> pour le traitement de matériaux industriels. Sa gamme de produits comprend des machines de compactage, de broyage et de traitement des déchets industriels, conçues sur mesure pour les besoins spécifiques de ses clients industriels.</p><p>Dans le cadre du développement d'une nouvelle machine de compactage de papier destinée à réduire les volumes de déchets papier en environnement industriel, BEMA a fait appel à AUTEM pour la <strong>programmation de l'automate et le développement de l'IHM</strong>.</p>",
+      "de": "<p>BEMA ist ein <strong>Unternehmen aus Grenoble, das sich auf die Entwicklung und Herstellung von Sondermaschinen</strong> für die Behandlung von Industrieabfällen spezialisiert hat. Das Produktportfolio umfasst Pressen, Zerkleinerer und Maschinen zur Behandlung von Industrieabfällen, die auf die spezifischen Bedürfnisse seiner Industriekunden zugeschnitten sind.</p><p>Für die Entwicklung einer neuen Papierpresse zur Reduzierung von Papierabfallvolumen in industriellen Umgebungen beauftragte BEMA AUTEM mit der <strong>Programmierung der SPS und der Entwicklung der HMI</strong>.</p>"
+    }
+  }
+}
