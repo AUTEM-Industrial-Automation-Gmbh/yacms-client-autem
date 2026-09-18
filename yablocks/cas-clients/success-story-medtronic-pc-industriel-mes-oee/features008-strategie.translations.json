@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Stratégie",
+      "de": "Strategie"
+    },
+    "data.content": {
+      "source": "<ol><li><p><strong>Analyse fonctionnelle et plan de validation</strong><br>Rédaction du plan de qualification (IQ/OQ/PQ), analyse d'impact réglementaire des modifications, et cartographie complète du process existant pour garantir la fidélité des nouvelles spécifications.</p></li><li><p><strong>Remplacement du PC industriel et migration logicielle</strong><br>Sélection d'un PC industriel certifié et redéveloppement de l'application de contrôle sous environnement qualifié, avec maintien de tous les paramètres thermiques et des séquences de recette certifiées FDA.</p></li><li><p><strong>Intégration MES et collecte OEE</strong><br>Développement des interfaces entre le nouveau système de contrôle et le MES Medtronic pour la remontée automatique des données de production, des arrêts et des paramètres de traçabilité lot.</p></li><li><p><strong>Qualification et mise en production</strong><br>Exécution des protocoles IQ/OQ/PQ avec rédaction des rapports de qualification, revue documentaire réglementaire et reprise de production sans arrêt de la ligne.</p></li></ol>",
+      "de": "<ol><li><p><strong>Funktionale Analyse und Validierungsplan</strong><br>Erstellung des Qualifizierungsplans (IQ/OQ/PQ), Analyse der regulatorischen Auswirkungen von Änderungen und vollständige Kartierung des bestehenden Prozesses, um die Genauigkeit der neuen Spezifikationen zu gewährleisten.</p></li><li><p><strong>Austausch des Industrie-PCs und Softwaremigration</strong><br>Auswahl eines zertifizierten Industrie-PCs und Neuentwicklung der Steuerungsanwendung in einer qualifizierten Umgebung unter Beibehaltung aller thermischen Parameter und der FDA-zertifizierten Rezeptsequenzen.</p></li><li><p><strong>MES-Integration und OEE-Erfassung</strong><br>Entwicklung von Schnittstellen zwischen dem neuen Steuerungssystem und dem Medtronic MES zur automatischen Übermittlung von Produktionsdaten, Stillstandszeiten und Chargenrückverfolgbarkeitsparametern.</p></li><li><p><strong>Qualifizierung und Inbetriebnahme</strong><br>Ausführung der IQ/OQ/PQ-Protokolle mit Erstellung von Qualifizierungsberichten, Überprüfung der regulatorischen Dokumentation und Wiederaufnahme der Produktion ohne Produktionsunterbrechung.</p></li></ol>"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Résultats & Apprentissages",
+      "de": "Ergebnisse & Lernerfahrungen"
+    },
+    "data.content": {
+      "source": "<ul><li><strong>Qualification FDA maintenue</strong> — aucune non-conformité réglementaire lors de la revue documentaire ;</li><li>Risque d'obsolescence éliminé avec un PC industriel supporté et patchable sur 10 ans ;</li><li><strong>Données OEE remontées automatiquement</strong> dans le MES Medtronic pour la première fois, permettant le suivi des performances en temps réel ;</li><li>Zéro arrêt non planifié depuis le redémarrage de la ligne ;</li><li>Dossier de qualification complet transféré et archivé selon les exigences GAMP5 pour les prochains audits FDA.</li></ul>",
+      "de": "<ul><li><strong>FDA-Qualifizierung aufrechterhalten</strong> — keine regulatorischen Abweichungen während der Dokumentenprüfung;</li><li>Risiko der Obsoleszenz beseitigt mit einem Industrie-PC, der 10 Jahre lang unterstützt und gepatcht werden kann;</li><li><strong>OEE-Daten erstmals automatisch</strong> in das Medtronic MES übermittelt, was die Echtzeit-Leistungsverfolgung ermöglicht;</li><li>Keine ungeplanten Stillstände seit Wiederinbetriebnahme der Linie;</li><li>Vollständige Qualifizierungsakte gemäß GAMP5-Anforderungen für zukünftige FDA-Audits übertragen und archiviert.</li></ul>"
+    }
+  }
+}
