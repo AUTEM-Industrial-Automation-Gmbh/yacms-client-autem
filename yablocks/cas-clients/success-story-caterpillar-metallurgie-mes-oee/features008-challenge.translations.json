@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Challenge & Objectif",
+      "de": "Herausforderung & Ziel"
+    },
+    "data.content": {
+      "source": "<p>La mission d’AUTEM consistait à <strong>intégrer et automatiser le suivi du TRS/OEE</strong> sur plusieurs lignes de production, tout en connectant un parc hétérogène de machines aux outils de supervision existants. L’objectif : offrir une <strong>vision temps réel, fiable et consolidée</strong> de la performance industrielle, directement accessible depuis le système MES (SAP ME).</p>\n\n<p>Les principaux défis rencontrés :</p>\n<ul>\n<li>Connecter des lignes de production multi-constructeurs sans perturber les processus existants.</li>\n<li>Remplacer les saisies manuelles par une collecte automatique et normalisée des données terrain dans le logiciel Ignition.</li>\n<li>Structurer les typologies d’arrêts et de pertes en conformité avec les standards OEE Caterpillar mondiaux.</li>\n<li>Synchroniser les flux d’ordres de fabrication et de production entre l’infrastructure MES et les automatismes.</li>\n<li>Mobiliser et former les équipes méthodes, IT et production autour d’une plateforme commune de performance.</li>\n</ul>",
+      "de": "<p>Die Aufgabe von AUTEM bestand darin, die <strong>Überwachung von TRS/OEE zu integrieren und zu automatisieren</strong> über mehrere Produktionslinien hinweg, während gleichzeitig ein heterogener Maschinenpark mit den bestehenden Überwachungswerkzeugen verbunden wurde. Das Ziel: eine <strong>Echtzeit-, zuverlässige und konsolidierte Sicht</strong> auf die industrielle Leistung zu bieten, die direkt aus dem MES-System (SAP ME) abrufbar ist.</p>\n\n<p>Die wichtigsten Herausforderungen:</p>\n<ul>\n<li>Verbindung von Produktionslinien verschiedener Hersteller, ohne die bestehenden Prozesse zu stören.</li>\n<li>Ersetzung manueller Eingaben durch automatische und standardisierte Erfassung von Felddaten in der Ignition-Software.</li>\n<li>Strukturierung von Stillstands- und Verlustarten gemäß den weltweiten OEE-Standards von Caterpillar.</li>\n<li>Synchronisierung von Fertigungs- und Produktionsauftragsströmen zwischen der MES-Infrastruktur und der Automatisierung.</li>\n<li>Mobilisierung und Schulung der Methoden-, IT- und Produktionsteams rund um eine gemeinsame Leistungsplattform.</li>\n</ul>"
+    }
+  }
+}

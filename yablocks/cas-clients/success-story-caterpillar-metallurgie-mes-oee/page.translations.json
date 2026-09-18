@@ -1,0 +1,39 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Caterpillar — Intégration TRS, OEE et données MES | AUTEM",
+      "de": "Caterpillar — TRS-, OEE-Integration und MES-Daten | AUTEM",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Découvrez comment AUTEM a intégré le suivi TRS/OEE et les données MES dans l'usine Caterpillar : collecte de données terrain, tableaux de bord production et analyse des pertes.",
+      "de": "Erfahren Sie, wie AUTEM die Erfassung von OEE/TRS-Daten und MES-Daten in der Caterpillar-Fabrik integriert hat: Datenerfassung vor Ort, Produktions-Dashboards und Verlustanalyse.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "TRS OEE intégration",
+        "MES usine",
+        "Caterpillar automatisme",
+        "données production",
+        "performance industrielle",
+        "AUTEM réalisation"
+      ],
+      "de": [
+        "TRS OEE Integration",
+        "MES Fabrik",
+        "Caterpillar Automatisierung",
+        "Produktionsdaten",
+        "Industrielle Leistung",
+        "AUTEM Realisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Cas client industriel automatisme et SCADA",
+      "de": "AUTEM – Industriefall Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}

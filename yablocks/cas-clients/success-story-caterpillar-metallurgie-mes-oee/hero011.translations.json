@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.clientLogo.alt": {
+      "source": "Caterpillar",
+      "de": "Caterpillar"
+    },
+    "data.title": {
+      "source": "Intégration TRS, OEE et données MES pour l'usine Caterpillar",
+      "de": "Integration von TRS, OEE und MES-Daten für das Caterpillar-Werk"
+    },
+    "data.tags[@5N6zgb].label": {
+      "source": "Metallurgie",
+      "de": "Metallurgie"
+    },
+    "data.tags[@qWJifc].label": {
+      "source": "MES-OEE",
+      "de": "MES-OEE"
+    }
+  }
+}

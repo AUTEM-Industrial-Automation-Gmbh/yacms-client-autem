@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Résultats & Apprentissages",
+      "de": "Ergebnisse & Lernerfahrungen"
+    },
+    "data.content": {
+      "source": "<ul>\n<li><strong>Mesure automatique du TRS</strong> sur l’ensemble des lignes de production à périmètre défini, éliminant les saisies manuelles.</li>\n<li>Réduction significative du temps consacré aux <strong>reportings hebdomadaires</strong> grâce à la consolidation centralisée des données.</li>\n<li>Détection immédiate des principales <strong>causes de pertes</strong>, facilitant les analyses et les plans d’actions ciblés.</li>\n<li>Intégration fluide avec le MES existant, garantissant la <strong>cohérence des données</strong> entre ERP, automatismes et outils de pilotage.</li>\n<li>Adoption rapide par les équipes terrain grâce à une interface intuitive et à une logique de codification entraînant une meilleure discipline de saisie.</li>\n</ul>",
+      "de": "<ul>\n<li><strong>Automatische Messung der OEE (Gesamtanlageneffektivität)</strong> auf allen definierten Produktionslinien, wodurch manuelle Eingaben entfallen.</li>\n<li>Signifikante Reduzierung der Zeit für <strong>wöchentliche Berichte</strong> durch zentrale Datenkonsolidierung.</li>\n<li>Sofortige Erkennung der wichtigsten <strong>Verlustursachen</strong>, was gezielte Analysen und Maßnahmenpläne erleichtert.</li>\n<li>Reibungslose Integration mit dem bestehenden MES, die die <strong>Datenkonsistenz</strong> zwischen ERP, Automatisierung und Steuerungswerkzeugen gewährleistet.</li>\n<li>Schnelle Akzeptanz durch die Teams vor Ort dank einer intuitiven Benutzeroberfläche und einer Kodierungslogik, die eine bessere Eingabedisziplin fördert.</li>\n</ul>"
+    }
+  }
+}
