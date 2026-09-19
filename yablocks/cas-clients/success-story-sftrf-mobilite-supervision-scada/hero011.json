@@ -13,11 +13,13 @@
     "tags": [
       {
         "label": "Mobilité",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "a3JAn2"
       },
       {
         "label": "SCADA / Supervision",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "lx4RNT"
       }
     ]
   }

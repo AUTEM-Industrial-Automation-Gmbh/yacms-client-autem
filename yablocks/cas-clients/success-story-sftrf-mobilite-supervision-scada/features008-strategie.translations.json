@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Stratégie",
+      "de": "Strategie"
+    },
+    "data.content": {
+      "source": "<ol><li><p><strong>Audit des systèmes existants</strong><br>Recueil des architectures en place, cartographie des équipements terrain et identification des interfaces à développer pour l'intégration SCADA.</p></li><li><p><strong>Développement de la supervision SCADA</strong><br>Développement sur plateforme WinCC/Ignition des synoptiques de supervision du réseau, avec remontée temps réel des états équipements et des alarmes.</p></li><li><p><strong>Intégration GTC tunnel</strong><br>Développement des interfaces de pilotage centralisé des équipements tunnel (ventilation, éclairage, barrières, DAI), avec logique de gestion des incidents selon les procédures d'exploitation.</p></li><li><p><strong>Intégration des systèmes radio</strong><br>Raccordement des équipements radio d'urgence à la supervision pour assurer la diffusion d'informations et la coordination des secours en cas d'incident.</p></li></ol>",
+      "de": "<ol><li><p><strong>Audit der bestehenden Systeme</strong><br>Erfassung der vorhandenen Architekturen, Kartierung der Feldgeräte und Identifizierung der zu entwickelnden Schnittstellen für die SCADA-Integration.</p></li><li><p><strong>Entwicklung der SCADA-Überwachung</strong><br>Entwicklung von Überwachungsschemata für das Netz auf der WinCC/Ignition-Plattform mit Echtzeit-Feedback über Gerätestatus und Alarme.</p></li><li><p><strong>Integration der Tunnel-GTC</strong><br>Entwicklung von zentralen Steuerungs-Schnittstellen für die Tunnelausrüstung (Lüftung, Beleuchtung, Schranken, Brandmeldeanlagen) mit Logik zur Bewältigung von Zwischenfällen gemäß den Betriebsabläufen.</p></li><li><p><strong>Integration von Funksystemen</strong><br>Anbindung der Notfunkgeräte an die Überwachung, um die Informationsverbreitung und die Koordination von Rettungsmaßnahmen im Falle eines Zwischenfalls zu gewährleisten.</p></li></ol>"
+    }
+  }
+}
