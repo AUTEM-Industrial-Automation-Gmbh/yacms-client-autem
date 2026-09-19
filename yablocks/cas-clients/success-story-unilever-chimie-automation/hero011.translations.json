@@ -1,0 +1,25 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.clientLogo.alt": {
+      "source": "Unilever",
+      "de": "Unilever"
+    },
+    "data.title": {
+      "source": "Intégration de robot, doseur et logiciel TRS-MES en ligne de production",
+      "de": "Integration von Roboter, Dosierer und OEE-MES-Software in der Produktionslinie"
+    },
+    "data.tags[@3NcVIr].label": {
+      "source": "Chimie",
+      "de": "Chemie"
+    },
+    "data.tags[@NUYSUD].label": {
+      "source": "Robotisation",
+      "de": "Robotik"
+    },
+    "data.tags[@7eXunT].label": {
+      "source": "MES / TRS",
+      "de": "MES / OEE"
+    }
+  }
+}

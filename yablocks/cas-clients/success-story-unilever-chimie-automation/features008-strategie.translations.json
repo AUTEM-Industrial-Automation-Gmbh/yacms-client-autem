@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Stratégie",
+      "de": "Strategie"
+    },
+    "data.content": {
+      "source": "<ol><li><p><strong>Programmation du robot et intégration ligne</strong><br>Développement des programmes robot (pick & place, palettisation), intégration sur le réseau PROFIBUS de la ligne et gestion des interfaces avec les convoyeurs existants.</p></li><li><p><strong>Mise en service du doseur</strong><br>Paramétrage des recettes de dosage par produit, développement de l'IHM opérateur pour la sélection et le suivi des recettes, avec traçabilité des lots.</p></li><li><p><strong>Déploiement du TRS-MES</strong><br>Installation et configuration du logiciel TRS-MES avec collecte automatique des données de production depuis les automates, calcul du TRS en temps réel et génération des rapports de performance.</p></li><li><p><strong>Formation des opérateurs et maintenance préventive</strong><br>Formation des équipes sur les nouveaux équipements, définition des plans de maintenance préventive robot et doseur.</p></li></ol>",
+      "de": "<ol><li><p><strong>Programmierung des Roboters und Linienintegration</strong><br>Entwicklung der Roboterprogramme (Pick & Place, Palettierung), Integration in das PROFIBUS-Netzwerk der Linie und Verwaltung der Schnittstellen mit den vorhandenen Förderbändern.</p></li><li><p><strong>Inbetriebnahme des Dosierers</strong><br>Konfiguration der Dosierrezepte pro Produkt, Entwicklung der Bediener-HMI für die Auswahl und Überwachung der Rezepte mit Chargenrückverfolgbarkeit.</p></li><li><p><strong>Einführung von OEE-MES</strong><br>Installation und Konfiguration der OEE-MES-Software mit automatischer Erfassung von Produktionsdaten von den Steuerungen, Echtzeit-OEE-Berechnung und Generierung von Leistungsberichten.</p></li><li><p><strong>Schulung der Bediener und vorbeugende Wartung</strong><br>Schulung der Teams an den neuen Geräten, Definition von präventiven Wartungsplänen für Roboter und Dosierer.</p></li></ol>"
+    }
+  }
+}

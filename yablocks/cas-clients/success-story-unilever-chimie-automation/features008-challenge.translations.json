@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Challenge & Objectif",
+      "de": "Herausforderung & Ziel"
+    },
+    "data.content": {
+      "source": "<p>La mission confiée à AUTEM portait sur l'<strong>intégration complète d'une cellule automatisée</strong> sur une ligne de production active : robot industriel, doseur et logiciel TRS-MES, le tout sans arrêt prolongé de la production.</p><ul><li>Intégration d'un robot de palettisation sur une ligne existante, avec adaptation des convoyeurs amont/aval ;</li><li>Mise en service d'un doseur automatique avec recettes configurables par produit ;</li><li><strong>Déploiement d'un logiciel TRS-MES</strong> pour la collecte des données de production et le calcul du taux de rendement synthétique ;</li><li>Contrainte de fenêtres de maintenance réduites pour limiter les pertes de production.</li></ul>",
+      "de": "<p>Die AUTEM anvertraute Mission umfasste die <strong>vollständige Integration einer automatisierten Zelle</strong> in eine bestehende Produktionslinie: Industrieroboter, Dosierer und OEE-MES-Software, und das alles ohne längere Produktionsunterbrechungen.</p><ul><li>Integration eines Palettierroboters in eine bestehende Linie mit Anpassung der vorgeschalteten/nachgeschalteten Förderbänder;</li><li>Inbetriebnahme eines automatischen Dosierers mit konfigurierbaren Rezepten pro Produkt;</li><li><strong>Einführung einer OEE-MES-Software</strong> zur Erfassung von Produktionsdaten und zur Berechnung des Gesamtanlageneffektivität (OEE);</li><li>Begrenzte Wartungsfenster zur Minimierung von Produktionsausfällen.</li></ul>"
+    }
+  }
+}

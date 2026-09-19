@@ -13,15 +13,18 @@
     "tags": [
       {
         "label": "Chimie",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "3NcVIr"
       },
       {
         "label": "Robotisation",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "NUYSUD"
       },
       {
         "label": "MES / TRS",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "7eXunT"
       }
     ]
   }
