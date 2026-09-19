@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Stratégie",
+      "de": "Strategie"
+    },
+    "data.content": {
+      "source": "<ol><li><p><strong>Analyse des protocoles industriels cibles</strong><br>Étude des protocoles OPC-UA, Modbus TCP, BACnet et PROFIBUS pour définir les adaptateurs de collecte de données compatibles avec l'architecture sécurisée Seckiot.</p></li><li><p><strong>Développement des connecteurs IoT</strong><br>Implémentation des connecteurs de collecte de données équipement par équipement, avec encapsulation sécurisée des échanges et validation de l'intégrité des flux.</p></li><li><p><strong>Tests en environnement simulé</strong><br>Validation des connecteurs sur des bancs de test reproduisant les conditions d'un réseau OT industriel réel, avec simulation d'attaques pour valider les défenses.</p></li><li><p><strong>Tests en environnement réel</strong><br>Déploiement pilote chez des partenaires industriels pour valider le comportement en conditions de production, sans impact sur les équipements existants.</p></li></ol>",
+      "de": "<ol><li><p><strong>Analyse der Ziel-Industrieprotokolle</strong><br>Untersuchung der Protokolle OPC-UA, Modbus TCP, BACnet und PROFIBUS zur Definition von Datenerfassungsadaptern, die mit der sicheren Seckiot-Architektur kompatibel sind.</p></li><li><p><strong>Entwicklung von IoT-Konnektoren</strong><br>Implementierung von Datenerfassungskonnektoren für einzelne Geräte, mit sicherer Kapselung des Austauschs und Validierung der Datenflussintegrität.</p></li><li><p><strong>Tests in simulierter Umgebung</strong><br>Validierung der Konnektoren auf Testständen, die die Bedingungen eines realen industriellen OT-Netzwerks nachbilden, mit simulierten Angriffen zur Überprüfung der Abwehrmaßnahmen.</p></li><li><p><strong>Tests in realer Umgebung</strong><br>Pilotbereitstellung bei Industriepartnern zur Validierung des Verhaltens unter Produktionsbedingungen, ohne Beeinträchtigung bestehender Geräte.</p></li></ol>"
+    }
+  }
+}

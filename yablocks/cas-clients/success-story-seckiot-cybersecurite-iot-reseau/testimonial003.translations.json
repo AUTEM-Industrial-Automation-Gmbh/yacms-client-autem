@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Arrière-plan industriel",
+      "de": "Industrieller Hintergrund"
+    },
+    "data.quote": {
+      "source": "L'expertise OT d'AUTEM a été déterminante pour valider nos connecteurs en conditions réelles. Leur connaissance des protocoles industriels et des contraintes terrain nous a permis d'identifier et corriger des cas limites que nous n'aurions pas détectés en laboratoire.",
+      "de": "Die OT-Expertise von AUTEM war entscheidend für die Validierung unserer Konnektoren unter realen Bedingungen. Ihre Kenntnisse der Industrieprotokolle und der Feldanforderungen ermöglichten es uns, Grenzfälle zu identifizieren und zu beheben, die wir im Labor nicht entdeckt hätten."
+    },
+    "data.author.name": {
+      "source": "CTO",
+      "de": "CTO"
+    },
+    "data.author.role": {
+      "source": "Seckiot",
+      "de": "Seckiot"
+    }
+  }
+}
