@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "L'entreprise",
+      "de": "Das Unternehmen"
+    },
+    "data.content": {
+      "source": "<p>La SFTRF (Société Française du Tunnel Routier du Fréjus), opérée par SEE, est un <strong>concessionnaire routier et ferroviaire</strong> en charge de l'exploitation et la maintenance d'axes stratégiques en Rhône-Alpes, dont des tunnels routiers et des infrastructures ferroviaires à fort trafic.</p><p>La sécurité des usagers et la continuité d'exploitation reposent sur des <strong>systèmes de supervision centralisés</strong> (GTC) permettant le pilotage en temps réel des équipements tunnel : ventilation, éclairage, barrières, détection incendie, et systèmes radio d'urgence.</p>",
+      "de": "<p>Die SFTRF (Société Française du Tunnel Routier du Fréjus), betrieben von SEE, ist ein <strong>Straßen- und Schienennetzbetreiber</strong>, der für den Betrieb und die Instandhaltung strategischer Achsen in der Region Rhône-Alpes zuständig ist, einschließlich Straßentunnel und Eisenbahninfrastrukturen mit hohem Verkehrsaufkommen.</p><p>Die Sicherheit der Nutzer und die Betriebskontinuität hängen von <strong>zentralisierten Überwachungssystemen</strong> (GTC) ab, die die Echtzeitsteuerung der Tunnelausrüstung ermöglichen: Lüftung, Beleuchtung, Schranken, Brandmeldeanlagen und Notfunkgeräte.</p>"
+    }
+  }
+}

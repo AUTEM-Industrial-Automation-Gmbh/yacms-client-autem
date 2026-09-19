@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Arrière-plan industriel",
+      "de": "Industrieller Hintergrund"
+    },
+    "data.quote": {
+      "source": "L'intégration réalisée par AUTEM a transformé cette ligne. Le TRS est désormais un indicateur clé de nos réunions de production et les équipes ont rapidement adopté le nouveau système. Un travail sérieux, dans les délais.",
+      "de": "Die von AUTEM durchgeführte Integration hat diese Linie verändert. Der OEE ist nun ein Schlüsselindikator in unseren Produktionsbesprechungen und die Teams haben das neue System schnell angenommen. Eine seriöse Arbeit, pünktlich erledigt."
+    },
+    "data.author.name": {
+      "source": "Responsable Production",
+      "de": "Produktionsleiter"
+    },
+    "data.author.role": {
+      "source": "Unilever — Usine de l'Oise",
+      "de": "Unilever — Werk Oise"
+    }
+  }
+}

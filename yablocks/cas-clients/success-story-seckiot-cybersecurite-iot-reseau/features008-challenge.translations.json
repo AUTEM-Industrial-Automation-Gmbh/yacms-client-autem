@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Challenge & Objectif",
+      "de": "Herausforderung & Ziel"
+    },
+    "data.content": {
+      "source": "<p>La mission confiée à AUTEM portait sur le <strong>développement des connecteurs IoT</strong> permettant d'interfacer des équipements industriels hétérogènes avec la plateforme Seckiot, tout en respectant les contraintes de sécurité OT les plus strictes.</p><ul><li>Diversité des protocoles industriels (OPC-UA, Modbus, BACnet, PROFIBUS) à supporter ;</li><li>Contraintes d'isolation réseau : aucun équipement OT ne doit être directement exposé ;</li><li>Performance temps réel : remontée des données sans impacter les cycles automates ;</li><li>Validation sur des environnements industriels réels représentatifs.</li></ul>",
+      "de": "<p>Die AUTEM übertragene Aufgabe umfasste die <strong>Entwicklung von IoT-Konnektoren</strong>, die eine Schnittstelle zwischen heterogenen Industrieanlagen und der Seckiot-Plattform ermöglichen und gleichzeitig die strengsten OT-Sicherheitsanforderungen erfüllen.</p><ul><li>Unterstützung einer Vielzahl von Industrieprotokollen (OPC-UA, Modbus, BACnet, PROFIBUS);</li><li>Netzwerkisolationsbeschränkungen: Kein OT-Gerät darf direkt exponiert werden;</li><li>Echtzeit-Leistung: Datenübertragung ohne Beeinträchtigung der Steuerungszyklen;</li><li>Validierung in repräsentativen realen Industrieumgebungen.</li></ul>"
+    }
+  }
+}

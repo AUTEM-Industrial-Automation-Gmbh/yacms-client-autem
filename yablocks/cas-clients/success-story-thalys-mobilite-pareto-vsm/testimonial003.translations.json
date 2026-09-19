@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Arrière-plan industriel",
+      "de": "Industrieller Hintergrund"
+    },
+    "data.quote": {
+      "source": "La mission AMOA d'AUTEM nous a permis de passer d'une maintenance réactive à une approche préventive basée sur la donnée. La remontée IoT est fiable et le dashboard est devenu un outil quotidien pour nos équipes terrain.",
+      "de": "Der AMOA-Auftrag von AUTEM hat uns ermöglicht, von einer reaktiven zu einem datengesteuerten präventiven Wartungsansatz überzugehen. Die IoT-Übertragung ist zuverlässig und das Dashboard ist zu einem täglichen Werkzeug für unsere Außendienstteams geworden."
+    },
+    "data.author.name": {
+      "source": "Responsable Opérations",
+      "de": "Betriebsleiter"
+    },
+    "data.author.role": {
+      "source": "Thalys — Services embarqués",
+      "de": "Thalys — Bordservices"
+    }
+  }
+}

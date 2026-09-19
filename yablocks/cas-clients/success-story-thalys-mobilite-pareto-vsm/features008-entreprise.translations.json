@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "L'entreprise",
+      "de": "Das Unternehmen"
+    },
+    "data.content": {
+      "source": "<p>Thalys est un <strong>opérateur ferroviaire international</strong> opérant les lignes à grande vitesse entre Paris, Bruxelles, Amsterdam et Cologne. Gérant une flotte de rames et des services embarqués à destination de millions de passagers, Thalys mise sur la digitalisation pour améliorer l'expérience voyageur et la maintenance de ses équipements.</p><p>Dans le cadre de la modernisation de ses services, Thalys a déployé un réseau de <strong>distributeurs automatiques (vending machines)</strong> nécessitant une supervision à distance et une maintenance proactive.</p>",
+      "de": "<p>Thalys ist ein <strong>internationaler Bahnbetreiber</strong>, der die Hochgeschwindigkeitsstrecken zwischen Paris, Brüssel, Amsterdam und Köln bedient. Thalys verwaltet eine Flotte von Zügen und Bordservices für Millionen von Passagieren und setzt auf Digitalisierung, um das Reiseerlebnis und die Wartung seiner Ausrüstung zu verbessern.</p><p>Im Rahmen der Modernisierung seiner Dienstleistungen hat Thalys ein Netzwerk von <strong>Verkaufsautomaten (Vending Machines)</strong> eingeführt, die eine Fernüberwachung und proaktive Wartung erfordern.</p>"
+    }
+  }
+}

@@ -13,11 +13,13 @@
     "tags": [
       {
         "label": "Cybersécurité",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "f0aDw4"
       },
       {
         "label": "IoT / IIoT",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "a5zN36"
       }
     ]
   }

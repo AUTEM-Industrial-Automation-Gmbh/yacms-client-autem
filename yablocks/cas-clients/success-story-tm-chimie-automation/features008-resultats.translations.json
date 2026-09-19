@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Résultats & Apprentissages",
+      "de": "Ergebnisse & Erkenntnisse"
+    },
+    "data.content": {
+      "source": "<ul><li><strong>Machine qualifiée et livrée</strong> avec l'ensemble des cycles CIP validés lors des tests FAT ;</li><li>IHM ergonomique validée par les opérateurs lors des sessions de formation ;</li><li>Sécurités conformes aux normes EN 13849 pour les machines industrielles ;</li><li>Traçabilité des cycles opérationnelle dès le premier jour de production ;</li><li>Documentation complète (spécifications, schémas, manuel opérateur) remise à TM pour la réplication sur futures machines.</li></ul>",
+      "de": "<ul><li><strong>Maschine qualifiziert und geliefert</strong> mit allen CIP-Zyklen, die während der FAT-Tests validiert wurden;</li><li>Ergonomische HMI, die von den Bedienern während der Schulungen validiert wurde;</li><li>Sicherheitsvorrichtungen gemäß EN 13849 für Industriemaschinen;</li><li>Rückverfolgbarkeit der Zyklen ab dem ersten Produktionstag einsatzbereit;</li><li>Vollständige Dokumentation (Spezifikationen, Schaltpläne, Bedienungsanleitung) an TM zur Replikation auf zukünftigen Maschinen übergeben.</li></ul>"
+    }
+  }
+}

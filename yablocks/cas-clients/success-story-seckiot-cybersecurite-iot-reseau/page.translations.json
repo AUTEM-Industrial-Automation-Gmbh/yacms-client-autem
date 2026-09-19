@@ -1,0 +1,39 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Seckiot — Connectivité IoT des systèmes industriels en environnement cybersécurisé | AUTEM",
+      "de": "Seckiot — IoT-Konnektivität für industrielle Systeme in einer cybersicheren Umgebung | AUTEM",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "AUTEM a contribué à l'intégration de la plateforme Seckiot : connecteurs IoT pour systèmes industriels OT en environnement cybersécurisé.",
+      "de": "AUTEM trug zur Integration der Seckiot-Plattform bei: IoT-Konnektoren für industrielle OT-Systeme in einer cybersicheren Umgebung.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "IoT cybersécurité",
+        "OT sécurisé",
+        "connectivité IoT industriel",
+        "OPC-UA",
+        "Seckiot",
+        "AUTEM réalisation"
+      ],
+      "de": [
+        "IoT Cybersicherheit",
+        "sichere OT",
+        "industrielle IoT-Konnektivität",
+        "OPC-UA",
+        "Seckiot",
+        "AUTEM Realisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Cas client industriel automatisme et SCADA",
+      "de": "AUTEM – Industriefall Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}

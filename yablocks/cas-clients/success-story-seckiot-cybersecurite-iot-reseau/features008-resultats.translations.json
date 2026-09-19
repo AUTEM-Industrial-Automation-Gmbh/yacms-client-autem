@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Résultats & Apprentissages",
+      "de": "Ergebnisse & Erkenntnisse"
+    },
+    "data.content": {
+      "source": "<ul><li><strong>Connecteurs OPC-UA et Modbus TCP validés</strong> et intégrés à la plateforme Seckiot ;</li><li>Aucun impact mesuré sur les cycles automates lors des tests en environnement de production ;</li><li>Isolation OT respectée : zéro exposition directe des équipements industriels au réseau IT ;</li><li>Documentation des cas limites et des configurations matérielles supportées, enrichissant le référentiel technique Seckiot ;</li><li>Contribution directe au renforcement de la compatibilité de la plateforme avec les environnements industriels réels.</li></ul>",
+      "de": "<ul><li><strong>OPC-UA und Modbus TCP Konnektoren validiert</strong> und in die Seckiot-Plattform integriert;</li><li>Keine Auswirkungen auf SPS-Zyklen während Tests in Produktionsumgebungen gemessen;</li><li>OT-Isolation eingehalten: keine direkte Exposition von Industrieanlagen gegenüber dem IT-Netzwerk;</li><li>Dokumentation von Grenzfall-Szenarien und unterstützten Hardwarekonfigurationen, die das Seckiot-Technische Repository erweitern;</li><li>Direkter Beitrag zur Stärkung der Kompatibilität der Plattform mit realen industriellen Umgebungen.</li></ul>"
+    }
+  }
+}

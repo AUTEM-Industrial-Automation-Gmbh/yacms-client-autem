@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Challenge & Objectif",
+      "de": "Herausforderung & Ziel"
+    },
+    "data.content": {
+      "source": "<p>La mission confiée à AUTEM portait sur le <strong>développement en C / Controlbuild de l'IHM de supervision des aiguillages ferroviaires</strong> sur un tronçon lorrain, avec une approche HIL (Hardware In the Loop) pour la validation du logiciel sans risque sur l'infrastructure réelle.</p><p>Parmi les défis identifiés :</p><ul><li>Développement en langage C et environnement Controlbuild spécifique aux systèmes ferroviaires SNCF ;</li><li>Exigences de sûreté ferroviaire (SIL) imposant des processus de développement et de vérification formalisés ;</li><li>Mise en place d'un banc de test HIL pour simuler le comportement des aiguillages réels et valider l'IHM sans intervention sur infrastructure en service ;</li><li>Respect des standards ergonomiques SNCF pour les IHM de supervision (couleurs, codes, interactions) ;</li><li>Coordination avec les équipes signalisation SNCF pour la validation des scénarios de test.</li></ul>",
+      "de": "<p>Der AUTEM übertragene Auftrag umfasste die <strong>Entwicklung der HMI-Überwachung für Eisenbahnweichen in C / Controlbuild</strong> für einen Abschnitt in Lothringen, mit einem HIL-Ansatz (Hardware In the Loop) zur risikofreien Validierung der Software auf der realen Infrastruktur.</p><p>Zu den identifizierten Herausforderungen gehörten:</p><ul><li>Entwicklung in der Programmiersprache C und der Controlbuild-Umgebung, die spezifisch für SNCF-Eisenbahnsysteme ist;</li><li>Anforderungen an die Eisenbahnsicherheit (SIL), die formalisierte Entwicklungs- und Verifizierungsprozesse erfordern;</li><li>Einrichtung einer HIL-Testbank zur Simulation des Verhaltens realer Weichen und zur Validierung der HMI ohne Eingriffe in die laufende Infrastruktur;</li><li>Einhaltung der SNCF-Ergonomiestandards für Überwachungs-HMIs (Farben, Codes, Interaktionen);</li><li>Koordination mit den SNCF-Signalteams zur Validierung von Testszenarien.</li></ul>"
+    }
+  }
+}

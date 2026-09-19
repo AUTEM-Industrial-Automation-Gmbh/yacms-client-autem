@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Résultats & Apprentissages",
+      "de": "Ergebnisse & Erkenntnisse"
+    },
+    "data.content": {
+      "source": "<ul><li><strong>Ligne de production opérationnelle</strong> avec robot, doseur et TRS-MES intégrés dans les délais contractuels ;</li><li><strong>TRS mesurable et tracé</strong> dès le démarrage, offrant une visibilité inédite sur les causes de pertes de performance ;</li><li>Gain de productivité sur les opérations de palettisation, libérant les opérateurs pour des tâches à plus forte valeur ajoutée ;</li><li>Dosage automatisé réduisant les écarts de formulation et les rebuts produits ;</li><li>Équipes autonomes sur la conduite des équipements grâce aux formations dispensées.</li></ul>",
+      "de": "<ul><li><strong>Produktionslinie betriebsbereit</strong> mit Roboter, Dosierer und TRS-MES innerhalb der vertraglichen Fristen integriert;</li><li><strong>Messbare und nachvollziehbare OEE</strong> ab Inbetriebnahme, die beispiellose Einblicke in die Ursachen von Leistungsverlusten bietet;</li><li>Produktivitätssteigerung bei Palettiervorgängen, wodurch die Bediener für wertschöpfendere Aufgaben freigestellt werden;</li><li>Automatisierte Dosierung reduziert Abweichungen in der Formulierung und Produktabfälle;</li><li>Autonome Teams bei der Bedienung der Anlagen dank der durchgeführten Schulungen.</li></ul>"
+    }
+  }
+}

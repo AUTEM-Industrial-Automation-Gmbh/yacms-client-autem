@@ -13,11 +13,13 @@
     "tags": [
       {
         "label": "Mobilité",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "JqMYVK"
       },
       {
         "label": "Automation",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "fj8TrO"
       }
     ]
   }

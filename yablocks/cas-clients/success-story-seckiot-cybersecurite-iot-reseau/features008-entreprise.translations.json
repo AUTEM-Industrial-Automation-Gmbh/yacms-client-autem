@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "L'entreprise",
+      "de": "Das Unternehmen"
+    },
+    "data.content": {
+      "source": "<p>Seckiot est une <strong>startup française spécialisée dans la cybersécurité des systèmes industriels IoT</strong>. Elle développe une plateforme de connectivité permettant aux industriels de connecter leurs équipements OT (automates, capteurs, équipements de terrain) à leurs systèmes d'information en préservant l'intégrité et la sécurité des réseaux industriels.</p><p>Face à la multiplication des cyberattaques sur les infrastructures industrielles, Seckiot propose une approche <strong>zero-trust</strong> pour sécuriser les échanges entre les mondes OT et IT — sans exposer les équipements critiques au réseau d'entreprise ni à Internet.</p>",
+      "de": "<p>Seckiot ist ein <strong>französisches Startup, das sich auf die Cybersicherheit von industriellen IoT-Systemen spezialisiert hat</strong>. Es entwickelt eine Konnektivitätsplattform, die es Industrieunternehmen ermöglicht, ihre OT-Geräte (Steuerungen, Sensoren, Feldgeräte) mit ihren Informationssystemen zu verbinden und dabei die Integrität und Sicherheit der industriellen Netzwerke zu wahren.</p><p>Angesichts der zunehmenden Cyberangriffe auf industrielle Infrastrukturen bietet Seckiot einen <strong>Zero-Trust-Ansatz</strong>, um den Austausch zwischen OT- und IT-Welten zu sichern – ohne kritische Geräte dem Unternehmensnetzwerk oder dem Internet auszusetzen.</p>"
+    }
+  }
+}

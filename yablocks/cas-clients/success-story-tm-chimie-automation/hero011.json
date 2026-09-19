@@ -13,11 +13,13 @@
     "tags": [
       {
         "label": "Chimie",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "CZ9CIb"
       },
       {
         "label": "Automatisme",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "EdKLWQ"
       }
     ]
   }

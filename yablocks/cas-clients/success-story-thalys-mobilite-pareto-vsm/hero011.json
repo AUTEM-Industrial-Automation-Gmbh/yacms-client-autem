@@ -13,11 +13,13 @@
     "tags": [
       {
         "label": "Mobilité",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "jpqGxh"
       },
       {
         "label": "IoT / IIoT",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "1zUcKg"
       }
     ]
   }

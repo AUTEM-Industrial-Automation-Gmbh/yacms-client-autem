@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.clientLogo.alt": {
+      "source": "SEE / SFTRF",
+      "de": "SEE / SFTRF"
+    },
+    "data.title": {
+      "source": "Supervision réseau routier et ferroviaire, GTC et radio",
+      "de": "Straßen- und Schienennetzüberwachung, GTC und Funk"
+    },
+    "data.tags[@a3JAn2].label": {
+      "source": "Mobilité",
+      "de": "Mobilität"
+    },
+    "data.tags[@lx4RNT].label": {
+      "source": "SCADA / Supervision",
+      "de": "SCADA / Überwachung"
+    }
+  }
+}

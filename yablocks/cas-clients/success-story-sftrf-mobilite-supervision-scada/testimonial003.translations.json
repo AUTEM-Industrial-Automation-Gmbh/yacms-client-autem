@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Arrière-plan industriel",
+      "de": "Industrieller Hintergrund"
+    },
+    "data.quote": {
+      "source": "AUTEM maîtrise parfaitement les environnements de supervision d'infrastructures critiques. Le système livré est robuste, ergonomique et nos opérateurs ont été rapidement autonomes. La réactivité face aux incidents s'est nettement améliorée.",
+      "de": "AUTEM beherrscht die Überwachungsumgebungen kritischer Infrastrukturen perfekt. Das gelieferte System ist robust, ergonomisch und unsere Bediener waren schnell eigenständig. Die Reaktionsfähigkeit bei Zwischenfällen hat sich deutlich verbessert."
+    },
+    "data.author.name": {
+      "source": "Responsable Exploitation",
+      "de": "Betriebsleiter"
+    },
+    "data.author.role": {
+      "source": "SEE / SFTRF — Réseau Rhône-Alpes",
+      "de": "SEE / SFTRF — Rhône-Alpes-Netz"
+    }
+  }
+}

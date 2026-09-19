@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "L'entreprise",
+      "de": "Das Unternehmen"
+    },
+    "data.content": {
+      "source": "<p>La SNCF est l'opérateur ferroviaire national français, gérant l'un des <strong>réseaux ferroviaires les plus denses d'Europe</strong> avec des dizaines de milliers de kilomètres de voies et des milliers d'aiguillages assurant l'acheminement en sécurité des trains grandes lignes, régionaux et de fret.</p><p>La fiabilité des systèmes de contrôle des aiguillages est un enjeu de sécurité critique : tout dysfonctionnement peut avoir des conséquences graves sur la circulation des trains. Le développement et la qualification des logiciels embarqués et des IHM de supervision sont soumis aux normes ferroviaires les plus exigeantes (EN 50128, CENELEC).</p>",
+      "de": "<p>Die SNCF ist der französische nationale Eisenbahnbetreiber und verwaltet eines der <strong>dichtesten Eisenbahnnetze Europas</strong> mit Zehntausenden von Kilometern Gleisen und Tausenden von Weichen, die die sichere Beförderung von Fern-, Regional- und Güterzügen gewährleisten.</p><p>Die Zuverlässigkeit von Weichensteuerungssystemen ist ein kritisches Sicherheitsproblem: Jede Fehlfunktion kann schwerwiegende Folgen für den Zugverkehr haben. Die Entwicklung und Qualifizierung von eingebetteten Systemen und Überwachungs-HMIs unterliegt den anspruchsvollsten Eisenbahnstandards (EN 50128, CENELEC).</p>"
+    }
+  }
+}

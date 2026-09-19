@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.clientLogo.alt": {
+      "source": "TM",
+      "de": "TM"
+    },
+    "data.title": {
+      "source": "Programmation d'une machine de lavage de cuves et fûts — API et IHM",
+      "de": "Programmierung einer Tank- und Fasswaschmaschine — API und HMI"
+    },
+    "data.tags[@CZ9CIb].label": {
+      "source": "Chimie",
+      "de": "Chemie"
+    },
+    "data.tags[@EdKLWQ].label": {
+      "source": "Automatisme",
+      "de": "Automatisierung"
+    }
+  }
+}

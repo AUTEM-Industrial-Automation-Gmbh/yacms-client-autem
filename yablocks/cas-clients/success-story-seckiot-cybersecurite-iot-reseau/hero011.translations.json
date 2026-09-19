@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.clientLogo.alt": {
+      "source": "Seckiot",
+      "de": "Seckiot"
+    },
+    "data.title": {
+      "source": "Connectivité IoT des systèmes industriels en environnement cybersécurisé",
+      "de": "IoT-Konnektivität für industrielle Systeme in einer cybersicheren Umgebung"
+    },
+    "data.tags[@f0aDw4].label": {
+      "source": "Cybersécurité",
+      "de": "Cybersicherheit"
+    },
+    "data.tags[@a5zN36].label": {
+      "source": "IoT / IIoT",
+      "de": "IoT / IIoT"
+    }
+  }
+}

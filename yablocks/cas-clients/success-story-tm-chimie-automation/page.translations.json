@@ -1,0 +1,39 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "TM — Programmation machine de lavage de cuves et fûts API et IHM | AUTEM",
+      "de": "TM — SPS-Programmierung für Tank- und Fassreinigungsmaschinen | AUTEM",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "AUTEM a programmé la machine de lavage automatique de cuves et fûts (CIP) de TM au Canada : automate et IHM pour environnement chimique et alimentaire.",
+      "de": "AUTEM hat die automatische Tank- und Fassreinigungsmaschine (CIP) von TM in Kanada programmiert: SPS und HMI für chemische und Lebensmittelumgebungen.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "CIP machine lavage",
+        "automatisme chimique",
+        "programmation automate",
+        "IHM industrielle",
+        "TM Canada",
+        "AUTEM réalisation"
+      ],
+      "de": [
+        "CIP Reinigungsmaschine",
+        "chemische Automatisierung",
+        "SPS-Programmierung",
+        "industrielle HMI",
+        "TM Kanada",
+        "AUTEM Realisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Cas client industriel automatisme et SCADA",
+      "de": "AUTEM – Industriekundenfall Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}

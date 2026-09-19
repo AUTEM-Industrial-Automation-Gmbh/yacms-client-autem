@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Infrastructure ferroviaire SNCF",
+      "de": "SNCF-Eisenbahninfrastruktur"
+    },
+    "data.quote": {
+      "source": "AUTEM a su monter en compétences rapidement sur notre environnement de développement Controlbuild et a produit une IHM conforme à nos standards ferroviaires. La démarche HIL a permis de valider l'ensemble des scénarios de manœuvre sans aucune intervention sur le réseau réel.",
+      "de": "AUTEM konnte sich schnell in unsere Controlbuild-Entwicklungsumgebung einarbeiten und eine HMI entwickeln, die unseren Eisenbahnstandards entspricht. Der HIL-Ansatz ermöglichte die Validierung aller Rangierszenarien ohne jegliche Eingriffe in das reale Netz."
+    },
+    "data.author.name": {
+      "source": "Ingénieur Signalisation",
+      "de": "Signal-Ingenieur"
+    },
+    "data.author.role": {
+      "source": "SNCF — Direction Technique Lorraine",
+      "de": "SNCF — Technische Direktion Lothringen"
+    }
+  }
+}

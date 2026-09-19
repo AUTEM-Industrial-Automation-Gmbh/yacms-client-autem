@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Stratégie",
+      "de": "Strategie"
+    },
+    "data.content": {
+      "source": "<ol><li><p><strong>Analyse des spécifications et prise en main de Controlbuild</strong><br>Étude des spécifications fonctionnelles SNCF et des standards de développement ferroviaires, prise en main de l'environnement Controlbuild et du référentiel des IHM existantes.</p></li><li><p><strong>Développement de l'IHM en C / Controlbuild</strong><br>Développement des écrans de supervision des aiguillages (synoptiques de voies, état des aiguilles, commandes d'orientation), conformément aux standards ergonomiques SNCF et aux exigences de sûreté.</p></li><li><p><strong>Mise en place du banc HIL et tests</strong><br>Configuration du banc Hardware In the Loop pour simuler le comportement des actionneurs d'aiguillages, développement des scénarios de test couvrant les cas nominaux et les cas de défaut.</p></li><li><p><strong>Validation et qualification</strong><br>Exécution des campagnes de test sur banc HIL, correction des anomalies détectées et rédaction de la documentation de qualification conforme aux exigences ferroviaires.</p></li></ol>",
+      "de": "<div><ol><li><p><strong>Analyse der Spezifikationen und Einarbeitung in Controlbuild</strong><br>Studium der funktionalen SNCF-Spezifikationen und der Eisenbahnentwicklungsstandards, Einarbeitung in die Controlbuild-Umgebung und das Verzeichnis der bestehenden HMIs.</p></li><li><p><strong>Entwicklung der HMI in C / Controlbuild</strong><br>Entwicklung der Überwachungsscreens für Weichen (Gleissynoptiken, Weichenzustand, Ausrichtungsbefehle) gemäß den ergonomischen SNCF-Standards und den Sicherheitsanforderungen.</p></li><li><p><strong>Einrichtung der HIL-Prüfbank und Tests</strong><br>Konfiguration der Hardware-In-the-Loop-Prüfbank zur Simulation des Verhaltens von Weichenaktoren, Entwicklung von Testszenarien, die Nominalfälle und Fehlerfälle abdecken.</p></li><li><p><strong>Validierung und Qualifizierung</strong><br>Durchführung von Testkampagnen auf der HIL-Prüfbank, Korrektur erkannter Anomalien und Erstellung der Qualifizierungsdokumentation gemäß den Eisenbahnanforderungen.</p></li></ol></div>"
+    }
+  }
+}

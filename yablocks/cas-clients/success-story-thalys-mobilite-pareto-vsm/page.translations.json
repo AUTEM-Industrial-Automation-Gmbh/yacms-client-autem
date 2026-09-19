@@ -1,0 +1,39 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Thalys — Télémétrie, IoT et maintenance préventive vending machines | AUTEM",
+      "de": "Thalys — Telemetrie, IoT und vorausschauende Wartung von Verkaufsautomaten | AUTEM",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "AUTEM a mené une mission AMOA IoT pour Thalys : télémétrie, monétique et maintenance préventive des vending machines en gare et à bord.",
+      "de": "AUTEM führte einen IoT-AMOA-Auftrag für Thalys durch: Telemetrie, Zahlungsverkehr und vorausschauende Wartung von Verkaufsautomaten an Bahnhöfen und an Bord.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "IoT industriel",
+        "télémétrie",
+        "maintenance préventive",
+        "AMOA IoT",
+        "Thalys",
+        "AUTEM réalisation"
+      ],
+      "de": [
+        "Industrielles IoT",
+        "Telemetrie",
+        "Vorausschauende Wartung",
+        "IoT AMOA",
+        "Thalys",
+        "AUTEM Realisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Cas client industriel automatisme et SCADA",
+      "de": "AUTEM – Industriefall Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}
