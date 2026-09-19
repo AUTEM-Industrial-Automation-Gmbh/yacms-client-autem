@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Résultats & Apprentissages",
+      "de": "Ergebnisse & Lernerfahrungen"
+    },
+    "data.content": {
+      "source": "<ul><li><strong>IHM livrée conforme aux standards SNCF</strong>, validée sur banc HIL sans aucune intervention sur le réseau ferroviaire en service ;</li><li>Tous les scénarios de test (nominaux et dégradés) validés sur le banc HIL avant déploiement ;</li><li>Documentation de qualification complète constituée et transmise à la direction technique SNCF ;</li><li>Approche HIL validée comme méthode de développement et de test pour les futures évolutions du système ;</li><li>Acquisition d'une expertise rare sur l'environnement de développement Controlbuild et les normes ferroviaires CENELEC.</li></ul>",
+      "de": "<ul><li><strong>HMI gemäß SNCF-Standards geliefert</strong>, auf der HIL-Prüfbank validiert, ohne jegliche Eingriffe in das bestehende Eisenbahnnetz;</li><li>Alle Testszenarien (Nominal- und Notfallfälle) wurden vor der Bereitstellung auf der HIL-Prüfbank validiert;</li><li>Vollständige Qualifizierungsdokumentation erstellt und an die technische Leitung der SNCF übermittelt;</li><li>HIL-Ansatz als Entwicklungs- und Testmethode für zukünftige Systementwicklungen validiert;</li><li>Erwerb von seltenem Fachwissen über die Entwicklungsumgebung Controlbuild und die Eisenbahnnormen CENELEC.</li></ul>"
+    }
+  }
+}

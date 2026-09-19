@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.clientLogo.alt": {
+      "source": "SNCF",
+      "de": "SNCF"
+    },
+    "data.title": {
+      "source": "Développement IHM pour aiguillages ferroviaires — SNCF Lorraine",
+      "de": "Entwicklung von HMIs für Eisenbahnweichen — SNCF Lorraine"
+    },
+    "data.tags[@JqMYVK].label": {
+      "source": "Mobilité",
+      "de": "Mobilität"
+    },
+    "data.tags[@fj8TrO].label": {
+      "source": "Automation",
+      "de": "Automatisierung"
+    }
+  }
+}
