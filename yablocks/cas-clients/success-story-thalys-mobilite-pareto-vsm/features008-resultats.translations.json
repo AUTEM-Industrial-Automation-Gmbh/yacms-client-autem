@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Résultats & Apprentissages",
+      "de": "Ergebnisse & Erkenntnisse"
+    },
+    "data.content": {
+      "source": "<ul><li><strong>Réduction des pannes non planifiées</strong> grâce aux alertes préventives opérationnelles ;</li><li><strong>Supervision centralisée du parc</strong> avec visibilité temps réel sur l'ensemble des équipements ;</li><li>Optimisation des tournées de maintenance grâce aux données de stock remontées à distance ;</li><li>Meilleure disponibilité des services pour les voyageurs, taux de rupture réduit ;</li><li>Architecture IoT capitalisable pour les futures extensions du parc.</li></ul>",
+      "de": "<ul><li><strong>Reduzierung ungeplanter Ausfälle</strong> durch betriebsbereite präventive Alarme;</li><li><strong>Zentrale Überwachung des Parks</strong> mit Echtzeit-Transparenz über alle Geräte;</li><li>Optimierung der Wartungsrouten durch Ferndatenübertragung des Lagerbestands;</li><li>Bessere Verfügbarkeit von Dienstleistungen für Reisende, reduzierter Fehlbestand;</li><li>Kapitalisierbare IoT-Architektur für zukünftige Parkerweiterungen.</li></ul>"
+    }
+  }
+}

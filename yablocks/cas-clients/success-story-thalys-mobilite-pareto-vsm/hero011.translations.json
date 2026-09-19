@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.clientLogo.alt": {
+      "source": "Thalys",
+      "de": "Thalys"
+    },
+    "data.title": {
+      "source": "Télémétrie, IoT, monétique et maintenance préventive AMOA vending machines",
+      "de": "Telemetrie, IoT, Zahlungsverkehr und vorausschauende Wartung für Verkaufsautomaten AMOA"
+    },
+    "data.tags[@jpqGxh].label": {
+      "source": "Mobilité",
+      "de": "Mobilität"
+    },
+    "data.tags[@1zUcKg].label": {
+      "source": "IoT / IIoT",
+      "de": "IoT / IIoT"
+    }
+  }
+}
