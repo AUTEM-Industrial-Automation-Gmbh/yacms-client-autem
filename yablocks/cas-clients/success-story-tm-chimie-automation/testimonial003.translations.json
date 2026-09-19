@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Arrière-plan industriel",
+      "de": "Industrieller Hintergrund"
+    },
+    "data.quote": {
+      "source": "AUTEM a parfaitement compris nos exigences dès le début de la mission. La programmation est propre, bien structurée et la machine a été validée sans anomalie majeure lors des tests FAT. C'est le niveau de qualité que nous attendons de nos partenaires.",
+      "de": "AUTEM hat unsere Anforderungen von Anfang an perfekt verstanden. Die Programmierung ist sauber, gut strukturiert und die Maschine wurde während der FAT-Tests ohne größere Probleme abgenommen. Das ist das Qualitätsniveau, das wir von unseren Partnern erwarten."
+    },
+    "data.author.name": {
+      "source": "Directeur Technique",
+      "de": "Technischer Direktor"
+    },
+    "data.author.role": {
+      "source": "TM — Canada",
+      "de": "TM — Kanada"
+    }
+  }
+}

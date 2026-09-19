@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "L'entreprise",
+      "de": "Das Unternehmen"
+    },
+    "data.content": {
+      "source": "<p>TM est une entreprise canadienne spécialisée dans la <strong>conception et la fabrication de machines pour l'industrie chimique et alimentaire</strong>. L'entreprise conçoit des équipements sur mesure destinés aux procédés de fabrication, nettoyage et conditionnement opérant dans des environnements soumis à de strictes normes d'hygiène.</p><p>Dans le cadre du développement d'une nouvelle machine de lavage automatique de cuves et fûts, TM a fait appel à AUTEM pour l'expertise en <strong>programmation automate et développement IHM</strong> adaptés aux exigences des industries chimique et agroalimentaire.</p>",
+      "de": "<p>TM ist ein kanadisches Unternehmen, das sich auf die <strong>Konzeption und Herstellung von Maschinen für die chemische und Lebensmittelindustrie</strong> spezialisiert hat. Das Unternehmen entwickelt maßgeschneiderte Anlagen für Herstellungs-, Reinigungs- und Verpackungsprozesse, die in Umgebungen mit strengen Hygienestandards betrieben werden.</p><p>Für die Entwicklung einer neuen automatischen Tank- und Fasswaschmaschine zog TM AUTEM wegen dessen Fachwissen in der <strong>SPS-Programmierung und HMI-Entwicklung</strong> heran, die auf die Anforderungen der chemischen und Lebensmittelindustrie zugeschnitten sind.</p>"
+    }
+  }
+}

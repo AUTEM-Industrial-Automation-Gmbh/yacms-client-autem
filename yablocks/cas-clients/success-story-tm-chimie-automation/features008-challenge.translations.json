@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Challenge & Objectif",
+      "de": "Herausforderung & Ziel"
+    },
+    "data.content": {
+      "source": "<p>La mission portait sur la <strong>programmation complète d'une machine de lavage CIP</strong> (Clean In Place) de cuves et fûts industriels, avec développement de l'IHM opérateur pour les environnements chimique et alimentaire.</p><ul><li>Gestion des <strong>cycles CIP complexes</strong> : prélavage eau froide, lavage détergent chaud, rinçage eau chaude, désinfection et séchage ;</li><li>Paramétrage des recettes par type de cuve/fût et par produit lavé ;</li><li>Sécurités opérateur (accès zone de lavage, détection présence, verrouillages) conformes aux normes machines ;</li><li>Traçabilité des cycles de lavage pour les audits qualité et la conformité réglementaire.</li></ul>",
+      "de": "<p>Die Aufgabe umfasste die <strong>vollständige Programmierung einer CIP-Waschmaschine (Clean In Place)</strong> für industrielle Tanks und Fässer sowie die Entwicklung der Bedienoberfläche (HMI) für chemische und Lebensmittelumgebungen.</p><ul><li>Verwaltung <strong>komplexer CIP-Zyklen</strong>: Kaltwasser-Vorwäsche, Heißwasser-Reinigungsmittelwäsche, Heißwasser-Spülung, Desinfektion und Trocknung;</li><li>Parametrierung von Rezepten nach Tank-/Fasstyp und Waschprodukt;</li><li>Sicherheitsfunktionen für den Bediener (Zugang zum Waschbereich, Anwesenheitserkennung, Verriegelungen) gemäß Maschinenrichtlinien;</li><li>Rückverfolgbarkeit der Waschzyklen für Qualitätsaudits und die Einhaltung von Vorschriften.</li></ul>"
+    }
+  }
+}
