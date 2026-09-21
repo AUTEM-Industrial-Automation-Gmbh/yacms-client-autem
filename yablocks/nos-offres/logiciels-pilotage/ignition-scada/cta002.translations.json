@@ -1,0 +1,25 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Votre supervision est vieillissante, trop coûteuse en licences ou inaccessible hors du poste opérateur ?",
+      "de": "Ihre Überwachung ist veraltet, zu teuer in Bezug auf Lizenzen oder außerhalb des Bedienplatzes nicht zugänglich?"
+    },
+    "data.benefits[@FgJHgs].text": {
+      "source": "Intégrateur certifié Gold Ignition — le niveau le plus exigeant d'Inductive Automation",
+      "de": "Zertifizierter Gold-Integrator für Ignition – die anspruchsvollste Stufe von Inductive Automation"
+    },
+    "data.benefits[@vmY81d].text": {
+      "source": "Migration depuis WinCC, InduSoft, FactoryTalk — projets et historiques conservés",
+      "de": "Migration von WinCC, InduSoft, FactoryTalk – Projekte und Historien bleiben erhalten"
+    },
+    "data.benefits[@9puzXH].text": {
+      "source": "Architecture web-native : accessible depuis n'importe quel navigateur, tablette ou PC",
+      "de": "Web-native Architektur: zugänglich von jedem Browser, Tablet oder PC"
+    },
+    "data.cta.text": {
+      "source": "Discutons de votre projet SCADA",
+      "de": "Lassen Sie uns über Ihr SCADA-Projekt sprechen"
+    }
+  }
+}

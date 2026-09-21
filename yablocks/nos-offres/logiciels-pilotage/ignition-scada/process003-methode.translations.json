@@ -1,0 +1,53 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "NOTRE MÉTHODE",
+      "de": "UNSER ANSATZ"
+    },
+    "data.title": {
+      "source": "De l'audit supervision à la mise en production Ignition : 5 étapes",
+      "de": "Vom Aufsichts-Audit bis zur Ignition-Produktion: 5 Schritte"
+    },
+    "data.steps[@J1RPyO].title": {
+      "source": "Audit supervision existante",
+      "de": "Audit der bestehenden Überwachung"
+    },
+    "data.steps[@PjSLdb].title": {
+      "source": "Architecture & maquettage Ignition",
+      "de": "Ignition-Architektur & Mock-up"
+    },
+    "data.steps[@cy24fE].title": {
+      "source": "Développement & migration",
+      "de": "Entwicklung & Migration"
+    },
+    "data.steps[@Vxdidu].title": {
+      "source": "Tests & recette",
+      "de": "Tests & Abnahme"
+    },
+    "data.steps[@kCINrB].title": {
+      "source": "Formation & support post-démarrage",
+      "de": "Schulung & Support nach dem Start"
+    },
+    "data.steps[@J1RPyO].description": {
+      "source": "Inventaire de la plateforme actuelle : version, tags, écrans, alarmes, historique. Identification des points à migrer, des fonctionnalités clés et des contraintes réseau. Évaluation du risque de migration et définition du plan de bascule.",
+      "de": "Inventarisierung der aktuellen Plattform: Version, Tags, Bildschirme, Alarme, Historie. Identifizierung der zu migrierenden Punkte, der Schlüsselfunktionen und der Netzwerkanforderungen. Bewertung des Migrationsrisikos und Definition des Umschaltplans."
+    },
+    "data.steps[@PjSLdb].description": {
+      "source": "Définition de l'architecture Ignition : serveur, Gateway redondant ou non, modules (SCADA, MES, Reporting, MQTT, Perspective…). Maquettage des UDT (Unified Data Types), structures de tags et navigation écrans. Validation avec vos équipes avant tout développement.",
+      "de": "Definition der Ignition-Architektur: Server, redundanter oder nicht redundanter Gateway, Module (SCADA, MES, Reporting, MQTT, Perspective…). Mock-up von UDTs (Unified Data Types), Tag-Strukturen und Bildschirm-Navigation. Validierung mit Ihren Teams vor jeder Entwicklung."
+    },
+    "data.steps[@cy24fE].description": {
+      "source": "Développement des écrans, alarmes, tags et rapports. Migration des projets existants (WinCC, InduSoft, Wonderware) vers Ignition. Code versionné Git et documenté. Travail en parallèle de la production existante.",
+      "de": "Entwicklung von Bildschirmen, Alarmen, Tags und Berichten. Migration bestehender Projekte (WinCC, InduSoft, Wonderware) nach Ignition. Git-versionierter und dokumentierter Code. Arbeit parallel zur bestehenden Produktion."
+    },
+    "data.steps[@Vxdidu].description": {
+      "source": "Tests de communication avec les automates (OPC-UA, Modbus, driver natif), validation des alarmes et de l'historique, tests de charge et de redondance. Recette formelle avec vos équipes avant déploiement.",
+      "de": "Kommunikationstests mit den Steuerungen (OPC-UA, Modbus, nativer Treiber), Validierung von Alarmen und Historie, Last- und Redundanztests. Formelle Abnahme mit Ihren Teams vor der Bereitstellung."
+    },
+    "data.steps[@kCINrB].description": {
+      "source": "Formation des opérateurs sur l'interface Ignition, formation des développeurs internes sur la maintenance et l'extension du projet. Livraison de la documentation technique complète. Support post-démarrage disponible.",
+      "de": "Schulung der Bediener an der Ignition-Oberfläche, Schulung interner Entwickler für die Wartung und Erweiterung des Projekts. Lieferung der vollständigen technischen Dokumentation. Support nach dem Start verfügbar."
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "SCADA Ignition — Intégrateur Certifié Gold | AUTEM",
+      "de": "SCADA Ignition — Gold Certified Integrator | AUTEM",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Intégrateur certifié Gold Ignition. Migration WinCC, InduSoft, FactoryTalk vers Ignition. Licence plate, web-native, OPC-UA et MQTT.",
+      "de": "Gold Certified Ignition Integrator. Migration WinCC, InduSoft, FactoryTalk to Ignition. Perpetual license, web-native, OPC-UA and MQTT.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "Ignition SCADA",
+        "intégrateur Ignition Gold",
+        "Inductive Automation",
+        "supervision industrielle",
+        "migration WinCC Ignition",
+        "SCADA web",
+        "OPC-UA MQTT SCADA",
+        "licence plate SCADA",
+        "AUTEM"
+      ],
+      "de": [
+        "Ignition SCADA",
+        "Ignition Gold Integrator",
+        "Inductive Automation",
+        "Industrial Supervision",
+        "WinCC Ignition Migration",
+        "Web SCADA",
+        "OPC-UA MQTT SCADA",
+        "Perpetual License SCADA",
+        "AUTEM"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Intégrateur certifié Gold SCADA Ignition",
+      "de": "AUTEM — Gold Certified SCADA Ignition Integrator",
+      "de:manual": true
+    }
+  }
+}
