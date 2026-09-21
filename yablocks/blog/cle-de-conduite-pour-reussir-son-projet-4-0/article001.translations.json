@@ -1,0 +1,153 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@y1bh3y].heading": {
+      "source": "Podcasts",
+      "de": "Podcasts"
+    },
+    "data.sections[@xH5EQR].heading": {
+      "source": "Intro et présentation",
+      "de": "Einführung und Vorstellung"
+    },
+    "data.sections[@oWFJgS].heading": {
+      "source": "Challenge IT VS Management",
+      "de": "Herausforderung IT vs. Management"
+    },
+    "data.sections[@cYy8Vq].heading": {
+      "source": "Digitalisation et industrie",
+      "de": "Digitalisierung und Industrie"
+    },
+    "data.sections[@sVCIV1].heading": {
+      "source": "Exploitation des données",
+      "de": "Datennutzung"
+    },
+    "data.sections[@x2hvdg].heading": {
+      "source": "Format et collecte des données",
+      "de": "Datenformat und -erfassung"
+    },
+    "data.sections[@cgeVgB].heading": {
+      "source": "Outils Saas",
+      "de": "SaaS-Tools"
+    },
+    "data.sections[@y1bh3y].paragraphs[@87suEF].text": {
+      "source": "Retrouvez également cet article en version audio sur:",
+      "de": "Diesen Artikel finden Sie auch in Audioversion unter:"
+    },
+    "data.sections[@xH5EQR].paragraphs[@MhKUAc].text": {
+      "source": "Nous verrons dans cet article comment manager un projet de digitalisation en industrie avec Rija Rakotoarisoa . Rija a une double expertise IT et business qui lui a permis de concrétiser de grosses initiatives de digitalisation 4.0 chez des multinationales industrielles comme Poclain Hydraulics . Pour lui, il n'y a pas d'approche miracle. Pour valoriser la donnée industrielle, il faut avant tout maîtriser la conduite du changement. L'objectif final reste certes de collecter et exploiter au mieux la donnée en usine, mais il s'agit avant tout d'un enjeu entre humain, méthode et collaboration IT-outil. Rija s'appuie sur un exemple concret de DataHub , pour nous détailler ses conseils-clés pour les projets de transformation digitale Industrie 4.0.",
+      "de": "In diesem Artikel erfahren Sie, wie Sie ein Digitalisierungsprojekt in der Industrie mit Rija Rakotoarisoa managen. Rija verfügt über eine doppelte IT- und Business-Expertise, die es ihm ermöglicht hat, große Digitalisierungsinitiativen 4.0 bei multinationalen Industrieunternehmen wie Poclain Hydraulics zu realisieren. Für ihn gibt es keinen Wunderschlag. Um industrielle Daten zu verwerten, muss vor allem der Wandel beherrscht werden. Das Endziel ist zwar, die Daten in der Fabrik bestmöglich zu erfassen und zu nutzen, aber es handelt sich vor allem um eine Herausforderung zwischen Mensch, Methode und IT-Tool-Kollaboration. Rija nutzt ein konkretes Beispiel eines DataHub, um uns seine wichtigsten Ratschläge für Industrie 4.0-Digitalisierungstransformationsprojekte zu erläutern."
+    },
+    "data.sections[@oWFJgS].paragraphs[@cGNffV].text": {
+      "source": "Les défis entre l'IT et le Management pour un automaticien peuvent être variés. Ce qui est le plus important, ce n'est pas d'être meilleur que l'autre, mais d'anticiper ce que l'on peut apporter comme valeur ajoutée aux personnes avec lesquelles on travaille. Un bon manageur doit pouvoir motiver son équipe, être là quand on a besoin de lui.",
+      "de": "Die Herausforderungen zwischen IT und Management für einen Automatisierungstechniker können vielfältig sein. Wichtiger ist nicht, besser als der andere zu sein, sondern vorherzusehen, welchen Mehrwert man den Menschen, mit denen man zusammenarbeitet, bieten kann. Ein guter Manager muss sein Team motivieren können und da sein, wenn man ihn braucht."
+    },
+    "data.sections[@cYy8Vq].paragraphs[@6fKA42].text": {
+      "source": "Le plus important dans la digitalisation des produits dans l'industrie est d'abord de se poser la question de savoir ce que l'on veut vraiment. Ensuite pour que sa marche, il doit y avoir une vraie collaboration en permanence entre IT et business.",
+      "de": "Das Wichtigste bei der Digitalisierung von Produkten in der Industrie ist zunächst, sich die Frage zu stellen, was man wirklich will. Damit es funktioniert, muss es eine ständige echte Zusammenarbeit zwischen IT und Business geben."
+    },
+    "data.sections[@sVCIV1].paragraphs[@dIRRd8].text": {
+      "source": "En matière d'exploitation des données, l'élément clé est de mettre en place un pipeline commun auquel tout le monde pourra accéder pour récupérer les données. Pour les entreprises multisites, la meilleure approche pour collecter les données consiste en une collaboration étroite . Cela commence par de nombreux échanges, puis en informant les opérationnels des nouveaux projets.",
+      "de": "Bei der Datennutzung ist der Schlüsselfaktor die Einrichtung einer gemeinsamen Pipeline, auf die jeder zugreifen kann, um die Daten abzurufen. Für standortübergreifende Unternehmen ist die beste Vorgehensweise zur Datenerfassung eine enge Zusammenarbeit. Dies beginnt mit zahlreichen Gesprächen und der Information der operativen Mitarbeiter über neue Projekte."
+    },
+    "data.sections[@x2hvdg].paragraphs[@2FRVPz].text": {
+      "source": "Les indicateurs sont utilisés pour mesurer les données. Ils sont utiles pour évaluer le contrôle qualité et la performance en fonction des objectifs fixés. On peut également utiliser des diagrammes de Pareto pour identifier les principales causes de défauts ou de problèmes dans les processus. Le principe à garder en tête pour comprendre l'utilité des données après leur collecte est : \"Si on ne peut pas mesurer, on ne peut pas améliorer\" (en référence à la collecte des données). Ainsi, on collecte uniquement les données dont on a besoin , en se basant sur les cas d'utilisation. Ensuite, on met en place la collecte, et les résultats obtenus permettent de déterminer réellement ce dont on a besoin.",
+      "de": "Indikatoren werden zur Messung von Daten verwendet. Sie sind nützlich, um die Qualitätskontrolle und die Leistung anhand festgelegter Ziele zu bewerten. Man kann auch Pareto-Diagramme verwenden, um die Hauptursachen für Fehler oder Probleme in Prozessen zu identifizieren. Das Prinzip, das man sich merken sollte, um den Nutzen von Daten nach ihrer Erfassung zu verstehen, lautet: „Wenn man es nicht messen kann, kann man es nicht verbessern“ (in Bezug auf die Datenerfassung). Daher erfasst man nur die Daten, die man benötigt, basierend auf den Anwendungsfällen. Dann richtet man die Erfassung ein, und die erzielten Ergebnisse ermöglichen es, wirklich zu bestimmen, was man benötigt."
+    },
+    "data.sections[@cgeVgB].paragraphs[@IYL9lf].text": {
+      "source": "Avant d'adopter des outils SaaS , les chefs de projet doivent les analyser en amont. Ils doivent prendre en compte les critères et les attentes spécifiques. Il est essentiel d'avoir une personne compétente dans les domaines techniques et commerciaux pour rassembler ces informations. Ainsi, on évite de prendre des décisions qui pourraient lourdement impacter l'entreprise.",
+      "de": "Bevor sie SaaS-Tools einführen, müssen Projektmanager diese im Vorfeld analysieren. Sie müssen spezifische Kriterien und Erwartungen berücksichtigen. Es ist unerlässlich, eine kompetente Person in technischen und kaufmännischen Bereichen zu haben, um diese Informationen zusammenzutragen. So vermeidet man Entscheidungen, die das Unternehmen stark beeinträchtigen könnten."
+    },
+    "data.sections[@cgeVgB].paragraphs[@URAdq6].text": {
+      "source": "Liens utiles",
+      "de": "Nützliche Links"
+    },
+    "data.sections[@y1bh3y].list.items[@Z6wiij].text": {
+      "source": "🎧 Spotify:",
+      "de": "🎧 Spotify:"
+    },
+    "data.sections[@y1bh3y].list.items[@ZfccLs].text": {
+      "source": "🎧 Apple Podcast",
+      "de": "🎧 Apple Podcast"
+    },
+    "data.sections[@cgeVgB].list.items[@lCyYZY].text": {
+      "source": "Page LinkedIn de Rija | 🌍 Site web",
+      "de": "Rijas LinkedIn-Seite | 🌍 Webseite"
+    },
+    "data.sections[@cgeVgB].list.items[@ErmoVC].text": {
+      "source": "Data Hub Poclain présenté en détail lors du Manufacturing Tour | 📽️ Vidéo",
+      "de": "Data Hub Poclain im Detail während der Manufacturing Tour vorgestellt | 📽️ Video"
+    },
+    "data.sections[@cgeVgB].list.items[@YhYMU4].text": {
+      "source": "Livre de Rija : \"FRANCHIR L'IMPOSSIBLE: Mes 14 histoires pour réussir vos projets | 🌍 Site web",
+      "de": "Rijas Buch: „FRANCHIR L'IMPOSSIBLE: Mes 14 histoires pour réussir vos projets“ | 🌍 Webseite"
+    },
+    "data.sections[@cgeVgB].list.items[@ew90AM].text": {
+      "source": "post sur l'IIoT industriel | 🌍 Site web",
+      "de": "Post über industrielles IIoT | 🌍 Webseite"
+    },
+    "data.sections[@cgeVgB].list.items[@ZdvXTd].text": {
+      "source": "Hashtag pour suivre les publications de Rija sur Linkedin: 👉#rijarkt | ✅ Infos",
+      "de": "Hashtag, um Rijas Veröffentlichungen auf Linkedin zu folgen: 👉#rijarkt | ✅ Infos"
+    },
+    "data.sections[@y1bh3y].links[@uZlk7h].text": {
+      "source": "Spotify:",
+      "de": "Spotify:"
+    },
+    "data.sections[@xH5EQR].links[@6VEz5x].text": {
+      "source": "Rija Rakotoarisoa",
+      "de": "Rija Rakotoarisoa"
+    },
+    "data.sections[@xH5EQR].links[@GJOr8y].text": {
+      "source": "Poclain Hydraulics",
+      "de": "Poclain Hydraulics"
+    },
+    "data.sections[@cgeVgB].links[@h4UfgG].text": {
+      "source": "Page LinkedIn de Rija | Site web",
+      "de": "Rijas LinkedIn-Seite | Webseite"
+    },
+    "data.sections[@cgeVgB].links[@hTRxdv].text": {
+      "source": "Data Hub Poclain présenté en détail lors du Manufacturing Tour | Vidéo",
+      "de": "Data Hub Poclain im Detail während der Manufacturing Tour vorgestellt | Video"
+    },
+    "data.sections[@cgeVgB].links[@6Q9712].text": {
+      "source": "Livre de Rija : \"FRANCHIR L'IMPOSSIBLE: Mes 14 histoires pour réussir vos projets | Site web",
+      "de": "Rijas Buch: „FRANCHIR L'IMPOSSIBLE: Mes 14 histoires pour réussir vos projets“ | Webseite"
+    },
+    "data.sections[@cgeVgB].links[@jqZECP].text": {
+      "source": "post sur l'IIoT industriel | Site web",
+      "de": "Post über industrielles IIoT | Webseite"
+    },
+    "data.sections[@y1bh3y].links[@uZlk7h].href": {
+      "source": "https://open.spotify.com/show/5MxcvpVrhMCYrxZ4dDHns0",
+      "de": "https://open.spotify.com/show/5MxcvpVrhMCYrxZ4dDHns0"
+    },
+    "data.sections[@xH5EQR].links[@6VEz5x].href": {
+      "source": "https://www.linkedin.com/in/rijarakotoarisoa/",
+      "de": "https://www.linkedin.com/in/rijarakotoarisoa/"
+    },
+    "data.sections[@xH5EQR].links[@GJOr8y].href": {
+      "source": "https://poclain-hydraulics.com/",
+      "de": "https://poclain-hydraulics.com/"
+    },
+    "data.sections[@cgeVgB].links[@h4UfgG].href": {
+      "source": "https://www.linkedin.com/in/rijarakotoarisoa/",
+      "de": "https://www.linkedin.com/in/rijarakotoarisoa/"
+    },
+    "data.sections[@cgeVgB].links[@hTRxdv].href": {
+      "source": "https://manufacturing.fr/lusine-poclain-hydraulics-comme-si-vous-y-etiez/",
+      "de": "https://manufacturing.fr/lusine-poclain-hydraulics-comme-si-vous-y-etiez/"
+    },
+    "data.sections[@cgeVgB].links[@6Q9712].href": {
+      "source": "https://www.amazon.fr/FRANCHIR-LIMPOSSIBLE-quatorze-histoires-r%C3%A9ussir/dp/295728460X",
+      "de": "https://www.amazon.fr/FRANCHIR-LIMPOSSIBLE-quatorze-histoires-r%C3%A9ussir/dp/295728460X"
+    },
+    "data.sections[@cgeVgB].links[@jqZECP].href": {
+      "source": "https://www.linkedin.com/posts/rijarakotoarisoa_iiot-industrie40-data-activity-7087317650610995200-iys3?utm_source=share&utm_medium=member_desktop",
+      "de": "https://www.linkedin.com/posts/rijarakotoarisoa_iiot-industrie40-data-activity-7087317650610995200-iys3?utm_source=share&utm_medium=member_desktop"
+    }
+  }
+}

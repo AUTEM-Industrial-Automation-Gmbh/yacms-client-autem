@@ -1,0 +1,29 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backLinkLabel": {
+      "source": "Retour au blog",
+      "de": "Zurück zum Blog"
+    },
+    "data.title": {
+      "source": "Clés de conduite du changement pour réussir son projet 4.0 - avec Rija Rakotoarisoa",
+      "de": "Change-Management-Schlüssel für erfolgreiche Industrie 4.0-Projekte – mit Rija Rakotoarisoa"
+    },
+    "data.tags[@JUBVP5].label": {
+      "source": "Gestion Projet Stratégique",
+      "de": "Strategisches Projektmanagement"
+    },
+    "data.articleMeta.readTime": {
+      "source": "2 min lecture",
+      "de": "2 Min Lesezeit"
+    },
+    "data.articleMeta.publishDate": {
+      "source": "03/08/23",
+      "de": "03.08.23"
+    },
+    "data.articleMeta.updatedDate": {
+      "source": "17/03/26",
+      "de": "26.03.17"
+    }
+  }
+}

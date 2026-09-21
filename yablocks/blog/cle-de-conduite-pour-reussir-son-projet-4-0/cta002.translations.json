@@ -1,0 +1,25 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Un projet industriel à automatiser ?",
+      "de": "Ein Industrieprojekt zur Automatisierung?"
+    },
+    "data.benefits[@ELPiKm].text": {
+      "source": "Automatisation et intégration de systèmes",
+      "de": "Automatisierung und Systemintegration"
+    },
+    "data.benefits[@EkSsxg].text": {
+      "source": "Supervision SCADA et acquisition de données",
+      "de": "SCADA-Überwachung und Datenerfassung"
+    },
+    "data.benefits[@sAHdHR].text": {
+      "source": "Accompagnement technique de A à Z",
+      "de": "Technische Unterstützung von A bis Z"
+    },
+    "data.cta.text": {
+      "source": "Discutons de votre projet",
+      "de": "Lassen Sie uns über Ihr Projekt sprechen"
+    }
+  }
+}
