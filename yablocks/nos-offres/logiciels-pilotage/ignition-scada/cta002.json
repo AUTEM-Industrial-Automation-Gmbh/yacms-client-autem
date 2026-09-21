@@ -8,15 +8,18 @@
     "benefits": [
       {
         "icon": "award",
-        "text": "Intégrateur certifié Gold Ignition — le niveau le plus exigeant d'Inductive Automation"
+        "text": "Intégrateur certifié Gold Ignition — le niveau le plus exigeant d'Inductive Automation",
+        "_tid": "FgJHgs"
       },
       {
         "icon": "layers",
-        "text": "Migration depuis WinCC, InduSoft, FactoryTalk — projets et historiques conservés"
+        "text": "Migration depuis WinCC, InduSoft, FactoryTalk — projets et historiques conservés",
+        "_tid": "vmY81d"
       },
       {
         "icon": "globe",
-        "text": "Architecture web-native : accessible depuis n'importe quel navigateur, tablette ou PC"
+        "text": "Architecture web-native : accessible depuis n'importe quel navigateur, tablette ou PC",
+        "_tid": "9puzXH"
       }
     ],
     "cta": {

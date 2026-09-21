@@ -1,0 +1,53 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.stats[@lJQ66C].value": {
+      "source": "Gold",
+      "de": "Gold"
+    },
+    "data.stats[@3Qzpdg].value": {
+      "source": "6",
+      "de": "6"
+    },
+    "data.stats[@HG1JG3].value": {
+      "source": "10",
+      "de": "10"
+    },
+    "data.stats[@BzWd2m].value": {
+      "source": "100",
+      "de": "100"
+    },
+    "data.stats[@lJQ66C].label": {
+      "source": "Certification Inductive Automation — niveau de certification le plus exigeant",
+      "de": "Zertifizierung Inductive Automation – anspruchsvollstes Zertifizierungsniveau"
+    },
+    "data.stats[@3Qzpdg].label": {
+      "source": "Plateformes SCADA maîtrisées pour les nouvelles installations et migrations",
+      "de": "Beherrschte SCADA-Plattformen für Neuinstallationen und Migrationen"
+    },
+    "data.stats[@HG1JG3].label": {
+      "source": "Années d'expérience en supervision industrielle",
+      "de": "Jahre Erfahrung in der industriellen Überwachung"
+    },
+    "data.stats[@BzWd2m].label": {
+      "source": "Des projets livrés avec documentation complète et code versionné",
+      "de": "Projekte mit vollständiger Dokumentation und versioniertem Code geliefert"
+    },
+    "data.stats[@lJQ66C].suffix": {
+      "source": "",
+      "de": ""
+    },
+    "data.stats[@3Qzpdg].suffix": {
+      "source": "+",
+      "de": ""
+    },
+    "data.stats[@HG1JG3].suffix": {
+      "source": "+",
+      "de": ""
+    },
+    "data.stats[@BzWd2m].suffix": {
+      "source": "%",
+      "de": "%"
+    }
+  }
+}

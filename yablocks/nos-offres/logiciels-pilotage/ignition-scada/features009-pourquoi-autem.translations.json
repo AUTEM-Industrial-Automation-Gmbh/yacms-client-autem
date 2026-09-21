@@ -1,0 +1,49 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "POURQUOI AUTEM",
+      "de": "WARUM AUTEM"
+    },
+    "data.title": {
+      "source": "Certifié Gold Ignition — et automaticien. Pas juste développeur SCADA.",
+      "de": "Zertifizierter Ignition Gold Integrator — und SPS-Programmierer. Nicht nur SCADA-Entwickler."
+    },
+    "data.paragraphs[@QqF1yN].text": {
+      "source": "Un intégrateur SCADA qui ne comprend pas l'automate en dessous livre des écrans qui affichent la mauvaise donnée. AUTEM développe aussi bien le programme API que la supervision — ce qui change tout dans la qualité des données, la pertinence des alarmes et la cohérence de l'ensemble.",
+      "de": "Ein SCADA-Integrator, der die darunterliegende SPS nicht versteht, liefert Bildschirme, die falsche Daten anzeigen. AUTEM entwickelt sowohl die SPS-Programme als auch die SCADA-Oberfläche – was einen Unterschied bei der Datenqualität, der Relevanz von Alarmen und der Konsistenz des Gesamtsystems macht."
+    },
+    "data.highlights[@TyPb4l].text": {
+      "source": "Certification Gold Ignition — validée par Inductive Automation sur les pratiques, livrables et compétences techniques",
+      "de": "Ignition Gold-Zertifizierung – bestätigt von Inductive Automation für Praktiken, Liefergegenstände und technische Fähigkeiten"
+    },
+    "data.highlights[@d8bunH].text": {
+      "source": "Double compétence automate + SCADA : les données sont collectées proprement à la source — pas raccrochées en bout de chaîne",
+      "de": "Doppelte Kompetenz SPS + SCADA: Daten werden korrekt an der Quelle erfasst – nicht erst am Ende der Kette angehängt"
+    },
+    "data.highlights[@cifnxK].text": {
+      "source": "Architecture UDT structurée et versionnée Git : votre projet Ignition est maintenable par n'importe quel intégrateur qualifié",
+      "de": "Git-versionierte, strukturierte UDT-Architektur: Ihr Ignition-Projekt ist für jeden qualifizierten Integrator wartbar"
+    },
+    "data.highlights[@IUkvgo].text": {
+      "source": "Migration sans repartir de zéro : nous portons vos projets WinCC, InduSoft et FactoryTalk en conservant écrans et historiques",
+      "de": "Migration ohne Neustart: Wir portieren Ihre WinCC-, InduSoft- und FactoryTalk-Projekte unter Beibehaltung von Bildschirmen und Historien"
+    },
+    "data.highlights[@Z6jyjf].text": {
+      "source": "Aucune affiliation fabricant : nous recommandons Ignition parce que c'est le meilleur outil pour votre besoin — pas pour des raisons commerciales",
+      "de": "Keine Herstellerbindung: Wir empfehlen Ignition, weil es das beste Werkzeug für Ihren Bedarf ist – nicht aus kommerziellen Gründen"
+    },
+    "data.highlights[@UjfKPx].text": {
+      "source": "Formation des équipes internes incluse : vos développeurs peuvent étendre le projet sans faire appel à nous",
+      "de": "Schulung der internen Teams inklusive: Ihre Entwickler können das Projekt erweitern, ohne uns beauftragen zu müssen"
+    },
+    "data.conclusion": {
+      "source": "Le résultat : une supervision moderne, maintenable, ouverte, développée selon les pratiques Gold Ignition — que vos équipes peuvent s'approprier dès le premier jour.",
+      "de": "Das Ergebnis: Eine moderne, wartbare, offene SCADA-Oberfläche, entwickelt nach Gold Ignition-Standards – die Ihre Teams vom ersten Tag an übernehmen können."
+    },
+    "data.image.alt": {
+      "source": "Intégrateur Ignition Gold AUTEM — supervision SCADA industrielle",
+      "de": "Ignition Gold Integrator AUTEM – industrielle SCADA-Überwachung"
+    }
+  }
+}

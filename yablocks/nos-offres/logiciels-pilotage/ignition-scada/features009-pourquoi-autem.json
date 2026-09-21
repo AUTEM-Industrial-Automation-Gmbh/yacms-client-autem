@@ -8,27 +8,34 @@
     "title": "Certifié Gold Ignition — et automaticien. Pas juste développeur SCADA.",
     "paragraphs": [
       {
-        "text": "Un intégrateur SCADA qui ne comprend pas l'automate en dessous livre des écrans qui affichent la mauvaise donnée. AUTEM développe aussi bien le programme API que la supervision — ce qui change tout dans la qualité des données, la pertinence des alarmes et la cohérence de l'ensemble."
+        "text": "Un intégrateur SCADA qui ne comprend pas l'automate en dessous livre des écrans qui affichent la mauvaise donnée. AUTEM développe aussi bien le programme API que la supervision — ce qui change tout dans la qualité des données, la pertinence des alarmes et la cohérence de l'ensemble.",
+        "_tid": "QqF1yN"
       }
     ],
     "highlights": [
       {
-        "text": "Certification Gold Ignition — validée par Inductive Automation sur les pratiques, livrables et compétences techniques"
+        "text": "Certification Gold Ignition — validée par Inductive Automation sur les pratiques, livrables et compétences techniques",
+        "_tid": "TyPb4l"
       },
       {
-        "text": "Double compétence automate + SCADA : les données sont collectées proprement à la source — pas raccrochées en bout de chaîne"
+        "text": "Double compétence automate + SCADA : les données sont collectées proprement à la source — pas raccrochées en bout de chaîne",
+        "_tid": "d8bunH"
       },
       {
-        "text": "Architecture UDT structurée et versionnée Git : votre projet Ignition est maintenable par n'importe quel intégrateur qualifié"
+        "text": "Architecture UDT structurée et versionnée Git : votre projet Ignition est maintenable par n'importe quel intégrateur qualifié",
+        "_tid": "cifnxK"
       },
       {
-        "text": "Migration sans repartir de zéro : nous portons vos projets WinCC, InduSoft et FactoryTalk en conservant écrans et historiques"
+        "text": "Migration sans repartir de zéro : nous portons vos projets WinCC, InduSoft et FactoryTalk en conservant écrans et historiques",
+        "_tid": "IUkvgo"
       },
       {
-        "text": "Aucune affiliation fabricant : nous recommandons Ignition parce que c'est le meilleur outil pour votre besoin — pas pour des raisons commerciales"
+        "text": "Aucune affiliation fabricant : nous recommandons Ignition parce que c'est le meilleur outil pour votre besoin — pas pour des raisons commerciales",
+        "_tid": "Z6jyjf"
       },
       {
-        "text": "Formation des équipes internes incluse : vos développeurs peuvent étendre le projet sans faire appel à nous"
+        "text": "Formation des équipes internes incluse : vos développeurs peuvent étendre le projet sans faire appel à nous",
+        "_tid": "UjfKPx"
       }
     ],
     "conclusion": "Le résultat : une supervision moderne, maintenable, ouverte, développée selon les pratiques Gold Ignition — que vos équipes peuvent s'approprier dès le premier jour.",

@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Clés de conduite du changement pour réussir son projet 4.0 - avec Rija Rakotoarisoa | Blog AUTEM",
+      "de": "Schlüsselfaktoren für erfolgreiche Industrie 4.0-Projekte – mit Rija Rakotoarisoa | AUTEM Blog",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Découvrez clés de conduite du changement pour réussir son projet 4.0 avec Rija Rakotoarisoa",
+      "de": "Entdecken Sie die Schlüsselfaktoren für erfolgreiche Industrie 4.0-Projekte mit Rija Rakotoarisoa",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "Gestion Projet Stratégique",
+        "AUTEM",
+        "automatisme industriel"
+      ],
+      "de": [
+        "Strategisches Projektmanagement",
+        "AUTEM",
+        "Industrielle Automatisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Blog technique automatisme et SCADA industriel",
+      "de": "AUTEM – Blog für industrielle Automatisierungs- und SCADA-Technik",
+      "de:manual": true
+    }
+  }
+}

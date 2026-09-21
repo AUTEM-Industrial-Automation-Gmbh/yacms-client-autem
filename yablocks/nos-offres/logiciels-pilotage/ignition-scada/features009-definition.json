@@ -8,27 +8,34 @@
     "title": "Ce qu'Ignition change — et pourquoi la certification Gold compte",
     "paragraphs": [
       {
-        "text": "Ignition est une plateforme SCADA/MES/IIoT développée par Inductive Automation, basée sur une architecture web-native et un modèle de licence plate. AUTEM est certifié Gold — le niveau le plus élevé — ce qui signifie une évaluation rigoureuse par l'éditeur de nos compétences, livrables et pratiques de développement."
+        "text": "Ignition est une plateforme SCADA/MES/IIoT développée par Inductive Automation, basée sur une architecture web-native et un modèle de licence plate. AUTEM est certifié Gold — le niveau le plus élevé — ce qui signifie une évaluation rigoureuse par l'éditeur de nos compétences, livrables et pratiques de développement.",
+        "_tid": "InuKAU"
       }
     ],
     "highlights": [
       {
-        "text": "Licence plate : illimitée en tags, screens, clients et connexions — le coût ne dépend pas de votre croissance"
+        "text": "Licence plate : illimitée en tags, screens, clients et connexions — le coût ne dépend pas de votre croissance",
+        "_tid": "1N4tW6"
       },
       {
-        "text": "Web-native : accessible depuis n'importe quel navigateur, tablette ou PC — sans client lourd à installer"
+        "text": "Web-native : accessible depuis n'importe quel navigateur, tablette ou PC — sans client lourd à installer",
+        "_tid": "WstD51"
       },
       {
-        "text": "OPC-UA et MQTT Sparkplug B natifs — connexion directe à tous les automates et équipements modernes"
+        "text": "OPC-UA et MQTT Sparkplug B natifs — connexion directe à tous les automates et équipements modernes",
+        "_tid": "ONABJe"
       },
       {
-        "text": "Historien intégré, reporting natif, MES en option — une seule plateforme pour la supervision, les KPIs et les données"
+        "text": "Historien intégré, reporting natif, MES en option — une seule plateforme pour la supervision, les KPIs et les données",
+        "_tid": "OCmmhf"
       },
       {
-        "text": "Migration depuis WinCC, InduSoft, FactoryTalk, Wonderware — projets portés sans repartir de zéro"
+        "text": "Migration depuis WinCC, InduSoft, FactoryTalk, Wonderware — projets portés sans repartir de zéro",
+        "_tid": "3XgWi0"
       },
       {
-        "text": "Développement structuré UDT (Unified Data Types), versionné Git — maintenable par un autre intégrateur sans risque"
+        "text": "Développement structuré UDT (Unified Data Types), versionné Git — maintenable par un autre intégrateur sans risque",
+        "_tid": "JbMZXV"
       }
     ],
     "conclusion": "Résultat : une supervision moderne, accessible depuis partout, sans explosion de coût de licence, développée selon les meilleures pratiques Ignition — vérifiées par l'éditeur lui-même.",

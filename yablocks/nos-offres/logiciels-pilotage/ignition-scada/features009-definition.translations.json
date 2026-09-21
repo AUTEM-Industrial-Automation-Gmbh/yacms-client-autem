@@ -1,0 +1,49 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "SUPERVISION SCADA IGNITION",
+      "de": "IGNITION SCADA-ÜBERWACHUNG"
+    },
+    "data.title": {
+      "source": "Ce qu'Ignition change — et pourquoi la certification Gold compte",
+      "de": "Was Ignition verändert – und warum die Gold-Zertifizierung zählt"
+    },
+    "data.paragraphs[@InuKAU].text": {
+      "source": "Ignition est une plateforme SCADA/MES/IIoT développée par Inductive Automation, basée sur une architecture web-native et un modèle de licence plate. AUTEM est certifié Gold — le niveau le plus élevé — ce qui signifie une évaluation rigoureuse par l'éditeur de nos compétences, livrables et pratiques de développement.",
+      "de": "Ignition ist eine SCADA/MES/IIoT-Plattform, die von Inductive Automation entwickelt wurde und auf einer nativen Web-Architektur und einem Flat-Lizenzmodell basiert. AUTEM ist Gold-zertifiziert – die höchste Stufe – was eine strenge Bewertung unserer Kompetenzen, Ergebnisse und Entwicklungspraktiken durch den Herausgeber bedeutet."
+    },
+    "data.highlights[@1N4tW6].text": {
+      "source": "Licence plate : illimitée en tags, screens, clients et connexions — le coût ne dépend pas de votre croissance",
+      "de": "Flat-Lizenz: unbegrenzt in Tags, Bildschirmen, Clients und Verbindungen – die Kosten hängen nicht von Ihrem Wachstum ab"
+    },
+    "data.highlights[@WstD51].text": {
+      "source": "Web-native : accessible depuis n'importe quel navigateur, tablette ou PC — sans client lourd à installer",
+      "de": "Web-nativ: zugänglich von jedem Browser, Tablet oder PC – ohne schwere Client-Installation"
+    },
+    "data.highlights[@ONABJe].text": {
+      "source": "OPC-UA et MQTT Sparkplug B natifs — connexion directe à tous les automates et équipements modernes",
+      "de": "Native OPC-UA- und MQTT Sparkplug B-Konnektivität – direkte Verbindung zu allen modernen Steuerungen und Geräten"
+    },
+    "data.highlights[@OCmmhf].text": {
+      "source": "Historien intégré, reporting natif, MES en option — une seule plateforme pour la supervision, les KPIs et les données",
+      "de": "Integrierter Historian, natives Reporting, optionales MES – eine einzige Plattform für Überwachung, KPIs und Daten"
+    },
+    "data.highlights[@3XgWi0].text": {
+      "source": "Migration depuis WinCC, InduSoft, FactoryTalk, Wonderware — projets portés sans repartir de zéro",
+      "de": "Migration von WinCC, InduSoft, FactoryTalk, Wonderware – Projekte werden ohne Neuanfang übernommen"
+    },
+    "data.highlights[@JbMZXV].text": {
+      "source": "Développement structuré UDT (Unified Data Types), versionné Git — maintenable par un autre intégrateur sans risque",
+      "de": "Strukturierte UDT-Entwicklung (Unified Data Types), Git-Versionierung – ohne Risiko von einem anderen Integrator wartbar"
+    },
+    "data.conclusion": {
+      "source": "Résultat : une supervision moderne, accessible depuis partout, sans explosion de coût de licence, développée selon les meilleures pratiques Ignition — vérifiées par l'éditeur lui-même.",
+      "de": "Ergebnis: eine moderne Überwachung, von überall zugänglich, ohne explodierende Lizenzkosten, entwickelt nach den besten Ignition-Praktiken – vom Herausgeber selbst verifiziert."
+    },
+    "data.image.alt": {
+      "source": "Ignition SCADA Gold — supervision industrielle AUTEM",
+      "de": "Ignition SCADA Gold – AUTEM Industrieüberwachung"
+    }
+  }
+}

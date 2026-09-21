@@ -10,7 +10,8 @@
         "heading": "Podcasts",
         "paragraphs": [
           {
-            "text": "Retrouvez également cet article en version audio sur:"
+            "text": "Retrouvez également cet article en version audio sur:",
+            "_tid": "87suEF"
           }
         ],
         "subsections": [],
@@ -18,84 +19,102 @@
           "style": "unordered",
           "items": [
             {
-              "text": "🎧 Spotify:"
+              "text": "🎧 Spotify:",
+              "_tid": "Z6wiij"
             },
             {
-              "text": "🎧 Apple Podcast"
+              "text": "🎧 Apple Podcast",
+              "_tid": "ZfccLs"
             }
           ]
         },
         "links": [
           {
             "text": "Spotify:",
-            "href": "https://open.spotify.com/show/5MxcvpVrhMCYrxZ4dDHns0"
+            "href": "https://open.spotify.com/show/5MxcvpVrhMCYrxZ4dDHns0",
+            "_tid": "uZlk7h"
           }
         ],
-        "videoUrl": "https://www.youtube.com/embed/v3Bchh6MzdI"
+        "videoUrl": "https://www.youtube.com/embed/v3Bchh6MzdI",
+        "_tid": "y1bh3y"
       },
       {
         "heading": "Intro et présentation",
         "paragraphs": [
           {
-            "text": "Nous verrons dans cet article comment manager un projet de digitalisation en industrie avec Rija Rakotoarisoa . Rija a une double expertise IT et business qui lui a permis de concrétiser de grosses initiatives de digitalisation 4.0 chez des multinationales industrielles comme Poclain Hydraulics . Pour lui, il n'y a pas d'approche miracle. Pour valoriser la donnée industrielle, il faut avant tout maîtriser la conduite du changement. L'objectif final reste certes de collecter et exploiter au mieux la donnée en usine, mais il s'agit avant tout d'un enjeu entre humain, méthode et collaboration IT-outil. Rija s'appuie sur un exemple concret de DataHub , pour nous détailler ses conseils-clés pour les projets de transformation digitale Industrie 4.0."
+            "text": "Nous verrons dans cet article comment manager un projet de digitalisation en industrie avec Rija Rakotoarisoa . Rija a une double expertise IT et business qui lui a permis de concrétiser de grosses initiatives de digitalisation 4.0 chez des multinationales industrielles comme Poclain Hydraulics . Pour lui, il n'y a pas d'approche miracle. Pour valoriser la donnée industrielle, il faut avant tout maîtriser la conduite du changement. L'objectif final reste certes de collecter et exploiter au mieux la donnée en usine, mais il s'agit avant tout d'un enjeu entre humain, méthode et collaboration IT-outil. Rija s'appuie sur un exemple concret de DataHub , pour nous détailler ses conseils-clés pour les projets de transformation digitale Industrie 4.0.",
+            "_tid": "MhKUAc"
           }
         ],
         "subsections": [],
         "links": [
           {
             "text": "Rija Rakotoarisoa",
-            "href": "https://www.linkedin.com/in/rijarakotoarisoa/"
+            "href": "https://www.linkedin.com/in/rijarakotoarisoa/",
+            "_tid": "6VEz5x"
           },
           {
             "text": "Poclain Hydraulics",
-            "href": "https://poclain-hydraulics.com/"
+            "href": "https://poclain-hydraulics.com/",
+            "_tid": "GJOr8y"
           }
-        ]
+        ],
+        "_tid": "xH5EQR"
       },
       {
         "heading": "Challenge IT VS Management",
         "paragraphs": [
           {
-            "text": "Les défis entre l'IT et le Management pour un automaticien peuvent être variés. Ce qui est le plus important, ce n'est pas d'être meilleur que l'autre, mais d'anticiper ce que l'on peut apporter comme valeur ajoutée aux personnes avec lesquelles on travaille. Un bon manageur doit pouvoir motiver son équipe, être là quand on a besoin de lui."
+            "text": "Les défis entre l'IT et le Management pour un automaticien peuvent être variés. Ce qui est le plus important, ce n'est pas d'être meilleur que l'autre, mais d'anticiper ce que l'on peut apporter comme valeur ajoutée aux personnes avec lesquelles on travaille. Un bon manageur doit pouvoir motiver son équipe, être là quand on a besoin de lui.",
+            "_tid": "cGNffV"
           }
         ],
-        "subsections": []
+        "subsections": [],
+        "_tid": "oWFJgS"
       },
       {
         "heading": "Digitalisation et industrie",
         "paragraphs": [
           {
-            "text": "Le plus important dans la digitalisation des produits dans l'industrie est d'abord de se poser la question de savoir ce que l'on veut vraiment. Ensuite pour que sa marche, il doit y avoir une vraie collaboration en permanence entre IT et business."
+            "text": "Le plus important dans la digitalisation des produits dans l'industrie est d'abord de se poser la question de savoir ce que l'on veut vraiment. Ensuite pour que sa marche, il doit y avoir une vraie collaboration en permanence entre IT et business.",
+            "_tid": "6fKA42"
           }
         ],
-        "subsections": []
+        "subsections": [],
+        "_tid": "cYy8Vq"
       },
       {
         "heading": "Exploitation des données",
         "paragraphs": [
           {
-            "text": "En matière d'exploitation des données, l'élément clé est de mettre en place un pipeline commun auquel tout le monde pourra accéder pour récupérer les données. Pour les entreprises multisites, la meilleure approche pour collecter les données consiste en une collaboration étroite . Cela commence par de nombreux échanges, puis en informant les opérationnels des nouveaux projets."
+            "text": "En matière d'exploitation des données, l'élément clé est de mettre en place un pipeline commun auquel tout le monde pourra accéder pour récupérer les données. Pour les entreprises multisites, la meilleure approche pour collecter les données consiste en une collaboration étroite . Cela commence par de nombreux échanges, puis en informant les opérationnels des nouveaux projets.",
+            "_tid": "dIRRd8"
           }
         ],
-        "subsections": []
+        "subsections": [],
+        "_tid": "sVCIV1"
       },
       {
         "heading": "Format et collecte des données",
         "paragraphs": [
           {
-            "text": "Les indicateurs sont utilisés pour mesurer les données. Ils sont utiles pour évaluer le contrôle qualité et la performance en fonction des objectifs fixés. On peut également utiliser des diagrammes de Pareto pour identifier les principales causes de défauts ou de problèmes dans les processus. Le principe à garder en tête pour comprendre l'utilité des données après leur collecte est : \"Si on ne peut pas mesurer, on ne peut pas améliorer\" (en référence à la collecte des données). Ainsi, on collecte uniquement les données dont on a besoin , en se basant sur les cas d'utilisation. Ensuite, on met en place la collecte, et les résultats obtenus permettent de déterminer réellement ce dont on a besoin."
+            "text": "Les indicateurs sont utilisés pour mesurer les données. Ils sont utiles pour évaluer le contrôle qualité et la performance en fonction des objectifs fixés. On peut également utiliser des diagrammes de Pareto pour identifier les principales causes de défauts ou de problèmes dans les processus. Le principe à garder en tête pour comprendre l'utilité des données après leur collecte est : \"Si on ne peut pas mesurer, on ne peut pas améliorer\" (en référence à la collecte des données). Ainsi, on collecte uniquement les données dont on a besoin , en se basant sur les cas d'utilisation. Ensuite, on met en place la collecte, et les résultats obtenus permettent de déterminer réellement ce dont on a besoin.",
+            "_tid": "2FRVPz"
           }
         ],
-        "subsections": []
+        "subsections": [],
+        "_tid": "x2hvdg"
       },
       {
         "heading": "Outils Saas",
         "paragraphs": [
           {
-            "text": "Avant d'adopter des outils SaaS , les chefs de projet doivent les analyser en amont. Ils doivent prendre en compte les critères et les attentes spécifiques. Il est essentiel d'avoir une personne compétente dans les domaines techniques et commerciaux pour rassembler ces informations. Ainsi, on évite de prendre des décisions qui pourraient lourdement impacter l'entreprise."
+            "text": "Avant d'adopter des outils SaaS , les chefs de projet doivent les analyser en amont. Ils doivent prendre en compte les critères et les attentes spécifiques. Il est essentiel d'avoir une personne compétente dans les domaines techniques et commerciaux pour rassembler ces informations. Ainsi, on évite de prendre des décisions qui pourraient lourdement impacter l'entreprise.",
+            "_tid": "IYL9lf"
           },
           {
-            "text": "Liens utiles"
+            "text": "Liens utiles",
+            "_tid": "URAdq6"
           }
         ],
         "subsections": [],
@@ -103,40 +122,50 @@
           "style": "unordered",
           "items": [
             {
-              "text": "Page LinkedIn de Rija | 🌍 Site web"
+              "text": "Page LinkedIn de Rija | 🌍 Site web",
+              "_tid": "lCyYZY"
             },
             {
-              "text": "Data Hub Poclain présenté en détail lors du Manufacturing Tour | 📽️ Vidéo"
+              "text": "Data Hub Poclain présenté en détail lors du Manufacturing Tour | 📽️ Vidéo",
+              "_tid": "ErmoVC"
             },
             {
-              "text": "Livre de Rija : \"FRANCHIR L'IMPOSSIBLE: Mes 14 histoires pour réussir vos projets | 🌍 Site web"
+              "text": "Livre de Rija : \"FRANCHIR L'IMPOSSIBLE: Mes 14 histoires pour réussir vos projets | 🌍 Site web",
+              "_tid": "YhYMU4"
             },
             {
-              "text": "post sur l'IIoT industriel | 🌍 Site web"
+              "text": "post sur l'IIoT industriel | 🌍 Site web",
+              "_tid": "ew90AM"
             },
             {
-              "text": "Hashtag pour suivre les publications de Rija sur Linkedin: 👉#rijarkt | ✅ Infos"
+              "text": "Hashtag pour suivre les publications de Rija sur Linkedin: 👉#rijarkt | ✅ Infos",
+              "_tid": "ZdvXTd"
             }
           ]
         },
         "links": [
           {
             "text": "Page LinkedIn de Rija | Site web",
-            "href": "https://www.linkedin.com/in/rijarakotoarisoa/"
+            "href": "https://www.linkedin.com/in/rijarakotoarisoa/",
+            "_tid": "h4UfgG"
           },
           {
             "text": "Data Hub Poclain présenté en détail lors du Manufacturing Tour | Vidéo",
-            "href": "https://manufacturing.fr/lusine-poclain-hydraulics-comme-si-vous-y-etiez/"
+            "href": "https://manufacturing.fr/lusine-poclain-hydraulics-comme-si-vous-y-etiez/",
+            "_tid": "hTRxdv"
           },
           {
             "text": "Livre de Rija : \"FRANCHIR L'IMPOSSIBLE: Mes 14 histoires pour réussir vos projets | Site web",
-            "href": "https://www.amazon.fr/FRANCHIR-LIMPOSSIBLE-quatorze-histoires-r%C3%A9ussir/dp/295728460X"
+            "href": "https://www.amazon.fr/FRANCHIR-LIMPOSSIBLE-quatorze-histoires-r%C3%A9ussir/dp/295728460X",
+            "_tid": "6Q9712"
           },
           {
             "text": "post sur l'IIoT industriel | Site web",
-            "href": "https://www.linkedin.com/posts/rijarakotoarisoa_iiot-industrie40-data-activity-7087317650610995200-iys3?utm_source=share&utm_medium=member_desktop"
+            "href": "https://www.linkedin.com/posts/rijarakotoarisoa_iiot-industrie40-data-activity-7087317650610995200-iys3?utm_source=share&utm_medium=member_desktop",
+            "_tid": "jqZECP"
           }
-        ]
+        ],
+        "_tid": "cgeVgB"
       }
     ]
   }

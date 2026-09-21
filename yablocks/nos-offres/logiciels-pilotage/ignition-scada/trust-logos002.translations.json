@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Nous migrons depuis toutes les plateformes SCADA",
+      "de": "Wir migrieren von allen SCADA-Plattformen"
+    },
+    "data.subtitle": {
+      "source": "Et nous intervenons aussi sur WinCC, FactoryTalk et Wonderware si votre infrastructure l'impose",
+      "de": "Und wir arbeiten auch mit WinCC, FactoryTalk und Wonderware, falls Ihre Infrastruktur dies erfordert"
+    },
+    "data.logos[@wXKkNB].alt": {
+      "source": "Ignition — Gold Certified Integrator",
+      "de": "Ignition — Gold Certified Integrator"
+    },
+    "data.logos[@NtqIuS].alt": {
+      "source": "Siemens — WinCC, TIA Portal",
+      "de": "Siemens — WinCC, TIA Portal"
+    },
+    "data.logos[@oYe5U3].alt": {
+      "source": "Rockwell — FactoryTalk View SE/ME",
+      "de": "Rockwell — FactoryTalk View SE/ME"
+    },
+    "data.logos[@o4j4lk].alt": {
+      "source": "AVEVA Wonderware — System Platform",
+      "de": "AVEVA Wonderware — System Platform"
+    },
+    "data.logos[@j9q67a].alt": {
+      "source": "Siemens WinCC — supervision industrielle",
+      "de": "Siemens WinCC — industrielle Überwachung"
+    }
+  }
+}

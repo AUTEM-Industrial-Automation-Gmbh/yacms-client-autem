@@ -8,22 +8,26 @@
       {
         "value": "Gold",
         "label": "Certification Inductive Automation — niveau de certification le plus exigeant",
-        "suffix": ""
+        "suffix": "",
+        "_tid": "lJQ66C"
       },
       {
         "value": "6",
         "label": "Plateformes SCADA maîtrisées pour les nouvelles installations et migrations",
-        "suffix": "+"
+        "suffix": "+",
+        "_tid": "3Qzpdg"
       },
       {
         "value": "10",
         "label": "Années d'expérience en supervision industrielle",
-        "suffix": "+"
+        "suffix": "+",
+        "_tid": "HG1JG3"
       },
       {
         "value": "100",
         "label": "Des projets livrés avec documentation complète et code versionné",
-        "suffix": "%"
+        "suffix": "%",
+        "_tid": "BzWd2m"
       }
     ]
   }

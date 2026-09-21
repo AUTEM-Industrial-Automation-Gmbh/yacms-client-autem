@@ -1,0 +1,53 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.sectionLabel": {
+      "source": "FAQ",
+      "de": "FAQ"
+    },
+    "data.title": {
+      "source": "Questions fréquentes sur la supervision Ignition SCADA",
+      "de": "Häufig gestellte Fragen zur Ignition SCADA-Überwachung"
+    },
+    "data.items[@hEScRi].question": {
+      "source": "Qu'est-ce que la certification Gold Ignition et qu'est-ce qu'elle garantit ?",
+      "de": "Was ist die Ignition Gold-Zertifizierung und was garantiert sie?"
+    },
+    "data.items[@aueQka].question": {
+      "source": "Ignition est-il adapté aux PME industrielles ou uniquement aux grands sites ?",
+      "de": "Ist Ignition für KMUs in der Industrie geeignet oder nur für große Standorte?"
+    },
+    "data.items[@GOYxtN].question": {
+      "source": "Peut-on migrer notre WinCC ou notre InduSoft vers Ignition sans tout recréer ?",
+      "de": "Können wir unser WinCC oder InduSoft zu Ignition migrieren, ohne alles neu erstellen zu müssen?"
+    },
+    "data.items[@rwbf0l].question": {
+      "source": "Ignition fonctionne-t-il offline ou nécessite-t-il une connexion cloud ?",
+      "de": "Funktioniert Ignition offline oder benötigt es eine Cloud-Verbindung?"
+    },
+    "data.items[@qdnMYg].question": {
+      "source": "Combien coûte une licence Ignition ?",
+      "de": "Was kostet eine Ignition-Lizenz?"
+    },
+    "data.items[@hEScRi].answer": {
+      "source": "La certification Gold est le niveau de certification le plus élevé délivré par Inductive Automation aux intégrateurs Ignition. Elle valide les compétences techniques de l'équipe, la qualité des livrables, les pratiques de développement (architecture UDT, versioning, documentation) et l'expérience projet. C'est une évaluation externe par l'éditeur — pas un titre auto-déclaré. Elle garantit que vous faites appel à un intégrateur dont les pratiques ont été vérifiées par le fabricant du logiciel.",
+      "de": "Die Gold-Zertifizierung ist die höchste Zertifizierungsstufe, die Inductive Automation an Ignition-Integratoren vergibt. Sie bestätigt die technischen Fähigkeiten des Teams, die Qualität der Ergebnisse, die Entwicklungspraktiken (UDT-Architektur, Versionierung, Dokumentation) und die Projekterfahrung. Es handelt sich um eine externe Bewertung durch den Herausgeber – kein selbst deklarierter Titel. Sie garantiert, dass Sie mit einem Integrator zusammenarbeiten, dessen Praktiken vom Softwarehersteller überprüft wurden."
+    },
+    "data.items[@aueQka].answer": {
+      "source": "Ignition est particulièrement adapté aux PME car il ne pénalise pas la croissance : la licence est plate (illimitée en tags, clients et connexions), ce qui signifie que le coût ne grimpe pas quand vous ajoutez des machines, des utilisateurs ou des sites. Dès 5 à 10 machines à superviser, Ignition devient compétitif face aux plateformes à licence par tag.",
+      "de": "Ignition eignet sich besonders für KMUs, da es das Wachstum nicht behindert: Die Lizenz ist pauschal (unbegrenzt in Bezug auf Tags, Clients und Verbindungen), was bedeutet, dass die Kosten nicht steigen, wenn Sie Maschinen, Benutzer oder Standorte hinzufügen. Ab 5 bis 10 zu überwachenden Maschinen wird Ignition im Vergleich zu plattformbasierten Lizenzen pro Tag wettbewerbsfähig."
+    },
+    "data.items[@GOYxtN].answer": {
+      "source": "Oui. Nous portons les projets existants vers Ignition : conversion des écrans HMI, récupération de l'historique, migration des alarmes et des tags. La quantité de travail dépend de la taille du projet et de l'écart de version. Nous évaluons le périmètre lors de l'audit initial et proposons un plan de migration par phases pour maintenir la production pendant la transition.",
+      "de": "Ja. Wir portieren bestehende Projekte zu Ignition: Konvertierung von HMI-Bildschirmen, Übernahme von Historien, Migration von Alarmen und Tags. Der Arbeitsaufwand hängt von der Projektgröße und dem Versionsunterschied ab. Wir bewerten den Umfang während der Erstprüfung und schlagen einen gestaffelten Migrationsplan vor, um die Produktion während des Übergangs aufrechtzuerhalten."
+    },
+    "data.items[@rwbf0l].answer": {
+      "source": "Ignition est 100 % on-premise : il s'installe sur un serveur local, fonctionne sans connexion Internet et ne transmet aucune donnée à l'extérieur sauf configuration explicite. C'est un avantage majeur pour les environnements OT sensibles ou les sites isolés. La connexion cloud (Ignition Edge, MQTT Sparkplug) est optionnelle et indépendante.",
+      "de": "Ignition ist zu 100 % On-Premise: Es wird auf einem lokalen Server installiert, funktioniert ohne Internetverbindung und überträgt keine Daten nach außen, es sei denn, dies wird explizit konfiguriert. Dies ist ein großer Vorteil für sensible OT-Umgebungen oder isolierte Standorte. Die Cloud-Verbindung (Ignition Edge, MQTT Sparkplug) ist optional und unabhängig."
+    },
+    "data.items[@qdnMYg].answer": {
+      "source": "Inductive Automation publie ses tarifs sur son site (modèle SaaS ou perpétuel). La licence plate Ignition est typiquement compétitive dès 10 à 20 tags par rapport aux plateformes à licence par tag. AUTEM peut vous fournir une estimation selon votre architecture cible. Nous ne prenons pas de commission sur la revente de licences — nous vous orientons vers le modèle qui correspond à votre budget.",
+      "de": "Inductive Automation veröffentlicht seine Preise auf seiner Website (SaaS- oder Perpetual-Modell). Die pauschale Ignition-Lizenz ist typischerweise ab 10 bis 20 Tags im Vergleich zu plattformbasierten Lizenzen pro Tag wettbewerbsfähig. AUTEM kann Ihnen eine Schätzung basierend auf Ihrer Zielarchitektur geben. Wir erhalten keine Provision für den Weiterverkauf von Lizenzen – wir leiten Sie zu dem Modell, das Ihrem Budget entspricht."
+    }
+  }
+}

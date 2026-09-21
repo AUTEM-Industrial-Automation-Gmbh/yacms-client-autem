@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Projet Hermès Paris — architecture supervision industrielle AUTEM",
+      "de": "Hermès Paris Projekt – AUTEM industrielle SCADA-Architektur"
+    },
+    "data.quote": {
+      "source": "AUTEM a structuré l'architecture complète de nos systèmes de supervision avec une rigueur technique et une capacité à s'adapter à nos contraintes internes remarquables. Le projet a été livré dans les délais, documenté, et nos équipes ont pu prendre la main rapidement.",
+      "de": "AUTEM hat die gesamte Architektur unserer Überwachungssysteme mit bemerkenswerter technischer Strenge und Anpassungsfähigkeit an unsere internen Einschränkungen strukturiert. Das Projekt wurde pünktlich und dokumentiert geliefert, und unsere Teams konnten sich schnell einarbeiten."
+    },
+    "data.author.name": {
+      "source": "Directeur Technique",
+      "de": "Technischer Direktor"
+    },
+    "data.author.role": {
+      "source": "Hermès — Paris",
+      "de": "Hermès – Paris"
+    }
+  }
+}
