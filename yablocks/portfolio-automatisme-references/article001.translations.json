@@ -1,0 +1,233 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@wrYe6K].heading": {
+      "source": "",
+      "de": ""
+    },
+    "data.sections[@3oZKTQ].heading": {
+      "source": "Réalisations techniques - fournisseur automatisme",
+      "de": "Technische Realisierungen - Automatisierungsanbieter"
+    },
+    "data.sections[@ehTFA1].heading": {
+      "source": "Prestataire en automatisme industriel",
+      "de": "Dienstleister für industrielle Automatisierung"
+    },
+    "data.sections[@noQ6fd].heading": {
+      "source": "Analyse organique automatisme",
+      "de": "Organische Analyse Automatisierung"
+    },
+    "data.sections[@j7ZkbW].heading": {
+      "source": "Nos valeurs",
+      "de": "Unsere Werte"
+    },
+    "data.sections[@tK1y0X].heading": {
+      "source": "",
+      "de": ""
+    },
+    "data.sections[@SBNM30].heading": {
+      "source": "",
+      "de": ""
+    },
+    "data.sections[@B5Ycrn].heading": {
+      "source": "Notre portfolio",
+      "de": "Unser Portfolio"
+    },
+    "data.sections[@Ub6kMP].heading": {
+      "source": "",
+      "de": ""
+    },
+    "data.sections[@QGq2Zd].heading": {
+      "source": "",
+      "de": ""
+    },
+    "data.sections[@RIaJFs].heading": {
+      "source": "",
+      "de": ""
+    },
+    "data.sections[@YjEQXI].heading": {
+      "source": "",
+      "de": ""
+    },
+    "data.sections[@wrYe6K].paragraphs[@oZdXY8].text": {
+      "source": "",
+      "de": ""
+    },
+    "data.sections[@3oZKTQ].paragraphs[@W1ZmXH].text": {
+      "source": "Nos réalisations :",
+      "de": "Unsere Realisierungen:"
+    },
+    "data.sections[@ehTFA1].paragraphs[@hlU2Hn].text": {
+      "source": "AUTEM est un intégrateur intervenant auprès d'industriels.",
+      "de": "AUTEM ist ein Integrator, der für Industrieunternehmen tätig ist."
+    },
+    "data.sections[@ehTFA1].paragraphs[@V2GXPT].text": {
+      "source": "Nos prestations en automatisme sont spécialisées dans les secteurs suivants :",
+      "de": "Unsere Automatisierungsdienstleistungen sind auf folgende Sektoren spezialisiert:"
+    },
+    "data.sections[@noQ6fd].paragraphs[@IZXTyk].text": {
+      "source": "L'analyse organique et l'analyse fonctionnelle sont les\n                                                    premières étapes pour concevoir un système de contrôle-commande.\n                                                    Cette étape consiste à identifier et décomposer les différentes\n                                                    briques fonctionnelles de la machine ou du logiciel industriel que\n                                                    l'on souhaite concevoir. Les données d'entrée pour l'analyse\n                                                    fonctionnelle sont les schémas électriques et pneumatiques,\n                                                    l'analyse de risques, les P&ID (piping and instrumentation diagram),\n                                                    la carte des flux, les plans d'implantation et projection mécanique,\n                                                    et les programmes des automates existants dans le cas d'un rétrofit.\n                                                    Ensuite dans le cas des équipements industriels, il s'agira par\n                                                    exemple d'établir la liste des interfaces d'entrée-sortie, les\n                                                    organes fonctionnelles, les matériels spécifiques à utiliser\n                                                    (variateurs, relais de sécurité, régulateur), les protocoles de\n                                                    communication, les langages de programmation à employer. L'analyse\n                                                    organique peut être confiée à un fournisseur\n                                                        automatisme. L'analyse fonctionnelle permet de répondre\n                                                    aux questions suivantes : de quoi est constituée ma machine ?\n                                                    quelles sont ces modes de fonctionnement ? combien de temps est\n                                                    nécessaire pour la concevoir ? comment l'automate de la machine doit\n                                                    être programmé ? L'analyse organique permet au chef\n                                                    de projet de quantifier la durée et la taille du projet. Cela permet\n                                                    aussi aux techniciens intervenant sur la machine (électriciens,\n                                                    mécaniciens, automaticiens) de structurer les différentes étapes de\n                                                    création de la machine. ",
+      "de": "Die organische Analyse und die Funktionsanalyse sind die\n                                                    ersten Schritte zur Konzeption eines Steuerungs- und\n                                                    Regelungssystems. Dieser Schritt beinhaltet die Identifizierung und\n                                                    Zerlegung der verschiedenen Funktionsbausteine der Maschine oder\n                                                    der zu konzipierenden Industriesoftware. Die Eingangsdaten für die\n                                                    Funktionsanalyse sind elektrische und pneumatische Schaltpläne,\n                                                    Risikoanalysen, P&ID (Piping and Instrumentation Diagram),\n                                                    Flussdiagramme, mechanische Layout- und Projektionspläne sowie die\n                                                    Programme bestehender Steuerungen im Falle einer Nachrüstung.\n                                                    Anschließend geht es bei Industrieanlagen beispielsweise darum, die\n                                                    Liste der Ein-/Ausgangsschnittstellen, die Funktionsorgane, die zu\n                                                    verwendenden Spezialmaterialien (Frequenzumrichter, Sicherheitsrelais,\n                                                    Regler), die Kommunikationsprotokolle und die zu verwendenden\n                                                    Programmiersprachen zu ermitteln. Die organische Analyse kann einem\n                                                        Automatisierungsanbieter anvertraut werden. Die Funktionsanalyse\n                                                    beantwortet folgende Fragen: Woraus besteht meine Maschine?\n                                                    Was sind ihre Betriebsarten? Wie viel Zeit wird für ihre Entwicklung\n                                                    benötigt? Wie muss die Steuerung der Maschine programmiert werden?\n                                                    Die organische Analyse ermöglicht es dem Projektleiter, die Dauer und\n                                                    den Umfang des Projekts zu quantifizieren. Sie ermöglicht es auch den\n                                                    Technikern, die an der Maschine arbeiten (Elektriker, Mechaniker,\n                                                    Automatisierungstechniker), die verschiedenen Phasen der\n                                                    Maschinenentwicklung zu strukturieren."
+    },
+    "data.sections[@tK1y0X].paragraphs[@oeSx4Z].text": {
+      "source": "",
+      "de": ""
+    },
+    "data.sections[@SBNM30].paragraphs[@9eRHN0].text": {
+      "source": "",
+      "de": ""
+    },
+    "data.sections[@3oZKTQ].list.items[@DxfLgA].text": {
+      "source": "✅ 2024 SNAAM (Métal, Grenoble FR)  -  Intégration TRS/OEE, Data, Performance",
+      "de": "✅ 2024 SNAAM (Metall, Grenoble FR) - Integration TRS/OEE, Daten, Leistung"
+    },
+    "data.sections[@3oZKTQ].list.items[@5VH7At].text": {
+      "source": "✅ 2023 BIOMERIEUX (Pharma, Lyon FR)  - Rétrofit ligne de conditionnement aseptisée",
+      "de": "✅ 2023 BIOMERIEUX (Pharma, Lyon FR) - Nachrüstung aseptischer Abfülllinie"
+    },
+    "data.sections[@3oZKTQ].list.items[@Qyn7es].text": {
+      "source": "✅ 2023 SOITEC (Electronique, Grenoble FR)  -  Connectivité Réseau pour machine silicium",
+      "de": "✅ 2023 SOITEC (Elektronik, Grenoble FR) - Netzwerkverbindung für Siliziummaschine"
+    },
+    "data.sections[@3oZKTQ].list.items[@rZ9QR5].text": {
+      "source": "✅ 2022 HERMES (Textile, Lyon FR) - Impression Textile, Systèmes Métier, Data",
+      "de": "✅ 2022 HERMES (Textil, Lyon FR) - Textildruck, Branchensysteme, Daten"
+    },
+    "data.sections[@3oZKTQ].list.items[@7ZqXGZ].text": {
+      "source": "✅ 2022 BEMA (Machines spéciales, Grenoble FR) - Programmation machine de compactage",
+      "de": "✅ 2022 BEMA (Sondermaschinen, Grenoble FR) - Programmierung einer Pressmaschine"
+    },
+    "data.sections[@3oZKTQ].list.items[@7IyXQj].text": {
+      "source": "✅2022 P&G (Chimie, Oise FR) - Développement SCADA logistique",
+      "de": "✅2022 P&G (Chemie, Oise FR) - Entwicklung SCADA für Logistik"
+    },
+    "data.sections[@3oZKTQ].list.items[@gifmo2].text": {
+      "source": "✅ 2021 SFTRF (Mobilité, Rhone-Alpes FR) - Supervision réseau tunnel et sécurité",
+      "de": "✅ 2021 SFTRF (Mobilität, Rhone-Alpes FR) - Überwachung von Tunnelnetzwerken und Sicherheit"
+    },
+    "data.sections[@3oZKTQ].list.items[@RnFuPj].text": {
+      "source": "✅ 2021 THALYS (Mobilité, Bruxelles BE) - Télémétrie, IoT, Monétique, Préventif",
+      "de": "✅ 2021 THALYS (Mobilität, Brüssel BE) - Telemetrie, IoT, Zahlungsverkehr, Präventivwartung"
+    },
+    "data.sections[@3oZKTQ].list.items[@P0H6hg].text": {
+      "source": "✅ 2020 SECKIOT (Cybersécurité, Paris FR) - Connectivité IoT et Cybersécurité",
+      "de": "✅ 2020 SECKIOT (Cybersicherheit, Paris FR) - IoT-Konnektivität und Cybersicherheit"
+    },
+    "data.sections[@3oZKTQ].list.items[@ejl5ME].text": {
+      "source": "✅ 2020 AMAZON (Logistique, Paris FR) - Automatisation centre de tri robotisé",
+      "de": "✅ 2020 AMAZON (Logistik, Paris FR) - Automatisierung von Sortierzentren mit Robotern"
+    },
+    "data.sections[@3oZKTQ].list.items[@b3M3vB].text": {
+      "source": "✅ 2019 TM (Chimie, Canada CA) -  Programmation machine de lavage",
+      "de": "✅ 2019 TM (Chemie, Kanada CA) - Programmierung einer Waschmaschine"
+    },
+    "data.sections[@3oZKTQ].list.items[@7h8ve6].text": {
+      "source": "✅ 2018 UNILEVER (Chimie, Oise FR) - Intégration de robot, doseur, et MES",
+      "de": "✅ 2018 UNILEVER (Chemie, Oise FR) - Integration von Robotern, Dosierern und MES"
+    },
+    "data.sections[@3oZKTQ].list.items[@laJpEI].text": {
+      "source": "✅ 2016 DANONE (Food, Moscou RU) - Conception osmoseur de filtration CIP",
+      "de": "✅ 2016 DANONE (Lebensmittel, Moskau RU) - Konzeption einer Umkehrosmoseanlage für CIP-Filtration"
+    },
+    "data.sections[@3oZKTQ].list.items[@uT7HVG].text": {
+      "source": "✅ 2016 ARCELORMITTAL (Métal, Luxembourg LU) - Performances d’un atelier d'usinage",
+      "de": "✅ 2016 ARCELORMITTAL (Metall, Luxemburg LU) - Leistung eines Bearbeitungszentrums"
+    },
+    "data.sections[@3oZKTQ].list.items[@JAVxSa].text": {
+      "source": "✅ 2015 SNCF (Mobilité, Lorraine FR) - IHM contrôle d’aiguillages ferroviaires",
+      "de": "✅ 2015 SNCF (Mobilität, Lothringen FR) - HMI für die Steuerung von Eisenbahnsignalen"
+    },
+    "data.sections[@ehTFA1].list.items[@HmqDJt].text": {
+      "source": "🟢 Chimie - Agroalimentaire : filtration, batchs, dosage",
+      "de": "🟢 Chemie - Lebensmittelindustrie: Filtration, Batch-Verarbeitung, Dosierung"
+    },
+    "data.sections[@ehTFA1].list.items[@eZLJf8].text": {
+      "source": "🟢 Logistique : convoyage, tri, bras robotisés",
+      "de": "🟢 Logistik: Fördertechnik, Sortierung, Roboterarme"
+    },
+    "data.sections[@ehTFA1].list.items[@MS3dJA].text": {
+      "source": "🟢 Transports : supervision réseau routier, GTC, radio",
+      "de": "🟢 Transport: Überwachung von Straßennetzen, Gebäudeleittechnik, Funk"
+    },
+    "data.sections[@wrYe6K].image.alt": {
+      "source": "",
+      "de": ""
+    },
+    "data.sections[@B5Ycrn].image.alt": {
+      "source": "fournisseur automatisme, analyse organique automatisme, analyse fonctionnelle, portfolio, prestataire en automatisme industriel, Réalisations techniques",
+      "de": "Automatisierungsanbieter, organische Analyse Automatisierung, Funktionsanalyse, Portfolio, Dienstleister für industrielle Automatisierung, Technische Realisierungen"
+    },
+    "data.sections[@Ub6kMP].image.alt": {
+      "source": "fournisseur automatisme, analyse organique automatisme, analyse fonctionnelle, portfolio, prestataire en automatisme industriel, Réalisations techniques",
+      "de": "Automatisierungsanbieter, organische Analyse Automatisierung, Funktionsanalyse, Portfolio, Dienstleister für industrielle Automatisierung, Technische Realisierungen"
+    },
+    "data.sections[@QGq2Zd].image.alt": {
+      "source": "fournisseur automatisme, analyse organique automatisme, analyse fonctionnelle, portfolio, prestataire en automatisme industriel, Réalisations techniques",
+      "de": "Automatisierungsanbieter, organische Analyse Automatisierung, Funktionsanalyse, Portfolio, Dienstleister für industrielle Automatisierung, Technische Realisierungen"
+    },
+    "data.sections[@RIaJFs].image.alt": {
+      "source": "fournisseur automatisme, analyse organique automatisme, analyse fonctionnelle, portfolio, prestataire en automatisme industriel, Réalisations techniques",
+      "de": "Automatisierungsanbieter, organische Analyse Automatisierung, Funktionsanalyse, Portfolio, Dienstleister für industrielle Automatisierung, Technische Realisierungen"
+    },
+    "data.sections[@YjEQXI].image.alt": {
+      "source": "fournisseur automatisme, analyse organique automatisme, analyse fonctionnelle, portfolio, prestataire en automatisme industriel, Réalisations techniques",
+      "de": "Automatisierungsanbieter, organische Analyse Automatisierung, Funktionsanalyse, Portfolio, Dienstleister für industrielle Automatisierung, Technische Realisierungen"
+    },
+    "data.sections[@wrYe6K].subsections[@Fuvayl].heading": {
+      "source": "",
+      "de": ""
+    },
+    "data.sections[@ehTFA1].subsections[@abSAw0].heading": {
+      "source": "",
+      "de": ""
+    },
+    "data.sections[@j7ZkbW].subsections[@5vakdh].heading": {
+      "source": "Nous opérons avec polyvalence",
+      "de": "Wir arbeiten vielseitig"
+    },
+    "data.sections[@tK1y0X].subsections[@F4bUKc].heading": {
+      "source": "Nous opérons avec Fiabilité",
+      "de": "Wir arbeiten zuverlässig"
+    },
+    "data.sections[@SBNM30].subsections[@Ncfo0e].heading": {
+      "source": "Nous opérons avec Flexibilité ",
+      "de": "Wir arbeiten flexibel"
+    },
+    "data.sections[@B5Ycrn].subsections[@QXMrTe].heading": {
+      "source": "",
+      "de": ""
+    },
+    "data.sections[@wrYe6K].subsections[@Fuvayl].paragraphs[@SAjkFs].text": {
+      "source": "Votre fournisseur automatisme: Portofolio de AUTEM",
+      "de": "Ihr Automatisierungsanbieter: Portfolio von AUTEM"
+    },
+    "data.sections[@ehTFA1].subsections[@abSAw0].paragraphs[@ZO0i4M].text": {
+      "source": "Confier un projet à un prestataire en automatisme\n                                                    apporte divers avantages. Premièrement l'intervention d'un\n                                                    spécialiste vous apporte de la qualité pour vos machines.\n                                                    Deuxièmement vous gagnez du temps en externalisation la\n                                                    programmation de votre machine à un fournisseur\n                                                        automatisme. Ensuite vous rendez possible un projet qui\n                                                    aurait peut-être été bloqué pour cause de main d'oeuvre disponible\n                                                    et qualifiée. Enfin vous évitez de subir les pics de charge dûs à\n                                                    des commandes volumineuses, ou à une croissance d'activité. En tant\n                                                    que prestataire en automatisme industriel, nous\n                                                    travaillons pour des bureaux d'études, des intégrateurs de machines\n                                                    spéciales, des usines et sites de production industrielle. Nos\n                                                    interventions peuvent concerner la programmation API PLC, les IHM et\n                                                    supervisions SCADA, la robotique, les systèmes de vision, les\n                                                    réseaux de communication. Nous formons également des techniciens et\n                                                    automaticiens pour intervenir sur tout le cycle de vie des machines\n                                                    : conception, installation, dépannage, maintenance, rétrofit, ...",
+      "de": "Die Beauftragung eines Dienstleisters für Automatisierung bietet verschiedene Vorteile. Erstens erhalten Sie durch den Einsatz eines Spezialisten Qualität für Ihre Maschinen. Zweitens sparen Sie Zeit, indem Sie die Programmierung Ihrer Maschine an einen Automatisierungsanbieter auslagern. Drittens ermöglichen Sie ein Projekt, das aufgrund fehlender verfügbarer und qualifizierter Arbeitskräfte möglicherweise blockiert wäre. Schließlich vermeiden Sie Spitzenlasten aufgrund von Großaufträgen oder wachsender Geschäftstätigkeit. Als Dienstleister für industrielle Automatisierung arbeiten wir für Ingenieurbüros, Integratoren von Sondermaschinen, Fabriken und industrielle Produktionsstätten. Unsere Einsätze können die SPS-Programmierung, HMIs und SCADA-Überwachungssysteme, Robotik, Bildverarbeitungssysteme und Kommunikationsnetzwerke umfassen. Wir schulen auch Techniker und Automatisierungsexperten für den Einsatz während des gesamten Lebenszyklus von Maschinen: Konzeption, Installation, Fehlerbehebung, Wartung, Nachrüstung usw."
+    },
+    "data.sections[@j7ZkbW].subsections[@5vakdh].paragraphs[@RIgQQ6].text": {
+      "source": "Nous intervenons sur tous les organes de contrôle des machines, grâce à notre expérience sur une palette large d’outils d’automatisation. Par ailleurs, nous assurons une veille technologique et des mises à jour permanentes. Nous réinvestissons constamment sur les technologies de l’industrie 4.0 pour proposer à nos clients les dernières avancées.",
+      "de": "Dank unserer Erfahrung mit einer breiten Palette von Automatisierungswerkzeugen arbeiten wir an allen Steuerorganen von Maschinen. Darüber hinaus sorgen wir für technologische Beobachtung und ständige Aktualisierungen. Wir investieren kontinuierlich in Industrie 4.0-Technologien, um unseren Kunden die neuesten Fortschritte anzubieten."
+    },
+    "data.sections[@tK1y0X].subsections[@F4bUKc].paragraphs[@bAs3cd].text": {
+      "source": "Dans toutes nos interventions techniques, nous privilégions la réactivité, la\n                                            ponctualité et la transparence. Nos clients sont ainsi livrés dans les\n                                            temps, avec un suivi régulier de l’avancement.",
+      "de": "Bei all unseren technischen Einsätzen legen wir Wert auf Reaktionsfähigkeit, Pünktlichkeit und Transparenz. Unsere Kunden werden somit pünktlich beliefert, mit regelmäßiger Überwachung des Fortschritts."
+    },
+    "data.sections[@SBNM30].subsections[@Ncfo0e].list.items[@KX5Fxe].text": {
+      "source": "Flexibilité dans la conception pour des                                                             machines sur mesure adaptées aux besoins du client.",
+      "de": "Flexibilität im Design für maßgeschneiderte Maschinen, die auf die Bedürfnisse des Kunden zugeschnitten sind."
+    },
+    "data.sections[@SBNM30].subsections[@Ncfo0e].list.items[@ra5lBc].text": {
+      "source": "Flexibilité dans la disponibilité, pour                                                             s’adapter aux pics de charges",
+      "de": "Flexibilität bei der Verfügbarkeit, um sich an Spitzenlasten anzupassen"
+    },
+    "data.sections[@SBNM30].subsections[@Ncfo0e].list.items[@uf5gkj].text": {
+      "source": "Flexibilité relationnelle pour                                                             s’intégrer à toute configuration d’équipe chez le client",
+      "de": "Flexibilität in der Beziehung, um sich in jede Teamkonfiguration beim Kunden zu integrieren"
+    }
+  }
+}
