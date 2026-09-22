@@ -1,0 +1,153 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@wrYe6K].heading": {
+      "source": "Automatisme : définition et technique",
+      "de": ""
+    },
+    "data.sections[@3oZKTQ].heading": {
+      "source": "Se perfectionner en Automatisme : compétences pour l'industrie",
+      "de": "Sich in der Automatisierungstechnik weiterbilden: Kompetenzen für die Industrie"
+    },
+    "data.sections[@ehTFA1].heading": {
+      "source": "Automatisme : Rédiger une Analyse Fonctionnelle",
+      "de": "Automatisierungstechnik: Funktionale Analyse erstellen"
+    },
+    "data.sections[@wrYe6K].paragraphs[@WBPAWT].text": {
+      "source": "L’automatisme industriel représente une révolution dans le domaine de la production, éliminant la nécessité d'une intervention humaine directe. Au cœur de cette transformation se trouve l'Automate Programmable Industriel (API), également connu sous le nom de PLC (Programmable Logic Controller) en anglais. Une fois programmé, cet API peut superviser et gérer entièrement ou partiellement une chaîne de production, offrant une flexibilité hors pair en termes d'horaires et de cadences.",
+      "de": "Die industrielle Automatisierungstechnik stellt eine Revolution im Produktionsbereich dar und macht eine direkte menschliche Intervention überflüssig. Im Mittelpunkt dieser Transformation steht die speicherprogrammierbare Steuerung (SPS), im Englischen auch als PLC (Programmable Logic Controller) bekannt. Nach der Programmierung kann diese SPS eine Produktionslinie ganz oder teilweise überwachen und verwalten und bietet beispiellose Flexibilität in Bezug auf Zeitpläne und Taktraten."
+    },
+    "data.sections[@wrYe6K].paragraphs[@1E5sIc].text": {
+      "source": "L'automatisme industriel s'étend à divers secteurs, tels que l'agroalimentaire, la pétrochimie, la pharmaceutique, la technologie des semi-conducteurs, l'agriculture et plus encore. Pour déployer efficacement l'automatisme dans le secteur industriel, une combinaison de compétences est essentielle, couvrant l'électronique, l'électrotechnique, la mécanique de précision, et les technologies de l'information et de la télécommunication. Avec l'avènement de l'IIoT (Internet Industriel des Objets) et de l'industrie 4.0, ces compétences deviennent cruciales pour rester compétitif.",
+      "de": "Die industrielle Automatisierungstechnik erstreckt sich über verschiedene Sektoren wie Lebensmittel, Petrochemie, Pharmazie, Halbleitertechnologie, Landwirtschaft und mehr. Um die Automatisierungstechnik im Industriesektor effektiv einzusetzen, ist eine Kombination von Fähigkeiten unerlässlich, die Elektronik, Elektrotechnik, Präzisionsmechanik sowie Informations- und Telekommunikationstechnologie umfasst. Mit dem Aufkommen des IIoT (Industrial Internet of Things) und der Industrie 4.0 werden diese Fähigkeiten entscheidend, um wettbewerbsfähig zu bleiben."
+    },
+    "data.sections[@wrYe6K].paragraphs[@W1F5lV].text": {
+      "source": "Un point central de l'automatisation est l'Automate Programmable, un dispositif modulaire et programmable sélectionné en fonction des besoins spécifiques de chaque application. L'automatisation peut être totale ou partielle, s'adaptant aux évolutions des cycles de production des produits fabriqués.",
+      "de": "Ein zentraler Punkt der Automatisierung ist die speicherprogrammierbare Steuerung, ein modulares und programmierbares Gerät, das je nach den spezifischen Anforderungen jeder Anwendung ausgewählt wird. Die Automatisierung kann vollständig oder teilweise erfolgen und sich an die sich ändernden Produktionszyklen der hergestellten Produkte anpassen."
+    },
+    "data.sections[@wrYe6K].paragraphs[@Gw1NKO].text": {
+      "source": "Les avantages de l'automatisme industriel vont au-delà de l'augmentation de la productivité. Bien que les bras robotisés et les équipements automatisés soient souvent associés à une production continue, l'automatisation permet avant tout une qualité de travail exceptionnelle. La précision des machines programmées garantit une uniformité inégalée, des ajustements précis, et des implémentations de composants parfaites, même après des centaines de milliers de cycles.",
+      "de": "Die Vorteile der industriellen Automatisierungstechnik gehen über die Steigerung der Produktivität hinaus. Obwohl Roboterarme und automatisierte Geräte oft mit kontinuierlicher Produktion in Verbindung gebracht werden, ermöglicht die Automatisierung vor allem eine außergewöhnliche Arbeitsqualität. Die Präzision programmierter Maschinen garantiert eine unübertroffene Gleichmäßigkeit, präzise Anpassungen und perfekte Komponentenplatzierungen, selbst nach Hunderttausenden von Zyklen."
+    },
+    "data.sections[@wrYe6K].paragraphs[@mbYzZO].text": {
+      "source": "De plus, la sécurité est renforcée grâce à des normes strictes, des flux constamment surveillés, et une historisation des actions pour prévenir les pannes et améliorer les performances.",
+      "de": "Darüber hinaus wird die Sicherheit durch strenge Standards, ständig überwachte Abläufe und eine Historisierung von Aktionen zur Verhinderung von Ausfällen und zur Verbesserung der Leistung erhöht."
+    },
+    "data.sections[@wrYe6K].paragraphs[@ce3nGv].text": {
+      "source": "La structure de l'automatisme industriel varie en fonction des niveaux d'automation nécessaires. Une organisation industrielle de niveau 4 représente l'apogée de l'automation, où toutes les actions sont automatisées sans intervention humaine. En revanche, une organisation de niveau 0 effectue toutes les tâches manuellement, sauf la partie opérative où l'automatisme s'intègre dans les capteurs et actionneurs d'outils.",
+      "de": "Die Struktur der industriellen Automatisierungstechnik variiert je nach erforderlichem Automatisierungsgrad. Eine industrielle Organisation der Stufe 4 stellt den Höhepunkt der Automatisierung dar, bei der alle Aktionen ohne menschliches Eingreifen automatisiert werden. Im Gegensatz dazu führt eine Organisation der Stufe 0 alle Aufgaben manuell aus, mit Ausnahme des operativen Teils, bei dem die Automatisierungstechnik in Sensoren und Aktoren von Werkzeugen integriert ist."
+    },
+    "data.sections[@wrYe6K].paragraphs[@dwD1hG].text": {
+      "source": "L'équipement informatique joue un rôle essentiel dans l'automatisme industriel, avec des PC fanless automatisés au cœur de chaque outil de production automatisé. Ces ordinateurs résistants aux environnements extrêmes contribuent à la fiabilité et au contrôle des machines. De plus, l'acquisition de données est cruciale, et des modules dédiés sont disponibles pour répondre à ce besoin élémentaire.",
+      "de": "Die Computerhardware spielt eine wesentliche Rolle in der industriellen Automatisierungstechnik, wobei lüfterlose PCs im Mittelpunkt jedes automatisierten Produktionswerkzeugs stehen. Diese robusten Computer für extreme Umgebungen tragen zur Zuverlässigkeit und Steuerung von Maschinen bei. Darüber hinaus ist die Datenerfassung von entscheidender Bedeutung, und spezielle Module stehen zur Verfügung, um diesem grundlegenden Bedarf gerecht zu werden."
+    },
+    "data.sections[@wrYe6K].paragraphs[@lx9n4D].text": {
+      "source": "En conclusion, l'automatisme industriel redéfinit la manière dont les entreprises produisent, améliorant la qualité, la sécurité et l'efficacité à travers une automatisation intelligente et technologiquement avancée.",
+      "de": "Zusammenfassend lässt sich sagen, dass die industrielle Automatisierungstechnik die Art und Weise, wie Unternehmen produzieren, neu definiert und Qualität, Sicherheit und Effizienz durch intelligente und technologisch fortschrittliche Automatisierung verbessert."
+    },
+    "data.sections[@3oZKTQ].paragraphs[@W1ZmXH].text": {
+      "source": "Vous êtes passionné par l'automatisme et que vous souhaitez vous perfectionner dans ce domaine en constante évolution, cet article est fait pour vous ? Découvrez des conseils pratiques et des astuces qui vous aideront à progresser et à exceller dans le domaine de l'automatisme industriel. Comment Se Perfectionner et S'Épanouir dans le Monde de l'Automatisation Industrielle ?",
+      "de": "Sie sind begeistert von der Automatisierungstechnik und möchten sich in diesem sich ständig weiterentwickelnden Bereich weiterbilden? Dann ist dieser Artikel genau das Richtige für Sie! Entdecken Sie praktische Tipps und Tricks, die Ihnen helfen, sich im Bereich der industriellen Automatisierungstechnik zu verbessern und Spitzenleistungen zu erbringen. Wie kann man sich in der Welt der industriellen Automatisierungstechnik weiterentwickeln und erfolgreich sein?"
+    },
+    "data.sections[@3oZKTQ].paragraphs[@lkdacB].text": {
+      "source": "L'automatisme est un sujet central dans l'industrie moderne, où la maîtrise de technologies avancées est cruciale. Pour commencer, privilégiez des projets de travaux neufs, où vous pourrez créer une machine à partir de zéro en suivant un cahier des charges. Cette approche vous permettra d'acquérir une expérience solide dès les premières étapes de votre carrière.",
+      "de": "Die Automatisierungstechnik ist ein zentrales Thema in der modernen Industrie, wo die Beherrschung fortschrittlicher Technologien entscheidend ist. Beginnen Sie am besten mit Neuanlagenprojekten, bei denen Sie eine Maschine von Grund auf nach einem Lastenheft erstellen können. Dieser Ansatz ermöglicht es Ihnen, von Anfang an solide Erfahrungen zu sammeln."
+    },
+    "data.sections[@3oZKTQ].paragraphs[@QR8y33].text": {
+      "source": "L'apprentissage par la pratique est essentiel, et c'est là que les projets de rétrofit entrent en jeu. L'automatisme en maintenance devient alors une compétence clé, car vous devrez améliorer ou migrer des machines existantes vers des systèmes plus modernes. Cette polyvalence vous ouvrira des portes pour des missions d'automatisme variées, enrichissant ainsi votre expertise.",
+      "de": "Lernen durch Praxis ist unerlässlich, und hier kommen Retrofit-Projekte ins Spiel. Die Automatisierungstechnik in der Instandhaltung wird dann zu einer Schlüsselkompetenz, da Sie bestehende Maschinen verbessern oder auf modernere Systeme migrieren müssen. Diese Vielseitigkeit wird Ihnen Türen für verschiedene Automatisierungsaufgaben öffnen und so Ihre Expertise erweitern."
+    },
+    "data.sections[@3oZKTQ].paragraphs[@gCQvch].text": {
+      "source": "N'ayez pas peur des projets de dépannage, même s'ils sont souvent associés à des situations stressantes. En réalité, ces moments sont des opportunités d'apprentissage uniques. Les problèmes qui surviennent lors des premiers déploiements vous obligent à approfondir vos connaissances, à rester calme dans l'action, à résoudre des bugs et à vous former sur le tas.",
+      "de": "Scheuen Sie sich nicht vor Fehlersucheprojekten, auch wenn diese oft mit stressigen Situationen verbunden sind. Tatsächlich sind diese Momente einzigartige Lernmöglichkeiten. Probleme, die bei den ersten Einsätzen auftreten, zwingen Sie, Ihr Wissen zu vertiefen, in der Aktion ruhig zu bleiben, Fehler zu beheben und sich im Job weiterzubilden."
+    },
+    "data.sections[@3oZKTQ].paragraphs[@188fAL].text": {
+      "source": "Pour les automates chevronnés, l'efficacité devient la clé. Utilisez des outils comme automatisme commande pour rechercher des tutoriels sur YouTube de manière efficace. Cette approche peut considérablement augmenter votre productivité. De plus, créez votre propre bibliothèque de problèmes et solutions pour capitaliser sur vos expériences passées. Cela deviendra votre référence inestimable lorsque des pannes se reproduiront.",
+      "de": "Für erfahrene Automatisierungstechniker ist Effizienz der Schlüssel. Nutzen Sie Tools wie \"automatisierung commande\", um effektiv nach Tutorials auf YouTube zu suchen. Dieser Ansatz kann Ihre Produktivität erheblich steigern. Erstellen Sie außerdem Ihre eigene Bibliothek mit Problemen und Lösungen, um aus Ihren vergangenen Erfahrungen Kapital zu schlagen. Dies wird Ihre unschätzbare Referenz sein, wenn Pannen erneut auftreten."
+    },
+    "data.sections[@3oZKTQ].paragraphs[@Hjn2qq].text": {
+      "source": "La gestion des mots de passe est un aspect souvent négligé de la cybersécurité en automatisme. Utilisez des outils certifiés tels que automatisme expert et automatisme industriel pour sécuriser vos données. Organisez vos informations de manière efficace, en créant des comptes séparés pour les aspects professionnel et personnel.",
+      "de": "Die Passwortverwaltung ist ein oft übersehener Aspekt der Cybersicherheit in der Automatisierungstechnik. Verwenden Sie zertifizierte Tools wie \"automatisierung expert\" und \"automatisierung industriel\", um Ihre Daten zu sichern. Organisieren Sie Ihre Informationen effizient und erstellen Sie separate Konten für berufliche und private Zwecke."
+    },
+    "data.sections[@3oZKTQ].paragraphs[@Yh7Z1Q].text": {
+      "source": "Les machines virtuelles, telles que celles offertes par VMware et VirtualBox, deviennent des alliées précieuses pour gérer les différents logiciels des constructeurs. Cette approche facilite la maîtrise de plusieurs environnements sans conflits de licence.",
+      "de": "Virtuelle Maschinen, wie sie von VMware und VirtualBox angeboten werden, werden zu wertvollen Verbündeten für die Verwaltung der verschiedenen Software der Hersteller. Dieser Ansatz erleichtert die Beherrschung mehrerer Umgebungen ohne Lizenzkonflikte."
+    },
+    "data.sections[@3oZKTQ].paragraphs[@d3qUoW].text": {
+      "source": "Pour maximiser votre apprentissage, choisissez judicieusement votre entreprise. Optez pour des entreprises d'automatisme industriel et tertiaire, souvent des intégrateurs de machines ou des bureaux d'études. Ces entreprises vous offriront une diversité de projets, de technologies, et une expérience riche en automatisme à Lyon, Paris, Grenoble ou ailleurs.",
+      "de": "Um Ihr Lernen zu maximieren, wählen Sie Ihr Unternehmen sorgfältig aus. Entscheiden Sie sich für Unternehmen im Bereich der industriellen und tertiären Automatisierungstechnik, oft Maschinenintegratoren oder Ingenieurbüros. Diese Unternehmen bieten Ihnen eine Vielfalt an Projekten, Technologien und reiche Erfahrungen in der Automatisierungstechnik in Lyon, Paris, Grenoble oder anderswo."
+    },
+    "data.sections[@3oZKTQ].paragraphs[@wBpNmU].text": {
+      "source": "En conclusion, l'automatisme est une discipline en constante évolution, offrant des opportunités d'apprentissage infinies. Suivez ces conseils, restez curieux et n'hésitez pas à explorer de nouvelles technologies pour exceller dans le domaine de l'automatisme industriel. L'automatisme vous ouvre les portes d'un monde fascinant où la maîtrise technique et la diversité des projets sont les clés de la réussite.",
+      "de": "Zusammenfassend lässt sich sagen, dass die Automatisierungstechnik eine sich ständig weiterentwickelnde Disziplin ist, die unendliche Lernmöglichkeiten bietet. Befolgen Sie diese Ratschläge, bleiben Sie neugierig und zögern Sie nicht, neue Technologien zu erkunden, um im Bereich der industriellen Automatisierungstechnik Spitzenleistungen zu erbringen. Die Automatisierungstechnik öffnet Ihnen die Türen zu einer faszinierenden Welt, in der technische Beherrschung und Projektvielfalt die Schlüssel zum Erfolg sind."
+    },
+    "data.sections[@ehTFA1].paragraphs[@hlU2Hn].text": {
+      "source": "Comment rédiger une Analyse Fonctionnelle d'Automatisme Industriel pour Optimiser Votre Processus Industriel ?",
+      "de": "Wie erstellt man eine funktionale Analyse der industriellen Automatisierungstechnik, um Ihren industriellen Prozess zu optimieren?"
+    },
+    "data.sections[@ehTFA1].paragraphs[@8XxfTQ].text": {
+      "source": "Que ce soit pour une mission d'automatisme maintenance, une recherche en automatisme électrique, ou une entreprise dédiée à l'automatisme industriel et tertiaire, il est crucial de comprendre les tenants et aboutissants de l'Analyse Fonctionnelle Automatisme.",
+      "de": "Ob für eine Aufgabe in der Automatisierungstechnik-Wartung, eine Forschung im Bereich der elektrischen Automatisierungstechnik oder ein Unternehmen, das sich der industriellen und tertiären Automatisierungstechnik widmet, ist es entscheidend, die Feinheiten der funktionalen Analyse der Automatisierungstechnik zu verstehen."
+    },
+    "data.sections[@ehTFA1].paragraphs[@NoLhRe].text": {
+      "source": "Lorsqu'il s'agit d'optimiser les processus industriels, l'automatisme devient un élément clé. Il est essentiel de comprendre les nuances de cette discipline, que vous dirigiez une entreprise d'automatisme à Lyon ou à Paris, ou que vous cherchiez un expert en automatisme industriel à Grenoble. Ce paragraphe vise à expliquer la démarche à suivre pour mener une analyse fonctionnelle automatisme efficace.",
+      "de": "Wenn es darum geht, industrielle Prozesse zu optimieren, wird die Automatisierungstechnik zu einem Schlüsselelement. Es ist unerlässlich, die Nuancen dieser Disziplin zu verstehen, egal ob Sie ein Unternehmen für Automatisierungstechnik in Lyon oder Paris leiten oder einen Experten für industrielle Automatisierungstechnik in Grenoble suchen. Dieser Abschnitt soll den Ansatz zur Durchführung einer effektiven funktionalen Analyse der Automatisierungstechnik erläutern."
+    },
+    "data.sections[@ehTFA1].list.items[@vcQvs6].text": {
+      "source": "Comprendre le Besoin Client : L'analyse fonctionnelle commence par une compréhension approfondie des besoins du client. Cela peut inclure des aspects spécifiques tels que la commande d'automatismes particuliers ou la mise en place d'une supervision automatisme.",
+      "de": "Kundenbedürfnisse verstehen: Die funktionale Analyse beginnt mit einem tiefen Verständnis der Kundenbedürfnisse. Dies kann spezifische Aspekte wie die Steuerung bestimmter Automatisierungslösungen oder die Implementierung einer Automatisierungsüberwachung umfassen."
+    },
+    "data.sections[@ehTFA1].list.items[@qcMKCG].text": {
+      "source": "Établir le Cahier des Charges : Après avoir identifié les besoins, il est impératif de créer un cahier des charges précis. Cela peut impliquer des spécifications détaillées pour les composants, relevant souvent de la commande automatisme.",
+      "de": "Lastenheft erstellen: Nachdem die Bedürfnisse identifiziert wurden, ist es unerlässlich, ein präzises Lastenheft zu erstellen. Dies kann detaillierte Spezifikationen für Komponenten beinhalten, die oft unter die Steuerung der Automatisierungstechnik fallen."
+    },
+    "data.sections[@ehTFA1].list.items[@TJ7MHo].text": {
+      "source": "Définir les Fonctions de la Machine : L'étape suivante consiste à définir les fonctions que l'automatisme industriel devra assurer. Cela peut inclure des aspects liés à la technique automatisme et aux fonctions de commande.",
+      "de": "Maschinenfunktionen definieren: Der nächste Schritt besteht darin, die Funktionen zu definieren, die die industrielle Automatisierungstechnik erfüllen soll. Dies kann Aspekte im Zusammenhang mit der Automatisierungstechnik und den Steuerungsfunktionen umfassen."
+    },
+    "data.sections[@ehTFA1].list.items[@aJsbDm].text": {
+      "source": "Déterminer les Organes Fonctionnels : Il est essentiel de définir les organes fonctionnels, qu'il s'agisse de logiciel automatisme ou d'éléments matériels comme les automates. Cette étape est cruciale pour la réalisation d'une analyse fonctionnelle complète.",
+      "de": "Funktionale Einheiten bestimmen: Es ist unerlässlich, die funktionalen Einheiten zu definieren, sei es Software für die Automatisierungstechnik oder Hardwarekomponenten wie Steuerungen. Dieser Schritt ist entscheidend für die Durchführung einer vollständigen funktionalen Analyse."
+    },
+    "data.sections[@ehTFA1].list.items[@v5662N].text": {
+      "source": "La Décomposition Détaillée du Système : En fonction du projet, il peut être nécessaire de procéder à une décomposition détaillée du système, en se concentrant sur la technique automatisme utilisée.",
+      "de": "Detaillierte Systemzerlegung: Je nach Projekt kann es notwendig sein, eine detaillierte Systemzerlegung durchzuführen, wobei der Schwerpunkt auf der verwendeten Automatisierungstechnik liegt."
+    },
+    "data.sections[@ehTFA1].list.items[@VLb1wI].text": {
+      "source": "Choix des Composants : Sélectionner les composants adéquats est un élément clé de l'analyse fonctionnelle. Ce choix peut impacter la maintenance automatisme à long terme.",
+      "de": "Komponentenauswahl: Die Auswahl der geeigneten Komponenten ist ein Schlüsselelement der funktionalen Analyse. Diese Wahl kann die langfristige Wartung der Automatisierungstechnik beeinflussen."
+    },
+    "data.sections[@ehTFA1].list.items[@pZIBKm].text": {
+      "source": "Architecture Réseau : Si le projet le nécessite, il est crucial de définir une architecture réseau appropriée, intégrant les dernières avancées en matière de supervision automatisme.",
+      "de": "Netzwerkarchitektur: Wenn das Projekt dies erfordert, ist es entscheidend, eine geeignete Netzwerkarchitektur zu definieren, die die neuesten Fortschritte in der Automatisierungsüberwachung integriert."
+    },
+    "data.sections[@ehTFA1].list.items[@RggIH3].text": {
+      "source": "Définir les Séquences de Fonctionnement : Préciser les séquences de fonctionnement, en utilisant un langage automatisme adapté, est indispensable pour assurer une automatisation sans faille.",
+      "de": "Betriebsabläufe definieren: Die Spezifizierung der Betriebsabläufe unter Verwendung einer geeigneten Automatisierungssprache ist unerlässlich, um eine reibungslose Automatisierung zu gewährleisten."
+    },
+    "data.sections[@ehTFA1].list.items[@8EydNM].text": {
+      "source": "Historique des Alarmes : Prévoir un historique des alarmes fait partie intégrante de l'analyse fonctionnelle, permettant une maintenance automatisme proactive.",
+      "de": "Alarmhistorie: Die Bereitstellung einer Alarmhistorie ist ein integraler Bestandteil der funktionalen Analyse und ermöglicht eine proaktive Wartung der Automatisierungstechnik."
+    },
+    "data.sections[@M4yq55].image.alt": {
+      "source": "automatisme,maintenance,expert,controle,commande,definition,industriel,formation,perfectionner,analyse fonctionnelle",
+      "de": "automatisierungstechnik,wartung,experte,kontrolle,steuerung,definition,industriell,ausbildung,weiterbildung,funktionale analyse"
+    },
+    "data.sections[@ehTFA1].subsections[@3GJ5ru].heading": {
+      "source": "",
+      "de": ""
+    },
+    "data.sections[@ehTFA1].subsections[@3GJ5ru].paragraphs[@1zNPeL].text": {
+      "source": "En suivant ces étapes, votre entreprise d'automatisme expert peut garantir des solutions efficaces, répondant aux normes les plus strictes de l'automatisme industriel.",
+      "de": "Durch die Befolgung dieser Schritte kann Ihr Experte für Automatisierungstechnik effektive Lösungen garantieren, die den strengsten Standards der industriellen Automatisierungstechnik entsprechen."
+    },
+    "data.sections[@ehTFA1].subsections[@3GJ5ru].paragraphs[@wrFaDb].text": {
+      "source": "Optimisez votre approche de l'automatisme industriel en suivant ces conseils pour une analyse fonctionnelle complète et précise. Que vous soyez à Grenoble, Lyon, Paris ou ailleurs, l'automatisme industriel n'aura plus de secrets pour vous.",
+      "de": "Optimieren Sie Ihren Ansatz zur industriellen Automatisierungstechnik, indem Sie diese Tipps für eine vollständige und präzise funktionale Analyse befolgen. Egal, ob Sie in Grenoble, Lyon, Paris oder anderswo sind, die industrielle Automatisierungstechnik wird keine Geheimnisse mehr für Sie haben."
+    }
+  }
+}
