@@ -1,0 +1,30 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.description": {
+      "source": "Découvre les compétences d'un automaticien en 2022",
+      "de": "Entdecke die Fähigkeiten eines Automatisierungstechnikers im Jahr 2022",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "Automation",
+        "Astuces Carrière",
+        "AUTEM",
+        "automatisme industriel"
+      ],
+      "de": [
+        "Automatisierungstechnik",
+        "Karrieretipps",
+        "AUTEM",
+        "industrielle Automatisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Blog technique automatisme et SCADA industriel",
+      "de": "AUTEM – Technischer Blog für industrielle Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}

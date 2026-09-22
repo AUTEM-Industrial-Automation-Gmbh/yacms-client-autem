@@ -1,0 +1,35 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Siemens Armoire d'Automatisme",
+      "de": "Siemens Automatisierungsschrank",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Découvre les compétences d'un automaticien en 2022",
+      "de": "Entdecken Sie die Fähigkeiten eines Automatisierungstechnikers im Jahr 2022",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "Automation",
+        "Astuces Carrière",
+        "AUTEM",
+        "automatisme industriel"
+      ],
+      "de": [
+        "Automatisierung",
+        "Karrieretipps",
+        "AUTEM",
+        "Industrieautomatisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Blog technique automatisme et SCADA industriel",
+      "de": "AUTEM – Technischer Blog für Industrieautomatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}
