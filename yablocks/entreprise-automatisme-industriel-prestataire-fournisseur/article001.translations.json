@@ -1,0 +1,173 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@Bhwvch].heading": {
+      "source": "Une entreprise d'automatisme industriel pour vos projets de migration et digitalisation. Choisissez AUTEM comme partenaire.",
+      "de": "Ein Unternehmen für industrielle Automatisierung für Ihre Migrations- und Digitalisierungsprojekte. Wählen Sie AUTEM als Partner."
+    },
+    "data.sections[@wrYe6K].heading": {
+      "source": "Entreprise Automatisme SCADA Industriel",
+      "de": "SCADA-Industrieautomatisierungsunternehmen"
+    },
+    "data.sections[@3oZKTQ].heading": {
+      "source": "Entreprise Automatisme MES Industriel",
+      "de": "MES-Industrieautomatisierungsunternehmen"
+    },
+    "data.sections[@ehTFA1].heading": {
+      "source": "Entreprise Automatisme, Fournisseur Industriel & Prestataire",
+      "de": "Automatisierungsunternehmen, Industriezulieferer & Dienstleister"
+    },
+    "data.sections[@9J5vce].heading": {
+      "source": "",
+      "de": ""
+    },
+    "data.sections[@Bhwvch].paragraphs[@tjzNbu].text": {
+      "source": "",
+      "de": ""
+    },
+    "data.sections[@wrYe6K].paragraphs[@c02fpx].text": {
+      "source": "En tant qu'acteur majeur dans le domaine de\n                                                    l'automatisme industriel, AUTEM se positionne en tant qu'intégrateur\n                                                    SCADA\n                                                    spécialisé, dédié à l'automatisation des processus industriels et\n                                                    tertiaires. Notre expertise réside dans la migration\n                                                    et la digitalisation des systèmes d'automatisation, visant à\n                                                    garantir la sûreté et l'efficacité des unités de\n                                                    production. En tant que entreprise d'automatisme industriel,\n                                                    nous nous engageons à remplacer les méthodes obsolètes\n                                                    telles que le suivi papier et les écrans IHM dépassés, en les\n                                                    remplaçant par des logiciels de supervision SCADA\n                                                    modernes.",
+      "de": "Als wichtiger Akteur im Bereich der industriellen Automatisierung positioniert sich AUTEM als spezialisierter SCADA-Integrator, der sich der Automatisierung industrieller und tertiärer Prozesse widmet. Unsere Expertise liegt in der Migration und Digitalisierung von Automatisierungssystemen, um die Sicherheit und Effizienz von Produktionseinheiten zu gewährleisten. Als Unternehmen für industrielle Automatisierung verpflichten wir uns, veraltete Methoden wie papierbasierte Nachverfolgung und überholte HMI-Bildschirme durch moderne SCADA-Überwachungssoftware zu ersetzen."
+    },
+    "data.sections[@wrYe6K].paragraphs[@ivWRTl].text": {
+      "source": "Avant d'entamer le processus de rétrofit, notre approche\n                                                    systématique commence par la réalisation d'un audit approfondi,\n                                                    évaluant la fiabilité des systèmes d'automatisation existants. Nous\n                                                    mettons en œuvre des méthodes rapides pour récupérer\n                                                    les données provenant des automates, capteurs, robots, moteurs,\n                                                    etc., optimisant ainsi l'ensemble du processus. La phase\n                                                    critique de nos interventions consiste généralement à établir une\n                                                    communication à distance en temps réel, incluant la\n                                                    télémétrie et le stockage des données, englobant les statistiques et\n                                                    l'historique pour assurer une traçabilité complète.",
+      "de": "Bevor wir mit dem Retrofit-Prozess beginnen, beginnt unser systematischer Ansatz mit einer gründlichen Prüfung, um die Zuverlässigkeit der bestehenden Automatisierungssysteme zu bewerten. Wir setzen schnelle Methoden ein, um Daten von SPSen, Sensoren, Robotern, Motoren usw. zu erfassen und optimieren so den gesamten Prozess. Die kritische Phase unserer Interventionen besteht in der Regel darin, eine Fernkommunikation in Echtzeit herzustellen, einschließlich Telemetrie und Datenspeicherung, die Statistiken und Historien umfasst, um eine vollständige Rückverfolgbarkeit zu gewährleisten."
+    },
+    "data.sections[@wrYe6K].paragraphs[@zwVKga].text": {
+      "source": "Au cœur de notre démarche, en tant qu'entreprise\n                                                        automatisme industriel, nous nous efforçons\n                                                    d'automatiser diverses\n                                                    fonctions au sein des usines en cas de dysfonctionnement. Notre\n                                                    système réactif déclenche des alertes en utilisant des\n                                                    réseaux de communication industrielle, permettant l'automatisation\n                                                    de fonctions cruciales telles que la gestion de la\n                                                    qualité, la production, la régulation et l'instrumentation.",
+      "de": "Im Mittelpunkt unseres Handelns als Unternehmen für industrielle Automatisierung stehen wir bestrebt, im Falle einer Fehlfunktion verschiedene Funktionen in den Fabriken zu automatisieren. Unser reaktionsschnelles System löst Alarme über industrielle Kommunikationsnetze aus und ermöglicht die Automatisierung entscheidender Funktionen wie Qualitätsmanagement, Produktion, Regelung und Instrumentierung."
+    },
+    "data.sections[@wrYe6K].paragraphs[@b8nmK5].text": {
+      "source": "Dans le cadre de nos prestations en tant que entreprise\n                                                    d'automatisme industriel, nous mettons en avant notre présence\n                                                    dans des villes clés comme Lyon, Paris, et Grenoble. En tant que\n                                                    fournisseur automatisme et prestataire automatisme,\n                                                    AUTEM propose des missions dans le domaine de l'automatisme\n                                                    industriel. Notre équipe d'experts automaticiens, qu'ils\n                                                    soient freelances ou indépendants, est constamment à la recherche de\n                                                    nouvelles opportunités pour mettre en œuvre leur\n                                                    savoir-faire technique en automatisation.",
+      "de": "Im Rahmen unserer Dienstleistungen als Unternehmen für industrielle Automatisierung heben wir unsere Präsenz in wichtigen Städten wie Lyon, Paris und Grenoble hervor. Als Anbieter und Dienstleister für Automatisierung bietet AUTEM Einsätze im Bereich der industriellen Automatisierung an. Unser Team von Automatisierungsexperten, ob freiberuflich oder selbstständig, ist ständig auf der Suche nach neuen Möglichkeiten, sein technisches Know-how in der Automatisierung einzusetzen."
+    },
+    "data.sections[@wrYe6K].paragraphs[@YJzOe2].text": {
+      "source": "Pour conclure, en tant qu'entreprise\n                                                        d'automatisme industriel avant-gardiste, AUTEM se\n                                                    positionne comme le\n                                                    partenaire idéal pour la migration et la digitalisation des systèmes\n                                                    d'automatisation, offrant des solutions adaptées\n                                                    aux besoins spécifiques de chaque projet. Notre engagement envers\n                                                    l'innovation et l'efficacité témoigne de notre\n                                                    leadership dans le secteur de l'automatisme industriel.",
+      "de": "Zusammenfassend lässt sich sagen, dass sich AUTEM als zukunftsorientiertes Unternehmen für industrielle Automatisierung als idealer Partner für die Migration und Digitalisierung von Automatisierungssystemen positioniert und maßgeschneiderte Lösungen für die spezifischen Bedürfnisse jedes Projekts anbietet. Unser Engagement für Innovation und Effizienz unterstreicht unsere Führungsrolle im Bereich der industriellen Automatisierung."
+    },
+    "data.sections[@3oZKTQ].paragraphs[@W1ZmXH].text": {
+      "source": "L'optimisation du Pilotage au sein d'un Logiciel MES (Manufacturing Execution System) s'avère cruciale pour la gestion efficiente et la documentation des opérations d'exécution de production au sein d'un contexte industriel. Cette démarche consiste à superviser l'exécution du plan de production jusqu'à sa concrétisation, en se conformant à la norme ISA95.",
+      "de": "Die Optimierung der Steuerung innerhalb einer MES-Software (Manufacturing Execution System) ist entscheidend für die effiziente Verwaltung und Dokumentation von Produktionsausführungsoperationen in einem industriellen Umfeld. Dieser Ansatz beinhaltet die Überwachung der Ausführung des Produktionsplans bis zu seiner Fertigstellung gemäß der Norm ISA95."
+    },
+    "data.sections[@3oZKTQ].paragraphs[@EKoDAN].text": {
+      "source": "Notre entreprise d'automatisme\n                                                        industriel AUTEM, se positionne en tant qu'intégrateur\n                                                    automatisme et fournisseur\n                                                    automatisme spécialisé dans la mise en œuvre de solutions MES. Notre\n                                                    expertise s'étend à la décomposition des Ordres de\n                                                    Fabrication (OF) en étapes telles que des recettes, des tâches, et\n                                                    des listes de matériaux (BoM). De plus, nous assurons\n                                                    une planification précise des ressources de ligne, des opérateurs et\n                                                    de la gestion de la production, offrant ainsi une\n                                                    solution complète pour l'optimisation des processus industriels.",
+      "de": "Unser Unternehmen für industrielle Automatisierung AUTEM positioniert sich als Automatisierungsintegrator und -anbieter, der sich auf die Implementierung von MES-Lösungen spezialisiert hat. Unsere Expertise erstreckt sich auf die Zerlegung von Fertigungsaufträgen (Orders de Fabrication - OF) in Schritte wie Rezepte, Aufgaben und Stücklisten (BoM). Darüber hinaus gewährleisten wir eine präzise Planung der Linienressourcen, Bediener und der Produktionsverwaltung und bieten so eine umfassende Lösung zur Optimierung industrieller Prozesse."
+    },
+    "data.sections[@3oZKTQ].paragraphs[@GHGC7S].text": {
+      "source": "Dans le cadre de notre offre MES, nous mettons en avant\n                                                    quatre fonctions essentielles. Tout d'abord, la décomposition\n                                                    des OF, qui permet une gestion détaillée des étapes de production.\n                                                    Ensuite, la planification rigoureuse des ressources\n                                                    de ligne et des opérateurs, contribuant à une exécution fluide du\n                                                    plan de production. Notre solution MES permet\n                                                    également une évaluation minutieuse des performances de production,\n                                                    mesurée par le Taux de Rendement Synthétique (TRS)\n                                                    et les temps d'arrêt. Enfin, la génération de rapports de données\n                                                    sur le statut du travail en cours (WIP) assure une\n                                                    transparence totale sur l'avancement des opérations.",
+      "de": "Im Rahmen unseres MES-Angebots heben wir vier wesentliche Funktionen hervor. Erstens die Zerlegung von OFs, die eine detaillierte Verwaltung der Produktionsschritte ermöglicht. Zweitens die rigorose Planung von Linienressourcen und Bedienern, die zu einer reibungslosen Ausführung des Produktionsplans beiträgt. Unsere MES-Lösung ermöglicht auch eine sorgfältige Bewertung der Produktionsleistung, gemessen am Gesamtanlageneffektivität (OEE) und den Stillstandzeiten. Schließlich gewährleistet die Generierung von Berichten über den Status der laufenden Arbeiten (WIP) vollständige Transparenz über den Fortschritt der Vorgänge."
+    },
+    "data.sections[@3oZKTQ].paragraphs[@X3hvLF].text": {
+      "source": "Comparativement aux logiciels ERP et SCADA, notre\n                                                    solution MES se distingue par sa granularité temporelle plus fine\n                                                    (ms\n                                                    pour les machines). Cette spécificité, couplée à notre approche axée\n                                                    sur les utilisateurs opérationnels et de\n                                                    maintenance, confère à notre solution un avantage significatif.\n                                                    Notre entreprise d'automatisme industriel intervient\n                                                    en tant qu'automatisme expert, garantissant une expertise pointue\n                                                    dans la mise en place et la maintenance des systèmes\n                                                    MES.",
+      "de": "Im Vergleich zu ERP- und SCADA-Software zeichnet sich unsere MES-Lösung durch ihre feinere zeitliche Granularität (ms für Maschinen) aus. Diese Besonderheit, gepaart mit unserem Ansatz, der sich auf Betriebs- und Wartungspersonal konzentriert, verschafft unserer Lösung einen erheblichen Vorteil. Unser Unternehmen für industrielle Automatisierung agiert als Experte für Automatisierung und garantiert fundierte Expertise bei der Implementierung und Wartung von MES-Systemen."
+    },
+    "data.sections[@3oZKTQ].paragraphs[@VMd6yd].text": {
+      "source": "Il est important de souligner que, contrairement à\n                                                    SCADA, le MES n'est pas facilement répliqué d'un site à un autre, du\n                                                    fait que chaque site possède ses propres méthodes de gestion de la\n                                                    production. Notre équipe, constituée d'automaticiens\n                                                    expérimentés, est prête à relever les défis liés à la diversité des\n                                                    environnements industriels. Si vous recherchez un\n                                                    automaticien freelance ou indépendant, n'hésitez pas à nous\n                                                    contacter. Notre entreprise d'automatisme industriel se\n                                                    tient à votre disposition pour des missions d'automatisme à Paris,\n                                                    Lyon, Grenoble, et au-delà, mettant à votre service\n                                                    notre savoir-faire technique en automatisation.",
+      "de": "Es ist wichtig zu betonen, dass MES im Gegensatz zu SCADA nicht ohne Weiteres von einem Standort auf einen anderen repliziert werden kann, da jeder Standort seine eigenen Produktionsmanagementmethoden hat. Unser Team, bestehend aus erfahrenen Automatisierungstechnikern, ist bereit, die Herausforderungen im Zusammenhang mit der Vielfalt industrieller Umgebungen anzunehmen. Wenn Sie einen freiberuflichen oder selbstständigen Automatisierungstechniker suchen, zögern Sie bitte nicht, uns zu kontaktieren. Unser Unternehmen für industrielle Automatisierung steht Ihnen für Automatisierungsaufträge in Paris, Lyon, Grenoble und darüber hinaus zur Verfügung und stellt Ihnen unser technisches Know-how in der Automatisierung zur Verfügung."
+    },
+    "data.sections[@ehTFA1].paragraphs[@hlU2Hn].text": {
+      "source": "AUTEM entreprise d'automatisme\n                                                        industriel, se distingue par son expertise dans la\n                                                    digitalisation de systèmes\n                                                    automatisés. En tant que fournisseur/prestataire de services\n                                                    industriels, notre mission est d'exploiter les avancées\n                                                    numériques pour optimiser et superviser les processus industriels.\n                                                    Nos services englobent l'architecture des serveurs,\n                                                    la virtualisation, la cybersécurité, l'acquisition et la\n                                                    valorisation des données, ainsi que la gestion de projets\n                                                    suivant des méthodes agiles.",
+      "de": "AUTEM, ein Unternehmen für industrielle Automatisierung, zeichnet sich durch seine Expertise in der Digitalisierung von automatisierten Systemen aus. Als Anbieter/Dienstleister für Industrieunternehmen ist es unsere Aufgabe, digitale Fortschritte zu nutzen, um industrielle Prozesse zu optimieren und zu überwachen. Unsere Dienstleistungen umfassen Serverarchitektur, Virtualisierung, Cybersicherheit, Datenerfassung und -bewertung sowie Projektmanagement nach agilen Methoden."
+    },
+    "data.sections[@ehTFA1].paragraphs[@smPmgZ].text": {
+      "source": "Notre équipe, composée d'experts en industrie et en\n                                                    informatique, accompagne les usines dans leur transformation\n                                                    digitale en utilisant des technologies d'acquisition de données, des\n                                                    moyens de communication, de stockage, d'analyse,\n                                                    ainsi que des outils de visualisation et de pilotage.",
+      "de": "Unser Team aus Experten für Industrie und IT begleitet Fabriken bei ihrer digitalen Transformation mithilfe von Datenerfassungstechnologien, Kommunikationsmitteln, Speicherung, Analyse sowie Visualisierungs- und Steuerungswerkzeugen."
+    },
+    "data.sections[@ehTFA1].paragraphs[@ogRYce].text": {
+      "source": "Dans ce contexte de mutation rapide des technologies\n                                                    numériques et industrielles, tout intégrateur doit désormais\n                                                    posséder une double compétence en informatique et en automatisme.\n                                                    Chez AUTEM, nous avons fait le choix de la\n                                                    spécialisation afin de fournir des solutions sur-mesure et de\n                                                    demeurer à la pointe de l'innovation. Nous effectuons une\n                                                    veille permanente pour rester informés des nouvelles technologies et\n                                                    méthodes, et ainsi offrir les meilleures solutions\n                                                    à nos clients industriels.",
+      "de": "In diesem Kontext des schnellen Wandels digitaler und industrieller Technologien muss jeder Integrator heute über doppelte Kompetenzen in IT und Automatisierung verfügen. Bei AUTEM haben wir uns für Spezialisierung entschieden, um maßgeschneiderte Lösungen anzubieten und an der Spitze der Innovation zu bleiben. Wir führen eine ständige Überwachung durch, um über neue Technologien und Methoden auf dem Laufenden zu bleiben und unseren Industriekunden die besten Lösungen anzubieten."
+    },
+    "data.sections[@ehTFA1].paragraphs[@X9rd2l].text": {
+      "source": "L'expertise d'AUTEM, entreprise d'automatisme\n                                                        industriel, s'étend de Lyon à Paris et Grenoble. En\n                                                    tant que\n                                                    partenaire stratégique, nous sommes le fournisseur automatisme de\n                                                    confiance, offrant des solutions adaptées aux besoins\n                                                    spécifiques de chaque client. Que vous recherchiez un automaticien\n                                                    freelance ou indépendant, notre équipe d'experts en\n                                                    automatisme industriel est prête à relever tous les défis.",
+      "de": "Die Expertise von AUTEM, einem Unternehmen für industrielle Automatisierung, erstreckt sich von Lyon bis Paris und Grenoble. Als strategischer Partner sind wir der vertrauenswürdige Anbieter für Automatisierung und bieten Lösungen, die auf die spezifischen Bedürfnisse jedes Kunden zugeschnitten sind. Ob Sie einen freiberuflichen oder selbstständigen Automatisierungstechniker suchen, unser Team von Experten für industrielle Automatisierung ist bereit, alle Herausforderungen anzunehmen."
+    },
+    "data.sections[@ehTFA1].paragraphs[@jT8hgv].text": {
+      "source": "Chez AUTEM, l'automatisme industriel est bien plus\n                                                    qu'une simple prestation, c'est une mission que nous assumons avec\n                                                    passion. En alliant compétences techniques, automatisation avancée\n                                                    et méthodologies agiles, nous garantissons des\n                                                    résultats exceptionnels. Notre engagement envers l'innovation et la\n                                                    qualité fait d'AUTEM le choix idéal pour les\n                                                    entreprises cherchant à migrer vers une automatisation industrielle\n                                                    de pointe.",
+      "de": "Bei AUTEM ist industrielle Automatisierung mehr als nur eine Dienstleistung, es ist eine Mission, die wir mit Leidenschaft erfüllen. Durch die Kombination von technischen Fähigkeiten, fortschrittlicher Automatisierung und agilen Methoden garantieren wir außergewöhnliche Ergebnisse. Unser Engagement für Innovation und Qualität macht AUTEM zur idealen Wahl für Unternehmen, die auf modernste industrielle Automatisierung umsteigen möchten."
+    },
+    "data.sections[@ehTFA1].paragraphs[@tcy8RC].text": {
+      "source": "En résumé, chez AUTEM, entreprise d'automatisme\n                                                        industriel, nous nous engageons à propulser vos projets\n                                                    de\n                                                    migration et de digitalisation vers de nouveaux sommets. Faites\n                                                    appel à notre expertise pour une transformation digitale\n                                                    réussie, en toute confiance.",
+      "de": "Zusammenfassend lässt sich sagen, dass wir uns bei AUTEM, einem Unternehmen für industrielle Automatisierung, dafür einsetzen, Ihre Migrations- und Digitalisierungsprojekte auf ein neues Niveau zu heben. Setzen Sie auf unsere Expertise für eine erfolgreiche digitale Transformation, mit vollem Vertrauen."
+    },
+    "data.sections[@9J5vce].subsections[@fS6gfS].heading": {
+      "source": "LA CONCEPTION ET L'ETUDE",
+      "de": "KONZEPTION UND PLANUNG"
+    },
+    "data.sections[@9J5vce].subsections[@8fGDTT].heading": {
+      "source": "LA MISE EN SERVICE ET L'INSTALLATION",
+      "de": "INBETRIEBNAHME UND INSTALLATION"
+    },
+    "data.sections[@9J5vce].subsections[@YOhVFL].heading": {
+      "source": "MAINTENANCE DÉPANNAGE",
+      "de": "WARTUNG UND REPARATUR"
+    },
+    "data.sections[@9J5vce].subsections[@fS6gfS].paragraphs[@eLkgbV].text": {
+      "source": "Nous faisons dans ce domaine",
+      "de": "Wir bieten in diesem Bereich"
+    },
+    "data.sections[@9J5vce].subsections[@8fGDTT].paragraphs[@t0SToq].text": {
+      "source": "Nous faisons dans ce domaine",
+      "de": "Wir bieten in diesem Bereich"
+    },
+    "data.sections[@9J5vce].subsections[@YOhVFL].paragraphs[@bLGU5U].text": {
+      "source": "Nous faisons dans ce domaine",
+      "de": "Wir bieten in diesem Bereich"
+    },
+    "data.sections[@9J5vce].subsections[@fS6gfS].list.items[@vrV7UG].text": {
+      "source": "L'analyse fonctionnelle",
+      "de": "Funktionale Analyse"
+    },
+    "data.sections[@9J5vce].subsections[@fS6gfS].list.items[@K3jht1].text": {
+      "source": "La programmation d'automate",
+      "de": "SPS-Programmierung"
+    },
+    "data.sections[@9J5vce].subsections[@fS6gfS].list.items[@aVFJje].text": {
+      "source": "Les schémas électriques",
+      "de": "Schaltschrankpläne"
+    },
+    "data.sections[@9J5vce].subsections[@fS6gfS].list.items[@gJJzmc].text": {
+      "source": "Les interfaces de supervision",
+      "de": "Supervisionsschnittstellen"
+    },
+    "data.sections[@9J5vce].subsections[@fS6gfS].list.items[@oMEqe0].text": {
+      "source": "La nomenclature et la présentation de matériel",
+      "de": "Materialverzeichnisse und -präsentationen"
+    },
+    "data.sections[@9J5vce].subsections[@8fGDTT].list.items[@nPvjfl].text": {
+      "source": "Câblage d'armoires élélectriques",
+      "de": "Verkabelung von Schaltschränken"
+    },
+    "data.sections[@9J5vce].subsections[@8fGDTT].list.items[@DVaBoA].text": {
+      "source": "Assemblage en atelier",
+      "de": "Montage im Werk"
+    },
+    "data.sections[@9J5vce].subsections[@8fGDTT].list.items[@hadlgJ].text": {
+      "source": "Essai et validation",
+      "de": "Tests und Validierung"
+    },
+    "data.sections[@9J5vce].subsections[@8fGDTT].list.items[@h1e4Iy].text": {
+      "source": "Accompagnement FAT / SAT",
+      "de": "Unterstützung bei FAT / SAT"
+    },
+    "data.sections[@9J5vce].subsections[@YOhVFL].list.items[@KUtdpx].text": {
+      "source": "Maintenance sur site",
+      "de": "Vor-Ort-Wartung"
+    },
+    "data.sections[@9J5vce].subsections[@YOhVFL].list.items[@deevZg].text": {
+      "source": "Amélioration de programmes pour lignes existantes",
+      "de": "Programmverbesserungen für bestehende Anlagen"
+    },
+    "data.sections[@9J5vce].subsections[@YOhVFL].list.items[@HbbyOH].text": {
+      "source": "Télémaintenance",
+      "de": "Fernwartung"
+    },
+    "data.sections[@9J5vce].subsections[@YOhVFL].list.items[@FWyqOi].text": {
+      "source": "Rétrofit de machines",
+      "de": "Maschinen-Retrofit"
+    }
+  }
+}
