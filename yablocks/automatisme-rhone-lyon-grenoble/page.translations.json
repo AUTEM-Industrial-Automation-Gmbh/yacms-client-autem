@@ -1,0 +1,35 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Automaticien | 10 compétences pour être automaticien en 2022 | Autem | Blog AUTEM",
+      "de": "Automatisierungstechniker | 10 Fähigkeiten für Automatisierungstechniker im Jahr 2022 | Autem | AUTEM Blog",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Découvre les compétences d'un automaticien en 2022",
+      "de": "Entdecke die Fähigkeiten eines Automatisierungstechnikers im Jahr 2022",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "Automation",
+        "Astuces Carrière",
+        "AUTEM",
+        "automatisme industriel"
+      ],
+      "de": [
+        "Automatisierung",
+        "Karrieretipps",
+        "AUTEM",
+        "industrielle Automatisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Blog technique automatisme et SCADA industriel",
+      "de": "AUTEM – Technischer Blog für industrielle Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}

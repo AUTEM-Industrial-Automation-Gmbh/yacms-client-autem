@@ -1,0 +1,35 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Blog / Ignition et Kafka",
+      "de": "Blog / Zündung und Kafka",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Let's explore 6 Habits that kill Old Machines",
+      "de": "Lassen Sie uns 6 Gewohnheiten untersuchen, die alte Maschinen zerstören",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "Cycle de Vie et Obsolescence",
+        "Machines Vintage",
+        "AUTEM",
+        "automatisme industriel"
+      ],
+      "de": [
+        "Lebenszyklus und Veralterung",
+        "Vintage-Maschinen",
+        "AUTEM",
+        "industrielle Automatisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Blog technique automatisme et SCADA industriel",
+      "de": "AUTEM – Technischer Blog für Automatisierung und industrielle SCADA-Systeme",
+      "de:manual": true
+    }
+  }
+}
