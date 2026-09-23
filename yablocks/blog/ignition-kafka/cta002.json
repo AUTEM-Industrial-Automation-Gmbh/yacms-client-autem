@@ -8,15 +8,18 @@
     "benefits": [
       {
         "icon": "clock",
-        "text": "Audit de parc machines et plan de migration"
+        "text": "Audit de parc machines et plan de migration",
+        "_tid": "f2bm1v"
       },
       {
         "icon": "refresh-cw",
-        "text": "Remplacement d'équipements en fin de vie"
+        "text": "Remplacement d'équipements en fin de vie",
+        "_tid": "rK8KSz"
       },
       {
         "icon": "shield",
-        "text": "Stratégie de pérennisation des installations"
+        "text": "Stratégie de pérennisation des installations",
+        "_tid": "aS1tGk"
       }
     ],
     "cta": {

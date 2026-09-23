@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backLinkLabel": {
+      "source": "Retour au blog",
+      "de": "Zurück zum Blog"
+    },
+    "data.title": {
+      "source": "Ignition et Kafka",
+      "de": "Ignition und Kafka"
+    },
+    "data.tags[@FkJs4N].label": {
+      "source": "Ignition",
+      "de": "Ignition"
+    },
+    "data.tags[@EM9EkD].label": {
+      "source": "Kafka",
+      "de": "Kafka"
+    },
+    "data.articleMeta.readTime": {
+      "source": "3 min lecture",
+      "de": "3 Min Lesezeit"
+    },
+    "data.articleMeta.publishDate": {
+      "source": "06/04/26",
+      "de": "06.04.26"
+    },
+    "data.articleMeta.updatedDate": {
+      "source": "06/04/26",
+      "de": "06.04.26"
+    }
+  }
+}

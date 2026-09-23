@@ -1,0 +1,145 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@h6UNx7].heading": {
+      "source": "Introduction",
+      "de": "Einleitung"
+    },
+    "data.sections[@eXUHpA].heading": {
+      "source": "Why Kafka for Manufacturing ?",
+      "de": "Why Kafka for Manufacturing?"
+    },
+    "data.sections[@LOH6Jr].heading": {
+      "source": "Limitations of the Built-in Event Stream                                                 Module",
+      "de": "Limitations of the Built-in Event Stream Module"
+    },
+    "data.sections[@zZmQRu].heading": {
+      "source": "Three Integration Bridges Compared",
+      "de": "Three Integration Bridges Compared"
+    },
+    "data.sections[@uV5iZW].heading": {
+      "source": "The Unified Namespace (UNS) Requirement",
+      "de": "The Unified Namespace (UNS) Requirement"
+    },
+    "data.sections[@TTyaEa].heading": {
+      "source": "Production vs. Lab Demo",
+      "de": "Production vs. Lab Demo"
+    },
+    "data.sections[@h6UNx7].paragraphs[@O6fidU].text": {
+      "source": "Another lab demo about Kafka. We will discuss about the integration between Kafka and Ignition. I'll talk about Event Streams, REST API, Bridges(HTTP, Confluent, Debezium). We are trying here to benchmark few integration options in order to find\nout which one fits the best depending on your application. It's all about a tradeoff with your own environment. That's is why I always put here the repo so you can reproduce this demo and make your own conclusion.\n\n",
+      "de": "Another lab demo about Kafka. We will discuss about the integration between Kafka and Ignition. I'll talk about Event Streams, REST API, Bridges(HTTP, Confluent, Debezium). We are trying here to benchmark few integration options in order to find\nout which one fits the best depending on your application. It's all about a tradeoff with your own environment. That's is why I always put here the repo so you can reproduce this demo and make your own conclusion.\n\n"
+    },
+    "data.sections[@eXUHpA].paragraphs[@GcJsfc].text": {
+      "source": "While MQTT is standard for time-series data (temperature, pressure),\n                                                Kafka is better suited for Event Streams and\n                                                massive data volumes. It is the gold standard in the IT world (used by\n                                                Uber, LinkedIn) and is increasingly used in\n                                                factories to allow different sites to \"talk\" to each other and feed big\n                                                data analytics.",
+      "de": "While MQTT is standard for time-series data (temperature, pressure),\n                                                Kafka is better suited for Event Streams and\n                                                massive data volumes. It is the gold standard in the IT world (used by\n                                                Uber, LinkedIn) and is increasingly used in\n                                                factories to allow different sites to \"talk\" to each other and feed big\n                                                data analytics."
+    },
+    "data.sections[@eXUHpA].paragraphs[@50bYJo].text": {
+      "source": "Explore the full content of this section here",
+      "de": "Explore the full content of this section here"
+    },
+    "data.sections[@LOH6Jr].paragraphs[@KB8acM].text": {
+      "source": "We can notice three integration bridges:",
+      "de": "We can notice three integration bridges:"
+    },
+    "data.sections[@LOH6Jr].paragraphs[@T6gBRl].text": {
+      "source": "",
+      "de": ""
+    },
+    "data.sections[@zZmQRu].paragraphs[@oJ6X0x].text": {
+      "source": "Now we will see the physical and digital environment required to run these\n                                            tools.",
+      "de": "Now we will see the physical and digital environment required to run these\n                                            tools."
+    },
+    "data.sections[@zZmQRu].paragraphs[@s1NoEC].text": {
+      "source": "Kepware (Connectivity): It is strictly Windows-only. This is a critical consideration for your \"edge device\". If you choose Kepware, you are locked into using hardware that can support a Windows operating system, which can impact your hardware costs and maintenance.\n",
+      "de": "Kepware (Connectivity): It is strictly Windows-only. This is a critical consideration for your \"edge device\". If you choose Kepware, you are locked into using hardware that can support a Windows operating system, which can impact your hardware costs and maintenance.\n"
+    },
+    "data.sections[@zZmQRu].paragraphs[@IgZKDk].text": {
+      "source": "HighByte (DataOps): It is built for <strong>modern IT environments, running natively on Docker and Linux</strong>. This allows you to deploy it on a wide variety of lightweight edge devices or cloud environments.",
+      "de": "HighByte (DataOps): It is built for <strong>modern IT environments, running natively on Docker and Linux</strong>. This allows you to deploy it on a wide variety of lightweight edge devices or cloud environments."
+    },
+    "data.sections[@zZmQRu].paragraphs[@vC4hXw].text": {
+      "source": "Explore the full content of this section here",
+      "de": "Explore the full content of this section here"
+    },
+    "data.sections[@uV5iZW].paragraphs[@jP6kXw].text": {
+      "source": "A true UNS isn't just data points; it requires Events, Topology, and Data to be consistent. A custom script ensures that when a machine statechanges or a naming convention is updated, all parts of the stream stay synchronized.\n",
+      "de": "A true UNS isn't just data points; it requires Events, Topology, and Data to be consistent. A custom script ensures that when a machine statechanges or a naming convention is updated, all parts of the stream stay synchronized.\n"
+    },
+    "data.sections[@uV5iZW].paragraphs[@exIZY4].text": {
+      "source": "Explore the full content of this section here",
+      "de": "Explore the full content of this section here"
+    },
+    "data.sections[@TTyaEa].paragraphs[@VdkvIh].text": {
+      "source": "Manufacturing standards \"hate change\" because stability ensures quality. ResistanIn a real-world setup, you would move from a single broker to a Kafka\n                                                Cluster for resilience and likely switch from JSON\n                                                to Protobuf as the data schema to handle higher volumes with better\n                                                performance.ce to change can actually be a good thing if it prevents unnecessary modifications that could ruin product quality (e.g., in medical devices like pacemakers). You should focus on sustaining the machine through small incremental improvements rather than radical \"revolutions\" or running it to total failure.",
+      "de": "Manufacturing standards \"hate change\" because stability ensures quality. ResistanIn a real-world setup, you would move from a single broker to a Kafka\n                                                Cluster for resilience and likely switch from JSON\n                                                to Protobuf as the data schema to handle higher volumes with better\n                                                performance.ce to change can actually be a good thing if it prevents unnecessary modifications that could ruin product quality (e.g., in medical devices like pacemakers). You should focus on sustaining the machine through small incremental improvements rather than radical \"revolutions\" or running it to total failure."
+    },
+    "data.sections[@TTyaEa].paragraphs[@ZYAe72].text": {
+      "source": "Explore the full content of this section here",
+      "de": "Explore the full content of this section here"
+    },
+    "data.sections[@LOH6Jr].list.items[@SrGMSp].text": {
+      "source": "Kafka REST Proxy: Uses a heavy IT infrastructure                                                     where Ignition acts as an HTTP client. It’s powerful but                                                     high-maintenance.",
+      "de": "Kafka REST Proxy: Uses a heavy IT infrastructure                                                     where Ignition acts as an HTTP client. It’s powerful but                                                     high-maintenance."
+    },
+    "data.sections[@LOH6Jr].list.items[@lOiybG].text": {
+      "source": "Debezium (CDC): Uses a SQL database as a buffer.                                                     Changes in the database trigger events in Kafka. The downside is                                                     maintaining a \"duplicate\" database buffer.",
+      "de": "Debezium (CDC): Uses a SQL database as a buffer.                                                     Changes in the database trigger events in Kafka. The downside is                                                     maintaining a \"duplicate\" database buffer."
+    },
+    "data.sections[@LOH6Jr].list.items[@bxD3lR].text": {
+      "source": "Custom Python Bridge: A lightweight external bridge                                                     written in Python 3.1 (using FastAPI). Since Ignition uses Jython                                                     (Python 2.7), this external bridge allows the use of modern Python                                                     libraries to handle Kafka communication efficiently.  ",
+      "de": "Custom Python Bridge: A lightweight external bridge                                                     written in Python 3.1 (using FastAPI). Since Ignition uses Jython                                                     (Python 2.7), this external bridge allows the use of modern Python                                                     libraries to handle Kafka communication efficiently.  "
+    },
+    "data.sections[@h6UNx7].links[@lDkIkr].text": {
+      "source": "Find this lab in this repos here:",
+      "de": "Find this lab in this repos here:"
+    },
+    "data.sections[@eXUHpA].links[@SiKqIQ].text": {
+      "source": "Visualize | Vidéo (01 min : 37 s)",
+      "de": "Visualize | Video (01 min : 37 s)"
+    },
+    "data.sections[@LOH6Jr].links[@0wNtl6].text": {
+      "source": "Visualize | Vidéo (05 min : 33 s)",
+      "de": "Visualize | Video (05 min : 33 s)"
+    },
+    "data.sections[@zZmQRu].links[@csy92E].text": {
+      "source": "Visualize | Vidéo (01 min : 00 s)",
+      "de": "Visualize | Video (01 min : 00 s)"
+    },
+    "data.sections[@uV5iZW].links[@70adZT].text": {
+      "source": "Visualize | Vidéo (06 min : 13 s)",
+      "de": "Visualize | Video (06 min : 13 s)"
+    },
+    "data.sections[@TTyaEa].links[@eZryyh].text": {
+      "source": "Visualize | Vidéo (02 min : 25 s)",
+      "de": "Visualize | Video (02 min : 25 s)"
+    },
+    "data.sections[@h6UNx7].links[@lDkIkr].href": {
+      "source": "https://github.com/AUTEM-Industrial-Automation-Gmbh/ignition-to-kafka-lab",
+      "de": "https://github.com/AUTEM-Industrial-Automation-Gmbh/ignition-to-kafka-lab"
+    },
+    "data.sections[@eXUHpA].links[@SiKqIQ].href": {
+      "source": "https://www.youtube.com/watch?v=PwApNv6zZfQ&t=52s",
+      "de": "https://www.youtube.com/watch?v=PwApNv6zZfQ&t=52s"
+    },
+    "data.sections[@LOH6Jr].links[@0wNtl6].href": {
+      "source": "https://www.youtube.com/watch?v=PwApNv6zZfQ&t=301s",
+      "de": "https://www.youtube.com/watch?v=PwApNv6zZfQ&t=301s"
+    },
+    "data.sections[@zZmQRu].links[@csy92E].href": {
+      "source": "https://www.youtube.com/watch?v=66Ejja5bgRE&t=543s",
+      "de": "https://www.youtube.com/watch?v=66Ejja5bgRE&t=543s"
+    },
+    "data.sections[@uV5iZW].links[@70adZT].href": {
+      "source": "https://www.youtube.com/watch?v=PwApNv6zZfQ&t=634s",
+      "de": "https://www.youtube.com/watch?v=PwApNv6zZfQ&t=634s"
+    },
+    "data.sections[@TTyaEa].links[@eZryyh].href": {
+      "source": "https://www.youtube.com/watch?v=PwApNv6zZfQ&t=1007s",
+      "de": "https://www.youtube.com/watch?v=PwApNv6zZfQ&t=1007s"
+    }
+  }
+}
