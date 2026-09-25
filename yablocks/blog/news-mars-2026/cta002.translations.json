@@ -1,0 +1,25 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Un projet de gestion d'obsolescence ?",
+      "de": "Ein Projekt zur Bewältigung von Obsoleszenz?"
+    },
+    "data.benefits[@7SALsO].text": {
+      "source": "Audit de parc machines et plan de migration",
+      "de": "Audit der Maschinenparks und Migrationsplan"
+    },
+    "data.benefits[@H6lqjj].text": {
+      "source": "Remplacement d'équipements en fin de vie",
+      "de": "Austausch von Geräten am Ende ihrer Lebensdauer"
+    },
+    "data.benefits[@fqCvqN].text": {
+      "source": "Stratégie de pérennisation des installations",
+      "de": "Strategie zur Sicherung der Anlagen"
+    },
+    "data.cta.text": {
+      "source": "Discutons de votre projet",
+      "de": "Besprechen wir Ihr Projekt"
+    }
+  }
+}
