@@ -13,11 +13,13 @@
     "tags": [
       {
         "label": "Machines spéciales",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "7Mltos"
       },
       {
         "label": "Automatisme",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "KRjin8"
       }
     ]
   }

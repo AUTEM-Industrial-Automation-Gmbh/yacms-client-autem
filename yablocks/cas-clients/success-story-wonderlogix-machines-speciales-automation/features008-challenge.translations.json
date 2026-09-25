@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Challenge & Objectif",
+      "de": "Herausforderung & Ziel"
+    },
+    "data.content": {
+      "source": "<p>La mission confiée à AUTEM portait sur la <strong>validation et l'amélioration du générateur de programmes d'automates</strong> Wonderlogix, en apportant l'expertise terrain nécessaire à une startup dont l'équipe est essentiellement software.</p><ul><li>Tester l'outil sur des cas d'usage industriels variés et représentatifs (Siemens S7, Rockwell) ;</li><li>Identifier les <strong>cas limites et les comportements incorrects</strong> des programmes générés ;</li><li>Fournir des retours structurés d'amélioration à l'équipe Wonderlogix ;</li><li>Valider la fiabilité des programmes générés sur environnement simulé avant tout test en production réelle.</li></ul>",
+      "de": "<p>Die AUTEM übertragene Aufgabe bestand in der <strong>Validierung und Verbesserung des SPS-Programmiergenerators</strong> von Wonderlogix, indem das für ein Startup mit einem hauptsächlich aus Software-Experten bestehenden Team notwendige Fachwissen vor Ort eingebracht wurde.</p><ul><li>Testen des Tools anhand verschiedener und repräsentativer industrieller Anwendungsfälle (Siemens S7, Rockwell) ;</li><li>Identifizierung von <strong>Grenzfällen und fehlerhaften Verhaltensweisen</strong> der generierten Programme ;</li><li>Bereitstellung strukturierter Verbesserungsvorschläge für das Wonderlogix-Team ;</li><li>Validierung der Zuverlässigkeit der generierten Programme in einer simulierten Umgebung, bevor jegliche Tests in der realen Produktion durchgeführt werden.</li></ul>"
+    }
+  }
+}

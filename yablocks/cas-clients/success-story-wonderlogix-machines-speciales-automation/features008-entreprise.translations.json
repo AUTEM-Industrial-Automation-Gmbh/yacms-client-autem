@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "L'entreprise",
+      "de": "Das Unternehmen"
+    },
+    "data.content": {
+      "source": "<p>Wonderlogix est une <strong>startup israélienne innovante</strong> développant une plateforme de génération automatique de programmes d'automates (PLC) à partir de spécifications fonctionnelles en langage naturel ou graphique. L'ambition est de <strong>réduire drastiquement le temps de développement</strong> des programmes automates, en permettant aux ingénieurs process de générer du code PLC sans expertise approfondie en programmation automate.</p><p>La validation de l'approche nécessitait une expertise terrain en automatisme industriel pour tester les programmes générés sur des cas d'usage réels et identifier les limites de la plateforme.</p>",
+      "de": "<p>Wonderlogix ist ein <strong>innovatives israelisches Startup</strong>, das eine Plattform zur automatischen Generierung von SPS-Programmen (PLC) aus natürlichsprachlichen oder grafischen Spezifikationen entwickelt. Ziel ist es, die <strong>Entwicklungszeit für SPS-Programme drastisch zu verkürzen</strong>, indem es Prozessingenieuren ermöglicht, SPS-Code ohne tiefgehende Kenntnisse in der SPS-Programmierung zu generieren.</p><p>Die Validierung des Ansatzes erforderte Fachkenntnisse im Bereich der industriellen Automatisierung, um die generierten Programme anhand realer Anwendungsfälle zu testen und die Grenzen der Plattform zu identifizieren.</p>"
+    }
+  }
+}

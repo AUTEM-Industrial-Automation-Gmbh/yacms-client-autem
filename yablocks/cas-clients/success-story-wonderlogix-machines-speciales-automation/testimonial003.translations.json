@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Arrière-plan industriel",
+      "de": "Industrieller Hintergrund"
+    },
+    "data.quote": {
+      "source": "AUTEM a apporté exactement ce que nous cherchions : une expertise terrain qui manquait à notre équipe. Les cas de test définis et les rapports de bugs ont directement alimenté nos sprints de développement et amélioré la fiabilité de notre plateforme.",
+      "de": "AUTEM hat genau das geliefert, was wir gesucht haben: Fachwissen vor Ort, das unserem Team fehlte. Die definierten Testfälle und Fehlerberichte flossen direkt in unsere Entwicklungs-Sprints ein und verbesserten die Zuverlässigkeit unserer Plattform."
+    },
+    "data.author.name": {
+      "source": "CEO",
+      "de": "CEO"
+    },
+    "data.author.role": {
+      "source": "Wonderlogix — Israël",
+      "de": "Wonderlogix — Israel"
+    }
+  }
+}
