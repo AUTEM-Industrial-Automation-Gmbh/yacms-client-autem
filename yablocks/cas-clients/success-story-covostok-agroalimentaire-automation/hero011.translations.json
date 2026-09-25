@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.clientLogo.alt": {
+      "source": "Danone / CoVostok",
+      "de": "Danone / CoVostok"
+    },
+    "data.title": {
+      "source": "Conception et mise en service d'un skid de filtration d'eau par osmose inverse",
+      "de": "Konstruktion und Inbetriebnahme einer Umkehrosmose-Wasserfiltrationsanlage"
+    },
+    "data.tags[@pbwsc8].label": {
+      "source": "Agroalimentaire",
+      "de": "Lebensmittelindustrie"
+    },
+    "data.tags[@JGwiSt].label": {
+      "source": "Automatisme",
+      "de": "Automatisierungstechnik"
+    }
+  }
+}

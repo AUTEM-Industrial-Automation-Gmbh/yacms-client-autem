@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "L'entreprise",
+      "de": "Das Unternehmen"
+    },
+    "data.content": {
+      "source": "<p>CoVostok est une <strong>filiale du groupe Danone</strong> opérant en Russie dans la production laitière et alimentaire. Le site de production dispose d'une installation de traitement de l'eau dont la qualité conditionne directement la conformité des produits aux normes agroalimentaires.</p><p>Pour garantir une eau de production conforme aux exigences Danone, le site a décidé d'investir dans un <strong>skid de filtration par osmose inverse</strong> permettant de produire en continu une eau traitée répondant aux standards de qualité du groupe.</p>",
+      "de": "<p>CoVostok ist eine <strong>Tochtergesellschaft der Danone-Gruppe</strong>, die in Russland in der Milch- und Lebensmittelproduktion tätig ist. Der Produktionsstandort verfügt über eine Wasseraufbereitungsanlage, deren Qualität die Konformität der Produkte mit den Lebensmittelstandards direkt beeinflusst.</p><p>Um eine Produktionswasserqualität zu gewährleisten, die den Danone-Anforderungen entspricht, hat sich der Standort für die Investition in eine <strong>Umkehrosmose-Filtrationsanlage</strong> entschieden, die eine kontinuierliche Produktion von behandeltem Wasser nach den Qualitätsstandards der Gruppe ermöglicht.</p>"
+    }
+  }
+}

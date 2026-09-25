@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Résultats & Apprentissages",
+      "de": "Ergebnisse & Erkenntnisse"
+    },
+    "data.content": {
+      "source": "<ul><li><strong>Skid opérationnel et qualifié</strong> selon les critères qualité eau du groupe Danone ;</li><li>Séquences automatiques fiables : filtration, CIP et désinfection sans intervention opérateur ;</li><li>Traçabilité complète des cycles de production et des paramètres qualité de l'eau ;</li><li>Mise en service réussie malgré les contraintes logistiques d'une intervention à distance en Russie ;</li><li>Documentation technique complète remise aux équipes locales pour la maintenance autonome.</li></ul>",
+      "de": "<ul><li><strong>Betriebsbereite und qualifizierte Skid-Anlage</strong> gemäß den Qualitätskriterien für Wasser der Danone-Gruppe;</li><li>Zuverlässige automatische Abläufe: Filtration, CIP und Desinfektion ohne Bedienereingriff;</li><li>Vollständige Rückverfolgbarkeit der Produktionszyklen und der Wasserqualitätsparameter;</li><li>Erfolgreiche Inbetriebnahme trotz logistischer Einschränkungen durch eine Fernwartung in Russland;</li><li>Vollständige technische Dokumentation für die lokale Wartung übergeben.</li></ul>"
+    }
+  }
+}
