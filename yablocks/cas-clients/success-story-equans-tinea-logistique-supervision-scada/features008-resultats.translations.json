@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Résultats & Apprentissages",
+      "de": "Ergebnisse & Erkenntnisse"
+    },
+    "data.content": {
+      "source": "<ul><li><strong>Contributions livrées dans les délais</strong> sur l'ensemble des projets en cours chez Equans Tinea ;</li><li>Code SCADA conforme aux standards internes Equans Tinea, directement intégrable sans refactoring ;</li><li>Participation active aux mises en service client avec résolution des incidents terrain en autonomie ;</li><li>Montée en compétences rapide sur la diversité des systèmes logistiques traités par Equans Tinea ;</li><li>Collaboration appréciée permettant à Equans Tinea d'honorer ses engagements sur des projets en tension de ressources.</li></ul>",
+      "de": "<ul><li><strong>Pünktliche Lieferung von Beiträgen</strong> für alle laufenden Projekte bei Equans Tinea;</li><li>SCADA-Code entspricht den internen Equans Tinea-Standards und kann ohne Refactoring direkt integriert werden;</li><li>Aktive Teilnahme an der Kundeninbetriebnahme mit eigenständiger Behebung von Vor-Ort-Vorfällen;</li><li>Schnelle Kompetenzerweiterung für die Vielfalt der von Equans Tinea behandelten Logistiksysteme;</li><li>Geschätzte Zusammenarbeit, die es Equans Tinea ermöglicht, seine Zusagen bei ressourcenintensiven Projekten einzuhalten.</li></ul>"
+    }
+  }
+}

@@ -13,11 +13,13 @@
     "tags": [
       {
         "label": "Logistique",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "ahyzES"
       },
       {
         "label": "Supervision SCADA",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "bJVaWc"
       }
     ]
   }
