@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "L'entreprise",
+      "de": "Das Unternehmen"
+    },
+    "data.content": {
+      "source": "<p>Saint-Gobain est un <strong>groupe industriel mondial de référence dans la fabrication de matériaux de construction et de haute performance</strong>, opérant depuis plus de 350 ans. Sa division Abrasifs produit et distribue une large gamme de matériaux abrasifs — papiers de verre, disques, meules et lames diamantées — destinés aux professionnels de l'industrie, du bâtiment et de l'artisanat.</p><p>Le site de production au Maroc fabrique et conditionne des abrasifs pour les marchés africain et méditerranéen. L'<strong>automatisation du packaging</strong> est un levier clé pour améliorer la productivité, réduire les coûts de main-d'œuvre et garantir la conformité qualité du conditionnement des produits finis.</p>",
+      "de": "<p>Saint-Gobain ist ein <strong>weltweit führender Industriekonzern für die Herstellung von Hochleistungsmaterialien und Baustoffen</strong>, der seit über 350 Jahren tätig ist. Seine Sparte Schleifmittel produziert und vertreibt eine breite Palette von Schleifmitteln – Schleifpapier, Schleifscheiben, Schleifköpfe und Diamantschleifscheiben – für Fachleute in Industrie, Bauwesen und Handwerk.</p><p>Der Produktionsstandort in Marokko stellt Schleifmittel für die afrikanischen und mediterranen Märkte her und verpackt diese. Die <strong>Automatisierung der Verpackung</strong> ist ein wichtiger Hebel zur Steigerung der Produktivität, zur Senkung der Arbeitskosten und zur Gewährleistung der Qualitätskonformität bei der Verpackung der Endprodukte.</p>"
+    }
+  }
+}

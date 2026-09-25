@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Challenge & Objectif",
+      "de": "Herausforderung & Ziel"
+    },
+    "data.content": {
+      "source": "<p>La mission confiée à AUTEM portait sur l'<strong>automatisation de la ligne de packaging de matériaux abrasifs</strong> — papiers de verre et lames diamantées — sur le site de production Saint-Gobain au Maroc : programmation des automates, intégration des périphériques de conditionnement et mise en service.</p><p>Parmi les défis identifiés :</p><ul><li>Diversité des formats de conditionnement (feuilles, rouleaux, blister, boîtes) imposant une gestion flexible des recettes automate ;</li><li>Intégration de machines de conditionnement spéciales (ensacheuses, étiqueteuses, filmeuses) avec des protocoles de communication variés ;</li><li>Contraintes de cadence et de qualité du conditionnement (alignement, étanchéité, lisibilité des étiquettes) à respecter strictement ;</li><li>Mise en service sur site international avec équipes locales à former dans un contexte multilingue ;</li><li>Environnement poussiéreux lié à la nature abrasive des produits, impliquant des choix d'équipements adaptés.</li></ul>",
+      "de": "<p>Die AUTEM übertragene Aufgabe bestand in der <strong>Automatisierung der Verpackungslinie für Schleifmittel</strong> – Schleifpapier und Diamantschleifscheiben – am Produktionsstandort von Saint-Gobain in Marokko: Programmierung der Steuerungen, Integration der Verpackungsperipheriegeräte und Inbetriebnahme.</p><p>Zu den identifizierten Herausforderungen gehörten:</p><ul><li>Vielfalt der Verpackungsformate (Bögen, Rollen, Blister, Kartons), die eine flexible Verwaltung der Steuerungsrezepte erforderten;</li><li>Integration spezieller Verpackungsmaschinen (Einpacker, Etikettierer, Folierer) mit unterschiedlichen Kommunikationsprotokollen;</li><li>Einhaltung strenger Taktzeiten und Qualitätsanforderungen für die Verpackung (Ausrichtung, Dichtheit, Lesbarkeit der Etiketten);</li><li>Inbetriebnahme an einem internationalen Standort mit Schulung lokaler Teams in einem mehrsprachigen Umfeld;</li><li>Staubige Umgebung aufgrund der abrasiven Natur der Produkte, die die Auswahl geeigneter Geräte erforderte.</li></ul>"
+    }
+  }
+}
