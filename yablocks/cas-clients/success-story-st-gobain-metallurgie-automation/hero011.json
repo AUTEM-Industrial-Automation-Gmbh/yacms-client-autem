@@ -13,11 +13,13 @@
     "tags": [
       {
         "label": "Metallurgie",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "lI0U3H"
       },
       {
         "label": "Automation",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "i5EuUv"
       }
     ]
   }

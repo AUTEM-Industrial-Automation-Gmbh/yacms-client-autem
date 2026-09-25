@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Stratégie",
+      "de": "Strategie"
+    },
+    "data.content": {
+      "source": "<ol><li><p><strong>Prise en main des standards Equans Tinea</strong><br>Assimilation rapide des librairies, des conventions de développement et des gabarits SCADA Equans Tinea pour garantir une cohérence totale avec les projets existants des équipes internes.</p></li><li><p><strong>Développement SCADA sur projets clients</strong><br>Développement des applications de supervision de systèmes logistiques (synoptiques de flux, gestion d'alarmes, historisation, rapports) selon les spécifications fonctionnelles de chaque projet client.</p></li><li><p><strong>Intégration terrain et tests</strong><br>Développement et test des interfaces de communication avec les équipements terrain (automates, convoyeurs, trieurs) et participation aux recettes fonctionnelles en atelier.</p></li><li><p><strong>Mise en service sur sites clients</strong><br>Intervention sur site pendant les phases de mise en service pour le débogage, les ajustements de paramétrage et le support aux équipes d'exploitation des clients finaux.</p></li></ol>",
+      "de": "<ol><li><p><strong>Übernahme der Equans Tinea Standards</strong><br>Schnelle Einarbeitung in die SCADA-Bibliotheken, Entwicklungsrichtlinien und Vorlagen von Equans Tinea, um eine vollständige Kohärenz mit den bestehenden Projekten der internen Teams zu gewährleisten.</p></li><li><p><strong>SCADA-Entwicklung für Kundenprojekte</strong><br>Entwicklung von Überwachungsanwendungen für Logistiksysteme (Flusssynoptiken, Alarmmanagement, Historisierung, Berichte) gemäß den funktionalen Spezifikationen jedes Kundenprojekts.</p></li><li><p><strong>Feldintegration und Tests</strong><br>Entwicklung und Test der Kommunikationsschnittstellen mit den Feldgeräten (SPS, Förderbänder, Sortieranlagen) und Teilnahme an funktionalen Abnahmen im Werk.</p></li><li><p><strong>Inbetriebnahme beim Kunden</strong><br>Einsatz vor Ort während der Inbetriebnahmephasen zur Fehlerbehebung, Anpassung der Parametrierung und Unterstützung der Betriebsteams der Endkunden.</p></li></ol>"
+    }
+  }
+}

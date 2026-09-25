@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Challenge & Objectif",
+      "de": "Herausforderung & Ziel"
+    },
+    "data.content": {
+      "source": "<p>La mission confiée à AUTEM portait sur le <strong>développement SCADA de systèmes logistiques automatisés</strong> au sein des équipes d'Equans Tinea : développement d'applications de supervision, intégration des équipements terrain et contribution à la mise en service sur sites clients.</p><p>Parmi les défis identifiés :</p><ul><li>Intégration dans les méthodes de développement et les standards SCADA propres à Equans Tinea ;</li><li>Diversité des projets clients : systèmes de tri de colis, stockeurs automatiques, lignes de palettisation ;</li><li>Protocoles de communication variés à maîtriser (OPC-UA, Modbus, propriétaires constructeurs) ;</li><li>Respect des délais serrés imposés par les plannings de mise en service chez les clients finaux ;</li><li>Interventions sur site client en phase de mise en service, avec contraintes opérationnelles en environnement entrepôt.</li></ul>",
+      "de": "<p>Die AUTEM anvertraute Mission umfasste die <strong>SCADA-Entwicklung von automatisierten Logistiksystemen</strong> innerhalb der Equans Tinea Teams: Entwicklung von Überwachungsanwendungen, Integration von Feldgeräten und Beitrag zur Inbetriebnahme bei Kunden.</p><p>Zu den identifizierten Herausforderungen gehörten:</p><ul><li>Integration in die spezifischen Entwicklungsmethoden und SCADA-Standards von Equans Tinea;</li><li>Vielfalt der Kundenprojekte: Paketverteilsysteme, automatische Lager, Palettierlinien;</li><li>Beherrschung verschiedener Kommunikationsprotokolle (OPC-UA, Modbus, herstellerspezifische Protokolle);</li><li>Einhaltung der engen Fristen, die durch die Inbetriebnahmepläne bei den Endkunden vorgegeben sind;</li><li>Einsätze beim Kunden während der Inbetriebnahmephase unter Berücksichtigung der betrieblichen Einschränkungen in der Lagerumgebung.</li></ul>"
+    }
+  }
+}

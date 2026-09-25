@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Challenge & Objectif",
+      "de": "Herausforderung & Ziel"
+    },
+    "data.content": {
+      "source": "<p>La mission confiée à AUTEM portait sur la <strong>conception complète et la mise en service d'un skid de filtration d'eau par osmose inverse</strong> en environnement agroalimentaire, avec des exigences strictes de qualité et de traçabilité.</p><ul><li>Conception du skid incluant instrumentation, vannes, pompes haute pression et membranes d'osmose ;</li><li>Programmation automate pour les <strong>séquences automatiques</strong> : filtration, rinçage, nettoyage chimique (CIP) et désinfection ;</li><li>Conformité aux normes agroalimentaires Danone pour la qualité de l'eau produite ;</li><li>Intervention sur site en Russie, avec contraintes logistiques et linguistiques.</li></ul>",
+      "de": "<p>Die AUTEM übertragene Aufgabe umfasste die <strong>vollständige Konstruktion und Inbetriebnahme einer Umkehrosmose-Wasserfiltrationsanlage</strong> in einer Lebensmittelumgebung mit strengen Qualitäts- und Rückverfolgbarkeitsanforderungen.</p><ul><li>Konstruktion der Anlage einschließlich Instrumentierung, Ventilen, Hochdruckpumpen und Osmosemembranen;</li><li>SPS-Programmierung für <strong>automatische Abläufe</strong>: Filtration, Spülung, chemische Reinigung (CIP) und Desinfektion;</li><li>Einhaltung der Danone-Lebensmittelstandards für die Qualität des produzierten Wassers;</li><li>Einsatz vor Ort in Russland mit logistischen und sprachlichen Einschränkungen.</li></ul>"
+    }
+  }
+}

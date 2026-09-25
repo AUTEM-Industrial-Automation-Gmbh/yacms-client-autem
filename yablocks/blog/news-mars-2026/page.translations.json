@@ -1,0 +1,35 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "News n°23 - 3 trends to follow in PLC Automation - Q1 2026",
+      "de": "News Nr. 23 – 3 Trends in SPS-Automatisierung – Q1 2026",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Let's explore 6 Habits that kill Old Machines",
+      "de": "Entdecken Sie 6 Gewohnheiten, die alte Maschinen ruinieren",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "Cycle de Vie et Obsolescence",
+        "Machines Vintage",
+        "AUTEM",
+        "automatisme industriel"
+      ],
+      "de": [
+        "Lebenszyklus und Obsoleszenz",
+        "Vintage-Maschinen",
+        "AUTEM",
+        "Industrielle Automatisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Blog technique automatisme et SCADA industriel",
+      "de": "AUTEM – Fachblog für Automatisierung und industrielle SCADA-Systeme",
+      "de:manual": true
+    }
+  }
+}

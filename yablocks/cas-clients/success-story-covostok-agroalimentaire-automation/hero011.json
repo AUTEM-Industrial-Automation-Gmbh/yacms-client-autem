@@ -13,11 +13,13 @@
     "tags": [
       {
         "label": "Agroalimentaire",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "pbwsc8"
       },
       {
         "label": "Automatisme",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "JGwiSt"
       }
     ]
   }

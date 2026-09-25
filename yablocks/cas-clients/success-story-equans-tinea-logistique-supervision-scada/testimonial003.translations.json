@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Plateforme logistique automatisée",
+      "de": "Automatisierte Logistikplattform"
+    },
+    "data.quote": {
+      "source": "AUTEM s'est intégré efficacement à nos équipes et a produit du code SCADA conforme à nos standards dès le démarrage. La réactivité et l'autonomie technique dont ils ont fait preuve sur les mises en service client ont été un vrai plus pour nos projets.",
+      "de": "AUTEM hat sich effektiv in unsere Teams integriert und von Anfang an SCADA-Code geliefert, der unseren Standards entsprach. Die Reaktionsfähigkeit und technische Autonomie, die sie bei der Inbetriebnahme beim Kunden zeigten, waren ein echter Mehrwert für unsere Projekte."
+    },
+    "data.author.name": {
+      "source": "Chef de Projet",
+      "de": "Projektleiter"
+    },
+    "data.author.role": {
+      "source": "Equans Tinea — Lyon",
+      "de": "Equans Tinea — Lyon"
+    }
+  }
+}

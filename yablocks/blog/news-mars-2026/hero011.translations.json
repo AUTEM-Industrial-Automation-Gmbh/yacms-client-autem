@@ -1,0 +1,45 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backLinkLabel": {
+      "source": "Retour au blog",
+      "de": "Zurück zum Blog"
+    },
+    "data.title": {
+      "source": "News n°23 - 3 trends to follow in PLC Automation - Q1 2026",
+      "de": "News Nr. 23 – 3 Trends in der SPS-Automatisierung, denen Sie im 1. Quartal 2026 folgen sollten"
+    },
+    "data.tags[@FkJs4N].label": {
+      "source": "PLC",
+      "de": "SPS"
+    },
+    "data.tags[@EM9EkD].label": {
+      "source": "Snap PLC",
+      "de": "Snap SPS"
+    },
+    "data.tags[@uVifIk].label": {
+      "source": "Copilot",
+      "de": "Copilot"
+    },
+    "data.tags[@Bodmzv].label": {
+      "source": "Accelera",
+      "de": "Accelera"
+    },
+    "data.tags[@lHy1KG].label": {
+      "source": "Cronax",
+      "de": "Cronax"
+    },
+    "data.articleMeta.readTime": {
+      "source": "3 min lecture",
+      "de": "3 Minuten Lesezeit"
+    },
+    "data.articleMeta.publishDate": {
+      "source": "18/04/26",
+      "de": "18.04.26"
+    },
+    "data.articleMeta.updatedDate": {
+      "source": "19/04/26",
+      "de": "19.04.26"
+    }
+  }
+}

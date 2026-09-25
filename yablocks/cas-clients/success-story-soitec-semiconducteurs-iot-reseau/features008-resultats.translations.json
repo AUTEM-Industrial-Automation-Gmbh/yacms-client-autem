@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Résultats & Apprentissages",
+      "de": "Ergebnisse & Erkenntnisse"
+    },
+    "data.content": {
+      "source": "<ul><li><strong>Migration réalisée sans aucun arrêt de production imprévu</strong> sur l'ensemble des machines en scope ;</li><li>Élimination du risque cybersécurité lié aux OS obsolètes — infrastructure OT désormais patchable et segmentée ;</li><li><strong>Connectivité IoT opérationnelle</strong> avec remontée des données machine pour la supervision et l'analyse de performance ;</li><li>Réseau industriel redondant avec basculement automatique en cas de défaut d'un équipement réseau ;</li><li>Plan de maintien en condition opérationnelle structuré sur 10 ans, éliminant le risque d'obsolescence à court terme.</li></ul>",
+      "de": "<ul><li><strong>Migration ohne ungeplante Produktionsunterbrechungen</strong> an allen betroffenen Maschinen durchgeführt;</li><li>Beseitigung des Cybersicherheitsrisikos im Zusammenhang mit veralteten Betriebssystemen – die OT-Infrastruktur ist nun patchbar und segmentiert;</li><li><strong>IoT-Konnektivität betriebsbereit</strong> mit Rückmeldung von Maschinendaten für Überwachung und Leistungsanalyse;</li><li>Redundantes Industrie-Netzwerk mit automatischem Failover im Fehlerfall eines Netzwerkgeräts;</li><li>Strukturierter 10-Jahres-Plan zur Aufrechterhaltung der Betriebsfähigkeit, der das kurzfristige Veralterungsrisiko eliminiert.</li></ul>"
+    }
+  }
+}

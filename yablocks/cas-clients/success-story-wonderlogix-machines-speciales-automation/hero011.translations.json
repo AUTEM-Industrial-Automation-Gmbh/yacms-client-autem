@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.clientLogo.alt": {
+      "source": "Wonderlogix",
+      "de": "Wonderlogix"
+    },
+    "data.title": {
+      "source": "Tests et amélioration d'un générateur de programmes d'automates",
+      "de": "Tests und Verbesserung eines SPS-Programmiergenerators"
+    },
+    "data.tags[@7Mltos].label": {
+      "source": "Machines spéciales",
+      "de": "Sondermaschinen"
+    },
+    "data.tags[@KRjin8].label": {
+      "source": "Automatisme",
+      "de": "Automatisierungstechnik"
+    }
+  }
+}

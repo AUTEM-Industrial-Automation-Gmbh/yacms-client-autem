@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Ligne de packaging abrasifs Saint-Gobain",
+      "de": "Verpackungslinie für Schleifmittel von Saint-Gobain"
+    },
+    "data.quote": {
+      "source": "La mise en service de la ligne de packaging s'est déroulée dans de bonnes conditions malgré l'éloignement géographique. AUTEM a fait preuve d'une vraie adaptabilité face aux contraintes locales et nos équipes ont été correctement formées pour prendre en main l'installation en autonomie.",
+      "de": "Die Inbetriebnahme der Verpackungslinie verlief trotz der geografischen Entfernung unter guten Bedingungen. AUTEM zeigte eine echte Anpassungsfähigkeit an die lokalen Gegebenheiten, und unsere Teams wurden ordnungsgemäß geschult, um die Anlage selbstständig zu bedienen."
+    },
+    "data.author.name": {
+      "source": "Responsable Production",
+      "de": "Produktionsleiter"
+    },
+    "data.author.role": {
+      "source": "Saint-Gobain Abrasifs — Site Maroc",
+      "de": "Saint-Gobain Abrasifs – Standort Marokko"
+    }
+  }
+}

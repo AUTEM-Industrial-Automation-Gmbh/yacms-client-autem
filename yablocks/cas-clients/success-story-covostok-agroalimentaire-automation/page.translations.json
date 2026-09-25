@@ -1,0 +1,39 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Danone / CoVostok — Skid de filtration d'eau par osmose inverse | AUTEM",
+      "de": "Danone / CoVostok — Umkehrosmose-Wasserfiltrationsanlage | AUTEM",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "AUTEM a conçu et mis en service un skid de filtration d'eau par osmose inverse pour CoVostok (Danone) en Russie.",
+      "de": "AUTEM hat eine Umkehrosmose-Wasserfiltrationsanlage für CoVostok (Danone) in Russland entwickelt und in Betrieb genommen.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "skid filtration eau",
+        "osmose inverse",
+        "automatisme agroalimentaire",
+        "Danone",
+        "CoVostok",
+        "AUTEM réalisation"
+      ],
+      "de": [
+        "Wasserfiltrationsanlage",
+        "Umkehrosmose",
+        "Lebensmittelautomatisierung",
+        "Danone",
+        "CoVostok",
+        "AUTEM Realisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Cas client industriel automatisme et SCADA",
+      "de": "AUTEM – Industriekundenfall Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}

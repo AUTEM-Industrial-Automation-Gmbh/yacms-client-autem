@@ -1,0 +1,37 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Saint-Gobain — Automatisation packaging matériaux abrasifs Maroc | AUTEM",
+      "de": "Saint-Gobain — Verpackungsautomatisierung für Schleifmittel Marokko | AUTEM",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Découvrez comment AUTEM a automatisé le packaging de matériaux abrasifs (papier de verre, lames diamantées) sur le site de production Saint-Gobain au Maroc.",
+      "de": "Erfahren Sie, wie AUTEM die Verpackung von Schleifmitteln (Schleifpapier, Diamantschleifscheiben) am Produktionsstandort von Saint-Gobain in Marokko automatisiert hat.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "automatisme packaging",
+        "matériaux abrasifs",
+        "Saint-Gobain automatisme",
+        "machine de conditionnement",
+        "AUTEM réalisation"
+      ],
+      "de": [
+        "Verpackungsautomatisierung",
+        "Schleifmittel",
+        "Saint-Gobain Automatisierung",
+        "Verpackungsmaschine",
+        "AUTEM Realisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Cas client industriel automatisme et SCADA",
+      "de": "AUTEM – Industriekundenfall Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}

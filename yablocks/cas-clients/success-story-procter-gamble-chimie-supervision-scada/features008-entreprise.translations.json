@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "L'entreprise",
+      "de": "Das Unternehmen"
+    },
+    "data.content": {
+      "source": "<p>Procter & Gamble est l'un des <strong>plus grands groupes de biens de consommation courante au monde</strong>, avec des marques emblématiques dans l'hygiène, la beauté et les produits ménagers (Ariel, Gillette, Pampers, Head & Shoulders…). Ses sites industriels français produisent et conditionnent des volumes massifs de produits chimiques grand public avec des exigences de traçabilité et de productivité très élevées.</p><p>Le site concerné intègre des lignes de <strong>conditionnement de produits chimiques liquides et en poudre</strong>, associées à des flux logistiques complexes de palettisation, filmage et expédition. La supervision de l'ensemble de ces flux est un enjeu de performance critique pour le respect des plans de livraison.</p>",
+      "de": "<p>Procter & Gamble ist einer der <strong>weltweit größten Konsumgüterkonzerne</strong> mit ikonischen Marken in den Bereichen Hygiene, Schönheit und Haushaltsprodukte (Ariel, Gillette, Pampers, Head & Shoulders...). Seine französischen Industriestandorte produzieren und verpacken riesige Mengen an chemischen Konsumgütern mit sehr hohen Anforderungen an Rückverfolgbarkeit und Produktivität.</p><p>Der betreffende Standort integriert <strong>Abfüllanlagen für flüssige und pulverförmige Chemikalien</strong>, die mit komplexen Logistikströmen für Palettierung, Folierung und Versand verbunden sind. Die Überwachung all dieser Ströme ist entscheidend für die Leistung und die Einhaltung von Lieferplänen.</p>"
+    }
+  }
+}

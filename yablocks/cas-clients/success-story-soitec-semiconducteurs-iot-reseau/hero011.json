@@ -13,19 +13,23 @@
     "tags": [
       {
         "label": "Semiconducteurs",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "ZLNYT8"
       },
       {
         "label": "IoT Réseau",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "aPTrmp"
       },
       {
         "label": "PC Industriel",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "0KNMsQ"
       },
       {
         "label": "Cycle de Vie et Obsolescence",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "MBd5FO"
       }
     ]
   }

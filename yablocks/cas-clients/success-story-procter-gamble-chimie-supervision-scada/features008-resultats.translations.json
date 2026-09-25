@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Résultats & Apprentissages",
+      "de": "Ergebnisse & Lernerfahrungen"
+    },
+    "data.content": {
+      "source": "<ul><li><strong>SCADA opérationnel dans les délais</strong>, conforme aux standards graphiques et fonctionnels P&G ;</li><li>Supervision centralisée de tous les équipements logistiques avec gestion des alarmes et historisation des événements ;</li><li><strong>Interface SAP opérationnelle</strong> avec descente automatique des ordres de production et remontée des confirmations ;</li><li>Réduction du temps de détection et de résolution des incidents grâce aux alarmes contextualisées ;</li><li>Équipes opérateurs et maintenance formées et autonomes sur le nouveau SCADA depuis le déploiement.</li></ul>",
+      "de": "<ul><li><strong>SCADA termingerecht betriebsbereit</strong>, konform mit den grafischen und funktionalen P&G-Standards;</li><li>Zentrale Überwachung aller Logistikanlagen mit Alarmmanagement und Ereignishistorisierung;</li><li><strong>SAP-Schnittstelle betriebsbereit</strong> mit automatischer Übermittlung von Produktionsaufträgen und Rückmeldung von Bestätigungen;</li><li>Verkürzte Erkennungs- und Lösungszeiten für Störungen dank kontextbezogener Alarme;</li><li>Geschulte und autonome Bediener- und Wartungsteams für das neue SCADA seit der Bereitstellung.</li></ul>"
+    }
+  }
+}

@@ -13,11 +13,13 @@
     "tags": [
       {
         "label": "Chimie",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "oOcY8e"
       },
       {
         "label": "Supervision SCADA",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "fuREPN"
       }
     ]
   }

@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Stratégie",
+      "de": "Strategie"
+    },
+    "data.content": {
+      "source": "<ol><li><p><strong>Conception du skid et spécification instrumentale</strong><br>Sélection et dimensionnement des équipements (pompes, membranes, capteurs de conductivité, pH, débit) et élaboration des schémas P&ID.</p></li><li><p><strong>Programmation automate des séquences de filtration</strong><br>Développement du programme automate gérant l'ensemble du cycle : démarrage, filtration continue, nettoyage chimique des membranes et arrêt propre, avec gestion des alarmes et des sécurités.</p></li><li><p><strong>Développement de l'IHM de supervision</strong><br>Interface opérateur pour le pilotage du skid, la visualisation des paramètres process (conductivité, pression, débit) et la traçabilité des cycles de production.</p></li><li><p><strong>Tests FAT et mise en service sur site</strong><br>Validation en atelier puis mise en service sur site en Russie, avec qualification de l'eau produite selon les critères Danone.</p></li></ol>",
+      "de": "<ol><li><p><strong>Konstruktion der Anlage und Spezifikation der Instrumentierung</strong><br>Auswahl und Dimensionierung der Ausrüstung (Pumpen, Membranen, Leitfähigkeits-, pH-, Durchflusssensoren) und Erstellung der P&ID-Diagramme.</p></li><li><p><strong>SPS-Programmierung der Filtrationszyklen</strong><br>Entwicklung des SPS-Programms zur Steuerung des gesamten Zyklus: Start, kontinuierliche Filtration, chemische Reinigung der Membranen und saubere Abschaltung, mit Alarm- und Sicherheitsmanagement.</p></li><li><p><strong>Entwicklung der HMI-Überwachung</strong><br>Bedienerschnittstelle zur Steuerung der Anlage, zur Visualisierung der Prozessparameter (Leitfähigkeit, Druck, Durchfluss) und zur Rückverfolgbarkeit der Produktionszyklen.</p></li><li><p><strong>FAT-Tests und Inbetriebnahme vor Ort</strong><br>Validierung im Werk und anschließende Inbetriebnahme vor Ort in Russland, mit Qualifizierung des produzierten Wassers gemäß den Danone-Kriterien.</p></li></ol>"
+    }
+  }
+}

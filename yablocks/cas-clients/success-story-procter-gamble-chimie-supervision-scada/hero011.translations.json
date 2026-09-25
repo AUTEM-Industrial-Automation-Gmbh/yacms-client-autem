@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.clientLogo.alt": {
+      "source": "Procter & Gamble",
+      "de": "Procter & Gamble"
+    },
+    "data.title": {
+      "source": "Développement SCADA logistique — Site de production P&G",
+      "de": "Logistik-SCADA-Entwicklung — P&G-Produktionsstandort"
+    },
+    "data.tags[@oOcY8e].label": {
+      "source": "Chimie",
+      "de": "Chemie"
+    },
+    "data.tags[@fuREPN].label": {
+      "source": "Supervision SCADA",
+      "de": "SCADA-Überwachung"
+    }
+  }
+}

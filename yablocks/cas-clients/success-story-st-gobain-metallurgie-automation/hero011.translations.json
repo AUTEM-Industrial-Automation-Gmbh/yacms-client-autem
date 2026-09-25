@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.clientLogo.alt": {
+      "source": "Saint-Gobain",
+      "de": "Saint-Gobain"
+    },
+    "data.title": {
+      "source": "Automatisation du packaging de matériaux abrasifs — Saint-Gobain Maroc",
+      "de": "Automatisierung der Verpackung von Schleifmitteln – Saint-Gobain Marokko"
+    },
+    "data.tags[@lI0U3H].label": {
+      "source": "Metallurgie",
+      "de": "Metallurgie"
+    },
+    "data.tags[@i5EuUv].label": {
+      "source": "Automation",
+      "de": "Automatisierung"
+    }
+  }
+}

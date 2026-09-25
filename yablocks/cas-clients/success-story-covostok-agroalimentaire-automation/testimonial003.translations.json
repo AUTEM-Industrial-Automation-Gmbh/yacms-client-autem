@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Arrière-plan industriel",
+      "de": "Industrieller Hintergrund"
+    },
+    "data.quote": {
+      "source": "AUTEM a su gérer l'ensemble de la conception à la mise en service avec professionnalisme, malgré la distance. Le skid fonctionne parfaitement et la qualité de l'eau produite est conforme à nos exigences Danone dès le premier jour.",
+      "de": "AUTEM hat es verstanden, die gesamte Konstruktion bis zur Inbetriebnahme professionell zu managen, trotz der Entfernung. Die Anlage funktioniert perfekt und die Qualität des produzierten Wassers entspricht vom ersten Tag an unseren Danone-Anforderungen."
+    },
+    "data.author.name": {
+      "source": "Responsable Technique",
+      "de": "Technischer Leiter"
+    },
+    "data.author.role": {
+      "source": "CoVostok — Site de production Russie",
+      "de": "CoVostok – Produktionsstandort Russland"
+    }
+  }
+}

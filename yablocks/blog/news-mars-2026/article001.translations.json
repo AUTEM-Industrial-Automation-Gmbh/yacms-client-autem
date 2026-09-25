@@ -1,0 +1,145 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@h6UNx7].heading": {
+      "source": "Introduction",
+      "de": "Einführung"
+    },
+    "data.sections[@eXUHpA].heading": {
+      "source": "Training Platforms (plci.app & Easy PLC                                                 School)",
+      "de": "Schulungsplattformen (plci.app & Easy PLC School)"
+    },
+    "data.sections[@LOH6Jr].heading": {
+      "source": "Troubleshooting Tools (Snap PLC)                                            Module",
+      "de": "Fehlerbehebungswerkzeuge (Snap PLC) Modul"
+    },
+    "data.sections[@zZmQRu].heading": {
+      "source": "Programming Platforms (Copilot, Accelera,                                                 Cronax)",
+      "de": "Programmierplattformen (Copilot, Accelera, Cronax)"
+    },
+    "data.sections[@h6UNx7].paragraphs[@O6fidU].text": {
+      "source": "The programmable logical controller world is not over, but it is\n                                                definitely changing. There are lot of stuff happening.\n                                                if I go over what happened over the last 3 months, the first quarter of\n                                                2026. In this article I wll just highlight three things that have been\n                                                happening in the PLC automation world. These are: Training Platforms, Troubleshooting Tools, Programming Platforms",
+      "de": "Die Welt der speicherprogrammierbaren Steuerungen ist noch nicht vorbei, aber sie verändert sich definitiv. Es passiert viel. Wenn ich über die letzten 3 Monate, das erste Quartal 2026, spreche. In diesem Artikel werde ich nur drei Dinge hervorheben, die in der SPS-Automatisierungswelt passiert sind. Dies sind: Schulungsplattformen, Fehlerbehebungswerkzeuge, Programmierplattformen"
+    },
+    "data.sections[@h6UNx7].paragraphs[@uINYXX].text": {
+      "source": "Basically, all that progress is possible today. Thanks to AI, which is no\n                                                wonder, but those ideas have been under reflection, under development\n                                                for 10 to 20 years now. The only difference is that now we have the tool\n                                                with AI to speed up all those development, to implement all those\n                                                creative ideas to make the PLC Automation World more easy. It doesn't\n                                                change basically the electronics behind. It doesn't change the\n                                                methodology or the way of programming electrical systems, but it is\n                                                changes the tools because, now, if you are a PLC engineer or if you are\n                                                system engineer, you're doing work for a manufacturing technology, you\n                                                have more leverage in your da-to-day activity.",
+      "de": "Grundsätzlich ist all dieser Fortschritt heute möglich. Dank KI, was keine Überraschung ist, aber diese Ideen werden seit 10 bis 20 Jahren reflektiert und entwickelt. Der einzige Unterschied ist, dass wir jetzt das Werkzeug mit KI haben, um all diese Entwicklungen zu beschleunigen, all diese kreativen Ideen umzusetzen, um die SPS-Automatisierungswelt einfacher zu machen. Es ändert im Grunde nicht die Elektronik dahinter. Es ändert nicht die Methodik oder die Art und Weise, wie elektrische Systeme programmiert werden, aber es ändert die Werkzeuge, denn wenn Sie jetzt ein SPS-Ingenieur oder ein Systemingenieur sind, der für eine Fertigungstechnologie arbeitet, haben Sie mehr Einfluss auf Ihre tägliche Arbeit."
+    },
+    "data.sections[@eXUHpA].paragraphs[@GcJsfc].text": {
+      "source": "So, the first trend to follow is about Training Platform",
+      "de": "Der erste Trend, dem man folgen sollte, betrifft also die Schulungsplattform"
+    },
+    "data.sections[@eXUHpA].paragraphs[@R1YFkk].text": {
+      "source": " Traditional expensive, field-based learning is being supplemented by\n                                                AI-driven training platforms like <strong>plci.app and Easy\n                                                    PLC School</strong>. These allow both beginners and IT professionals\n                                                to level up\n                                                their hardware skills for free.",
+      "de": "Traditionelle, teure Schulungen vor Ort werden durch KI-gesteuerte Schulungsplattformen wie <strong>plci.app und Easy PLC School</strong> ergänzt. Diese ermöglichen es sowohl Anfängern als auch IT-Profis, ihre Hardware-Kenntnisse kostenlos zu verbessern."
+    },
+    "data.sections[@eXUHpA].paragraphs[@D9yd5p].text": {
+      "source": "Discover more about the platform and explore the full content of this section here here:",
+      "de": "Erfahren Sie mehr über die Plattform und erkunden Sie den vollständigen Inhalt dieses Abschnitts hier:"
+    },
+    "data.sections[@LOH6Jr].paragraphs[@KB8acM].text": {
+      "source": "Another trend is about Troubleshooting Tools",
+      "de": "Ein weiterer Trend betrifft Fehlerbehebungswerkzeuge"
+    },
+    "data.sections[@LOH6Jr].paragraphs[@T6gBRl].text": {
+      "source": "Tools like Snap PLC allow users to upload photos of a control cabinet.\n                                                The AI identifies the hardware and provides a tentative root cause and\n                                                solution for system faults, acting as a \"first\n                                                responder\" before calling for support.",
+      "de": "Werkzeuge wie Snap PLC ermöglichen es Benutzern, Fotos eines Schaltschranks hochzuladen. Die KI identifiziert die Hardware und liefert eine vorläufige Ursachenanalyse und Lösung für Systemfehler, die als \"Ersthelfer\" fungiert, bevor Unterstützung angefordert wird."
+    },
+    "data.sections[@LOH6Jr].paragraphs[@h0MUuj].text": {
+      "source": "Discover more about the platform and explore the full content of this section here here:",
+      "de": "Erfahren Sie mehr über die Plattform und erkunden Sie den vollständigen Inhalt dieses Abschnitts hier:"
+    },
+    "data.sections[@zZmQRu].paragraphs[@oJ6X0x].text": {
+      "source": " The last trend, which is very interesting about programming platform. I\n                                                have followed three platforms in the last few months that can be\n                                                interesting for all of us PLC Programmers or people who are doing\n                                                engineering in manufacturing.",
+      "de": "Der letzte Trend, der sehr interessant ist, betrifft die Programmierplattform. Ich habe in den letzten Monaten drei Plattformen verfolgt, die für uns alle SPS-Programmierer oder Leute, die im Ingenieurwesen in der Fertigung tätig sind, interessant sein könnten."
+    },
+    "data.sections[@zZmQRu].paragraphs[@s1NoEC].text": {
+      "source": "Accelera Platform: Generates PLC/DCS code directly from\n                                                functional design specifications, moving the focus from manual coding to\n                                                clear system requirements.",
+      "de": "Accelera Platform: Generiert SPS/DCS-Code direkt aus funktionalen Spezifikationen und verlagert den Fokus von der manuellen Codierung auf klare Systemanforderungen."
+    },
+    "data.sections[@zZmQRu].paragraphs[@IgZKDk].text": {
+      "source": "Cronax: An IDE that allows software developers to\n                                                program PLCs using standard IT languages rather than traditional narrow\n                                                industrial formats.",
+      "de": "Cronax: Eine IDE, die es Softwareentwicklern ermöglicht, SPS mit Standard-IT-Sprachen anstelle traditioneller, enger industrieller Formate zu programmieren."
+    },
+    "data.sections[@zZmQRu].paragraphs[@vC4hXw].text": {
+      "source": "Discover more about the platform and explore the full content of this section here here:",
+      "de": "Erfahren Sie mehr über die Plattform und erkunden Sie den vollständigen Inhalt dieses Abschnitts hier:"
+    },
+    "data.sections[@eXUHpA].links[@SiKqIQ].text": {
+      "source": "Visualize | Vidéo (01 min : 33 s)",
+      "de": "Visualisieren | Video (01 Min : 33 Sek)"
+    },
+    "data.sections[@eXUHpA].links[@pSwlzl].text": {
+      "source": "https://plcai.app/",
+      "de": "https://plcai.app/"
+    },
+    "data.sections[@eXUHpA].links[@BEHTqT].text": {
+      "source": "https://github.com/orelmi/easyplc-school",
+      "de": "https://github.com/orelmi/easyplc-school"
+    },
+    "data.sections[@LOH6Jr].links[@0wNtl6].text": {
+      "source": "Visualize | Vidéo (01 min : 10 s)",
+      "de": "Visualisieren | Video (01 Min : 10 Sek)"
+    },
+    "data.sections[@LOH6Jr].links[@ztC3My].text": {
+      "source": "https://www.snapplc.com/",
+      "de": "https://www.snapplc.com/"
+    },
+    "data.sections[@zZmQRu].links[@csy92E].text": {
+      "source": "Visualize | Vidéo (06 min : 47 s)",
+      "de": "Visualisieren | Video (06 Min : 47 Sek)"
+    },
+    "data.sections[@zZmQRu].links[@Aqf6OY].text": {
+      "source": "https://plccopilot.com/",
+      "de": "https://plccopilot.com/"
+    },
+    "data.sections[@zZmQRu].links[@GLVInx].text": {
+      "source": "(formerly iReflex) software oriented                                                         IDE agnostic for faster migrations & retrofits, with AI-powered                                                         features. not OpenSource",
+      "de": "(ehemals iReflex) softwareorientierte IDE-agnostische Lösung für schnellere Migrationen & Nachrüstungen, mit KI-gestützten Funktionen. Nicht OpenSource"
+    },
+    "data.sections[@zZmQRu].links[@7OyPcV].text": {
+      "source": "OpenSource generate code from                                                         functional spec. No AI, deterministic.",
+      "de": "OpenSource generiert Code aus funktionalen Spezifikationen. Keine KI, deterministisch."
+    },
+    "data.sections[@eXUHpA].links[@SiKqIQ].href": {
+      "source": "https://www.youtube.com/watch?v=u1zvKZyBE6I&t=94s",
+      "de": "https://www.youtube.com/watch?v=u1zvKZyBE6I&t=94s"
+    },
+    "data.sections[@eXUHpA].links[@pSwlzl].href": {
+      "source": "https://plcai.app/",
+      "de": "https://plcai.app/"
+    },
+    "data.sections[@eXUHpA].links[@BEHTqT].href": {
+      "source": "https://github.com/orelmi/easyplc-school",
+      "de": "https://github.com/orelmi/easyplc-school"
+    },
+    "data.sections[@LOH6Jr].links[@0wNtl6].href": {
+      "source": "https://www.youtube.com/watch?v=u1zvKZyBE6I&t=187s",
+      "de": "https://www.youtube.com/watch?v=u1zvKZyBE6I&t=187s"
+    },
+    "data.sections[@LOH6Jr].links[@ztC3My].href": {
+      "source": "https://www.snapplc.com/",
+      "de": "https://www.snapplc.com/"
+    },
+    "data.sections[@zZmQRu].links[@csy92E].href": {
+      "source": "https://www.youtube.com/watch?v=u1zvKZyBE6I&t=257s",
+      "de": "https://www.youtube.com/watch?v=u1zvKZyBE6I&t=257s"
+    },
+    "data.sections[@zZmQRu].links[@Aqf6OY].href": {
+      "source": "https://plccopilot.com/",
+      "de": "https://plccopilot.com/"
+    },
+    "data.sections[@zZmQRu].links[@GLVInx].href": {
+      "source": "https://chronax.tech/",
+      "de": "https://chronax.tech/"
+    },
+    "data.sections[@zZmQRu].links[@7OyPcV].href": {
+      "source": "https://acceleer.com/",
+      "de": "https://acceleer.com/"
+    }
+  }
+}

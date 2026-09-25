@@ -1,0 +1,39 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Soitec — Connectivité réseau et modernisation PC industriels ligne silicium | AUTEM",
+      "de": "Soitec — Konnektivität und Modernisierung von Industrie-PCs für die Siliziumlinie | AUTEM",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Découvrez comment AUTEM a modernisé la connectivité réseau et les PC industriels de la ligne de production silicium Soitec : IoT industriel, gestion de l'obsolescence et semiconducteurs.",
+      "de": "Erfahren Sie, wie AUTEM die Netzwerkkonnektivität und die Industrie-PCs der Soitec-Siliziumproduktionslinie modernisiert hat: industrielles IoT, Obsoleszenzmanagement und Halbleiter.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "connectivité réseau industriel",
+        "PC industriel semiconducteurs",
+        "Soitec automatisme",
+        "obsolescence industrielle",
+        "IoT usine silicium",
+        "AUTEM réalisation"
+      ],
+      "de": [
+        "industrielle Netzwerkkonnektivität",
+        "Industrie-PC Halbleiter",
+        "Soitec Automatisierung",
+        "industrielle Obsoleszenz",
+        "Silizium-Werk IoT",
+        "AUTEM Realisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Cas client industriel automatisme et SCADA",
+      "de": "AUTEM — Industriekundenfallstudie Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}

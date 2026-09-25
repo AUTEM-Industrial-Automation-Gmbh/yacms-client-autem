@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Stratégie",
+      "de": "Strategie"
+    },
+    "data.content": {
+      "source": "<ol><li><p><strong>Spécification fonctionnelle et choix techniques</strong><br>Analyse des flux de packaging, définition des recettes par type de format et de produit, et sélection des équipements adaptés à l'environnement poussiéreux du site.</p></li><li><p><strong>Programmation des automates et gestion des recettes</strong><br>Développement du programme automate avec gestion multi-formats par système de recettes, pilotage des machines de conditionnement et gestion des alarmes et arrêts.</p></li><li><p><strong>Intégration des périphériques de conditionnement</strong><br>Interfaçage des ensacheuses, étiqueteuses et filmeuses via leurs protocoles de communication respectifs, et développement des IHM opérateurs pour la sélection et le changement de format.</p></li><li><p><strong>Mise en service sur site et formation</strong><br>Déplacement sur le site marocain pour la mise en service, réglage des paramètres de conditionnement et formation pratique des opérateurs et des techniciens de maintenance locaux.</p></li></ol>",
+      "de": "<ol><li><p><strong>Funktionale Spezifikation und technische Auswahl</strong><br>Analyse der Verpackungsströme, Definition von Rezepturen nach Format- und Produkttyp sowie Auswahl geeigneter Anlagen für die staubige Umgebung des Standorts.</p></li><li><p><strong>SPS-Programmierung und Rezepturverwaltung</strong><br>Entwicklung des SPS-Programms mit Mehrformatverwaltung pro Rezeptursystem, Steuerung der Verpackungsmaschinen sowie Verwaltung von Alarmen und Stopps.</p></li><li><p><strong>Integration von Verpackungsperipheriegeräten</strong><br>Schnittstellenanbindung von Schlauchbeutelmaschinen, Etikettierern und Folienwicklern über ihre jeweiligen Kommunikationsprotokolle und Entwicklung von Bedienoberflächen für die Auswahl und den Formatwechsel.</p></li><li><p><strong>Inbetriebnahme vor Ort und Schulung</strong><br>Reise zum marokkanischen Standort für die Inbetriebnahme, Einstellung der Verpackungsparameter und praktische Schulung der lokalen Bediener und Wartungstechniker.</p></li></ol>"
+    }
+  }
+}

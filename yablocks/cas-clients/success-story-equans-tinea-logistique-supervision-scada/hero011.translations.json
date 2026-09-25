@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.clientLogo.alt": {
+      "source": "Equans Tinea",
+      "de": "Equans Tinea"
+    },
+    "data.title": {
+      "source": "Développement SCADA pour systèmes logistiques — Equans Tinea",
+      "de": "SCADA-Entwicklung für Logistiksysteme — Equans Tinea"
+    },
+    "data.tags[@ahyzES].label": {
+      "source": "Logistique",
+      "de": "Logistik"
+    },
+    "data.tags[@bJVaWc].label": {
+      "source": "Supervision SCADA",
+      "de": "SCADA-Überwachung"
+    }
+  }
+}
