@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Site de production Procter Gamble",
+      "de": "Procter Gamble Produktionsstandort"
+    },
+    "data.quote": {
+      "source": "AUTEM a livré un SCADA conforme à nos standards P&G, développé dans les délais et avec un niveau de qualité qui nous a permis de le déployer directement en production. La supervision de nos flux logistiques est désormais centralisée et nos équipes peuvent piloter l'activité en temps réel.",
+      "de": "AUTEM hat ein SCADA geliefert, das unseren P&G-Standards entspricht, termingerecht entwickelt wurde und eine Qualität aufweist, die es uns ermöglicht hat, es direkt in der Produktion einzusetzen. Die Überwachung unserer Logistikströme ist nun zentralisiert und unsere Teams können die Aktivität in Echtzeit steuern."
+    },
+    "data.author.name": {
+      "source": "Responsable Automatisation",
+      "de": "Automatisierungsmanager"
+    },
+    "data.author.role": {
+      "source": "Procter & Gamble — Site de production",
+      "de": "Procter & Gamble — Produktionsstandort"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Procter & Gamble — Développement SCADA logistique site de production | AUTEM",
+      "de": "Procter & Gamble — SCADA-Entwicklung für die Logistik am Produktionsstandort | AUTEM",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Découvrez comment AUTEM a développé le SCADA logistique du site de production Procter & Gamble : supervision des flux de conditionnement et d'expédition, Supervision SCADA chimie.",
+      "de": "Erfahren Sie, wie AUTEM die SCADA-Lösung für die Logistik am Produktionsstandort von Procter & Gamble entwickelt hat: Überwachung von Verpackungs- und Versandabläufen, SCADA-Überwachung in der Chemieindustrie.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "SCADA logistique",
+        "Procter Gamble automatisme",
+        "supervision chimie",
+        "SCADA production",
+        "AUTEM réalisation"
+      ],
+      "de": [
+        "SCADA Logistik",
+        "Procter Gamble Automatisierung",
+        "Chemieüberwachung",
+        "SCADA Produktion",
+        "AUTEM Realisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Cas client industriel automatisme et SCADA",
+      "de": "AUTEM – Industriekundenfall: Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}
