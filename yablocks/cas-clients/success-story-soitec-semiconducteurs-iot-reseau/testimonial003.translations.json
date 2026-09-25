@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Salle blanche production semiconducteurs",
+      "de": "Reinraum Halbleiterproduktion"
+    },
+    "data.quote": {
+      "source": "La migration des PC industriels et de notre réseau OT s'est déroulée sans aucun arrêt de production imprévu. AUTEM a su gérer toute la complexité des contraintes salle blanche et de la compatibilité logicielle. Notre infrastructure est désormais sécurisée et nous avons enfin une connectivité IoT exploitable.",
+      "de": "Die Migration der Industrie-PCs und unseres OT-Netzwerks erfolgte ohne unerwartete Produktionsausfälle. AUTEM hat es verstanden, die gesamte Komplexität der Reinraumbedingungen und der Softwarekompatibilität zu bewältigen. Unsere Infrastruktur ist jetzt sicher und wir haben endlich eine nutzbare IoT-Konnektivität."
+    },
+    "data.author.name": {
+      "source": "Responsable Infrastructure OT",
+      "de": "Leiter OT-Infrastruktur"
+    },
+    "data.author.role": {
+      "source": "Soitec — Site de production",
+      "de": "Soitec – Produktionsstandort"
+    }
+  }
+}

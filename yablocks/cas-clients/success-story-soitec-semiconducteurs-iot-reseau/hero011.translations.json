@@ -1,0 +1,29 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.clientLogo.alt": {
+      "source": "Soitec",
+      "de": "Soitec"
+    },
+    "data.title": {
+      "source": "Connectivité réseau et modernisation PC industriels pour ligne silicium",
+      "de": "Netzwerkkonnektivität und Modernisierung von Industrie-PCs für die Siliziumlinie"
+    },
+    "data.tags[@ZLNYT8].label": {
+      "source": "Semiconducteurs",
+      "de": "Halbleiter"
+    },
+    "data.tags[@aPTrmp].label": {
+      "source": "IoT Réseau",
+      "de": "Netzwerk-IoT"
+    },
+    "data.tags[@0KNMsQ].label": {
+      "source": "PC Industriel",
+      "de": "Industrie-PC"
+    },
+    "data.tags[@MBd5FO].label": {
+      "source": "Cycle de Vie et Obsolescence",
+      "de": "Lebenszyklus und Obsoleszenz"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Stratégie",
+      "de": "Strategie"
+    },
+    "data.content": {
+      "source": "<ol><li><p><strong>Audit réseau et plan de migration PC</strong><br>Cartographie de l'infrastructure réseau existante, inventaire des PC industriels avec cotation d'obsolescence et de risque cybersécurité, et élaboration d'un plan de migration machine par machine.</p></li><li><p><strong>Remplacement des PC industriels avec compatibilité logicielle</strong><br>Sélection de PC industriels certifiés salle blanche, migration du logiciel équipier vers des OS supportés (Windows 10/11 IoT Enterprise), et tests de compatibilité exhaustifs en environnement de qualification avant déploiement.</p></li><li><p><strong>Modernisation du réseau OT et déploiement IoT</strong><br>Remplacement des équipements réseau vieillissants par une infrastructure Ethernet industriel redondante, mise en place de VLAN de segmentation OT/IT et déploiement de passerelles IoT pour la collecte de données machine.</p></li><li><p><strong>Déploiement en salle blanche et qualification</strong><br>Intervention selon les procédures salle blanche Soitec, qualification de chaque remplacement machine et validation de la connectivité réseau avant remise en production.</p></li></ol>",
+      "de": "<ol><li><p><strong>Netzwerkaudit und PC-Migrationsplan</strong><br>Erfassung der bestehenden Netzwerkinfrastruktur, Inventarisierung von Industrie-PCs mit Bewertung von Veralterung und Cybersicherheitsrisiken sowie Ausarbeitung eines maschinenbezogenen Migrationsplans.</p></li><li><p><strong>Austausch von Industrie-PCs mit Softwarekompatibilität</strong><br>Auswahl von Reinraum-zertifizierten Industrie-PCs, Migration der Team-Software auf unterstützte Betriebssysteme (Windows 10/11 IoT Enterprise) und umfassende Kompatibilitätstests in einer Qualifizierungsumgebung vor der Bereitstellung.</p></li><li><p><strong>Modernisierung des OT-Netzwerks und IoT-Bereitstellung</strong><br>Austausch veralteter Netzwerkausrüstung durch eine redundante industrielle Ethernet-Infrastruktur, Einrichtung von OT/IT-Segmentierungs-VLANs und Bereitstellung von IoT-Gateways zur Erfassung von Maschinendaten.</p></li><li><p><strong>Bereitstellung im Reinraum und Qualifizierung</strong><br>Eingriff gemäß den Reinraum-Verfahren von Soitec, Qualifizierung jedes Maschinenaustauschs und Validierung der Netzwerkkonnektivität vor der Wiederinbetriebnahme.</p></li></ol>"
+    }
+  }
+}

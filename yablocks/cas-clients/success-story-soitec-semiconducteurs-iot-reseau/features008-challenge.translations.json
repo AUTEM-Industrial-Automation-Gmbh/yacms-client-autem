@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Challenge & Objectif",
+      "de": "Herausforderung & Ziel"
+    },
+    "data.content": {
+      "source": "<p>La mission confiée à AUTEM portait sur la <strong>modernisation de la connectivité réseau et le remplacement des PC industriels en fin de vie</strong> pilotant une ligne de traitement de wafers silicium, sans interruption de la production en salle blanche.</p><p>Parmi les défis identifiés :</p><ul><li>PC industriels avec des OS obsolètes (Windows XP/7), plus supportés et exposant l'environnement de production à des risques cybersécurité majeurs ;</li><li>Réseau industriel hétérogène avec des protocoles propriétaires vieillissants difficiles à superviser et à maintenir ;</li><li>Intervention en salle blanche — protocoles stricts de gestion de contamination particulaire sur tout le matériel introduit ;</li><li>Continuité de production obligatoire : aucun arrêt de machine non planifié toléré sur une ligne à forte valeur de lot ;</li><li>Maintien de la compatibilité avec les logiciels équipiers existants lors du changement de PC.</li></ul>",
+      "de": "<p>Die AUTEM übertragene Aufgabe umfasste die <strong>Modernisierung der Netzwerkkonnektivität und den Austausch von Industrie-PCs am Ende ihrer Lebensdauer</strong>, die eine Siliziumwafer-Bearbeitungslinie steuern, ohne die Produktion im Reinraum zu unterbrechen.</p><p>Zu den identifizierten Herausforderungen gehörten:</p><ul><li>Industrie-PCs mit veralteten Betriebssystemen (Windows XP/7), die nicht mehr unterstützt werden und die Produktionsumgebung erheblichen Cybersicherheitsrisiken aussetzen;</li><li>Heterogenes industrielles Netzwerk mit veralteten proprietären Protokollen, die schwer zu überwachen und zu warten sind;</li><li>Eingriffe im Reinraum – strenge Protokolle für das Partikelkontaminationsmanagement für alle eingeführten Geräte;</li><li>Obligatorische Produktionskontinuität: Keine unerwarteten Maschinenstillstände auf einer Linie mit hohem Chargenwert toleriert;</li><li>Aufrechterhaltung der Kompatibilität mit bestehender Team-Software beim Austausch von PCs.</li></ul>"
+    }
+  }
+}

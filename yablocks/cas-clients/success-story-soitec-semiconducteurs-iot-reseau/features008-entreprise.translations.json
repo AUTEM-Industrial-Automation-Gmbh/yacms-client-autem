@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "L'entreprise",
+      "de": "Das Unternehmen"
+    },
+    "data.content": {
+      "source": "<p>Soitec est le <strong>leader mondial de la fabrication de substrats semiconducteurs avancés</strong>, notamment pour les marchés de la 5G, de l'électronique de puissance et des composants radiofréquence. Ses usines de production de wafers SOI (Silicon-On-Insulator) sont parmi les plus technologiquement avancées au monde, intégrant des équipements extrêmement sophistiqués opérés dans des salles blanches de classe ISO.</p><p>La continuité réseau et la disponibilité des systèmes de contrôle machine sont des enjeux critiques dans les environnements semiconducteurs : un arrêt imprévu peut entraîner des pertes de lots de valeur considérable et compromettre les délais de livraison de clients stratégiques.</p>",
+      "de": "<p>Soitec ist <strong>weltweit führend in der Herstellung fortschrittlicher Halbleitersubstrate</strong>, insbesondere für die Märkte 5G, Leistungselektronik und Hochfrequenzkomponenten. Seine SOI-Wafer-Produktionsanlagen (Silicon-On-Insulator) gehören zu den technologisch fortschrittlichsten der Welt und integrieren hochentwickelte Geräte, die in Reinräumen der ISO-Klasse betrieben werden.</p><p>Netzwerkkontinuität und Verfügbarkeit von Maschinensteuerungssystemen sind kritische Herausforderungen in Halbleiterumgebungen: Ein unerwarteter Ausfall kann zu Verlusten von wertvollen Chargen führen und die Lieferzeiten für strategische Kunden gefährden.</p>"
+    }
+  }
+}
