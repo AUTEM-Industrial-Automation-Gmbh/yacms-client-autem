@@ -1,0 +1,53 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "NOTRE MÉTHODE",
+      "de": "UNSER ANSATZ"
+    },
+    "data.title": {
+      "source": "De la compréhension du besoin à la spécification livrée : 5 étapes",
+      "de": "Vom Verständnis des Bedarfs bis zur gelieferten Spezifikation: 5 Schritte"
+    },
+    "data.steps[@HbYNni].title": {
+      "source": "Cadrage & compréhension du besoin",
+      "de": "Rahmengebung & Bedarfsanalyse"
+    },
+    "data.steps[@d1Z8Dt].title": {
+      "source": "Analyse fonctionnelle et organique",
+      "de": "Funktionale und organische Analyse"
+    },
+    "data.steps[@iDc39T].title": {
+      "source": "Spécification d'architecture",
+      "de": "Architekturspezifikation"
+    },
+    "data.steps[@CgbULk].title": {
+      "source": "Revue critique & validation",
+      "de": "Kritische Überprüfung & Validierung"
+    },
+    "data.steps[@S1eBoI].title": {
+      "source": "Accompagnement à la consultation",
+      "de": "Begleitung der Ausschreibung"
+    },
+    "data.steps[@HbYNni].description": {
+      "source": "Entretiens avec vos équipes pour capturer les enjeux opérationnels, les contraintes de maintenabilité, les exigences de disponibilité et les standards internes. Identification des systèmes existants et des interfaces à conserver ou migrer.",
+      "de": "Interviews mit Ihren Teams zur Erfassung der betrieblichen Herausforderungen, Wartbarkeitsbeschränkungen, Verfügbarkeitsanforderungen und internen Standards. Identifizierung bestehender Systeme und zu erhaltender oder zu migrierender Schnittstellen."
+    },
+    "data.steps[@d1Z8Dt].description": {
+      "source": "Décomposition des fonctions en briques élémentaires : modes de marche, transitions, E/S, interfaces opérateurs, alarmes, communications. Identification des exigences de performance (temps de cycle, temps de réponse, disponibilité cible).",
+      "de": "Zerlegung der Funktionen in elementare Bausteine: Betriebsarten, Übergänge, E/A, Bedienerschnittstellen, Alarme, Kommunikation. Identifizierung von Leistungsanforderungen (Zykluszeit, Reaktionszeit, Zielverfügbarkeit)."
+    },
+    "data.steps[@iDc39T].description": {
+      "source": "Définition de la topologie réseau (segmentation OT/IT, VLAN, DMZ), du choix des équipements (automates, IPC, serveurs SCADA), des protocoles de communication (OPC-UA, Profinet, Ethernet/IP) et de la stratégie de redondance.",
+      "de": "Definition der Netzwerktopologie (OT/IT-Segmentierung, VLAN, DMZ), der Ausrüstungswahl (Steuerungen, IPCs, SCADA-Server), der Kommunikationsprotokolle (OPC-UA, Profinet, Ethernet/IP) und der Redundanzstrategie."
+    },
+    "data.steps[@CgbULk].description": {
+      "source": "Présentation de l'architecture devant vos équipes techniques, réponse aux questions de maintenabilité et de cybersécurité, intégration des retours, validation formelle du document de spécification.",
+      "de": "Präsentation der Architektur vor Ihren technischen Teams, Beantwortung von Fragen zur Wartbarkeit und Cybersicherheit, Integration von Rückmeldungen, formale Validierung des Spezifikationsdokuments."
+    },
+    "data.steps[@S1eBoI].description": {
+      "source": "Si nécessaire, assistance à la rédaction du cahier des charges pour appel d'offres, analyse comparative des réponses fournisseurs, recommandations objectives sur le choix final.",
+      "de": "Bei Bedarf Unterstützung bei der Erstellung der Ausschreibungsunterlagen, vergleichende Analyse der Lieferantenantworten, objektive Empfehlungen zur endgültigen Auswahl."
+    }
+  }
+}

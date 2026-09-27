@@ -1,0 +1,41 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.badges[@P0ek2z].alt": {
+      "source": "Hermès — Architecture systèmes industriels, Paris",
+      "de": "Hermès – Industrielle Systemarchitektur, Paris"
+    },
+    "data.badges[@sst6yx].alt": {
+      "source": "Amazon — WCS/WMS automatisation entrepôt mécanisé",
+      "de": "Amazon – WCS/WMS Automatisierung mechanisiertes Lager"
+    },
+    "data.badges[@154ODh].alt": {
+      "source": "Thalys — Supervision réseau, télémétrie IoT",
+      "de": "Thalys – Netzüberwachung, IoT-Telemetrie"
+    },
+    "data.headline": {
+      "source": "Une mauvaise architecture ne coûte rien à l'heure où on la choisit — elle coûte tout quand on ne peut plus la changer.",
+      "de": "Eine schlechte Architektur kostet nichts, wenn man sie wählt – sie kostet alles, wenn man sie nicht mehr ändern kann."
+    },
+    "data.paragraphs[@ntgiAW].text": {
+      "source": "Choisir une plateforme par habitude ou parce qu'un commercial s'est montré convaincant. Ne pas anticiper les besoins d'interconnexion entre les systèmes OT et IT. Dimensionner un réseau sans penser à la croissance et à la redondance. Ces décisions paraissent anodines en début de projet. Leur impact se mesure en années, pas en semaines.",
+      "de": "Eine Plattform aus Gewohnheit oder weil ein Verkäufer überzeugend war. Die Interkonnektivitätsanforderungen zwischen OT- und IT-Systemen nicht antizipieren. Ein Netzwerk dimensionieren, ohne an Wachstum und Redundanz zu denken. Diese Entscheidungen erscheinen zu Beginn des Projekts unbedeutend. Ihre Auswirkungen werden in Jahren und nicht in Wochen gemessen."
+    },
+    "data.paragraphs[@sSU9K5].text": {
+      "source": "En aval, la facture s'alourdit : serveurs SCADA surdimensionnés ou sous-dimensionnés, réseaux industriels impossibles à sécuriser, équipements incompatibles entre eux, dépendance totale à un unique fabricant pour les mises à jour, les licences et le support.",
+      "de": "Nachgelagert steigen die Kosten: über- oder unterdimensionierte SCADA-Server, industrielle Netzwerke, die nicht gesichert werden können, inkompatible Geräte untereinander, totale Abhängigkeit von einem einzigen Hersteller für Updates, Lizenzen und Support."
+    },
+    "data.paragraphs[@cImpEh].text": {
+      "source": "Une architecture bien définie répond à des questions précises : quels équipements, quels protocoles, quelle topologie réseau, quels niveaux de redondance, quelle séparation OT/IT, quelle stratégie de cybersécurité. Elle est documentée, justifiée — et défendable devant un client, un auditeur ou une équipe maintenance.",
+      "de": "Eine gut definierte Architektur beantwortet präzise Fragen: Welche Geräte, welche Protokolle, welche Netzwerktopologie, welche Redundanzstufen, welche OT/IT-Trennung, welche Cybersicherheitsstrategie. Sie ist dokumentiert, begründet – und vor einem Kunden, einem Prüfer oder einem Wartungsteam verteidigbar."
+    },
+    "data.paragraphs[@T7F70u].text": {
+      "source": "AUTEM intervient en amont : avant les appels d'offres, avant les choix structurants. En tant qu'expert indépendant, sans affiliation à aucun constructeur, notre seul objectif est de vous proposer l'architecture qui répond à vos contraintes techniques, budgétaires et opérationnelles à long terme.",
+      "de": "AUTEM greift im Vorfeld ein: vor Ausschreibungen, vor richtungsweisenden Entscheidungen. Als unabhängiger Experte, ohne Bindung an einen Hersteller, ist unser einziges Ziel, Ihnen die Architektur anzubieten, die Ihren technischen, budgetären und operativen Langzeitvorgaben entspricht."
+    },
+    "data.closing": {
+      "source": "Une architecture choisie avec soin, c'est 10 ans de maintenance sans surprise — et une équipe interne capable de la faire évoluer.",
+      "de": "Eine sorgfältig gewählte Architektur bedeutet 10 Jahre wartungsfreien Betrieb – und ein internes Team, das sie weiterentwickeln kann."
+    }
+  }
+}

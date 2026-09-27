@@ -1,0 +1,49 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "ARCHITECTURE DE SYSTÈMES",
+      "de": "SYSTEMARCHITEKTUR"
+    },
+    "data.title": {
+      "source": "Du cahier des charges à la spécification d'architecture : périmètre et livrables",
+      "de": "Vom Lastenheft zur Architektur-Spezifikation: Umfang und Liefergegenstände"
+    },
+    "data.paragraphs[@xFeXxD].text": {
+      "source": "Définir l'architecture d'un système de contrôle-commande industriel, c'est répondre à une série de choix structurants : quels automates, quelle supervision, quel réseau industriel, quels protocoles de communication, quelle intégration vers les systèmes IT (ERP, MES). AUTEM formalise ces choix dans une spécification d'architecture complète et documentée.",
+      "de": "Die Architektur eines industriellen Leit- und Steuerungssystems zu definieren, bedeutet, eine Reihe von strukturellen Entscheidungen zu treffen: Welche SPSen, welche Überwachung, welches industrielle Netzwerk, welche Kommunikationsprotokolle, welche Integration in IT-Systeme (ERP, MES). AUTEM formalisiert diese Entscheidungen in einer vollständigen und dokumentierten Architekturspezifikation."
+    },
+    "data.highlights[@Y0PwHc].text": {
+      "source": "Analyse fonctionnelle et organique : décomposition des fonctions, identification des interfaces, inventaire des entrées-sorties",
+      "de": "Funktionale und organische Analyse: Zerlegung der Funktionen, Identifizierung der Schnittstellen, Inventarisierung der Ein- und Ausgänge"
+    },
+    "data.highlights[@fJEaIP].text": {
+      "source": "Spécification matérielle multimarque : automates, IHM, serveurs SCADA, équipements réseau — sans lien commercial avec aucun fabricant",
+      "de": "Herstellerunabhängige Hardware-Spezifikation: SPSen, HMIs, SCADA-Server, Netzwerkausrüstung – ohne kommerzielle Bindung an einen Hersteller"
+    },
+    "data.highlights[@eAw2mL].text": {
+      "source": "Cartographie réseau OT : Profinet, Ethernet/IP, OPC-UA, segmentation VLAN, séparation DMZ",
+      "de": "OT-Netzwerk-Mapping: Profinet, Ethernet/IP, OPC-UA, VLAN-Segmentierung, DMZ-Trennung"
+    },
+    "data.highlights[@ii6a3g].text": {
+      "source": "Intégration OT/IT : définition des flux de données entre automates, SCADA, MES et ERP",
+      "de": "OT/IT-Integration: Definition der Datenflüsse zwischen SPSen, SCADA, MES und ERP"
+    },
+    "data.highlights[@Tpzflm].text": {
+      "source": "Plan de redondance et de continuité : niveaux de redondance, stratégie de sauvegarde et reprise",
+      "de": "Redundanz- und Kontinuitätsplan: Redundanzstufen, Backup- und Wiederherstellungsstrategie"
+    },
+    "data.highlights[@4OZFHC].text": {
+      "source": "Cahier des charges technique livrable : document de spécification utilisable directement pour un appel d'offres ou une consultation fournisseur",
+      "de": "Lieferbares technisches Lastenheft: Spezifikationsdokument, das direkt für eine Ausschreibung oder eine Lieferantenkonsultation verwendet werden kann"
+    },
+    "data.conclusion": {
+      "source": "Résultat : un document de référence qui engage les bons choix dès le départ, permet d'objectiver les comparaisons entre solutions et protège vos équipes contre la dépendance fournisseur.",
+      "de": "Ergebnis: Ein Referenzdokument, das von Anfang an die richtigen Entscheidungen trifft, objektive Vergleiche zwischen Lösungen ermöglicht und Ihre Teams vor Lieferantenabhängigkeit schützt."
+    },
+    "data.image.alt": {
+      "source": "Architecture systèmes de contrôle-commande — spécification technique AUTEM",
+      "de": "Systemarchitektur für Leit- und Steuerungssysteme – Technische Spezifikation AUTEM"
+    }
+  }
+}

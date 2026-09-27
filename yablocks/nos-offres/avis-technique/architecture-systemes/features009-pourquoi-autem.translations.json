@@ -1,0 +1,49 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "POURQUOI AUTEM",
+      "de": "WARUM AUTEM"
+    },
+    "data.title": {
+      "source": "Expert indépendant, multimarque, terrain — pas un bureau d'études généraliste.",
+      "de": "Unabhängiger, markenübergreifender Experte vor Ort – kein allgemeines Planungsbüro."
+    },
+    "data.paragraphs[@ELr4Yk].text": {
+      "source": "Les mauvaises architectures industrielles sont souvent conçues par des intervenants qui ne remettent plus les pieds sur le terrain. AUTEM a mis en service des systèmes chez Hermès, Amazon, Thalys et ArcelorMittal. Nos spécifications sont construites sur l'expérience de ce qui tient — pas sur des préférences théoriques.",
+      "de": "Schlechte industrielle Architekturen werden oft von Akteuren konzipiert, die keinen Fuß mehr auf den Boden setzen. AUTEM hat Systeme bei Hermès, Amazon, Thalys und ArcelorMittal in Betrieb genommen. Unsere Spezifikationen basieren auf der Erfahrung dessen, was funktioniert – nicht auf theoretischen Präferenzen."
+    },
+    "data.highlights[@bTgm3r].text": {
+      "source": "Indépendant de tout constructeur (Siemens, Rockwell, Schneider, Beckhoff) — aucun conflit d'intérêt dans les recommandations",
+      "de": "Unabhängig von jedem Hersteller (Siemens, Rockwell, Schneider, Beckhoff) – keine Interessenkonflikte bei Empfehlungen"
+    },
+    "data.highlights[@swFKhL].text": {
+      "source": "Double compétence OT+IT : automates, réseaux industriels, supervision, cybersécurité et intégration système",
+      "de": "Doppelte OT+IT-Kompetenz: Steuerungen, Industrie-Netzwerke, Überwachung, Cybersicherheit und Systemintegration"
+    },
+    "data.highlights[@EDlI2g].text": {
+      "source": "Expérience terrain multi-secteurs : luxe, logistique, mobilité, chimie, métallurgie, machines spéciales",
+      "de": "Erfahrung vor Ort in verschiedenen Branchen: Luxusgüter, Logistik, Mobilität, Chemie, Metallurgie, Sondermaschinenbau"
+    },
+    "data.highlights[@c0hCeV].text": {
+      "source": "Maîtrise des normes industrielles : ISA-88, ISA-95, IEC 62443 (cybersécurité OT), IEC 61511",
+      "de": "Beherrschung von Industriestandards: ISA-88, ISA-95, IEC 62443 (OT-Cybersicherheit), IEC 61511"
+    },
+    "data.highlights[@FhuZq8].text": {
+      "source": "Livrables utilisables directement : spécifications, schémas d'architecture, cahier des charges prêts pour appel d'offres",
+      "de": "Direkt nutzbare Liefergegenstände: Spezifikationen, Architekturpläne, Lastenhefte bereit für Ausschreibungen"
+    },
+    "data.highlights[@Czp9k7].text": {
+      "source": "Accompagnement possible jusqu'à la validation : relecture des offres fournisseurs, assistance au choix final",
+      "de": "Begleitung bis zur Abnahme möglich: Überprüfung von Lieferantenangeboten, Unterstützung bei der Endauswahl"
+    },
+    "data.conclusion": {
+      "source": "Nous n'avons aucun intérêt à vous orienter vers un fournisseur plutôt qu'un autre. Notre seule métrique est votre autonomie opérationnelle à 5 et 10 ans.",
+      "de": "Wir haben kein Interesse daran, Sie an einen Lieferanten statt an einen anderen zu verweisen. Unsere einzige Metrik ist Ihre operative Autonomie in 5 und 10 Jahren."
+    },
+    "data.image.alt": {
+      "source": "Expert AUTEM — architecture systèmes de contrôle-commande industriels",
+      "de": "AUTEM Experte – industrielle Leit- und Steuerungssystemarchitektur"
+    }
+  }
+}

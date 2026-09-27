@@ -9,23 +9,28 @@
     "logos": [
       {
         "src": "/logos/hermes.png",
-        "alt": "Hermès — Architecture systèmes de contrôle industriels, Paris"
+        "alt": "Hermès — Architecture systèmes de contrôle industriels, Paris",
+        "_tid": "7W1CfS"
       },
       {
         "src": "/logos/amazon.png",
-        "alt": "Amazon — Automatisation entrepôt mécanisé, WCS/WMS"
+        "alt": "Amazon — Automatisation entrepôt mécanisé, WCS/WMS",
+        "_tid": "QhdlaL"
       },
       {
         "src": "/logos/thalys.png",
-        "alt": "Thalys — Supervision réseau, télémétrie, IoT"
+        "alt": "Thalys — Supervision réseau, télémétrie, IoT",
+        "_tid": "fpym8T"
       },
       {
         "src": "/logos/sftrf.png",
-        "alt": "SEE/SFTRF — Supervision réseau routier et ferroviaire"
+        "alt": "SEE/SFTRF — Supervision réseau routier et ferroviaire",
+        "_tid": "hJyMJt"
       },
       {
         "src": "/logos/arcelormittal.jpg",
-        "alt": "ArcelorMittal — Optimisation atelier d'usinage, Luxembourg"
+        "alt": "ArcelorMittal — Optimisation atelier d'usinage, Luxembourg",
+        "_tid": "xD8HiW"
       }
     ]
   }

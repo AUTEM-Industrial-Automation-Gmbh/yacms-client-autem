@@ -8,15 +8,18 @@
     "benefits": [
       {
         "icon": "shield",
-        "text": "Expert indépendant — aucun lien commercial avec les constructeurs"
+        "text": "Expert indépendant — aucun lien commercial avec les constructeurs",
+        "_tid": "RWaZi4"
       },
       {
         "icon": "file-text",
-        "text": "Spécifications et cahier des charges livrables, prêts pour appel d'offres"
+        "text": "Spécifications et cahier des charges livrables, prêts pour appel d'offres",
+        "_tid": "q61NAU"
       },
       {
         "icon": "layers",
-        "text": "Multimarque, multi-secteurs — Siemens, Rockwell, Schneider, Beckhoff, Wago"
+        "text": "Multimarque, multi-secteurs — Siemens, Rockwell, Schneider, Beckhoff, Wago",
+        "_tid": "sUFTKo"
       }
     ],
     "cta": {

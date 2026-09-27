@@ -1,0 +1,43 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Architecture Systèmes de Contrôle-Commande | AUTEM",
+      "de": "Architektur von Leit- und Steuerungssystemen | AUTEM",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "AUTEM conçoit des architectures de contrôle-commande agnostiques : spécifications techniques, cahiers des charges et validation OT/IT.",
+      "de": "AUTEM entwirft unabhängige Leit- und Steuerungssystem-Architekturen: technische Spezifikationen, Lastenhefte und OT/IT-Validierung.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "architecture systèmes industriels",
+        "système de contrôle-commande",
+        "architecture SCADA",
+        "spécifications techniques automate",
+        "architecture OT IT",
+        "cahier des charges automatisme",
+        "intégration OT IT industriel",
+        "AUTEM"
+      ],
+      "de": [
+        "Architektur von Industriesystemen",
+        "Leit- und Steuerungssystem",
+        "SCADA-Architektur",
+        "Technische Spezifikationen für Automatisierung",
+        "OT/IT-Architektur",
+        "Lastenheft Automatisierung",
+        "Industrielle OT/IT-Integration",
+        "AUTEM"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Architecture de systèmes de contrôle-commande",
+      "de": "AUTEM — Architektur von Leit- und Steuerungssystemen",
+      "de:manual": true
+    }
+  }
+}
