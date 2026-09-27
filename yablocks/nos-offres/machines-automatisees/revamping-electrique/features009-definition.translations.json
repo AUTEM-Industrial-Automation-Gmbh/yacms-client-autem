@@ -1,0 +1,49 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "REVAMPING ÉLECTRIQUE",
+      "de": "ELEKTRISCHE ÜBERHOLUNG"
+    },
+    "data.title": {
+      "source": "Remise à niveau de l'infrastructure électrique : périmètre et contenu",
+      "de": "Modernisierung der elektrischen Infrastruktur: Umfang und Inhalt"
+    },
+    "data.paragraphs[@IPmw19].text": {
+      "source": "Reprendre la maîtrise de l'infrastructure électrique d'une machine existante — variateurs, câblage, sécurités, documentation — sans remplacer la machine ni son automatisme. L'objectif : une installation connue, conforme et maintenable par vos équipes.",
+      "de": "Die elektrische Infrastruktur einer bestehenden Maschine – Antriebe, Verkabelung, Sicherheitseinrichtungen, Dokumentation – wieder unter Kontrolle bringen, ohne die Maschine oder ihre Automatisierung zu ersetzen. Ziel: eine bekannte, konforme und von Ihren Teams wartbare Anlage."
+    },
+    "data.highlights[@TZDfCU].text": {
+      "source": "Remplacement ou mise à jour des variateurs et axes motion (SEW, Siemens Sinamics, Eaton)",
+      "de": "Austausch oder Aktualisierung von Antrieben und Motion-Achsen (SEW, Siemens Sinamics, Eaton)"
+    },
+    "data.highlights[@nDJwRn].text": {
+      "source": "Révision du câblage et des tableaux électriques selon les normes en vigueur",
+      "de": "Überarbeitung der Verkabelung und Schaltschränke gemäß den geltenden Normen"
+    },
+    "data.highlights[@eD0GOF].text": {
+      "source": "Mise en conformité sécurité machine : analyse SIL, relais Pilz, capteurs Pepperl+Fuchs",
+      "de": "Anpassung der Maschinensicherheit: SIL-Analyse, Pilz-Relais, Pepperl+Fuchs-Sensoren"
+    },
+    "data.highlights[@4Cfy98].text": {
+      "source": "Rédaction ou refonte des schémas électriques sous EPlan Electric P8 ou SEE Electrical",
+      "de": "Erstellung oder Überarbeitung von Stromlaufplänen mit EPlan Electric P8 oder SEE Electrical"
+    },
+    "data.highlights[@r7ifaz].text": {
+      "source": "Livraison d'un dossier technique complet : schémas as-built, fiches variateurs, rapport SIL",
+      "de": "Lieferung eines vollständigen technischen Dossiers: As-built-Schaltpläne, Antriebsdatenblätter, SIL-Bericht"
+    },
+    "data.highlights[@l1UsZY].text": {
+      "source": "Intervention possible sur machines en production avec plan de prévention HSE",
+      "de": "Einsatz auf Produktionsmaschinen mit HSE-Präventionsplan möglich"
+    },
+    "data.conclusion": {
+      "source": "À distinguer du rétrofit automation (couche logicielle et automate) et de la rénovation PC industriel (couche supervision). Le revamping électrique adresse spécifiquement l'infrastructure physique : puissance, câblage, variation de vitesse et sécurité.",
+      "de": "Zu unterscheiden vom Automation-Retrofit (Software-Schicht und SPS) und der Sanierung von Industrie-PCs (Visualisierungsschicht). Das elektrische Revamping befasst sich speziell mit der physischen Infrastruktur: Leistung, Verkabelung, Geschwindigkeitsregelung und Sicherheit."
+    },
+    "data.image.alt": {
+      "source": "Revamping électrique industriel — armoire variateurs sécurité SIL AUTEM",
+      "de": "Industrielle elektrische Überholung – Schaltschrank mit Antrieben, Sicherheit SIL AUTEM"
+    }
+  }
+}

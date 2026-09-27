@@ -1,0 +1,53 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "NOTRE MÉTHODE",
+      "de": "UNSER ANSATZ"
+    },
+    "data.title": {
+      "source": "De l'audit électrique à la remise en service documentée",
+      "de": "Von der elektrischen Inspektion bis zur dokumentierten Inbetriebnahme"
+    },
+    "data.steps[@xmXbxk].title": {
+      "source": "Audit électrique terrain",
+      "de": "Vor-Ort-Elektroinspektion"
+    },
+    "data.steps[@Ym0uNP].title": {
+      "source": "Étude & schémas",
+      "de": "Studie & Schaltpläne"
+    },
+    "data.steps[@LR8COy].title": {
+      "source": "Fourniture & câblage",
+      "de": "Lieferung & Verkabelung"
+    },
+    "data.steps[@5km3em].title": {
+      "source": "Paramétrage & intégration",
+      "de": "Konfiguration & Integration"
+    },
+    "data.steps[@quckBo].title": {
+      "source": "Tests, validation & formation",
+      "de": "Tests, Validierung & Schulung"
+    },
+    "data.steps[@xmXbxk].description": {
+      "source": "Inspection complète de l'installation : tableaux, armoires, câblage, variateurs, équipements de protection, sécurités. Inventaire des composants avec état, référence, disponibilité et criticité. Identification des non-conformités sécurité et des risques d'obsolescence.",
+      "de": "Umfassende Inspektion der Anlage: Schalttafeln, Schränke, Verkabelung, Frequenzumrichter, Schutzeinrichtungen, Sicherheitssysteme. Inventarisierung der Komponenten mit Zustand, Referenz, Verfügbarkeit und Kritikalität. Identifizierung von Sicherheitsmängeln und Obsoleszenzrisiken."
+    },
+    "data.steps[@Ym0uNP].description": {
+      "source": "Rédaction ou refonte des schémas électriques sous EPlan ou SEE Electrical. Définition des nouveaux équipements, calcul des protections, architecture du tableau révisé. Livraison d'une étude validée avant tout démarrage de travaux.",
+      "de": "Erstellung oder Überarbeitung von Stromlaufplänen mit EPlan oder SEE Electrical. Definition neuer Komponenten, Berechnung von Schutzvorrichtungen, überarbeitete Schaltschrankarchitektur. Lieferung einer validierten Studie vor Beginn der Arbeiten."
+    },
+    "data.steps[@LR8COy].description": {
+      "source": "Sélection des équipements adaptés à vos contraintes (budget, fournisseur existant, délais). Câblage des nouvelles installations en conformité avec les schémas et les normes en vigueur. Intervention avec habilitations basse-tension.",
+      "de": "Auswahl geeigneter Komponenten unter Berücksichtigung Ihrer Vorgaben (Budget, bestehende Lieferanten, Lieferzeiten). Verkabelung neuer Anlagen gemäß Schaltplänen und geltenden Normen. Arbeiten mit Niederspannungsberechtigungen."
+    },
+    "data.steps[@5km3em].description": {
+      "source": "Configuration des variateurs (SEW, Siemens, Eaton), des relais de sécurité (Pilz), des capteurs et de l'instrumentation. Vérification des interlocks avec la couche automate et le programme de sécurité.",
+      "de": "Konfiguration von Frequenzumrichtern (SEW, Siemens, Eaton), Sicherheitsrelais (Pilz), Sensoren und Instrumentierung. Überprüfung der Verriegelungen mit der SPS-Schicht und dem Sicherheitsprogramm."
+    },
+    "data.steps[@quckBo].description": {
+      "source": "Tests d'isolement, essais sous charge, validation des sécurités SIL step-by-step, vérification de la conformité. Livraison du dossier technique complet : schémas as-built, fiches variateurs, rapport de validation SIL. Formation des équipes maintenance.",
+      "de": "Isolationsprüfungen, Lasttests, schrittweise Validierung der SIL-Sicherheiten, Konformitätsprüfung. Lieferung des vollständigen technischen Dossiers: As-built-Schaltpläne, Frequenzumrichter-Datenblätter, SIL-Validierungsbericht. Schulung der Wartungsteams."
+    }
+  }
+}

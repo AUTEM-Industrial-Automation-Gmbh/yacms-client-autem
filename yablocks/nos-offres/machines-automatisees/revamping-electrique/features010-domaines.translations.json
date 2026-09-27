@@ -1,0 +1,97 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "DOMAINES D'INTERVENTION",
+      "de": "INTERVENTIONSSBEREICHE"
+    },
+    "data.title": {
+      "source": "Trois axes pour une remise à niveau complète",
+      "de": "Drei Säulen für eine umfassende Modernisierung"
+    },
+    "data.cards[@hedXVB].image.alt": {
+      "source": "Variateurs et axes motion SEW Siemens Eaton",
+      "de": "SEW Siemens Eaton Frequenzumrichter und Motion-Achsen"
+    },
+    "data.cards[@T05ZvV].image.alt": {
+      "source": "Schémas électriques EPlan SEE Electrical",
+      "de": "Schaltpläne EPlan SEE Electrical"
+    },
+    "data.cards[@3zPXIz].image.alt": {
+      "source": "Sécurité machine SIL Pilz Pepperl+Fuchs",
+      "de": "Maschinensicherheit SIL Pilz Pepperl+Fuchs"
+    },
+    "data.cards[@hedXVB].title": {
+      "source": "Variateurs & Axes Motion",
+      "de": "Frequenzumrichter & Motion-Achsen"
+    },
+    "data.cards[@T05ZvV].title": {
+      "source": "Schémas & Documentation",
+      "de": "Schaltpläne & Dokumentation"
+    },
+    "data.cards[@3zPXIz].title": {
+      "source": "Sécurité Machine — SIL",
+      "de": "Maschinensicherheit — SIL"
+    },
+    "data.cards[@hedXVB].bullets[@uTy9Dk].text": {
+      "source": "SEW-Eurodrive — Movitrac (mono-axe) & Movidrive (multi-axes servos)",
+      "de": "SEW-Eurodrive — Movitrac (Einzelachse) & Movidrive (Mehrachsen-Servos)"
+    },
+    "data.cards[@hedXVB].bullets[@p3srO6].text": {
+      "source": "Siemens Sinamics — G120, S120, V20",
+      "de": "Siemens Sinamics — G120, S120, V20"
+    },
+    "data.cards[@hedXVB].bullets[@o2GjUg].text": {
+      "source": "Eaton — RASP et RAMO",
+      "de": "Eaton — RASP und RAMO"
+    },
+    "data.cards[@hedXVB].bullets[@NGqz4s].text": {
+      "source": "Paramétrage complet : rampes, couples, courbes vitesse",
+      "de": "Vollständige Parametrierung: Rampen, Drehmomente, Geschwindigkeitskurven"
+    },
+    "data.cards[@hedXVB].bullets[@BFxGT4].text": {
+      "source": "Migration vers variateurs récents si modèle discontinué",
+      "de": "Migration zu neueren Frequenzumrichtern bei abgekündigten Modellen"
+    },
+    "data.cards[@T05ZvV].bullets[@QK74zl].text": {
+      "source": "Rédaction ou refonte complète sous EPlan Electric P8",
+      "de": "Erstellung oder vollständige Überarbeitung mit EPlan Electric P8"
+    },
+    "data.cards[@T05ZvV].bullets[@IBfOEJ].text": {
+      "source": "Rédaction sous SEE Electrical selon préférence client",
+      "de": "Erstellung mit SEE Electrical nach Kundenwunsch"
+    },
+    "data.cards[@T05ZvV].bullets[@o8PQJE].text": {
+      "source": "Nomenclature matérielle, listes de câbles, bornier",
+      "de": "Materialstückliste, Kabellisten, Klemmenbezeichnungen"
+    },
+    "data.cards[@T05ZvV].bullets[@LFXome].text": {
+      "source": "Mise à jour des schémas existants après modification",
+      "de": "Aktualisierung bestehender Schaltpläne nach Änderungen"
+    },
+    "data.cards[@T05ZvV].bullets[@EhKNga].text": {
+      "source": "Livraison PDF + sources natives éditables",
+      "de": "Lieferung als PDF + bearbeitbare Quelldateien"
+    },
+    "data.cards[@3zPXIz].bullets[@36FBaw].text": {
+      "source": "Analyse de risques et détermination du niveau SIL requis",
+      "de": "Risikoanalyse und Bestimmung des erforderlichen SIL-Levels"
+    },
+    "data.cards[@3zPXIz].bullets[@SAwf0B].text": {
+      "source": "Relais de sécurité et contrôleurs Pilz (PNOZ, PNOZmulti, PSS)",
+      "de": "Sicherheitsrelais und Steuerungen von Pilz (PNOZ, PNOZmulti, PSS)"
+    },
+    "data.cards[@3zPXIz].bullets[@a9D15q].text": {
+      "source": "Capteurs de sécurité Pepperl+Fuchs (barrières, tapis, verrous)",
+      "de": "Sicherheitssensoren von Pepperl+Fuchs (Lichtschranken, Matten, Verriegelungen)"
+    },
+    "data.cards[@3zPXIz].bullets[@vAl2ab].text": {
+      "source": "Câblage et vérification en catégorie 3 / 4, PLe/SIL 2-3",
+      "de": "Verkabelung und Prüfung nach Kategorie 3 / 4, PLe/SIL 2-3"
+    },
+    "data.cards[@3zPXIz].bullets[@yfe9Kf].text": {
+      "source": "Validation et documentation SIL conforme EN ISO 13849 / IEC 62061",
+      "de": "SIL-Validierung und -Dokumentation gemäß EN ISO 13849 / IEC 62061"
+    }
+  }
+}

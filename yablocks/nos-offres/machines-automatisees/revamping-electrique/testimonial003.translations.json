@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Projet ArcelorMittal Luxembourg — optimisation atelier d'usinage",
+      "de": "Projekt ArcelorMittal Luxemburg – Optimierung Bearbeitungswerkstatt"
+    },
+    "data.quote": {
+      "source": "AUTEM a réalisé une analyse complète de notre installation électrique et remis à niveau les variateurs de l'atelier d'usinage. Le travail était propre, documenté, et les performances machines ont été immédiatement mesurables. Exactement ce que nous attendions d'un partenaire technique de confiance.",
+      "de": "AUTEM hat eine vollständige Analyse unserer Elektroanlage durchgeführt und die Frequenzumrichter der Bearbeitungswerkstatt modernisiert. Die Arbeit war sauber, dokumentiert und die Maschinenleistung war sofort messbar. Genau das, was wir von einem vertrauenswürdigen technischen Partner erwarten."
+    },
+    "data.author.name": {
+      "source": "Responsable Maintenance",
+      "de": "Leiter Instandhaltung"
+    },
+    "data.author.role": {
+      "source": "ArcelorMittal — Luxembourg",
+      "de": "ArcelorMittal – Luxemburg"
+    }
+  }
+}

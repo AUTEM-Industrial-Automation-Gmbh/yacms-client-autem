@@ -1,0 +1,37 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.badges[@ZMx4Fs].alt": {
+      "source": "EPlan — schémas électriques industriels",
+      "de": "EPlan — Industrielle Stromlaufpläne"
+    },
+    "data.badges[@j7nMEW].alt": {
+      "source": "Pilz — sécurité machine SIL",
+      "de": "Pilz — Maschinensicherheit SIL"
+    },
+    "data.badges[@HKuHKi].alt": {
+      "source": "SEW-Eurodrive — Movitrac, Movidrive",
+      "de": "SEW-Eurodrive — Movitrac, Movidrive"
+    },
+    "data.headline": {
+      "source": "Votre machine tourne. Mais sur quelle infrastructure électrique ?",
+      "de": "Ihre Maschine läuft. Aber auf welcher elektrischen Infrastruktur?"
+    },
+    "data.paragraphs[@Apb5sh].text": {
+      "source": "Un variateur hors catalogue depuis 5 ans. Des schémas électriques papier introuvables, ou pire — inexistants. Un tableau câblé par un prestataire inconnu il y a 15 ans, avec des modifications non documentées. Des sécurités machine qui n'ont jamais été auditées formellement. Voilà l'héritage électrique de la plupart des lignes de production industrielles.",
+      "de": "Ein Frequenzumrichter seit 5 Jahren nicht mehr im Katalog. Papier-Stromlaufpläne, die nicht auffindbar sind, oder schlimmer — nicht vorhanden. Ein Schaltschrank, der vor 15 Jahren von einem unbekannten Dienstleister verkabelt wurde, mit nicht dokumentierten Änderungen. Maschinensicherheitsvorrichtungen, die nie formell geprüft wurden. Das ist das elektrische Erbe der meisten industriellen Produktionslinien."
+    },
+    "data.paragraphs[@E7gfS0].text": {
+      "source": "Ce n'est pas un reproche — c'est la réalité de l'industrie. Les machines évoluent, les intervenants changent, les constructeurs discontinuent les pièces, et la documentation part avec le prestataire d'origine. Le résultat : une installation que personne ne maîtrise vraiment, et dont la fiabilité tient à l'expérience accumulée d'un ou deux techniciens internes.",
+      "de": "Das ist keine Kritik — das ist die Realität der Industrie. Maschinen entwickeln sich weiter, die zuständigen Personen wechseln, Hersteller stellen Teile ein, und die Dokumentation verschwindet mit dem ursprünglichen Dienstleister. Das Ergebnis: Eine Anlage, die niemand wirklich beherrscht und deren Zuverlässigkeit von der gesammelten Erfahrung eines oder zweier interner Techniker abhängt."
+    },
+    "data.paragraphs[@Trjkgf].text": {
+      "source": "Le revamping électrique n'est pas un simple remplacement de matériel. C'est l'occasion de reprendre la main sur l'infrastructure complète : remettre à niveau les variateurs et axes motion, mettre la sécurité machine en conformité SIL, réécrire les schémas dans un outil professionnel, et transmettre une documentation que vos équipes pourront maintenir.",
+      "de": "Die elektrische Anlagenmodernisierung ist kein einfacher Austausch von Material. Sie ist die Gelegenheit, die gesamte Infrastruktur wieder in den Griff zu bekommen: Frequenzumrichter und Motion-Achsen auf den neuesten Stand bringen, die Maschinensicherheit SIL-konform gestalten, die Stromlaufpläne in einem professionellen Werkzeug neu schreiben und eine Dokumentation übergeben, die Ihre Teams pflegen können."
+    },
+    "data.closing": {
+      "source": "Après un revamping AUTEM, tout est connu, documenté, et maintenable par vos équipes.",
+      "de": "Nach einer AUTEM-Anlagenmodernisierung ist alles bekannt, dokumentiert und für Ihre Teams wartbar."
+    }
+  }
+}

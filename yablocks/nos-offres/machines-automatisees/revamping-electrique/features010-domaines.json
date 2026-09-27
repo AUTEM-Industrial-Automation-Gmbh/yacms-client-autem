@@ -15,21 +15,27 @@
         "title": "Variateurs & Axes Motion",
         "bullets": [
           {
-            "text": "SEW-Eurodrive — Movitrac (mono-axe) & Movidrive (multi-axes servos)"
+            "text": "SEW-Eurodrive — Movitrac (mono-axe) & Movidrive (multi-axes servos)",
+            "_tid": "uTy9Dk"
           },
           {
-            "text": "Siemens Sinamics — G120, S120, V20"
+            "text": "Siemens Sinamics — G120, S120, V20",
+            "_tid": "p3srO6"
           },
           {
-            "text": "Eaton — RASP et RAMO"
+            "text": "Eaton — RASP et RAMO",
+            "_tid": "o2GjUg"
           },
           {
-            "text": "Paramétrage complet : rampes, couples, courbes vitesse"
+            "text": "Paramétrage complet : rampes, couples, courbes vitesse",
+            "_tid": "NGqz4s"
           },
           {
-            "text": "Migration vers variateurs récents si modèle discontinué"
+            "text": "Migration vers variateurs récents si modèle discontinué",
+            "_tid": "BFxGT4"
           }
-        ]
+        ],
+        "_tid": "hedXVB"
       },
       {
         "image": {
@@ -39,21 +45,27 @@
         "title": "Schémas & Documentation",
         "bullets": [
           {
-            "text": "Rédaction ou refonte complète sous EPlan Electric P8"
+            "text": "Rédaction ou refonte complète sous EPlan Electric P8",
+            "_tid": "QK74zl"
           },
           {
-            "text": "Rédaction sous SEE Electrical selon préférence client"
+            "text": "Rédaction sous SEE Electrical selon préférence client",
+            "_tid": "IBfOEJ"
           },
           {
-            "text": "Nomenclature matérielle, listes de câbles, bornier"
+            "text": "Nomenclature matérielle, listes de câbles, bornier",
+            "_tid": "o8PQJE"
           },
           {
-            "text": "Mise à jour des schémas existants après modification"
+            "text": "Mise à jour des schémas existants après modification",
+            "_tid": "LFXome"
           },
           {
-            "text": "Livraison PDF + sources natives éditables"
+            "text": "Livraison PDF + sources natives éditables",
+            "_tid": "EhKNga"
           }
-        ]
+        ],
+        "_tid": "T05ZvV"
       },
       {
         "image": {
@@ -63,21 +75,27 @@
         "title": "Sécurité Machine — SIL",
         "bullets": [
           {
-            "text": "Analyse de risques et détermination du niveau SIL requis"
+            "text": "Analyse de risques et détermination du niveau SIL requis",
+            "_tid": "36FBaw"
           },
           {
-            "text": "Relais de sécurité et contrôleurs Pilz (PNOZ, PNOZmulti, PSS)"
+            "text": "Relais de sécurité et contrôleurs Pilz (PNOZ, PNOZmulti, PSS)",
+            "_tid": "SAwf0B"
           },
           {
-            "text": "Capteurs de sécurité Pepperl+Fuchs (barrières, tapis, verrous)"
+            "text": "Capteurs de sécurité Pepperl+Fuchs (barrières, tapis, verrous)",
+            "_tid": "a9D15q"
           },
           {
-            "text": "Câblage et vérification en catégorie 3 / 4, PLe/SIL 2-3"
+            "text": "Câblage et vérification en catégorie 3 / 4, PLe/SIL 2-3",
+            "_tid": "vAl2ab"
           },
           {
-            "text": "Validation et documentation SIL conforme EN ISO 13849 / IEC 62061"
+            "text": "Validation et documentation SIL conforme EN ISO 13849 / IEC 62061",
+            "_tid": "yfe9Kf"
           }
-        ]
+        ],
+        "_tid": "3zPXIz"
       }
     ]
   }

@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "MACHINES AUTOMATISÉES",
+      "de": "AUTOMATISIERTE MASCHINEN"
+    },
+    "data.title": {
+      "source": "Revamping Électrique Industriel.",
+      "de": "Industrielles Elektrische Anlagenmodernisierung."
+    },
+    "data.subtitle": {
+      "source": "Variateurs HS, câblage vieillissant, sécurités non conformes, schémas papier inaccessibles — AUTEM remet à niveau l'infrastructure électrique de vos machines, de l'étude à la mise en service, documentation comprise.",
+      "de": "HS-Frequenzumrichter, alternde Verkabelung, nicht konforme Sicherheitseinrichtungen, unzugängliche Papierpläne — AUTEM modernisiert die elektrische Infrastruktur Ihrer Maschinen, von der Planung bis zur Inbetriebnahme, inklusive Dokumentation."
+    },
+    "data.backgroundImage.alt": {
+      "source": "Revamping électrique industriel — armoire automatisme AUTEM",
+      "de": "Industrielle elektrische Anlagenmodernisierung — AUTEM Automatisierungsschaltschrank"
+    }
+  }
+}
