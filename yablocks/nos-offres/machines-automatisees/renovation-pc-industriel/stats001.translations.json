@@ -1,0 +1,53 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.stats[@lpS9lY].value": {
+      "source": "10",
+      "de": "10"
+    },
+    "data.stats[@TCZtyB].value": {
+      "source": "6",
+      "de": "6"
+    },
+    "data.stats[@jVbFuH].value": {
+      "source": "100",
+      "de": "100"
+    },
+    "data.stats[@DkElOM].value": {
+      "source": "15",
+      "de": "15"
+    },
+    "data.stats[@lpS9lY].label": {
+      "source": "Années d'expérience en migration de systèmes industriels",
+      "de": "Jahre Erfahrung in der Migration von Industrieanlagen"
+    },
+    "data.stats[@TCZtyB].label": {
+      "source": "Plateformes logicielles de supervision maîtrisées",
+      "de": "Beherrschte Softwareplattformen für die Überwachung"
+    },
+    "data.stats[@jVbFuH].label": {
+      "source": "Des projets IHM/SCADA migrés sans perte de données",
+      "de": "Migrierte HMI/SCADA-Projekte ohne Datenverlust"
+    },
+    "data.stats[@DkElOM].label": {
+      "source": "Ans de durée de vie supplémentaire après migration",
+      "de": "Jahre zusätzliche Lebensdauer nach der Migration"
+    },
+    "data.stats[@lpS9lY].suffix": {
+      "source": "+",
+      "de": ""
+    },
+    "data.stats[@TCZtyB].suffix": {
+      "source": "+",
+      "de": ""
+    },
+    "data.stats[@jVbFuH].suffix": {
+      "source": "%",
+      "de": "%"
+    },
+    "data.stats[@DkElOM].suffix": {
+      "source": "+",
+      "de": ""
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "POURQUOI AUTEM",
+      "de": "WARUM AUTEM"
+    },
+    "data.title": {
+      "source": "On ne remplace pas votre IPC — on sécurise votre outil de production.",
+      "de": "Wir ersetzen Ihre IPC nicht – wir sichern Ihr Produktionswerkzeug."
+    },
+    "data.paragraphs[@KsXne6].text": {
+      "source": "Migrer un PC industriel, c'est toucher au cœur du système de pilotage — là où une erreur peut arrêter la ligne. Nous préparons chaque migration comme un projet à risque maîtrisé : backup complet, migration en parallèle, tests en plateforme, puis bascule rapide et planifiée sur site.",
+      "de": "Die Migration eines Industrie-PCs berührt das Herzstück des Steuerungssystems – dort, wo ein Fehler die Linie zum Stillstand bringen kann. Wir bereiten jede Migration wie ein Projekt mit beherrschtem Risiko vor: vollständiges Backup, parallele Migration, Test auf einer Plattform, dann schneller und geplanter Wechsel vor Ort."
+    },
+    "data.highlights[@QU99ob].text": {
+      "source": "Backup complet du projet existant avant toute modification",
+      "de": "Vollständiges Backup des bestehenden Projekts vor jeder Änderung"
+    },
+    "data.highlights[@n5vzMq].text": {
+      "source": "Migration préparée en parallèle — arrêt de production minimal et planifié",
+      "de": "Parallele Migration – minimale und geplante Produktionsunterbrechung"
+    },
+    "data.highlights[@JAvl80].text": {
+      "source": "Tests fonctionnels exhaustifs avant tout déploiement sur site",
+      "de": "Umfassende Funktionstests vor jedem Einsatz vor Ort"
+    },
+    "data.highlights[@hsGUSF].text": {
+      "source": "Choix de plateforme indépendant : Beckhoff, Siemens IPC, Advantech — selon vos contraintes réelles",
+      "de": "Unabhängige Plattformwahl: Beckhoff, Siemens IPC, Advantech – je nach Ihren realen Anforderungen"
+    },
+    "data.highlights[@E2dsdN].text": {
+      "source": "Durcissement OS et bonnes pratiques cybersécurité inclus dans chaque migration",
+      "de": "Gehärtetes Betriebssystem und bewährte Cybersicherheits-Praktiken sind in jeder Migration enthalten"
+    },
+    "data.highlights[@veJc1M].text": {
+      "source": "Formation des équipes et documentation complète livrée à la mise en service",
+      "de": "Schulung der Teams und vollständige Dokumentation bei Inbetriebnahme"
+    },
+    "data.conclusion": {
+      "source": "Le résultat : un IPC moderne, un OS supporté, des licences valides, vos équipes formées — et votre production hors de danger pour les 15 prochaines années.",
+      "de": "Das Ergebnis: eine moderne IPC, ein unterstütztes Betriebssystem, gültige Lizenzen, geschulte Teams – und Ihre Produktion ist für die nächsten 15 Jahre sicher."
+    },
+    "data.image.alt": {
+      "source": "Ingénieur AUTEM — migration PC industriel IPC supervision",
+      "de": "AUTEM Ingenieur – Migration Industrie-PC IPC Überwachung"
+    }
+  }
+}

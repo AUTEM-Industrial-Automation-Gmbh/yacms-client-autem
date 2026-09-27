@@ -1,0 +1,45 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Rénovation PC Industriel — Migration IPC & Supervision | AUTEM",
+      "de": "Industrielle PC-Sanierung — IPC-Migration & Überwachung | AUTEM",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "AUTEM migre vos PC industriels obsolètes (XP/7, IPC hors support) vers du matériel récent. WinCC, InduSoft, FactoryTalk, Ignition.",
+      "de": "AUTEM migriert Ihre veralteten Industrie-PCs (XP/7, nicht mehr unterstützte IPCs) zu neuer Hardware. WinCC, InduSoft, FactoryTalk, Ignition.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "PC industriel obsolète",
+        "migration IPC",
+        "rénovation pc industriel",
+        "Windows XP industriel",
+        "migration WinCC",
+        "migration InduSoft",
+        "Beckhoff IPC",
+        "Siemens IPC",
+        "AUTEM"
+      ],
+      "de": [
+        "veralteter Industrie-PC",
+        "IPC-Migration",
+        "Industrie-PC-Sanierung",
+        "Industrie-Windows XP",
+        "WinCC-Migration",
+        "InduSoft-Migration",
+        "Beckhoff IPC",
+        "Siemens IPC",
+        "AUTEM"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Rénovation et migration de PC industriels",
+      "de": "AUTEM – Sanierung und Migration von Industrie-PCs",
+      "de:manual": true
+    }
+  }
+}
