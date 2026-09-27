@@ -9,27 +9,33 @@
     "logos": [
       {
         "src": "/logos/siemens.png",
-        "alt": "Siemens — Sinamics variateurs et drives"
+        "alt": "Siemens — Sinamics variateurs et drives",
+        "_tid": "yMBfgX"
       },
       {
         "src": "/logos/sew.png",
-        "alt": "SEW-Eurodrive — Movitrac, Movidrive"
+        "alt": "SEW-Eurodrive — Movitrac, Movidrive",
+        "_tid": "BVlRIj"
       },
       {
         "src": "/logos/eaton.png",
-        "alt": "Eaton — RASP, RAMO variateurs"
+        "alt": "Eaton — RASP, RAMO variateurs",
+        "_tid": "0oZbWL"
       },
       {
         "src": "/logos/pilz.png",
-        "alt": "Pilz — sécurité machine SIL PNOZ"
+        "alt": "Pilz — sécurité machine SIL PNOZ",
+        "_tid": "4X8V1f"
       },
       {
         "src": "/logos/pepperl-fuchs.png",
-        "alt": "Pepperl+Fuchs — capteurs sécurité"
+        "alt": "Pepperl+Fuchs — capteurs sécurité",
+        "_tid": "tvlEY7"
       },
       {
         "src": "/logos/eplan.png",
-        "alt": "EPlan — schémas électriques industriels"
+        "alt": "EPlan — schémas électriques industriels",
+        "_tid": "A0vPMi"
       }
     ]
   }

@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "AVIS TECHNIQUE",
+      "de": "TECHNISCHE BEURTEILUNG"
+    },
+    "data.title": {
+      "source": "Architecture de Systèmes de Contrôle-Commande.",
+      "de": "Architektur von Leitsystemen."
+    },
+    "data.subtitle": {
+      "source": "Vous devez choisir et structurer l'architecture de votre prochain système de production ? AUTEM conçoit des architectures d'automatisme indépendantes de tout constructeur — souveraines, scalables et documentées de bout en bout.",
+      "de": "Sie müssen die Architektur Ihres nächsten Produktionssystems auswählen und strukturieren? AUTEM entwirft Automatisierungsarchitekturen, die unabhängig von Herstellern sind – souverän, skalierbar und durchgängig dokumentiert."
+    },
+    "data.backgroundImage.alt": {
+      "source": "Architecture systèmes contrôle-commande automatisme industriel — AUTEM",
+      "de": "Industrielle Automatisierungs-Leitsystem-Architektur – AUTEM"
+    }
+  }
+}

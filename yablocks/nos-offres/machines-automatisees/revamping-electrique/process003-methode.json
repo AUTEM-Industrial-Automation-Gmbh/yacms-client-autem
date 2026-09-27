@@ -10,27 +10,32 @@
       {
         "title": "Audit électrique terrain",
         "description": "Inspection complète de l'installation : tableaux, armoires, câblage, variateurs, équipements de protection, sécurités. Inventaire des composants avec état, référence, disponibilité et criticité. Identification des non-conformités sécurité et des risques d'obsolescence.",
-        "icon": "search"
+        "icon": "search",
+        "_tid": "xmXbxk"
       },
       {
         "title": "Étude & schémas",
         "description": "Rédaction ou refonte des schémas électriques sous EPlan ou SEE Electrical. Définition des nouveaux équipements, calcul des protections, architecture du tableau révisé. Livraison d'une étude validée avant tout démarrage de travaux.",
-        "icon": "file-text"
+        "icon": "file-text",
+        "_tid": "Ym0uNP"
       },
       {
         "title": "Fourniture & câblage",
         "description": "Sélection des équipements adaptés à vos contraintes (budget, fournisseur existant, délais). Câblage des nouvelles installations en conformité avec les schémas et les normes en vigueur. Intervention avec habilitations basse-tension.",
-        "icon": "zap"
+        "icon": "zap",
+        "_tid": "LR8COy"
       },
       {
         "title": "Paramétrage & intégration",
         "description": "Configuration des variateurs (SEW, Siemens, Eaton), des relais de sécurité (Pilz), des capteurs et de l'instrumentation. Vérification des interlocks avec la couche automate et le programme de sécurité.",
-        "icon": "settings"
+        "icon": "settings",
+        "_tid": "5km3em"
       },
       {
         "title": "Tests, validation & formation",
         "description": "Tests d'isolement, essais sous charge, validation des sécurités SIL step-by-step, vérification de la conformité. Livraison du dossier technique complet : schémas as-built, fiches variateurs, rapport de validation SIL. Formation des équipes maintenance.",
-        "icon": "check-circle"
+        "icon": "check-circle",
+        "_tid": "quckBo"
       }
     ]
   }

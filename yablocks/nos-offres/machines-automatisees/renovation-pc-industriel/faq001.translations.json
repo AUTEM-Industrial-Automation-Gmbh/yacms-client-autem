@@ -1,0 +1,53 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.sectionLabel": {
+      "source": "FAQ",
+      "de": "FAQ"
+    },
+    "data.title": {
+      "source": "Questions fréquentes sur la rénovation de PC industriels",
+      "de": "Häufig gestellte Fragen zur Umrüstung von Industrie-PCs"
+    },
+    "data.items[@nrdMQ7].question": {
+      "source": "Mon logiciel de supervision est en version ancienne — peut-il être migré sans tout recréer ?",
+      "de": "Meine SCADA-Software ist eine alte Version – kann sie migriert werden, ohne alles neu zu erstellen?"
+    },
+    "data.items[@tIhxLx].question": {
+      "source": "Peut-on remplacer l'IPC sans changer l'automate ni le réseau ?",
+      "de": "Kann die IPC ersetzt werden, ohne die SPS oder das Netzwerk zu ändern?"
+    },
+    "data.items[@wEJcoP].question": {
+      "source": "Combien de temps dure une migration de PC industriel ?",
+      "de": "Wie lange dauert die Umrüstung eines Industrie-PCs?"
+    },
+    "data.items[@2UaQ72].question": {
+      "source": "Windows XP est-il vraiment un risque si la machine n'est pas connectée à Internet ?",
+      "de": "Ist Windows XP wirklich ein Risiko, wenn die Maschine nicht mit dem Internet verbunden ist?"
+    },
+    "data.items[@q9Pr03].question": {
+      "source": "Quel matériel recommandez-vous pour remplacer un IPC fanless ?",
+      "de": "Welche Hardware empfehlen Sie als Ersatz für einen lüfterlosen IPC?"
+    },
+    "data.items[@nrdMQ7].answer": {
+      "source": "Dans la majorité des cas, oui. Les projets WinCC, InduSoft ou FactoryTalk View peuvent être migrés vers des versions récentes en conservant les écrans, les alarmes, les tags et les historiques. La quantité de travail de portage dépend de l'écart de version, mais nous évitons systématiquement de repartir de zéro.",
+      "de": "In den meisten Fällen ja. WinCC-, InduSoft- oder FactoryTalk View-Projekte können auf aktuelle Versionen migriert werden, wobei Bildschirme, Alarme, Tags und Historien erhalten bleiben. Der Aufwand für die Portierung hängt vom Versionsunterschied ab, aber wir vermeiden es systematisch, bei Null anzufangen."
+    },
+    "data.items[@tIhxLx].answer": {
+      "source": "Oui. Le PC industriel peut être remplacé indépendamment de l'automate et de l'infrastructure réseau. Nous conservons les communications existantes (Profinet, OPC-UA, Modbus, etc.) et adaptons uniquement la couche applicative et matérielle côté PC.",
+      "de": "Ja. Der Industrie-PC kann unabhängig von der SPS und der Netzwerkinfrastruktur ersetzt werden. Wir behalten die bestehende Kommunikation (Profinet, OPC-UA, Modbus usw.) bei und passen nur die Anwendungs- und Hardwareebene auf der PC-Seite an."
+    },
+    "data.items[@wEJcoP].answer": {
+      "source": "Une migration simple (même logiciel, version plus récente, matériel compatible) prend 1 à 3 jours sur site. Une migration vers une nouvelle plateforme logicielle (ex. InduSoft → Ignition) prend 2 à 6 semaines selon la taille du projet HMI/SCADA existant.",
+      "de": "Eine einfache Migration (gleiche Software, neuere Version, kompatible Hardware) dauert 1 bis 3 Tage vor Ort. Eine Migration auf eine neue Softwareplattform (z. B. InduSoft → Ignition) dauert 2 bis 6 Wochen, abhängig von der Größe des bestehenden HMI/SCADA-Projekts."
+    },
+    "data.items[@2UaQ72].answer": {
+      "source": "Oui. Même sans connexion Internet directe, un OS sans support expose la production aux pannes matérielles sans possibilité de réinstallation, aux infections via clés USB, et à l'incompatibilité progressive avec les logiciels tiers. De plus, les exigences réglementaires (ISO 27001, NIS2, assurances industrielles) rendent un système non supporté potentiellement non conforme.",
+      "de": "Ja. Selbst ohne direkte Internetverbindung setzt ein nicht unterstütztes Betriebssystem die Produktion Risiken von Hardwareausfällen ohne Möglichkeit zur Neuinstallation, Infektionen über USB-Sticks und zunehmender Inkompatibilität mit Drittanbietersoftware aus. Darüber hinaus machen regulatorische Anforderungen (ISO 27001, NIS2, Industrieversicherungen) ein nicht unterstütztes System potenziell nicht konform."
+    },
+    "data.items[@q9Pr03].answer": {
+      "source": "Nous recommandons du matériel industriel certifié (Beckhoff CX/CP, Siemens SIMATIC IPC, Advantech, Kontron) selon les contraintes environnementales, la durée de vie souhaitée et le budget. Nous ne sommes affiliés à aucun constructeur — nous choisissons la plateforme qui correspond à votre situation réelle.",
+      "de": "Wir empfehlen zertifizierte Industriehardware (Beckhoff CX/CP, Siemens SIMATIC IPC, Advantech, Kontron), je nach Umweltbedingungen, gewünschter Lebensdauer und Budget. Wir sind an keinen Hersteller gebunden – wir wählen die Plattform, die Ihrer tatsächlichen Situation entspricht."
+    }
+  }
+}

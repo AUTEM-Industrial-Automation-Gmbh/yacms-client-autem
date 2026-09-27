@@ -1,0 +1,37 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Technologies électriques maîtrisées",
+      "de": "Beherrschte Elektrotechnologien"
+    },
+    "data.subtitle": {
+      "source": "Multimarque et agnostique — nous choisissons les équipements adaptés à votre machine et votre budget",
+      "de": "Markenunabhängig und agnostisch – wir wählen die Komponenten, die für Ihre Maschine und Ihr Budget geeignet sind"
+    },
+    "data.logos[@yMBfgX].alt": {
+      "source": "Siemens — Sinamics variateurs et drives",
+      "de": "Siemens — Sinamics Frequenzumrichter und Antriebe"
+    },
+    "data.logos[@BVlRIj].alt": {
+      "source": "SEW-Eurodrive — Movitrac, Movidrive",
+      "de": "SEW-Eurodrive — Movitrac, Movidrive"
+    },
+    "data.logos[@0oZbWL].alt": {
+      "source": "Eaton — RASP, RAMO variateurs",
+      "de": "Eaton — RASP, RAMO Frequenzumrichter"
+    },
+    "data.logos[@4X8V1f].alt": {
+      "source": "Pilz — sécurité machine SIL PNOZ",
+      "de": "Pilz — Maschinensicherheit SIL PNOZ"
+    },
+    "data.logos[@tvlEY7].alt": {
+      "source": "Pepperl+Fuchs — capteurs sécurité",
+      "de": "Pepperl+Fuchs — Sicherheitssensoren"
+    },
+    "data.logos[@A0vPMi].alt": {
+      "source": "EPlan — schémas électriques industriels",
+      "de": "EPlan — Industrielle Stromlaufpläne"
+    }
+  }
+}

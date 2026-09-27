@@ -1,0 +1,25 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Vous définissez l'architecture de votre prochain système de production ?",
+      "de": "Definieren Sie die Architektur Ihres nächsten Produktionssystems?"
+    },
+    "data.benefits[@RWaZi4].text": {
+      "source": "Expert indépendant — aucun lien commercial avec les constructeurs",
+      "de": "Unabhängiger Experte – keine kommerziellen Verbindungen zu Herstellern"
+    },
+    "data.benefits[@q61NAU].text": {
+      "source": "Spécifications et cahier des charges livrables, prêts pour appel d'offres",
+      "de": "Spezifikationen und Lastenhefte lieferbar, bereit für Ausschreibungen"
+    },
+    "data.benefits[@sUFTKo].text": {
+      "source": "Multimarque, multi-secteurs — Siemens, Rockwell, Schneider, Beckhoff, Wago",
+      "de": "Mehrere Marken, mehrere Sektoren – Siemens, Rockwell, Schneider, Beckhoff, Wago"
+    },
+    "data.cta.text": {
+      "source": "Demander un avis d'architecture",
+      "de": "Architekturbewertung anfordern"
+    }
+  }
+}

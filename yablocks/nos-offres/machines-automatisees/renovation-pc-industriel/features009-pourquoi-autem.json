@@ -8,27 +8,34 @@
     "title": "On ne remplace pas votre IPC — on sécurise votre outil de production.",
     "paragraphs": [
       {
-        "text": "Migrer un PC industriel, c'est toucher au cœur du système de pilotage — là où une erreur peut arrêter la ligne. Nous préparons chaque migration comme un projet à risque maîtrisé : backup complet, migration en parallèle, tests en plateforme, puis bascule rapide et planifiée sur site."
+        "text": "Migrer un PC industriel, c'est toucher au cœur du système de pilotage — là où une erreur peut arrêter la ligne. Nous préparons chaque migration comme un projet à risque maîtrisé : backup complet, migration en parallèle, tests en plateforme, puis bascule rapide et planifiée sur site.",
+        "_tid": "KsXne6"
       }
     ],
     "highlights": [
       {
-        "text": "Backup complet du projet existant avant toute modification"
+        "text": "Backup complet du projet existant avant toute modification",
+        "_tid": "QU99ob"
       },
       {
-        "text": "Migration préparée en parallèle — arrêt de production minimal et planifié"
+        "text": "Migration préparée en parallèle — arrêt de production minimal et planifié",
+        "_tid": "n5vzMq"
       },
       {
-        "text": "Tests fonctionnels exhaustifs avant tout déploiement sur site"
+        "text": "Tests fonctionnels exhaustifs avant tout déploiement sur site",
+        "_tid": "JAvl80"
       },
       {
-        "text": "Choix de plateforme indépendant : Beckhoff, Siemens IPC, Advantech — selon vos contraintes réelles"
+        "text": "Choix de plateforme indépendant : Beckhoff, Siemens IPC, Advantech — selon vos contraintes réelles",
+        "_tid": "hsGUSF"
       },
       {
-        "text": "Durcissement OS et bonnes pratiques cybersécurité inclus dans chaque migration"
+        "text": "Durcissement OS et bonnes pratiques cybersécurité inclus dans chaque migration",
+        "_tid": "E2dsdN"
       },
       {
-        "text": "Formation des équipes et documentation complète livrée à la mise en service"
+        "text": "Formation des équipes et documentation complète livrée à la mise en service",
+        "_tid": "veJc1M"
       }
     ],
     "conclusion": "Le résultat : un IPC moderne, un OS supporté, des licences valides, vos équipes formées — et votre production hors de danger pour les 15 prochaines années.",

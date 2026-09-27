@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Ils nous ont confié la conception ou la validation de leurs architectures",
+      "de": "Sie haben uns mit der Konzeption oder Validierung ihrer Architekturen betraut"
+    },
+    "data.subtitle": {
+      "source": "Expérience multi-secteurs, indépendance constructeur, rigueur documentaire",
+      "de": "Branchenübergreifende Erfahrung, Herstellerunabhängigkeit, Dokumentationsgenauigkeit"
+    },
+    "data.logos[@7W1CfS].alt": {
+      "source": "Hermès — Architecture systèmes de contrôle industriels, Paris",
+      "de": "Hermès — Steuerungssystemarchitektur für die Industrie, Paris"
+    },
+    "data.logos[@QhdlaL].alt": {
+      "source": "Amazon — Automatisation entrepôt mécanisé, WCS/WMS",
+      "de": "Amazon — Automatisierung von Logistikzentren, WCS/WMS"
+    },
+    "data.logos[@fpym8T].alt": {
+      "source": "Thalys — Supervision réseau, télémétrie, IoT",
+      "de": "Thalys — Netzüberwachung, Telemetrie, IoT"
+    },
+    "data.logos[@hJyMJt].alt": {
+      "source": "SEE/SFTRF — Supervision réseau routier et ferroviaire",
+      "de": "SEE/SFTRF — Überwachung von Straßen- und Eisenbahnnetzen"
+    },
+    "data.logos[@xD8HiW].alt": {
+      "source": "ArcelorMittal — Optimisation atelier d'usinage, Luxembourg",
+      "de": "ArcelorMittal — Optimierung von Bearbeitungswerkstätten, Luxemburg"
+    }
+  }
+}

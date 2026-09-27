@@ -1,0 +1,49 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "POURQUOI AUTEM",
+      "de": "WARUM AUTEM"
+    },
+    "data.title": {
+      "source": "Électrotechnicien et automaticien — pas un prestataire qui sous-traite.",
+      "de": "Elektrotechniker und Automatisierungstechniker – kein Subunternehmer."
+    },
+    "data.paragraphs[@AJhUap].text": {
+      "source": "Un revamping électrique mal piloté, c'est une machine remise en service avec des sécurités non validées, des schémas incomplets et des variateurs paramétrés approximativement. AUTEM intervient avec ses propres compétences électrotechniques — habilitations BT incluses — et livre un dossier qui tient la route.",
+      "de": "Eine schlecht durchgeführte Elektro-Modernisierung bedeutet eine Maschine, die mit nicht validierten Sicherheitsfunktionen, unvollständigen Schaltplänen und grob eingestellten Frequenzumrichtern wieder in Betrieb genommen wird. AUTEM bringt seine eigenen elektrotechnischen Kompetenzen ein – inklusive Niederspannungs-Befähigungen – und liefert eine solide Dokumentation."
+    },
+    "data.highlights[@kG9xnF].text": {
+      "source": "Habilitations basse-tension — intervention directe sans sous-traitance",
+      "de": "Niederspannungs-Befähigungen – direkte Ausführung ohne Subunternehmer"
+    },
+    "data.highlights[@EYpN26].text": {
+      "source": "Double compétence électrotechnique + automatisme : la couche électrique et la couche programme traitées ensemble",
+      "de": "Doppelte Kompetenz Elektrotechnik + Automatisierung: Die elektrische Schicht und die Software-Schicht werden gemeinsam behandelt"
+    },
+    "data.highlights[@byXqGx].text": {
+      "source": "Schémas livrés en sources natives EPlan ou SEE Electrical — éditables par vos équipes",
+      "de": "Schaltpläne als native EPLAN- oder SEE Electrical-Quelldateien – editierbar für Ihre Teams"
+    },
+    "data.highlights[@85Q8CY].text": {
+      "source": "Validation SIL formalisée et documentée selon EN ISO 13849 / IEC 62061",
+      "de": "Formale und dokumentierte SIL-Validierung gemäß EN ISO 13849 / IEC 62061"
+    },
+    "data.highlights[@9n3GHh].text": {
+      "source": "Collaboration avec vos électriciens internes pour un transfert de compétences réel",
+      "de": "Zusammenarbeit mit Ihren internen Elektrikern für einen echten Wissenstransfer"
+    },
+    "data.highlights[@slhJQc].text": {
+      "source": "Multimarque variateurs — nous choisissons le bon équipement, pas le plus avantageux à facturer",
+      "de": "Frequenzumrichter verschiedener Hersteller – wir wählen die passende Ausrüstung, nicht die, die am profitabelsten abzurechnen ist"
+    },
+    "data.conclusion": {
+      "source": "Le résultat : une installation connue, documentée, conforme et maintenable — sans dépendance à un prestataire externe pour la moindre intervention.",
+      "de": "Das Ergebnis: Eine bekannte, dokumentierte, konforme und wartbare Anlage – ohne Abhängigkeit von einem externen Dienstleister für die kleinste Intervention."
+    },
+    "data.image.alt": {
+      "source": "Automaticien électrotechnicien AUTEM — revamping électrique industriel",
+      "de": "Elektrotechniker und Automatisierungstechniker AUTEM – industrielle Elektro-Modernisierung"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Projet BEMA Grenoble — machine compactage papier",
+      "de": "BEMA Grenoble Projekt – Papierpressmaschine"
+    },
+    "data.quote": {
+      "source": "La programmation est rigoureuse, la documentation irréprochable et la mise en service s'est déroulée sans accroc. AUTEM a livré exactement ce qui était attendu, dans les délais.",
+      "de": "Die Programmierung ist rigoros, die Dokumentation tadellos und die Inbetriebnahme verlief reibungslos. AUTEM hat genau das geliefert, was erwartet wurde, und das pünktlich."
+    },
+    "data.author.name": {
+      "source": "Responsable Bureau d'Études",
+      "de": "Leiter Konstruktionsbüro"
+    },
+    "data.author.role": {
+      "source": "BEMA — Grenoble",
+      "de": "BEMA – Grenoble"
+    }
+  }
+}

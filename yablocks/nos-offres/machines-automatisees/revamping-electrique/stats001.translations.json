@@ -1,0 +1,53 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.stats[@G3Wiux].value": {
+      "source": "10",
+      "de": "10"
+    },
+    "data.stats[@Vkcs9N].value": {
+      "source": "3",
+      "de": "3"
+    },
+    "data.stats[@TuJIQR].value": {
+      "source": "6",
+      "de": "6"
+    },
+    "data.stats[@AwdZD3].value": {
+      "source": "100",
+      "de": "100"
+    },
+    "data.stats[@G3Wiux].label": {
+      "source": "Années d'expérience en électrotechnique industrielle",
+      "de": "Jahre Erfahrung in der industriellen Elektrotechnik"
+    },
+    "data.stats[@Vkcs9N].label": {
+      "source": "Niveaux SIL maîtrisés (SIL 1, 2 et 3 / Cat. 4 PLe)",
+      "de": "Beherrschte SIL-Level (SIL 1, 2 und 3 / Kat. 4 PLe)"
+    },
+    "data.stats[@TuJIQR].label": {
+      "source": "Marques de variateurs et drives configurés",
+      "de": "Konfigurierte Marken von Frequenzumrichtern und Drives"
+    },
+    "data.stats[@AwdZD3].label": {
+      "source": "Des projets livrés avec schémas as-built et dossier SIL",
+      "de": "Abgeschlossene Projekte mit As-Built-Schaltplänen und SIL-Berichten"
+    },
+    "data.stats[@G3Wiux].suffix": {
+      "source": "+",
+      "de": "+ "
+    },
+    "data.stats[@Vkcs9N].suffix": {
+      "source": "",
+      "de": ""
+    },
+    "data.stats[@TuJIQR].suffix": {
+      "source": "+",
+      "de": "+ "
+    },
+    "data.stats[@AwdZD3].suffix": {
+      "source": "%",
+      "de": "%"
+    }
+  }
+}

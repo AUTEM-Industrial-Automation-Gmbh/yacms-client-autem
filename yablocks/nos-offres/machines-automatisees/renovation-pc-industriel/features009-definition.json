@@ -8,27 +8,34 @@
     "title": "Migration IPC : de quoi parle-t-on exactement ?",
     "paragraphs": [
       {
-        "text": "Remplacer le PC industriel obsolète — matériel et/ou logiciel — par une solution récente, supportée et maintenable. Tout en conservant les projets applicatifs existants et en assurant la continuité de production."
+        "text": "Remplacer le PC industriel obsolète — matériel et/ou logiciel — par une solution récente, supportée et maintenable. Tout en conservant les projets applicatifs existants et en assurant la continuité de production.",
+        "_tid": "44fPrJ"
       }
     ],
     "highlights": [
       {
-        "text": "Migration matérielle : Beckhoff CX/CP, Siemens SIMATIC IPC, Advantech, Kontron, Box PC panel"
+        "text": "Migration matérielle : Beckhoff CX/CP, Siemens SIMATIC IPC, Advantech, Kontron, Box PC panel",
+        "_tid": "ZdWej1"
       },
       {
-        "text": "Migration OS : Windows XP/7/CE → Windows 10/11 IoT Entreprise LTSC"
+        "text": "Migration OS : Windows XP/7/CE → Windows 10/11 IoT Entreprise LTSC",
+        "_tid": "b1i5tP"
       },
       {
-        "text": "Migration WinCC V6/V7 → WinCC V8 ou WinCC Unified (TIA Portal)"
+        "text": "Migration WinCC V6/V7 → WinCC V8 ou WinCC Unified (TIA Portal)",
+        "_tid": "oVO232"
       },
       {
-        "text": "Migration InduSoft Web Studio → AVEVA Edge ou Ignition"
+        "text": "Migration InduSoft Web Studio → AVEVA Edge ou Ignition",
+        "_tid": "6RvYfs"
       },
       {
-        "text": "Migration FactoryTalk View ME/SE → versions actuelles ou Ignition"
+        "text": "Migration FactoryTalk View ME/SE → versions actuelles ou Ignition",
+        "_tid": "8hQpOr"
       },
       {
-        "text": "Conservation et portage des projets HMI/SCADA : écrans, alarmes, tags, historiques"
+        "text": "Conservation et portage des projets HMI/SCADA : écrans, alarmes, tags, historiques",
+        "_tid": "jpHCeg"
       }
     ],
     "conclusion": "Résultat : votre IPC repart sur des bases saines — OS supporté, licences à jour, documentation complète. Pour une durée de vie de 10 à 15 ans supplémentaires.",

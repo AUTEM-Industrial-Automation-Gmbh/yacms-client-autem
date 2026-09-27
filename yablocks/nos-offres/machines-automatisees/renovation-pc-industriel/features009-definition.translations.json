@@ -1,0 +1,49 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "RÉNOVATION PC INDUSTRIEL",
+      "de": "INDUSTRIELLE PC-RENOVIERUNG"
+    },
+    "data.title": {
+      "source": "Migration IPC : de quoi parle-t-on exactement ?",
+      "de": "IPC-Migration: Worum geht es genau?"
+    },
+    "data.paragraphs[@44fPrJ].text": {
+      "source": "Remplacer le PC industriel obsolète — matériel et/ou logiciel — par une solution récente, supportée et maintenable. Tout en conservant les projets applicatifs existants et en assurant la continuité de production.",
+      "de": "Ersetzen Sie veraltete Industrie-PCs – Hardware und/oder Software – durch eine aktuelle, unterstützte und wartbare Lösung. Unter Beibehaltung bestehender Anwendungsprojekte und Sicherstellung der Produktionskontinuität."
+    },
+    "data.highlights[@ZdWej1].text": {
+      "source": "Migration matérielle : Beckhoff CX/CP, Siemens SIMATIC IPC, Advantech, Kontron, Box PC panel",
+      "de": "Hardware-Migration: Beckhoff CX/CP, Siemens SIMATIC IPC, Advantech, Kontron, Box PC Panel"
+    },
+    "data.highlights[@b1i5tP].text": {
+      "source": "Migration OS : Windows XP/7/CE → Windows 10/11 IoT Entreprise LTSC",
+      "de": "Betriebssystem-Migration: Windows XP/7/CE → Windows 10/11 IoT Enterprise LTSC"
+    },
+    "data.highlights[@oVO232].text": {
+      "source": "Migration WinCC V6/V7 → WinCC V8 ou WinCC Unified (TIA Portal)",
+      "de": "WinCC V6/V7 → WinCC V8 oder WinCC Unified (TIA Portal) Migration"
+    },
+    "data.highlights[@6RvYfs].text": {
+      "source": "Migration InduSoft Web Studio → AVEVA Edge ou Ignition",
+      "de": "InduSoft Web Studio → AVEVA Edge oder Ignition Migration"
+    },
+    "data.highlights[@8hQpOr].text": {
+      "source": "Migration FactoryTalk View ME/SE → versions actuelles ou Ignition",
+      "de": "FactoryTalk View ME/SE → aktuelle Versionen oder Ignition Migration"
+    },
+    "data.highlights[@jpHCeg].text": {
+      "source": "Conservation et portage des projets HMI/SCADA : écrans, alarmes, tags, historiques",
+      "de": "Beibehaltung und Portierung von HMI/SCADA-Projekten: Bildschirme, Alarme, Tags, Historien"
+    },
+    "data.conclusion": {
+      "source": "Résultat : votre IPC repart sur des bases saines — OS supporté, licences à jour, documentation complète. Pour une durée de vie de 10 à 15 ans supplémentaires.",
+      "de": "Ergebnis: Ihr IPC startet auf einer gesunden Basis – unterstütztes Betriebssystem, aktuelle Lizenzen, vollständige Dokumentation. Für eine zusätzliche Lebensdauer von 10 bis 15 Jahren."
+    },
+    "data.image.alt": {
+      "source": "Migration PC industriel IPC supervision Windows — AUTEM rénovation",
+      "de": "Industrie-PC IPC-Migration Windows-Überwachung – AUTEM Renovierung"
+    }
+  }
+}

@@ -9,19 +9,23 @@
     "logos": [
       {
         "src": "/logos/siemens.png",
-        "alt": "Siemens WinCC & SIMATIC IPC"
+        "alt": "Siemens WinCC & SIMATIC IPC",
+        "_tid": "Vqa1iY"
       },
       {
         "src": "/logos/ignition.png",
-        "alt": "Ignition SCADA — Inductive Automation"
+        "alt": "Ignition SCADA — Inductive Automation",
+        "_tid": "3tHJRd"
       },
       {
         "src": "/logos/wonderware.png",
-        "alt": "AVEVA / Wonderware — InduSoft, System Platform"
+        "alt": "AVEVA / Wonderware — InduSoft, System Platform",
+        "_tid": "LaGl3q"
       },
       {
         "src": "/logos/rockwell.png",
-        "alt": "Rockwell — FactoryTalk View"
+        "alt": "Rockwell — FactoryTalk View",
+        "_tid": "8f1YQL"
       }
     ]
   }

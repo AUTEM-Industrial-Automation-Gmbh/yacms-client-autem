@@ -1,0 +1,53 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.sectionLabel": {
+      "source": "FAQ",
+      "de": "FAQ"
+    },
+    "data.title": {
+      "source": "Questions fréquentes sur la définition d'architecture de systèmes industriels",
+      "de": "Häufig gestellte Fragen zur Definition von Industrie-Systemarchitekturen"
+    },
+    "data.items[@VieOqf].question": {
+      "source": "À quel moment faire appel à un expert en architecture ?",
+      "de": "Wann sollte ein Architekturexperte hinzugezogen werden?"
+    },
+    "data.items[@gA4261].question": {
+      "source": "Quelle différence entre architecture OT et architecture IT ?",
+      "de": "Was ist der Unterschied zwischen OT- und IT-Architektur?"
+    },
+    "data.items[@hZuhbt].question": {
+      "source": "Travaillez-vous avec toutes les marques d'automates ?",
+      "de": "Arbeiten Sie mit allen Automarken zusammen?"
+    },
+    "data.items[@KobtPK].question": {
+      "source": "Prenez-vous en compte la cybersécurité dans les architectures ?",
+      "de": "Berücksichtigen Sie Cybersicherheit in Architekturen?"
+    },
+    "data.items[@2fefkd].question": {
+      "source": "Pouvez-vous valider l'architecture proposée par un intégrateur ?",
+      "de": "Können Sie die vom Integrator vorgeschlagene Architektur validieren?"
+    },
+    "data.items[@VieOqf].answer": {
+      "source": "Le plus tôt possible : avant de choisir un fournisseur, avant de lancer un appel d'offres, et surtout avant de signer avec un intégrateur. Une prestation d'architecture en amont coûte une fraction du prix d'un mauvais choix à corriger 3 ans plus tard. Nous intervenons aussi en cours de projet pour auditer une architecture existante et identifier les risques.",
+      "de": "So früh wie möglich: Bevor Sie einen Lieferanten auswählen, bevor Sie eine Ausschreibung starten und vor allem, bevor Sie mit einem Integrator unterschreiben. Eine vorgelagerte Architekturdienstleistung kostet nur einen Bruchteil dessen, was eine falsche Entscheidung, die 3 Jahre später korrigiert werden muss, kostet. Wir greifen auch während des Projekts ein, um eine bestehende Architektur zu prüfen und Risiken zu identifizieren."
+    },
+    "data.items[@gA4261].answer": {
+      "source": "L'architecture OT (Operational Technology) concerne les systèmes de contrôle-commande : automates, supervision SCADA, réseaux Profinet/Ethernet IP, capteurs. L'IT (Information Technology) couvre les systèmes d'information : ERP, MES, serveurs, infrastructure réseau bureautique. L'enjeu est leur convergence : faire communiquer les deux mondes avec les bons protocoles (OPC-UA, REST) sans compromettre la sécurité des systèmes de production.",
+      "de": "Die OT-Architektur (Operational Technology) betrifft Steuerungssysteme: SPSen, SCADA-Überwachung, Profinet/Ethernet IP-Netzwerke, Sensoren. Die IT (Information Technology) umfasst Informationssysteme: ERP, MES, Server, Büro-Netzwerkinfrastruktur. Die Herausforderung ist ihre Konvergenz: die beiden Welten mit den richtigen Protokollen (OPC-UA, REST) zu verbinden, ohne die Sicherheit der Produktionssysteme zu gefährden."
+    },
+    "data.items[@hZuhbt].answer": {
+      "source": "Oui. Nous maîtrisons Siemens (S7-1500, TIA Portal), Rockwell/Allen-Bradley (Studio 5000), Schneider Electric (EcoStruxure), Wago, Beckhoff et Eaton. Nous n'avons aucun partenariat commercial avec ces fabricants — notre recommandation est uniquement guidée par vos contraintes techniques et opérationnelles.",
+      "de": "Ja. Wir beherrschen Siemens (S7-1500, TIA Portal), Rockwell/Allen-Bradley (Studio 5000), Schneider Electric (EcoStruxure), Wago, Beckhoff und Eaton. Wir haben keine kommerziellen Partnerschaften mit diesen Herstellern – unsere Empfehlung richtet sich ausschließlich nach Ihren technischen und operativen Anforderungen."
+    },
+    "data.items[@KobtPK].answer": {
+      "source": "Systématiquement. La cybersécurité OT n'est plus optionnelle. Nous intégrons les bonnes pratiques de la norme IEC 62443 dans chaque architecture : segmentation réseau (DMZ entre OT et IT), contrôle des accès distants, politique de patch management, et identification des composants sensibles. Nous pouvons également réaliser un audit de la maturité cybersécurité de vos systèmes existants.",
+      "de": "Systematisch. OT-Cybersicherheit ist keine Option mehr. Wir integrieren Best Practices des Standards IEC 62443 in jede Architektur: Netzwerksegmentierung (DMZ zwischen OT und IT), Fernzugriffskontrolle, Patch-Management-Richtlinie und Identifizierung sensibler Komponenten. Wir können auch die Cybersicherheitsreife Ihrer bestehenden Systeme auditieren."
+    },
+    "data.items[@2fefkd].answer": {
+      "source": "Oui. C'est une mission fréquente : un intégrateur vous a remis une proposition d'architecture et vous souhaitez un avis indépendant avant de signer. Nous analysons la proposition, identifions les risques (techniques, contractuels, maintenabilité), et vous remettons un rapport d'analyse avec recommandations.",
+      "de": "Ja. Dies ist eine häufige Aufgabe: Ein Integrator hat Ihnen einen Architekturvorschlag vorgelegt und Sie möchten eine unabhängige Meinung einholen, bevor Sie unterschreiben. Wir analysieren den Vorschlag, identifizieren Risiken (technisch, vertraglich, Wartbarkeit) und erstellen Ihnen einen Analysebericht mit Empfehlungen."
+    }
+  }
+}

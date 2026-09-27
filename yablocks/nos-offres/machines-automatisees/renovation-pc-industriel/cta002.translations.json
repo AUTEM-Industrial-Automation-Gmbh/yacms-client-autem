@@ -1,0 +1,25 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Votre PC industriel est obsolète ou tourne sous un OS en fin de vie ?",
+      "de": "Ist Ihr Industrie-PC veraltet oder läuft er mit einem End-of-Life-Betriebssystem?"
+    },
+    "data.benefits[@p8nZ8E].text": {
+      "source": "Migration matérielle et logicielle : Beckhoff, Siemens IPC, Advantech",
+      "de": "Hardware- und Softwaremigration: Beckhoff, Siemens IPC, Advantech"
+    },
+    "data.benefits[@qfJr7J].text": {
+      "source": "Projets WinCC, InduSoft, FactoryTalk conservés et portés vers des versions supportées",
+      "de": "WinCC-, InduSoft-, FactoryTalk-Projekte werden beibehalten und auf unterstützte Versionen portiert"
+    },
+    "data.benefits[@Ik6aTu].text": {
+      "source": "OS durci, licences à jour, documentation complète livrée à la mise en service",
+      "de": "Gehärtetes Betriebssystem, aktuelle Lizenzen, vollständige Dokumentation bei Inbetriebnahme"
+    },
+    "data.cta.text": {
+      "source": "Discutons de votre projet",
+      "de": "Lassen Sie uns über Ihr Projekt sprechen"
+    }
+  }
+}

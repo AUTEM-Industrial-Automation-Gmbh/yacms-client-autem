@@ -8,27 +8,34 @@
     "title": "Remise à niveau de l'infrastructure électrique : périmètre et contenu",
     "paragraphs": [
       {
-        "text": "Reprendre la maîtrise de l'infrastructure électrique d'une machine existante — variateurs, câblage, sécurités, documentation — sans remplacer la machine ni son automatisme. L'objectif : une installation connue, conforme et maintenable par vos équipes."
+        "text": "Reprendre la maîtrise de l'infrastructure électrique d'une machine existante — variateurs, câblage, sécurités, documentation — sans remplacer la machine ni son automatisme. L'objectif : une installation connue, conforme et maintenable par vos équipes.",
+        "_tid": "IPmw19"
       }
     ],
     "highlights": [
       {
-        "text": "Remplacement ou mise à jour des variateurs et axes motion (SEW, Siemens Sinamics, Eaton)"
+        "text": "Remplacement ou mise à jour des variateurs et axes motion (SEW, Siemens Sinamics, Eaton)",
+        "_tid": "TZDfCU"
       },
       {
-        "text": "Révision du câblage et des tableaux électriques selon les normes en vigueur"
+        "text": "Révision du câblage et des tableaux électriques selon les normes en vigueur",
+        "_tid": "nDJwRn"
       },
       {
-        "text": "Mise en conformité sécurité machine : analyse SIL, relais Pilz, capteurs Pepperl+Fuchs"
+        "text": "Mise en conformité sécurité machine : analyse SIL, relais Pilz, capteurs Pepperl+Fuchs",
+        "_tid": "eD0GOF"
       },
       {
-        "text": "Rédaction ou refonte des schémas électriques sous EPlan Electric P8 ou SEE Electrical"
+        "text": "Rédaction ou refonte des schémas électriques sous EPlan Electric P8 ou SEE Electrical",
+        "_tid": "4Cfy98"
       },
       {
-        "text": "Livraison d'un dossier technique complet : schémas as-built, fiches variateurs, rapport SIL"
+        "text": "Livraison d'un dossier technique complet : schémas as-built, fiches variateurs, rapport SIL",
+        "_tid": "r7ifaz"
       },
       {
-        "text": "Intervention possible sur machines en production avec plan de prévention HSE"
+        "text": "Intervention possible sur machines en production avec plan de prévention HSE",
+        "_tid": "l1UsZY"
       }
     ],
     "conclusion": "À distinguer du rétrofit automation (couche logicielle et automate) et de la rénovation PC industriel (couche supervision). Le revamping électrique adresse spécifiquement l'infrastructure physique : puissance, câblage, variation de vitesse et sécurité.",

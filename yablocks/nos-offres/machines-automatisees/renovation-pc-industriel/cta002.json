@@ -8,15 +8,18 @@
     "benefits": [
       {
         "icon": "cpu",
-        "text": "Migration matérielle et logicielle : Beckhoff, Siemens IPC, Advantech"
+        "text": "Migration matérielle et logicielle : Beckhoff, Siemens IPC, Advantech",
+        "_tid": "p8nZ8E"
       },
       {
         "icon": "layers",
-        "text": "Projets WinCC, InduSoft, FactoryTalk conservés et portés vers des versions supportées"
+        "text": "Projets WinCC, InduSoft, FactoryTalk conservés et portés vers des versions supportées",
+        "_tid": "qfJr7J"
       },
       {
         "icon": "shield",
-        "text": "OS durci, licences à jour, documentation complète livrée à la mise en service"
+        "text": "OS durci, licences à jour, documentation complète livrée à la mise en service",
+        "_tid": "Ik6aTu"
       }
     ],
     "cta": {
