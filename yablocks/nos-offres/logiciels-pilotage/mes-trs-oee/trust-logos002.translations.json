@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Compatible avec tous vos automates et logiciels de supervision",
+      "de": "Kompatibel mit all Ihren Steuerungen und Leitsystemen"
+    },
+    "data.subtitle": {
+      "source": "Multimarque et agnostique — nous nous adaptons à votre infrastructure existante",
+      "de": "Markenunabhängig und agnostisch — wir passen uns Ihrer bestehenden Infrastruktur an"
+    },
+    "data.logos[@YdZiHD].alt": {
+      "source": "Ignition — MES, SCADA, Inductive Automation",
+      "de": "Ignition — MES, SCADA, Inductive Automation"
+    },
+    "data.logos[@2VPWVK].alt": {
+      "source": "Siemens — S7, WinCC, SIMATIC",
+      "de": "Siemens — S7, WinCC, SIMATIC"
+    },
+    "data.logos[@YXHBOo].alt": {
+      "source": "Rockwell Allen-Bradley — FactoryTalk",
+      "de": "Rockwell Allen-Bradley — FactoryTalk"
+    },
+    "data.logos[@yUr9BI].alt": {
+      "source": "Schneider Electric — EcoStruxure",
+      "de": "Schneider Electric — EcoStruxure"
+    },
+    "data.logos[@7vwTgt].alt": {
+      "source": "AVEVA Wonderware — System Platform",
+      "de": "AVEVA Wonderware — System Platform"
+    }
+  }
+}

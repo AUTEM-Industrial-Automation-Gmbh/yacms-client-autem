@@ -1,0 +1,53 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "NOTRE MÉTHODE",
+      "de": "UNSER ANSATZ"
+    },
+    "data.title": {
+      "source": "De l'audit terrain à la mise en production : 5 étapes",
+      "de": "Vom Vor-Ort-Audit bis zur Inbetriebnahme: 5 Schritte"
+    },
+    "data.steps[@tarF5C].title": {
+      "source": "Audit terrain & cartographie",
+      "de": "Vor-Ort-Audit & Kartierung"
+    },
+    "data.steps[@k2KyRv].title": {
+      "source": "Modèle de données & KPIs",
+      "de": "Datenmodell & KPIs"
+    },
+    "data.steps[@VFOBdF].title": {
+      "source": "Intégration automates & collecte",
+      "de": "Automatenintegration & Datenerfassung"
+    },
+    "data.steps[@IR8uC3].title": {
+      "source": "Tableaux de bord & IHM opérateurs",
+      "de": "Dashboards & Bedienoberflächen"
+    },
+    "data.steps[@l8u2Pl].title": {
+      "source": "Formation & mise en production",
+      "de": "Schulung & Inbetriebnahme"
+    },
+    "data.steps[@tarF5C].description": {
+      "source": "Inventaire des machines, des signaux disponibles, des indicateurs déjà calculés et des flux de données existants. Identification des goulots, des postes critiques et des données manquantes.",
+      "de": "Inventarisierung der Maschinen, der verfügbaren Signale, der bereits berechneten Kennzahlen und der bestehenden Datenflüsse. Identifizierung von Engpässen, kritischen Arbeitsplätzen und fehlenden Daten."
+    },
+    "data.steps[@k2KyRv].description": {
+      "source": "Définition avec vos équipes des indicateurs pertinents : TRS, OEE, taux de rebut, cadence, temps de changement de série. Modélisation de la structure de données et des règles de calcul.",
+      "de": "Definition der relevanten Kennzahlen mit Ihren Teams: OEE, Ausschussrate, Taktzeit, Rüstzeit. Modellierung der Datenstruktur und der Berechnungsregeln."
+    },
+    "data.steps[@VFOBdF].description": {
+      "source": "Connexion aux automates (Siemens, Rockwell, Schneider) via OPC-UA, Modbus ou driver natif. Déclenchement des compteurs, détection des arrêts, capture des signaux qualité.",
+      "de": "Anbindung an Steuerungen (Siemens, Rockwell, Schneider) über OPC-UA, Modbus oder native Treiber. Auslösung von Zählern, Erkennung von Stillständen, Erfassung von Qualitätssignalen."
+    },
+    "data.steps[@IR8uC3].description": {
+      "source": "Développement des écrans de saisie opérateur (causes de perte, commentaires), des dashboards par niveau (ligne, atelier, site) et des rapports de shift automatiques.",
+      "de": "Entwicklung von Bediener-Eingabebildschirmen (Verlustursachen, Kommentare), Dashboards nach Ebenen (Linie, Werk, Standort) und automatischen Schichtberichten."
+    },
+    "data.steps[@l8u2Pl].description": {
+      "source": "Formation des opérateurs, chefs d'équipe et responsables production. Déploiement progressif par ligne, ajustement des seuils et des indicateurs, support au démarrage.",
+      "de": "Schulung von Bedienern, Teamleitern und Produktionsleitern. Schrittweise Einführung pro Linie, Anpassung von Schwellenwerten und Kennzahlen, Unterstützung beim Start."
+    }
+  }
+}

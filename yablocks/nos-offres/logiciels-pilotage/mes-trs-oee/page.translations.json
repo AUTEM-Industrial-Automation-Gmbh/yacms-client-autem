@@ -1,0 +1,45 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "KPI Production — MES, TRS, OEE | AUTEM",
+      "de": "KPI-Produktion — MES, TRS, OEE | AUTEM",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "AUTEM intègre vos machines et calcule votre TRS/OEE en temps réel. Tableaux de bord production Ignition, WinCC, multimarque.",
+      "de": "AUTEM integriert Ihre Maschinen und berechnet Ihre OEE/TRS in Echtzeit. Produktions-Dashboards für Ignition, WinCC, Multi-Marken.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "MES industriel",
+        "TRS production",
+        "OEE calcul",
+        "KPI production",
+        "tableau de bord usine",
+        "Ignition MES",
+        "taux rendement synthétique",
+        "intégration automate MES",
+        "AUTEM"
+      ],
+      "de": [
+        "Industrielles MES",
+        "Produktions-TRS",
+        "OEE-Berechnung",
+        "Produktions-KPIs",
+        "Werks-Dashboard",
+        "Ignition MES",
+        "Gesamtanlageneffektivität",
+        "MES-SPS-Integration",
+        "AUTEM"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — KPI Production MES TRS OEE",
+      "de": "AUTEM — KPI-Produktion MES TRS OEE",
+      "de:manual": true
+    }
+  }
+}
