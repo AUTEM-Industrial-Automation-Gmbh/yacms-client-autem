@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Projet Seckiot Paris — connectivité IoT systèmes industriels",
+      "de": "Seckiot Paris Projekt – IoT-Konnektivität für industrielle Systeme"
+    },
+    "data.quote": {
+      "source": "AUTEM a su déployer une connectivité IoT complète sur un parc hétérogène, sans perturber la production. La rigueur technique et la capacité à naviguer entre les protocoles terrain et les exigences de cybersécurité sont remarquables.",
+      "de": "AUTEM konnte eine vollständige IoT-Konnektivität über eine heterogene Anlage bereitstellen, ohne die Produktion zu stören. Die technische Sorgfalt und die Fähigkeit, zwischen Feldprotokollen und Cybersicherheitsanforderungen zu navigieren, sind bemerkenswert."
+    },
+    "data.author.name": {
+      "source": "Directeur Technique",
+      "de": "Technischer Direktor"
+    },
+    "data.author.role": {
+      "source": "Seckiot — Paris",
+      "de": "Seckiot – Paris"
+    }
+  }
+}

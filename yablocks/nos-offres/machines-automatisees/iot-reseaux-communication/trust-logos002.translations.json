@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Protocoles et plateformes maîtrisés",
+      "de": "Beherrschte Protokolle und Plattformen"
+    },
+    "data.subtitle": {
+      "source": "Agnostique et multiprotocole — nous nous adaptons à votre infrastructure existante",
+      "de": "Agnostisch und Multiprotokoll – wir passen uns an Ihre bestehende Infrastruktur an"
+    },
+    "data.logos[@F4Mx8s].alt": {
+      "source": "Siemens — Profinet, Scalance, S7-1500",
+      "de": "Siemens — Profinet, Scalance, S7-1500"
+    },
+    "data.logos[@YFtMQJ].alt": {
+      "source": "Rockwell Allen-Bradley — Ethernet/IP",
+      "de": "Rockwell Allen-Bradley — Ethernet/IP"
+    },
+    "data.logos[@otw11O].alt": {
+      "source": "Schneider Electric — Modbus, EcoStruxure",
+      "de": "Schneider Electric — Modbus, EcoStruxure"
+    },
+    "data.logos[@ZMiMp0].alt": {
+      "source": "Ignition — OPC-UA, MQTT Sparkplug B",
+      "de": "Ignition — OPC-UA, MQTT Sparkplug B"
+    },
+    "data.logos[@Vh67Ik].alt": {
+      "source": "Profinet / Profibus — protocoles terrain",
+      "de": "Profinet / Profibus — Feldprotokolle"
+    }
+  }
+}

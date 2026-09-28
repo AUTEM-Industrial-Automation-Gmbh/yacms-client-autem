@@ -1,0 +1,49 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "POURQUOI AUTEM",
+      "de": "WARUM AUTEM"
+    },
+    "data.title": {
+      "source": "Automaticien et intégrateur réseau — pas un installateur de switchs.",
+      "de": "Automatisierungstechniker und Netzwerkintegrator – kein Switch-Installateur."
+    },
+    "data.paragraphs[@SSdE2Y].text": {
+      "source": "Connecter des automates à un SCADA ou un MES, ça ne se réduit pas à brancher des câbles Ethernet. Il faut comprendre les protocoles terrain, l'architecture de sécurité OT, et les contraintes de la production. AUTEM intervient avec une double compétence automatisme + réseau — et livre une infrastructure documentée que vos équipes peuvent maintenir.",
+      "de": "Die Verbindung von Steuerungen mit SCADA oder MES beschränkt sich nicht auf das Einstecken von Ethernet-Kabeln. Man muss die Feldprotokolle, die OT-Sicherheitsarchitektur und die Produktionsanforderungen verstehen. AUTEM bringt eine doppelte Kompetenz in Automatisierung + Netzwerk ein – und liefert eine dokumentierte Infrastruktur, die Ihre Teams warten können."
+    },
+    "data.highlights[@LLpwPo].text": {
+      "source": "Double compétence automatisme + réseau : nous comprenons ce que vos automates disent — et pourquoi ils doivent le dire de manière sécurisée",
+      "de": "Doppelte Kompetenz Automatisierung + Netzwerk: Wir verstehen, was Ihre Steuerungen sagen – und warum sie sicher kommunizieren müssen."
+    },
+    "data.highlights[@9Ubqqg].text": {
+      "source": "Agnostique protocole — nous choisissons OPC-UA, MQTT ou passerelle Modbus selon votre terrain réel, pas selon un catalogue produit",
+      "de": "Protokollunabhängig – wir wählen OPC-UA, MQTT oder Modbus-Gateway je nach Ihrem tatsächlichen Feld, nicht nach einem Produktkatalog."
+    },
+    "data.highlights[@bBqrbC].text": {
+      "source": "Architecture réseau conçue dès le départ avec segmentation OT/IT — la cybersécurité n'est pas une option ajoutée à la fin",
+      "de": "Netzwerkarchitektur von Anfang an mit OT/IT-Segmentierung konzipiert – Cybersicherheit ist keine nachträgliche Option."
+    },
+    "data.highlights[@SZVqya].text": {
+      "source": "Aucune affiliation constructeur — nous recommandons l'équipement réseau adapté, pas le plus avantageux à facturer",
+      "de": "Keine Herstellerbindung – wir empfehlen die passende Netzwerkausrüstung, nicht die vorteilhafteste für die Abrechnung."
+    },
+    "data.highlights[@nLrC4d].text": {
+      "source": "Documentation réseau complète livrée : plan as-built, configurations sauvegardées, procédures de maintenance",
+      "de": "Umfassende Netzwerkdokumentation wird geliefert: As-built-Plan, gesicherte Konfigurationen, Wartungsprozeduren."
+    },
+    "data.highlights[@QLel7W].text": {
+      "source": "Formation de vos équipes IT et automaticiens pour une autonomie complète après livraison",
+      "de": "Schulung Ihrer IT- und Automatisierungsteams für vollständige Autonomie nach der Lieferung."
+    },
+    "data.conclusion": {
+      "source": "Le résultat : vos machines parlent entre elles, votre réseau est sécurisé et cartographié — et vos équipes savent exactement ce qui tourne sur leur infrastructure.",
+      "de": "Das Ergebnis: Ihre Maschinen sprechen miteinander, Ihr Netzwerk ist sicher und kartiert – und Ihre Teams wissen genau, was auf ihrer Infrastruktur läuft."
+    },
+    "data.image.alt": {
+      "source": "Ingénieur AUTEM — intégration réseau industriel OT/IT IoT",
+      "de": "AUTEM-Ingenieur – OT/IT IoT industrielle Netzwerkintegration"
+    }
+  }
+}

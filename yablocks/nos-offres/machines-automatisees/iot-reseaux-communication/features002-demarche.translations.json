@@ -1,0 +1,61 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.sectionLabel": {
+      "source": "NOTRE DÉMARCHE",
+      "de": "UNSER ANSATZ"
+    },
+    "data.title": {
+      "source": "De l'audit réseau à la mise en production : 4 étapes",
+      "de": "Vom Netzwerkaudit zur Inbetriebnahme: 4 Schritte"
+    },
+    "data.items[@3oKS5J].title": {
+      "source": "Audit réseau & inventaire des protocoles",
+      "de": "Netzwerkaudit & Protokollinventur"
+    },
+    "data.items[@gt9Siy].title": {
+      "source": "Architecture & choix des solutions",
+      "de": "Architektur & Lösungsdesign"
+    },
+    "data.items[@JXWKcw].title": {
+      "source": "Intégration & configuration",
+      "de": "Integration & Konfiguration"
+    },
+    "data.items[@gZj3ub].title": {
+      "source": "Validation, documentation & formation",
+      "de": "Validierung, Dokumentation & Schulung"
+    },
+    "data.items[@3oKS5J].description": {
+      "source": "Cartographie complète de votre infrastructure OT : automates, switchs, points d'accès, protocoles utilisés et versions. Identification des zones sans communication, des équipements legacy et des risques de sécurité. Livrable : plan réseau as-is et liste des points d'amélioration priorisés.",
+      "de": "Vollständige Kartierung Ihrer OT-Infrastruktur: Steuerungen, Switches, Zugangspunkte, verwendete Protokolle und Versionen. Identifizierung von Kommunikationslücken, Legacy-Geräten und Sicherheitsrisiken. Ergebnis: Ist-Netzwerkplan und Liste priorisierter Verbesserungspunkte."
+    },
+    "data.items[@gt9Siy].description": {
+      "source": "Conception de l'architecture cible : passerelles de protocoles, serveurs OPC-UA, brokers MQTT, segmentation VLAN, DMZ. Sélection des équipements adaptés à vos contraintes (legacy, budget, évolutivité). Présentation du plan de migration avec phasage et risques.",
+      "de": "Entwurf der Zielarchitektur: Protokoll-Gateways, OPC-UA-Server, MQTT-Broker, VLAN-Segmentierung, DMZ. Auswahl geeigneter Geräte unter Berücksichtigung Ihrer Einschränkungen (Legacy, Budget, Skalierbarkeit). Präsentation des Migrationsplans mit Phasen und Risiken."
+    },
+    "data.items[@JXWKcw].description": {
+      "source": "Déploiement des passerelles, configuration des drivers et des mappings de tags. Mise en service des VLANs, règles de pare-feu, accès distants VPN. Tests de bout en bout : chaque machine est vérifiée dans le contexte de l'architecture cible avant mise en production.",
+      "de": "Bereitstellung der Gateways, Konfiguration der Treiber und Tag-Mappings. Inbetriebnahme von VLANs, Firewall-Regeln, VPN-Fernzugängen. End-to-End-Tests: Jede Maschine wird im Kontext der Zielarchitektur vor der Inbetriebnahme überprüft."
+    },
+    "data.items[@gZj3ub].description": {
+      "source": "Tests de non-régression sur la production, validation des flux de données de bout en bout, mesure des performances réseau. Livraison de la documentation complète : schéma réseau as-built, configurations, procédures de maintenance. Formation des équipes IT et automaticiens.",
+      "de": "Non-Regressionstests in der Produktion, Validierung der End-to-End-Datenflüsse, Messung der Netzwerkleistung. Lieferung der vollständigen Dokumentation: As-Built-Netzwerkschema, Konfigurationen, Wartungsverfahren. Schulung der IT- und Automatisierungsteams."
+    },
+    "data.items[@3oKS5J].image.alt": {
+      "source": "Audit réseau industriel OT inventaire protocoles",
+      "de": "OT-Industrienetzwerk-Audit Protokollinventur"
+    },
+    "data.items[@gt9Siy].image.alt": {
+      "source": "Architecture réseau industriel OT/IT passerelle OPC-UA",
+      "de": "OT/IT-Industrienetzwerk-Architektur OPC-UA-Gateway"
+    },
+    "data.items[@JXWKcw].image.alt": {
+      "source": "Configuration VLAN pare-feu industriel OPC-UA",
+      "de": "VLAN-Konfiguration Industrie-Firewall OPC-UA"
+    },
+    "data.items[@gZj3ub].image.alt": {
+      "source": "Formation documentation réseau industriel AUTEM",
+      "de": "Schulung Dokumentation Industrienetzwerk AUTEM"
+    }
+  }
+}

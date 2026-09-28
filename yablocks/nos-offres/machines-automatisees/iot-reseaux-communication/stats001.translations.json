@@ -1,0 +1,53 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.stats[@vL4GTw].value": {
+      "source": "10",
+      "de": "10"
+    },
+    "data.stats[@Ysp5Dd].value": {
+      "source": "10",
+      "de": "10"
+    },
+    "data.stats[@RC2nUs].value": {
+      "source": "15",
+      "de": "15"
+    },
+    "data.stats[@DgNxlD].value": {
+      "source": "100",
+      "de": "100"
+    },
+    "data.stats[@vL4GTw].label": {
+      "source": "Années d'expérience en intégration réseau industriel",
+      "de": "Jahre Erfahrung in der industriellen Netzwerkintegration"
+    },
+    "data.stats[@Ysp5Dd].label": {
+      "source": "Protocoles industriels maîtrisés (terrain + IIoT)",
+      "de": "Beherrschte Industrieprotokolle (Feld + IIoT)"
+    },
+    "data.stats[@RC2nUs].label": {
+      "source": "Clients connectés en France et à l'international",
+      "de": "Kunden in Frankreich und international vernetzt"
+    },
+    "data.stats[@DgNxlD].label": {
+      "source": "Des projets livrés avec documentation réseau complète",
+      "de": "Projekte mit vollständiger Netzwer dokumentation geliefert"
+    },
+    "data.stats[@vL4GTw].suffix": {
+      "source": "+",
+      "de": " +"
+    },
+    "data.stats[@Ysp5Dd].suffix": {
+      "source": "+",
+      "de": " +"
+    },
+    "data.stats[@RC2nUs].suffix": {
+      "source": "+",
+      "de": " +"
+    },
+    "data.stats[@DgNxlD].suffix": {
+      "source": "%",
+      "de": " %"
+    }
+  }
+}

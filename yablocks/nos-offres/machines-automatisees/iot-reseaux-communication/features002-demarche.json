@@ -13,7 +13,8 @@
         "image": {
           "src": "/images/background-indus.jpg",
           "alt": "Audit réseau industriel OT inventaire protocoles"
-        }
+        },
+        "_tid": "3oKS5J"
       },
       {
         "title": "Architecture & choix des solutions",
@@ -21,7 +22,8 @@
         "image": {
           "src": "/images/homa-appliances.jpg",
           "alt": "Architecture réseau industriel OT/IT passerelle OPC-UA"
-        }
+        },
+        "_tid": "gt9Siy"
       },
       {
         "title": "Intégration & configuration",
@@ -29,7 +31,8 @@
         "image": {
           "src": "/images/background-indus.jpg",
           "alt": "Configuration VLAN pare-feu industriel OPC-UA"
-        }
+        },
+        "_tid": "JXWKcw"
       },
       {
         "title": "Validation, documentation & formation",
@@ -37,7 +40,8 @@
         "image": {
           "src": "/images/automaticien-rhone-alpes.jpg",
           "alt": "Formation documentation réseau industriel AUTEM"
-        }
+        },
+        "_tid": "gZj3ub"
       }
     ]
   }
