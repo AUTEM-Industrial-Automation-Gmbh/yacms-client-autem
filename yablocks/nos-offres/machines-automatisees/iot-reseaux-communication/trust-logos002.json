@@ -9,23 +9,28 @@
     "logos": [
       {
         "src": "/logos/siemens.png",
-        "alt": "Siemens — Profinet, Scalance, S7-1500"
+        "alt": "Siemens — Profinet, Scalance, S7-1500",
+        "_tid": "F4Mx8s"
       },
       {
         "src": "/logos/rockwell.png",
-        "alt": "Rockwell Allen-Bradley — Ethernet/IP"
+        "alt": "Rockwell Allen-Bradley — Ethernet/IP",
+        "_tid": "YFtMQJ"
       },
       {
         "src": "/logos/schneider.png",
-        "alt": "Schneider Electric — Modbus, EcoStruxure"
+        "alt": "Schneider Electric — Modbus, EcoStruxure",
+        "_tid": "otw11O"
       },
       {
         "src": "/logos/ignition.png",
-        "alt": "Ignition — OPC-UA, MQTT Sparkplug B"
+        "alt": "Ignition — OPC-UA, MQTT Sparkplug B",
+        "_tid": "ZMiMp0"
       },
       {
         "src": "/logos/profinet.png",
-        "alt": "Profinet / Profibus — protocoles terrain"
+        "alt": "Profinet / Profibus — protocoles terrain",
+        "_tid": "Vh67Ik"
       }
     ]
   }

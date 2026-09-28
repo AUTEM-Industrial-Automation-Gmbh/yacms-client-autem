@@ -8,27 +8,34 @@
     "title": "Automaticien et intégrateur réseau — pas un installateur de switchs.",
     "paragraphs": [
       {
-        "text": "Connecter des automates à un SCADA ou un MES, ça ne se réduit pas à brancher des câbles Ethernet. Il faut comprendre les protocoles terrain, l'architecture de sécurité OT, et les contraintes de la production. AUTEM intervient avec une double compétence automatisme + réseau — et livre une infrastructure documentée que vos équipes peuvent maintenir."
+        "text": "Connecter des automates à un SCADA ou un MES, ça ne se réduit pas à brancher des câbles Ethernet. Il faut comprendre les protocoles terrain, l'architecture de sécurité OT, et les contraintes de la production. AUTEM intervient avec une double compétence automatisme + réseau — et livre une infrastructure documentée que vos équipes peuvent maintenir.",
+        "_tid": "SSdE2Y"
       }
     ],
     "highlights": [
       {
-        "text": "Double compétence automatisme + réseau : nous comprenons ce que vos automates disent — et pourquoi ils doivent le dire de manière sécurisée"
+        "text": "Double compétence automatisme + réseau : nous comprenons ce que vos automates disent — et pourquoi ils doivent le dire de manière sécurisée",
+        "_tid": "LLpwPo"
       },
       {
-        "text": "Agnostique protocole — nous choisissons OPC-UA, MQTT ou passerelle Modbus selon votre terrain réel, pas selon un catalogue produit"
+        "text": "Agnostique protocole — nous choisissons OPC-UA, MQTT ou passerelle Modbus selon votre terrain réel, pas selon un catalogue produit",
+        "_tid": "9Ubqqg"
       },
       {
-        "text": "Architecture réseau conçue dès le départ avec segmentation OT/IT — la cybersécurité n'est pas une option ajoutée à la fin"
+        "text": "Architecture réseau conçue dès le départ avec segmentation OT/IT — la cybersécurité n'est pas une option ajoutée à la fin",
+        "_tid": "bBqrbC"
       },
       {
-        "text": "Aucune affiliation constructeur — nous recommandons l'équipement réseau adapté, pas le plus avantageux à facturer"
+        "text": "Aucune affiliation constructeur — nous recommandons l'équipement réseau adapté, pas le plus avantageux à facturer",
+        "_tid": "SZVqya"
       },
       {
-        "text": "Documentation réseau complète livrée : plan as-built, configurations sauvegardées, procédures de maintenance"
+        "text": "Documentation réseau complète livrée : plan as-built, configurations sauvegardées, procédures de maintenance",
+        "_tid": "nLrC4d"
       },
       {
-        "text": "Formation de vos équipes IT et automaticiens pour une autonomie complète après livraison"
+        "text": "Formation de vos équipes IT et automaticiens pour une autonomie complète après livraison",
+        "_tid": "QLel7W"
       }
     ],
     "conclusion": "Le résultat : vos machines parlent entre elles, votre réseau est sécurisé et cartographié — et vos équipes savent exactement ce qui tourne sur leur infrastructure.",

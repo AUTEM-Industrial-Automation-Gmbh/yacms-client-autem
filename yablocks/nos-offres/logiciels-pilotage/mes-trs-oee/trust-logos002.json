@@ -9,23 +9,28 @@
     "logos": [
       {
         "src": "/logos/ignition.png",
-        "alt": "Ignition — MES, SCADA, Inductive Automation"
+        "alt": "Ignition — MES, SCADA, Inductive Automation",
+        "_tid": "YdZiHD"
       },
       {
         "src": "/logos/siemens.png",
-        "alt": "Siemens — S7, WinCC, SIMATIC"
+        "alt": "Siemens — S7, WinCC, SIMATIC",
+        "_tid": "2VPWVK"
       },
       {
         "src": "/logos/rockwell.png",
-        "alt": "Rockwell Allen-Bradley — FactoryTalk"
+        "alt": "Rockwell Allen-Bradley — FactoryTalk",
+        "_tid": "YXHBOo"
       },
       {
         "src": "/logos/schneider.png",
-        "alt": "Schneider Electric — EcoStruxure"
+        "alt": "Schneider Electric — EcoStruxure",
+        "_tid": "yUr9BI"
       },
       {
         "src": "/logos/wonderware.png",
-        "alt": "AVEVA Wonderware — System Platform"
+        "alt": "AVEVA Wonderware — System Platform",
+        "_tid": "7vwTgt"
       }
     ]
   }

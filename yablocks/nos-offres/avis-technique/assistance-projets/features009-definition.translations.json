@@ -1,0 +1,49 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "ASSISTANCE PROJETS",
+      "de": "PROJEKTUNTERSTÜTZUNG"
+    },
+    "data.title": {
+      "source": "AMOA technique en automatisme et digitalisation : périmètre et livrables",
+      "de": "Technischer AMOA für Automatisierung und Digitalisierung: Umfang und Liefergegenstände"
+    },
+    "data.paragraphs[@0bVaNU].text": {
+      "source": "L'assistance à maîtrise d'ouvrage (AMOA) technique en automatisme couvre tout le cycle d'un projet industriel du côté du client : de la définition des besoins jusqu'à la réception du système. AUTEM joue le rôle de traducteur entre vos enjeux opérationnels et les exigences techniques des intégrateurs.",
+      "de": "Die technische Unterstützung der Bauherrenschaft (AMOA) im Bereich Automatisierung deckt den gesamten Zyklus eines Industrieprojekts aus Kundensicht ab: von der Bedarfsdefinition bis zur Abnahme des Systems. AUTEM fungiert als Übersetzer zwischen Ihren operativen Herausforderungen und den technischen Anforderungen der Integratoren."
+    },
+    "data.highlights[@breiuH].text": {
+      "source": "Rédaction du cahier des charges technique et fonctionnel pour appels d'offres",
+      "de": "Erstellung technischer und funktionaler Lastenhefte für Ausschreibungen"
+    },
+    "data.highlights[@DcyDKe].text": {
+      "source": "Analyse comparative des offres intégrateurs et recommandations objectives",
+      "de": "Vergleichende Analyse von Integratorangeboten und objektive Empfehlungen"
+    },
+    "data.highlights[@NyuvyR].text": {
+      "source": "Suivi de conception : revues techniques, validation des plans, commentaires documentaires",
+      "de": "Konstruktionsüberwachung: technische Überprüfungen, Planvalidierung, dokumentarische Kommentare"
+    },
+    "data.highlights[@FhDU8Y].text": {
+      "source": "Préparation et conduite des tests d'acceptation (FAT en atelier intégrateur, SAT sur site client)",
+      "de": "Vorbereitung und Durchführung von Abnahmetests (FAT im Integrator-Werk, SAT beim Kunden vor Ort)"
+    },
+    "data.highlights[@d4n35T].text": {
+      "source": "Réception technique et constitution du dossier de fin d'affaire (DOE, manuels, programmes)",
+      "de": "Technische Abnahme und Erstellung des Abschlussdokuments (DOE, Handbücher, Programme)"
+    },
+    "data.highlights[@2IjWYF].text": {
+      "source": "Coordination entre les expertises : automaticien, électricien, informatique industrielle, process",
+      "de": "Koordination zwischen den Fachbereichen: Automatisierungstechnik, Elektrotechnik, Industrieinformatik, Prozess"
+    },
+    "data.conclusion": {
+      "source": "Résultat : un projet réceptionné conforme au besoin initial, avec une équipe interne formée et une documentation exploitable pour la maintenance.",
+      "de": "Ergebnis: Ein Projekt, das gemäß dem ursprünglichen Bedarf abgenommen wird, mit einem geschulten internen Team und einer für die Wartung nutzbaren Dokumentation."
+    },
+    "data.image.alt": {
+      "source": "Assistance MOA projet automatisme industriel — AUTEM",
+      "de": "MOA-Projektunterstützung für industrielle Automatisierung — AUTEM"
+    }
+  }
+}

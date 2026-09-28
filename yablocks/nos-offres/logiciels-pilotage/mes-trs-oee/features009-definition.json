@@ -8,27 +8,34 @@
     "title": "De la donnée terrain au tableau de bord décisionnel : périmètre et définitions",
     "paragraphs": [
       {
-        "text": "Collecter automatiquement les données de production depuis vos automates, calculer les indicateurs de performance (TRS/OEE) en temps réel, et les restituer sur des tableaux de bord adaptés à chaque niveau — opérateur, chef d'équipe, direction."
+        "text": "Collecter automatiquement les données de production depuis vos automates, calculer les indicateurs de performance (TRS/OEE) en temps réel, et les restituer sur des tableaux de bord adaptés à chaque niveau — opérateur, chef d'équipe, direction.",
+        "_tid": "RhHssu"
       }
     ],
     "highlights": [
       {
-        "text": "Intégration directe depuis les automates (Siemens, Rockwell, Schneider) — pas de saisie manuelle"
+        "text": "Intégration directe depuis les automates (Siemens, Rockwell, Schneider) — pas de saisie manuelle",
+        "_tid": "DNDgmd"
       },
       {
-        "text": "Calcul TRS (Disponibilité × Performance × Qualité) et OEE en temps réel"
+        "text": "Calcul TRS (Disponibilité × Performance × Qualité) et OEE en temps réel",
+        "_tid": "h3eSfG"
       },
       {
-        "text": "Saisie des causes de perte par les opérateurs directement sur IHM ou tablette"
+        "text": "Saisie des causes de perte par les opérateurs directement sur IHM ou tablette",
+        "_tid": "N5yZpW"
       },
       {
-        "text": "Tableaux de bord par poste, par ligne, par équipe — accessibles depuis navigateur"
+        "text": "Tableaux de bord par poste, par ligne, par équipe — accessibles depuis navigateur",
+        "_tid": "eKFVwS"
       },
       {
-        "text": "Historique des données, tendances, comparaisons shift-to-shift et semaine-à-semaine"
+        "text": "Historique des données, tendances, comparaisons shift-to-shift et semaine-à-semaine",
+        "_tid": "Mc4vXP"
       },
       {
-        "text": "Alertes temps réel : dérive TRS, seuil de rejet qualité, durée d'arrêt anormale"
+        "text": "Alertes temps réel : dérive TRS, seuil de rejet qualité, durée d'arrêt anormale",
+        "_tid": "NPA7wq"
       }
     ],
     "conclusion": "Résultat : une équipe de production qui prend ses décisions sur la base de données réelles — pas de perceptions. Et une direction qui peut mesurer l'impact de chaque action d'amélioration.",

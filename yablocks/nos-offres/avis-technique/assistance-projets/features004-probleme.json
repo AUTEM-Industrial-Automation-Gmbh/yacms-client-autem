@@ -7,30 +7,37 @@
     "badges": [
       {
         "src": "/logos/thalys.png",
-        "alt": "Thalys — AMOA vending machines, télémétrie IoT"
+        "alt": "Thalys — AMOA vending machines, télémétrie IoT",
+        "_tid": "NQGnfm"
       },
       {
         "src": "/logos/amazon.png",
-        "alt": "Amazon — WCS/WMS, automatisation entrepôt mécanisé"
+        "alt": "Amazon — WCS/WMS, automatisation entrepôt mécanisé",
+        "_tid": "O8E9ql"
       },
       {
         "src": "/logos/sftrf.png",
-        "alt": "SEE/SFTRF — Supervision réseau routier et ferroviaire"
+        "alt": "SEE/SFTRF — Supervision réseau routier et ferroviaire",
+        "_tid": "slYZwB"
       }
     ],
     "headline": "Un projet industriel mal piloté côté client, c'est un intégrateur qui prend toutes les décisions techniques à votre place.",
     "paragraphs": [
       {
-        "text": "Dans beaucoup de projets d'automatisme ou de digitalisation, le donneur d'ordre n'a pas les ressources internes pour suivre techniquement l'intégrateur. Résultat : les spécifications restent floues, les dérives de périmètre ne sont pas détectées, et à la réception, le système livré ne correspond pas exactement aux besoins opérationnels — sans que personne ne soit formellement en tort."
+        "text": "Dans beaucoup de projets d'automatisme ou de digitalisation, le donneur d'ordre n'a pas les ressources internes pour suivre techniquement l'intégrateur. Résultat : les spécifications restent floues, les dérives de périmètre ne sont pas détectées, et à la réception, le système livré ne correspond pas exactement aux besoins opérationnels — sans que personne ne soit formellement en tort.",
+        "_tid": "iaFBYa"
       },
       {
-        "text": "Les projets qui dérapent ont souvent en commun : un cahier des charges rédigé trop vite et sans expertise terrain, une phase de conception expédiée, des tests d'acceptation conduits sans méthode, et une formation bâclée à la mise en service — laissant des équipes démunies face à un système qu'elles n'ont pas contribué à définir."
+        "text": "Les projets qui dérapent ont souvent en commun : un cahier des charges rédigé trop vite et sans expertise terrain, une phase de conception expédiée, des tests d'acceptation conduits sans méthode, et une formation bâclée à la mise en service — laissant des équipes démunies face à un système qu'elles n'ont pas contribué à définir.",
+        "_tid": "TLXEIK"
       },
       {
-        "text": "L'assistance à maîtrise d'ouvrage technique (AMOA) permet de rééquilibrer cette relation : avec un expert de votre côté, vous rédigez des spécifications précises, vous pilotez les jalons techniques avec méthode, et vous réceptionnez un système conforme à ce que vous vouliez — pas seulement à ce que vous avez écrit."
+        "text": "L'assistance à maîtrise d'ouvrage technique (AMOA) permet de rééquilibrer cette relation : avec un expert de votre côté, vous rédigez des spécifications précises, vous pilotez les jalons techniques avec méthode, et vous réceptionnez un système conforme à ce que vous vouliez — pas seulement à ce que vous avez écrit.",
+        "_tid": "XrMqbI"
       },
       {
-        "text": "AUTEM assure cette mission de représentant technique du client auprès des intégrateurs, en apportant une connaissance métier de l'automatisme et de l'informatique industrielle que peu de maîtres d'ouvrage ont en interne."
+        "text": "AUTEM assure cette mission de représentant technique du client auprès des intégrateurs, en apportant une connaissance métier de l'automatisme et de l'informatique industrielle que peu de maîtres d'ouvrage ont en interne.",
+        "_tid": "ooRJxe"
       }
     ],
     "closing": "Votre intégrateur travaille mieux quand votre client sait ce qu'il veut — et peut le défendre techniquement."

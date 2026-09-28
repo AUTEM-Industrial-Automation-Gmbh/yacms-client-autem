@@ -8,22 +8,26 @@
       {
         "value": "10",
         "label": "Années d'expérience en intégration réseau industriel",
-        "suffix": "+"
+        "suffix": "+",
+        "_tid": "vL4GTw"
       },
       {
         "value": "10",
         "label": "Protocoles industriels maîtrisés (terrain + IIoT)",
-        "suffix": "+"
+        "suffix": "+",
+        "_tid": "Ysp5Dd"
       },
       {
         "value": "15",
         "label": "Clients connectés en France et à l'international",
-        "suffix": "+"
+        "suffix": "+",
+        "_tid": "RC2nUs"
       },
       {
         "value": "100",
         "label": "Des projets livrés avec documentation réseau complète",
-        "suffix": "%"
+        "suffix": "%",
+        "_tid": "DgNxlD"
       }
     ]
   }

@@ -8,6 +8,18 @@
     "data.cta.text": {
       "source": "Lancer votre audit d'obsolescence",
       "de": "Starten Sie Ihre Obsoleszenzprüfung"
+    },
+    "data.benefits[@YahhEK].text": {
+      "source": "Audit d'obsolescence complet : automates, IPC, SCADA, logiciels — toutes marques",
+      "de": "Umfassende Obsoleszenzprüfung: Automaten, IPC, SCADA, Software – alle Marken"
+    },
+    "data.benefits[@VKwOmM].text": {
+      "source": "Plan de renouvellement sur 3 à 5 ans : priorisé, budgété, avec fenêtres d'intervention",
+      "de": "3- bis 5-Jahres-Erneuerungsplan: Priorisiert, budgetiert, mit Wartungsfenstern"
+    },
+    "data.benefits[@anHagH].text": {
+      "source": "Expert indépendant — aucun intérêt commercial lié aux marques recommandées",
+      "de": "Unabhängiger Experte – kein kommerzielles Interesse an empfohlenen Marken"
     }
   }
 }

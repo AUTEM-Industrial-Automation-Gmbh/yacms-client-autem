@@ -1,0 +1,53 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.sectionLabel": {
+      "source": "FAQ",
+      "de": "FAQ"
+    },
+    "data.title": {
+      "source": "Questions fréquentes sur l'assistance à la maîtrise d'ouvrage technique",
+      "de": "Häufig gestellte Fragen zur technischen IT-Projektleitung"
+    },
+    "data.items[@hR4qcx].question": {
+      "source": "Quelle différence entre un AMOA et un chef de projet intégrateur ?",
+      "de": "Was ist der Unterschied zwischen einem technischen IT-Projektleiter (AMOA) und einem Integrationsprojektmanager?"
+    },
+    "data.items[@mSRUfs].question": {
+      "source": "À quelle phase du projet intervenez-vous ?",
+      "de": "In welcher Projektphase sind Sie tätig?"
+    },
+    "data.items[@2cPd6A].question": {
+      "source": "Mon projet est déjà en cours avec un intégrateur — pouvez-vous quand même intervenir ?",
+      "de": "Mein Projekt läuft bereits mit einem Integrator – können Sie trotzdem eingreifen?"
+    },
+    "data.items[@8n2IFZ].question": {
+      "source": "Combien coûte une prestation d'AMOA ?",
+      "de": "Was kostet eine AMOA-Leistung?"
+    },
+    "data.items[@udQpQF].question": {
+      "source": "Travaillez-vous sur des projets hors France ?",
+      "de": "Arbeiten Sie auch an Projekten außerhalb Frankreichs?"
+    },
+    "data.items[@hR4qcx].answer": {
+      "source": "Le chef de projet intégrateur représente l'entreprise qui réalise les travaux — son objectif est de livrer dans les délais et marges. L'AMOA (Assistance à Maîtrise d'Ouvrage) représente le client : son rôle est de s'assurer que ce qui est livré correspond bien aux besoins initiaux, dans les règles de l'art, avec la documentation requise. AUTEM joue ce second rôle — indépendant de tout prestataire.",
+      "de": "Der Integrationsprojektmanager vertritt das Unternehmen, das die Arbeiten ausführt – sein Ziel ist es, die Lieferung pünktlich und im Rahmen des Budgets abzuschließen. Der technische IT-Projektleiter (AMOA) vertritt den Kunden: Seine Aufgabe ist es, sicherzustellen, dass das gelieferte Produkt den ursprünglichen Anforderungen entspricht, fachgerecht ausgeführt wird und die erforderliche Dokumentation enthält. AUTEM übernimmt diese zweite Rolle – unabhängig von jedem Anbieter."
+    },
+    "data.items[@mSRUfs].answer": {
+      "source": "Idéalement dès l'expression du besoin, pour structurer les spécifications avant tout engagement avec un intégrateur. Mais nous pouvons aussi intervenir en cours de projet pour reprendre la gestion technique d'un projet qui s'emballe, ou en fin de projet pour préparer les tests de réception et garantir la qualité de la documentation finale.",
+      "de": "Idealerweise ab der Bedarfsermittlung, um die Spezifikationen vor jeder Beauftragung eines Integrators zu strukturieren. Wir können aber auch während des Projekts eingreifen, um die technische Leitung eines außer Kontrolle geratenen Projekts zu übernehmen, oder am Ende des Projekts, um die Abnahmetests vorzubereiten und die Qualität der endgültigen Dokumentation sicherzustellen."
+    },
+    "data.items[@2cPd6A].answer": {
+      "source": "Oui. C'est une situation fréquente. Nous pouvons faire un état des lieux technique du projet, identifier les écarts par rapport aux spécifications initiales, et proposer un plan d'action pour cadrer la suite — sans mettre en péril la relation avec l'intégrateur. Notre approche est factuelle et constructive.",
+      "de": "Ja. Dies ist eine häufige Situation. Wir können eine technische Bestandsaufnahme des Projekts durchführen, Abweichungen von den ursprünglichen Spezifikationen identifizieren und einen Aktionsplan vorschlagen, um den weiteren Verlauf zu steuern – ohne die Beziehung zum Integrator zu gefährden. Unser Ansatz ist sachlich und konstruktiv."
+    },
+    "data.items[@8n2IFZ].answer": {
+      "source": "Cela dépend du périmètre et de la phase où nous intervenons. Une assistance complète de l'expression du besoin à la réception représente typiquement 5 à 15% du montant de réalisation. Une intervention ciblée (rédaction de cahier des charges, conduite de FAT/SAT) est facturée à la mission sur devis. Contactez-nous avec les éléments de votre projet pour un chiffrage rapide.",
+      "de": "Das hängt vom Umfang und der Phase ab, in der wir tätig sind. Eine vollständige Unterstützung von der Bedarfsermittlung bis zur Abnahme entspricht typischerweise 5 bis 15 % der Realisierungskosten. Ein gezielter Eingriff (Erstellung von Lastenheften, Durchführung von FAT/SAT) wird pro Auftrag nach Kostenvoranschlag abgerechnet. Kontaktieren Sie uns mit den Details Ihres Projekts für eine schnelle Kostenschätzung."
+    },
+    "data.items[@udQpQF].answer": {
+      "source": "Oui. Nous avons accompagné des projets en Belgique (Thalys, Bruxelles), au Canada (TM), en Israël (Wonderlogix), en Russie (Danone/CoVostok), au Luxembourg (ArcelorMittal) et au Maroc (St-Gobain). Nous intervenons en France, en Europe et à l'international, en français et en anglais.",
+      "de": "Ja. Wir haben Projekte in Belgien (Thalys, Brüssel), Kanada (TM), Israel (Wonderlogix), Russland (Danone/CoVostok), Luxemburg (ArcelorMittal) und Marokko (St-Gobain) betreut. Wir sind in Frankreich, Europa und international tätig, auf Französisch und Englisch."
+    }
+  }
+}

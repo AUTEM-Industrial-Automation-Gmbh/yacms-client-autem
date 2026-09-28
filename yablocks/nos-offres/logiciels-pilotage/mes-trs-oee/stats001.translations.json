@@ -1,0 +1,53 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.stats[@aLjSeQ].value": {
+      "source": "10",
+      "de": "10"
+    },
+    "data.stats[@Za2ePl].value": {
+      "source": "5",
+      "de": "5"
+    },
+    "data.stats[@5oac4c].value": {
+      "source": "15",
+      "de": "15"
+    },
+    "data.stats[@DVRmzO].value": {
+      "source": "100",
+      "de": "100"
+    },
+    "data.stats[@aLjSeQ].label": {
+      "source": "Années d'expérience en intégration MES et supervision industrielle",
+      "de": "Jahre Erfahrung in MES-Integration und industrieller Überwachung"
+    },
+    "data.stats[@Za2ePl].label": {
+      "source": "Plateformes SCADA/MES maîtrisées : Ignition, WinCC, FactoryTalk, Wonderware, InduSoft",
+      "de": "Beherrschte SCADA/MES-Plattformen: Ignition, WinCC, FactoryTalk, Wonderware, InduSoft"
+    },
+    "data.stats[@5oac4c].label": {
+      "source": "Clients accompagnés en France et à l'international",
+      "de": "Begleitete Kunden in Frankreich und international"
+    },
+    "data.stats[@DVRmzO].label": {
+      "source": "Des projets livrés avec formation opérateurs et documentation complète",
+      "de": "Abgeschlossene Projekte mit Schulung der Bediener und vollständiger Dokumentation"
+    },
+    "data.stats[@aLjSeQ].suffix": {
+      "source": "+",
+      "de": ""
+    },
+    "data.stats[@Za2ePl].suffix": {
+      "source": "+",
+      "de": ""
+    },
+    "data.stats[@5oac4c].suffix": {
+      "source": "+",
+      "de": ""
+    },
+    "data.stats[@DVRmzO].suffix": {
+      "source": "%",
+      "de": ""
+    }
+  }
+}

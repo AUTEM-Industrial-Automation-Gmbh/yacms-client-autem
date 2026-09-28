@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Projet Unilever Oise — intégration TRS MES production",
+      "de": "Unilever-Projekt Oise – MES OEE Produktionsintegration"
+    },
+    "data.quote": {
+      "source": "Le TRS est désormais un indicateur clé de nos réunions de production et les équipes ont rapidement adopté le nouveau système.",
+      "de": "Der OEE ist nun ein Schlüsselindikator in unseren Produktionsbesprechungen und die Teams haben das neue System schnell übernommen."
+    },
+    "data.author.name": {
+      "source": "Responsable Production",
+      "de": "Produktionsleiter"
+    },
+    "data.author.role": {
+      "source": "Unilever — Oise",
+      "de": "Unilever – Oise"
+    }
+  }
+}

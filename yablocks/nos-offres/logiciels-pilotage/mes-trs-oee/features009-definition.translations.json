@@ -1,0 +1,49 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "MES — TRS — OEE",
+      "de": "MES — TRS — OEE"
+    },
+    "data.title": {
+      "source": "De la donnée terrain au tableau de bord décisionnel : périmètre et définitions",
+      "de": "Von Betriebsdaten zum Entscheidungs-Dashboard: Umfang und Definitionen"
+    },
+    "data.paragraphs[@RhHssu].text": {
+      "source": "Collecter automatiquement les données de production depuis vos automates, calculer les indicateurs de performance (TRS/OEE) en temps réel, et les restituer sur des tableaux de bord adaptés à chaque niveau — opérateur, chef d'équipe, direction.",
+      "de": "Erfassen Sie automatisch Produktionsdaten von Ihren Steuerungen, berechnen Sie Echtzeit-Leistungskennzahlen (TRS/OEE) und stellen Sie diese auf Dashboards dar, die für jede Ebene geeignet sind – Bediener, Schichtführer, Management."
+    },
+    "data.highlights[@DNDgmd].text": {
+      "source": "Intégration directe depuis les automates (Siemens, Rockwell, Schneider) — pas de saisie manuelle",
+      "de": "Direkte Integration von Steuerungen (Siemens, Rockwell, Schneider) – keine manuelle Eingabe"
+    },
+    "data.highlights[@h3eSfG].text": {
+      "source": "Calcul TRS (Disponibilité × Performance × Qualité) et OEE en temps réel",
+      "de": "Echtzeit-Berechnung von TRS (Verfügbarkeit × Leistung × Qualität) und OEE"
+    },
+    "data.highlights[@N5yZpW].text": {
+      "source": "Saisie des causes de perte par les opérateurs directement sur IHM ou tablette",
+      "de": "Erfassung von Verlustursachen durch Bediener direkt auf HMI oder Tablet"
+    },
+    "data.highlights[@eKFVwS].text": {
+      "source": "Tableaux de bord par poste, par ligne, par équipe — accessibles depuis navigateur",
+      "de": "Dashboards pro Arbeitsplatz, pro Linie, pro Team – über den Browser zugänglich"
+    },
+    "data.highlights[@Mc4vXP].text": {
+      "source": "Historique des données, tendances, comparaisons shift-to-shift et semaine-à-semaine",
+      "de": "Datenhistorie, Trends, Vergleiche Schicht-zu-Schicht und Woche-zu-Woche"
+    },
+    "data.highlights[@NPA7wq].text": {
+      "source": "Alertes temps réel : dérive TRS, seuil de rejet qualité, durée d'arrêt anormale",
+      "de": "Echtzeit-Warnungen: TRS-Abweichung, Qualitätsausschuss-Schwelle, anormale Stillstandsdauer"
+    },
+    "data.conclusion": {
+      "source": "Résultat : une équipe de production qui prend ses décisions sur la base de données réelles — pas de perceptions. Et une direction qui peut mesurer l'impact de chaque action d'amélioration.",
+      "de": "Ergebnis: Ein Produktionsteam, das seine Entscheidungen auf Basis realer Daten trifft – nicht auf Wahrnehmungen. Und ein Management, das die Auswirkungen jeder Verbesserungsmaßnahme messen kann."
+    },
+    "data.image.alt": {
+      "source": "Tableau de bord TRS OEE MES production temps réel — AUTEM",
+      "de": "TRS OEE MES Produktions-Echtzeit-Dashboard – AUTEM"
+    }
+  }
+}

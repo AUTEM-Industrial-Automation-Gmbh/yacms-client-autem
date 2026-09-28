@@ -1,0 +1,47 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "IoT, Réseaux & Communication Industrielle | AUTEM",
+      "de": "IoT, industrielle Netzwerke & Kommunikation | AUTEM",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "AUTEM connecte vos machines et systèmes industriels : OPC-UA, MQTT, BACnet, Profinet, Modbus. Intégration réseau OT/IT et sécurité ICS.",
+      "de": "AUTEM vernetzt Ihre Maschinen und Industriesysteme: OPC-UA, MQTT, BACnet, Profinet, Modbus. OT/IT-Netzwerkintegration und ICS-Sicherheit.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "IoT industriel",
+        "OPC-UA",
+        "MQTT industriel",
+        "Profinet",
+        "Modbus TCP",
+        "communication industrielle",
+        "réseau OT IT",
+        "segmentation VLAN",
+        "cybersécurité ICS",
+        "AUTEM"
+      ],
+      "de": [
+        "Industrielles IoT",
+        "OPC-UA",
+        "Industrielles MQTT",
+        "Profinet",
+        "Modbus TCP",
+        "Industrielle Kommunikation",
+        "OT IT Netzwerk",
+        "VLAN-Segmentierung",
+        "ICS Cybersicherheit",
+        "AUTEM"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — IoT et réseaux de communication industrielle",
+      "de": "AUTEM – IoT und industrielle Kommunikationsnetzwerke",
+      "de:manual": true
+    }
+  }
+}

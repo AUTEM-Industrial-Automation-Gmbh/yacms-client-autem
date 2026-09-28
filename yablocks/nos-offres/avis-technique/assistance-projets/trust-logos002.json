@@ -9,23 +9,28 @@
     "logos": [
       {
         "src": "/logos/thalys.png",
-        "alt": "Thalys — AMOA vending machines, télémétrie IoT, Bruxelles"
+        "alt": "Thalys — AMOA vending machines, télémétrie IoT, Bruxelles",
+        "_tid": "7w4DFf"
       },
       {
         "src": "/logos/amazon.png",
-        "alt": "Amazon — WCS/WMS automatisation entrepôt mécanisé, Paris"
+        "alt": "Amazon — WCS/WMS automatisation entrepôt mécanisé, Paris",
+        "_tid": "lLzriP"
       },
       {
         "src": "/logos/sftrf.png",
-        "alt": "SEE/SFTRF — supervision réseau routier ferroviaire Rhône-Alpes"
+        "alt": "SEE/SFTRF — supervision réseau routier ferroviaire Rhône-Alpes",
+        "_tid": "p0hHPc"
       },
       {
         "src": "/logos/hermes.png",
-        "alt": "Hermès — architecture et assistance systèmes industriels"
+        "alt": "Hermès — architecture et assistance systèmes industriels",
+        "_tid": "tml0rk"
       },
       {
         "src": "/logos/seckiot.png",
-        "alt": "Seckiot — cybersécurité IoT systèmes industriels"
+        "alt": "Seckiot — cybersécurité IoT systèmes industriels",
+        "_tid": "JSK7iK"
       }
     ]
   }

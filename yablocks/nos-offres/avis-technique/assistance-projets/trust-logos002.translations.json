@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Ils nous ont confié l'assistance technique de leurs projets stratégiques",
+      "de": "Sie vertrauten uns die technische Betreuung ihrer strategischen Projekte an"
+    },
+    "data.subtitle": {
+      "source": "Indépendant, multimarque, expérience terrain — de la spec à la réception",
+      "de": "Unabhängig, markenübergreifend, Praxiserfahrung – von der Spezifikation bis zur Abnahme"
+    },
+    "data.logos[@7w4DFf].alt": {
+      "source": "Thalys — AMOA vending machines, télémétrie IoT, Bruxelles",
+      "de": "Thalys – AMOA Verkaufsautomaten, IoT-Telemetrie, Brüssel"
+    },
+    "data.logos[@lLzriP].alt": {
+      "source": "Amazon — WCS/WMS automatisation entrepôt mécanisé, Paris",
+      "de": "Amazon – WCS/WMS Automatisierung von Logistikzentren, Paris"
+    },
+    "data.logos[@p0hHPc].alt": {
+      "source": "SEE/SFTRF — supervision réseau routier ferroviaire Rhône-Alpes",
+      "de": "SEE/SFTRF – Überwachung des Straßen- und Schienennetzes in der Region Rhône-Alpes"
+    },
+    "data.logos[@tml0rk].alt": {
+      "source": "Hermès — architecture et assistance systèmes industriels",
+      "de": "Hermès – Architektur und Unterstützung von Industriesystemen"
+    },
+    "data.logos[@JSK7iK].alt": {
+      "source": "Seckiot — cybersécurité IoT systèmes industriels",
+      "de": "Seckiot – Cybersicherheit von IoT-Systemen in der Industrie"
+    }
+  }
+}

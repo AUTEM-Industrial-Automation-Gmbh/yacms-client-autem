@@ -1,0 +1,53 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.stats[@f2fvZU].value": {
+      "source": "10",
+      "de": "10"
+    },
+    "data.stats[@zBLKio].value": {
+      "source": "15",
+      "de": "15"
+    },
+    "data.stats[@2Q1igJ].value": {
+      "source": "6",
+      "de": "6"
+    },
+    "data.stats[@eoTgiT].value": {
+      "source": "100",
+      "de": "100"
+    },
+    "data.stats[@f2fvZU].label": {
+      "source": "Années d'expérience en pilotage et assistance technique de projets industriels",
+      "de": "Jahre Erfahrung in der Steuerung und technischen Betreuung von Industrieprojekten"
+    },
+    "data.stats[@zBLKio].label": {
+      "source": "Projets accompagnés en France et à l'international comme représentant technique client",
+      "de": "Begleitete Projekte in Frankreich und international als technischer Kundenvertreter"
+    },
+    "data.stats[@2Q1igJ].label": {
+      "source": "Secteurs couverts pour des missions d'AMOA : logistique, luxe, mobilité, chimie, agroalimentaire, métallurgie",
+      "de": "Abgedeckte Sektoren für AMOA-Aufgaben: Logistik, Luxusgüter, Mobilität, Chemie, Lebensmittel, Metallurgie"
+    },
+    "data.stats[@eoTgiT].label": {
+      "source": "Des projets livrés avec FAT et SAT documentés, dossier de fin d'affaire complet",
+      "de": "Projekte mit dokumentierter FAT und SAT, vollständige Projektabschlussdokumentation"
+    },
+    "data.stats[@f2fvZU].suffix": {
+      "source": "+",
+      "de": "+ "
+    },
+    "data.stats[@zBLKio].suffix": {
+      "source": "+",
+      "de": "+ "
+    },
+    "data.stats[@2Q1igJ].suffix": {
+      "source": "+",
+      "de": "+ "
+    },
+    "data.stats[@eoTgiT].suffix": {
+      "source": "%",
+      "de": " %"
+    }
+  }
+}
