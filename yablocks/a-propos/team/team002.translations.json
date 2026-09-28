@@ -26,8 +26,8 @@
       "de": "Alexandre Saïdi"
     },
     "data.members[@4gGhd7].title": {
-      "source": "Fondateur & Expert Automaticien",
-      "de": "Gründer & Automatisierungsexperte"
+      "source": "Projets & Architecture",
+      "de": "Projekte & Architektur"
     },
     "data.members[@TR026s].title": {
       "source": "Ingénieur Logiciel Industriel",
@@ -62,8 +62,8 @@
       "de": "Eigenständiger und vielseitiger Automatisierungsingenieur, der in der Lage ist, ein Automatisierungsprojekt von Anfang bis Ende zu leiten: von der Funktionsanalyse bis zur Inbetriebnahme vor Ort."
     },
     "data.members[@4gGhd7].image.alt": {
-      "source": "Marc Akoto - Fondateur AUTEM",
-      "de": "Marc Akoto - Gründer AUTEM"
+      "source": "Marc Akoto - AUTEM",
+      "de": "Marc Akoto - AUTEM"
     },
     "data.members[@TR026s].image.alt": {
       "source": "Idriss Benguezzou - Ingénieur Logiciel Industriel",
@@ -172,6 +172,94 @@
     "data.members[@va7qHH].skills[@YkWaEK].text": {
       "source": "Mise en service terrain",
       "de": "Vor-Ort-Inbetriebnahme"
+    },
+    "data.members[@PAciSG].name": {
+      "source": "Matthew Smith - fieldcloud.com",
+      "de": "Matthew Smith - fieldcloud.com"
+    },
+    "data.members[@ockqGJ].name": {
+      "source": "Vincent Rivière - vrautomation.fr",
+      "de": "Vincent Rivière - vrautomation.fr"
+    },
+    "data.members[@8lEMDv].name": {
+      "source": "Gerardo Gutiérrez - engizen.com",
+      "de": "Gerardo Gutiérrez - engizen.com"
+    },
+    "data.members[@PAciSG].title": {
+      "source": "Connected Manufacturing | Risk & Continuity Advisor",
+      "de": "Connected Manufacturing | Risk & Continuity Advisor"
+    },
+    "data.members[@ockqGJ].title": {
+      "source": "Automatisme et Informatique Industrielle",
+      "de": "Automatisierung und industrielle IT"
+    },
+    "data.members[@8lEMDv].title": {
+      "source": "Optimisation & Performance",
+      "de": "Optimierung & Leistung"
+    },
+    "data.members[@PAciSG].location": {
+      "source": "Grenoble 🇫🇷",
+      "de": "Grenoble 🇫🇷"
+    },
+    "data.members[@ockqGJ].location": {
+      "source": "Lyon 🇫🇷",
+      "de": "Lyon 🇫🇷"
+    },
+    "data.members[@8lEMDv].location": {
+      "source": "Annecy 🇫🇷",
+      "de": "Annecy 🇫🇷"
+    },
+    "data.members[@PAciSG].description": {
+      "source": "Most modernization efforts fail not because of technology, but because of forgotten knowledge, disconnected teams, and fragile systems. >>> 35+ years in the trenches of industrial IT, OT, and telecommunications and one thing has become crystal clear to me : I stand for industrial leaders who refuse to let legacy systems trap their future. ",
+      "de": "Die meisten Modernisierungsbemühungen scheitern nicht an der Technologie, sondern an vergessenem Wissen, getrennten Teams und fragilen Systemen. >>> Über 35 Jahre Erfahrung in der industriellen IT, OT und Telekommunikation haben mir eines klar gemacht: Ich stehe für industrielle Führungskräfte, die sich weigern, Altsysteme ihre Zukunft gefangen halten zu lassen."
+    },
+    "data.members[@ockqGJ].description": {
+      "source": "👷‍ Consultant Indépendant 🚀 Fiabilisation & réduction des arrêts | 💸 Modernisation & sécurisation des installations | 🥇 GoldenTech 2024\n\n>>> Vincent accompagne depuis plus de 10 ans les industriels (PME, grands groupes, start-up) dans la réussite de leurs projets d’automatisme, d’intégration SCADA, de digitalisation (IoT), de rétrofit de machines et dans la conception complète de solutions sur-mesure.\n\n>>> Sa force : la prise en charge de projets complets, du cahier des charges à la mise en service.\n\n>>> Un partenaire fiable pour vos projets industriels, de la réflexion à la réalisation.",
+      "de": "👷‍ Freiberuflicher Berater 🚀 Zuverlässigkeit & Reduzierung von Ausfallzeiten | 💸 Modernisierung & Sicherung von Anlagen | 🥇 GoldenTech 2024\n\n>>> Vincent unterstützt seit über 10 Jahren Industrieunternehmen (KMU, Großunternehmen, Start-ups) erfolgreich bei ihren Projekten in den Bereichen Automatisierung, SCADA-Integration, Digitalisierung (IoT), Maschinen-Retrofit und bei der kompletten Entwicklung maßgeschneiderter Lösungen.\n\n>>> Seine Stärke: Übernahme kompletter Projekte, vom Lastenheft bis zur Inbetriebnahme.\n\n>>> Ein zuverlässiger Partner für Ihre Industrieprojekte, von der Konzeption bis zur Realisierung."
+    },
+    "data.members[@8lEMDv].description": {
+      "source": "Consultant en Automatisme & Informatique Industrielle | Optimisation & Performance des Bureaux d’Études\n\n  >>> Une expertise éprouvée EIA, avec un accompagnement personnalisé pour des projets de toute envergure.\n\n>>> Une capacité à transformer des défis techniques en opportunités de croissance grâce à des solutions sur-mesure.\n\n>>> Une approche méthodologique qui combine innovation technologique et efficacité opérationnelle.",
+      "de": "Berater für Automatisierung & industrielle IT | Optimierung & Leistung von Planungsbüros\n\n  >>> Nachgewiesene Expertise in Automatisierung und industrieller IT, mit persönlicher Betreuung für Projekte jeder Größenordnung.\n\n>>> Die Fähigkeit, technische Herausforderungen durch maßgeschneiderte Lösungen in Wachstumschancen zu verwandeln.\n\n>>> Ein methodischer Ansatz, der technologische Innovation mit operativer Effizienz kombiniert."
+    },
+    "data.members[@PAciSG].image.alt": {
+      "source": "",
+      "de": ""
+    },
+    "data.members[@ockqGJ].image.alt": {
+      "source": "Vincent Riviere - VR Automation",
+      "de": "Vincent Riviere - VR Automation"
+    },
+    "data.members[@8lEMDv].image.alt": {
+      "source": "Gerardo Gutiérrez - engizen.com",
+      "de": "Gerardo Gutiérrez - engizen.com"
+    },
+    "data.members[@4gGhd7].hoverImage.alt": {
+      "source": "Marc Akoto - AUTEM",
+      "de": "Marc Akoto - AUTEM"
+    },
+    "data.members[@PAciSG].hoverImage.alt": {
+      "source": "",
+      "de": ""
+    },
+    "data.members[@ockqGJ].hoverImage.alt": {
+      "source": "VR Automation (Partenaire)",
+      "de": "VR Automation (Partner)"
+    },
+    "data.members[@8lEMDv].hoverImage.alt": {
+      "source": "Gerardo Gutiérrez - engizen.com",
+      "de": "Gerardo Gutiérrez - engizen.com"
+    },
+    "data.members[@PAciSG].linkedin": {
+      "source": "https://fieldcloud.com/",
+      "de": "https://fieldcloud.com/"
+    },
+    "data.members[@ockqGJ].linkedin": {
+      "source": "https://vrautomation.fr/",
+      "de": "https://vrautomation.fr/"
+    },
+    "data.members[@8lEMDv].linkedin": {
+      "source": "https://engizen.com/",
+      "de": "https://engizen.com/"
     }
   }
 }
