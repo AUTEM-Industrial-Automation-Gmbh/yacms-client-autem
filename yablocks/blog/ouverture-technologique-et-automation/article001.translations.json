@@ -1,0 +1,209 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@E1KiDQ].heading": {
+      "source": "Introduction",
+      "de": "Einleitung"
+    },
+    "data.sections[@hGaCjO].heading": {
+      "source": "L'IA et les métiers de l'industrie",
+      "de": "KI und die Industriebranche"
+    },
+    "data.sections[@KJkvfA].heading": {
+      "source": "Ouverture technologique - Hardware/Software",
+      "de": "Technologische Offenheit - Hardware/Software"
+    },
+    "data.sections[@WrPcAE].heading": {
+      "source": "Ouverture technologique - Business",
+      "de": "Technologische Offenheit - Business"
+    },
+    "data.sections[@CpIo9U].heading": {
+      "source": "Open-Source et Apports économiques",
+      "de": "Open-Source und wirtschaftliche Beiträge"
+    },
+    "data.sections[@E1KiDQ].paragraphs[@RD2gb0].text": {
+      "source": "Il se passe deux (2) choses majeures dans les technologies à cette date : l'Intelligence Artificielle et l'ouverture technologique . C'est ce que nous allons découvrir ensemble dans cet article sur les actualités de l'industrie du mois de mars.",
+      "de": "Zwei (2) wichtige Dinge geschehen derzeit in der Technologie: Künstliche Intelligenz und technologische Offenheit. Das werden wir in diesem Artikel über die Branchennachrichten des Monats März gemeinsam entdecken."
+    },
+    "data.sections[@hGaCjO].paragraphs[@hI9mds].text": {
+      "source": "L'intelligence artificielle est en train de transformer le métier de l'automatisation industrielle. L'un des exemples que l'on peut donner est le cas des LLM - Large Language Models .",
+      "de": "Künstliche Intelligenz verändert die Automatisierungsbranche. Ein Beispiel dafür sind LLMs – Large Language Models."
+    },
+    "data.sections[@hGaCjO].paragraphs[@6K4vXT].text": {
+      "source": "L'avantage de cette transformation est qu'elle permet de capitaliser les savoir-faire. Il faut également rappeler que dans l'ingénierie, la principale ressource, c'est le savoir-faire .",
+      "de": "Der Vorteil dieser Transformation ist, dass sie es ermöglicht, Know-how zu nutzen. Man muss auch bedenken, dass im Ingenieurwesen die wichtigste Ressource das Know-how ist."
+    },
+    "data.sections[@hGaCjO].paragraphs[@eNSMuw].text": {
+      "source": "Un autre cas intéressant de l'IA, c'est la programmation d'automates .",
+      "de": "Ein weiteres interessantes Anwendungsbeispiel für KI ist die SPS-Programmierung."
+    },
+    "data.sections[@hGaCjO].paragraphs[@ZOUXrq].text": {
+      "source": "Découvrez l'intégralité de cette actualité ici :",
+      "de": "Entdecken Sie diese Nachricht hier im Detail:"
+    },
+    "data.sections[@hGaCjO].paragraphs[@UU8h46].text": {
+      "source": "Liens utiles pour cette actualité :",
+      "de": "Nützliche Links zu dieser Nachricht:"
+    },
+    "data.sections[@KJkvfA].paragraphs[@QflB0Z].text": {
+      "source": "En termes de Hardware, l'un des premiers cas d'ouverture technologique que l'on peut citer est celui de Linux . Comme vous le savez, la plupart des technologies d'automatisation industrielle étaient basées sur Windows. Actuellement, on observe de plus en plus de plateformes qui sont basées sur Linux.",
+      "de": "Im Hardware-Bereich ist eines der ersten Beispiele für technologische Offenheit Linux. Wie Sie wissen, basierten die meisten industriellen Automatisierungstechnologien auf Windows. Derzeit beobachten wir immer mehr Plattformen, die auf Linux basieren."
+    },
+    "data.sections[@KJkvfA].paragraphs[@dNmieM].text": {
+      "source": "En termes de Software, de nombreuses personnes dans l'industrie connaissent Kepware , l'une des meilleures compagnies qui développe des drivers pour tout ce qui concerne les passerelles de communication avec les machines. En plus de leur expertise sur les drivers, ils sont en train de relancer leur offre Linux . Cette offre, prévue pour l'été 2025, simplifiera tout ce qui concerne l'architecture IT/OT avec une compatibilité avec des protocoles de communications modernes comme MQTT ou OPC UA .",
+      "de": "Im Software-Bereich kennen viele in der Branche Kepware, eines der besten Unternehmen, das Treiber für alles entwickelt, was mit Kommunikationsgateways zu Maschinen zu tun hat. Zusätzlich zu ihrer Expertise bei Treibern starten sie ihr Linux-Angebot neu. Dieses Angebot, das für den Sommer 2025 geplant ist, wird alles vereinfachen, was die IT/OT-Architektur betrifft, mit Kompatibilität zu modernen Kommunikationsprotokollen wie MQTT oder OPC UA."
+    },
+    "data.sections[@KJkvfA].paragraphs[@hdLq54].text": {
+      "source": "Découvrez l'intégralité de cette actualité ici :",
+      "de": "Entdecken Sie diese Nachricht hier im Detail:"
+    },
+    "data.sections[@KJkvfA].paragraphs[@NubWbP].text": {
+      "source": "Liens utiles pour cette actualité :",
+      "de": "Nützliche Links zu dieser Nachricht:"
+    },
+    "data.sections[@WrPcAE].paragraphs[@RpfXfG].text": {
+      "source": "L'ouverture technologique concerne également le Business, notamment l'accès à l'information .",
+      "de": "Technologische Offenheit betrifft auch das Business, insbesondere den Zugang zu Informationen."
+    },
+    "data.sections[@WrPcAE].paragraphs[@E70bsu].text": {
+      "source": "Découvrez l'intégralité de cette actualité ici :",
+      "de": "Entdecken Sie diese Nachricht hier im Detail:"
+    },
+    "data.sections[@WrPcAE].paragraphs[@C1HbLp].text": {
+      "source": "Liens utiles pour cette actualité :",
+      "de": "Nützliche Links zu dieser Nachricht:"
+    },
+    "data.sections[@CpIo9U].paragraphs[@bKeg2M].text": {
+      "source": "De temps en temps, il est essentiel de se poser la question suivante : quelle est la valeur financière de l'Open-Source ?",
+      "de": "Von Zeit zu Zeit ist es wichtig, sich die folgende Frage zu stellen: Welchen finanziellen Wert hat Open-Source?"
+    },
+    "data.sections[@CpIo9U].paragraphs[@8L4rKN].text": {
+      "source": "Découvrez l'intégralité de cette actualité ici :",
+      "de": "Entdecken Sie diese Nachricht hier im Detail:"
+    },
+    "data.sections[@CpIo9U].paragraphs[@8TihII].text": {
+      "source": "Lien utile pour cette actualité :",
+      "de": "Nützlicher Link zu dieser Nachricht:"
+    },
+    "data.sections[@hGaCjO].list.items[@vdw6V3].text": {
+      "source": "1- LLM picture to knowledge : example : Mitko Vasilev (LLM based on millions of engineering docs)",
+      "de": "1- LLM Bild zu Wissen: Beispiel: Mitko Vasilev (LLM basierend auf Millionen von Ingenieursdokumenten)"
+    },
+    "data.sections[@hGaCjO].list.items[@5Z9nej].text": {
+      "source": "2- LLM for automating PLC programming",
+      "de": "2- LLM zur Automatisierung der SPS-Programmierung"
+    },
+    "data.sections[@hGaCjO].list.items[@c5hLPr].text": {
+      "source": "3- Why we can't automate everything",
+      "de": "3- Warum wir nicht alles automatisieren können"
+    },
+    "data.sections[@KJkvfA].list.items[@Kt88GR].text": {
+      "source": "1- Ouverture sur les OS Linux-based hardware",
+      "de": "1- Offenheit für Linux-basierte Betriebssysteme und Hardware"
+    },
+    "data.sections[@KJkvfA].list.items[@fitP1W].text": {
+      "source": "2- Kepware Edge et ouverture vers les OS Linux-based hardware",
+      "de": "2- Kepware Edge und Offenheit für Linux-basierte Betriebssysteme und Hardware"
+    },
+    "data.sections[@WrPcAE].list.items[@PjfWhB].text": {
+      "source": "Ouverture business sur les marchés/projets, US manufacturing megaprojects",
+      "de": "Business-Offenheit für Märkte/Projekte, US-amerikanische Megaprojekte im verarbeitenden Gewerbe"
+    },
+    "data.sections[@CpIo9U].list.items[@6ZmB1s].text": {
+      "source": "The value of open-source software",
+      "de": "Der Wert von Open-Source-Software"
+    },
+    "data.sections[@hGaCjO].links[@aVqC38].text": {
+      "source": "Consulter | Vidéo (04 min : 45 s)",
+      "de": "Ansehen | Video (04 Min : 45 Sek)"
+    },
+    "data.sections[@hGaCjO].links[@TetPFK].text": {
+      "source": "1- LLM picture to knowledge : example : Mitko Vasilev (LLM based on millions of engineering docs)",
+      "de": "1- LLM Bild zu Wissen: Beispiel: Mitko Vasilev (LLM basierend auf Millionen von Ingenieursdokumenten)"
+    },
+    "data.sections[@hGaCjO].links[@QT0end].text": {
+      "source": "2- LLM for automating PLC programming",
+      "de": "2- LLM zur Automatisierung der SPS-Programmierung"
+    },
+    "data.sections[@hGaCjO].links[@NLc4GE].text": {
+      "source": "3- Why we can't automate everything",
+      "de": "3- Warum wir nicht alles automatisieren können"
+    },
+    "data.sections[@KJkvfA].links[@32NJ3h].text": {
+      "source": "Consulter | Vidéo (02 min : 51 s)",
+      "de": "Ansehen | Video (02 Min : 51 Sek)"
+    },
+    "data.sections[@KJkvfA].links[@mh0i9p].text": {
+      "source": "1- Ouverture sur les OS Linux-based hardware",
+      "de": "1- Offenheit für Linux-basierte Betriebssysteme und Hardware"
+    },
+    "data.sections[@KJkvfA].links[@mJbvVl].text": {
+      "source": "2- Kepware Edge et ouverture vers les OS Linux-based hardware",
+      "de": "2- Kepware Edge und Offenheit für Linux-basierte Betriebssysteme und Hardware"
+    },
+    "data.sections[@WrPcAE].links[@6FiIqw].text": {
+      "source": "Consulter | Vidéo (02 min : 00 s)",
+      "de": "Ansehen | Video (02 Min : 00 Sek)"
+    },
+    "data.sections[@WrPcAE].links[@6947Q8].text": {
+      "source": "Ouverture business sur les marchés/projets, US manufacturing megaprojects",
+      "de": "Business-Offenheit für Märkte/Projekte, US-amerikanische Megaprojekte im verarbeitenden Gewerbe"
+    },
+    "data.sections[@CpIo9U].links[@iil6QN].text": {
+      "source": "Consulter | Vidéo (04 min : 06 s)",
+      "de": "Ansehen | Video (04 Min : 06 Sek)"
+    },
+    "data.sections[@CpIo9U].links[@Yaa2bl].text": {
+      "source": "The value of open-source software",
+      "de": "Der Wert von Open-Source-Software"
+    },
+    "data.sections[@hGaCjO].links[@aVqC38].href": {
+      "source": "https://www.youtube.com/watch?v=8B-LFnAwexg&t=37s",
+      "de": "https://www.youtube.com/watch?v=8B-LFnAwexg&t=37s"
+    },
+    "data.sections[@hGaCjO].links[@TetPFK].href": {
+      "source": "https://www.linkedin.com/feed/update/urn:li:activity:7301991039609847810/",
+      "de": "https://www.linkedin.com/feed/update/urn:li:activity:7301991039609847810/"
+    },
+    "data.sections[@hGaCjO].links[@QT0end].href": {
+      "source": "https://www.linkedin.com/posts/maciej-kurantowicz-23850666_plc-automation-ai-activity-7306184296472436736-VOVe/",
+      "de": "https://www.linkedin.com/posts/maciej-kurantowicz-23850666_plc-automation-ai-activity-7306184296472436736-VOVe/"
+    },
+    "data.sections[@hGaCjO].links[@NLc4GE].href": {
+      "source": "https://www.linkedin.com/pulse/automated-testing-industrial-automation-why-you-cant-jeremy-mrtze/",
+      "de": "https://www.linkedin.com/pulse/automated-testing-industrial-automation-why-you-cant-jeremy-mrtze/"
+    },
+    "data.sections[@KJkvfA].links[@32NJ3h].href": {
+      "source": "https://www.youtube.com/watch?v=8B-LFnAwexg&t=322s",
+      "de": "https://www.youtube.com/watch?v=8B-LFnAwexg&t=322s"
+    },
+    "data.sections[@KJkvfA].links[@mh0i9p].href": {
+      "source": "https://www.linkedin.com/feed/update/urn:li:activity:7302598727079280641/",
+      "de": "https://www.linkedin.com/feed/update/urn:li:activity:7302598727079280641/"
+    },
+    "data.sections[@KJkvfA].links[@mJbvVl].href": {
+      "source": "https://www.ptc.com/en/products/kepware/kepware-edge",
+      "de": "https://www.ptc.com/en/products/kepware/kepware-edge"
+    },
+    "data.sections[@WrPcAE].links[@6FiIqw].href": {
+      "source": "https://www.youtube.com/watch?v=8B-LFnAwexg&t=493s",
+      "de": "https://www.youtube.com/watch?v=8B-LFnAwexg&t=493s"
+    },
+    "data.sections[@WrPcAE].links[@6947Q8].href": {
+      "source": "https://map.engineered-vision.com/",
+      "de": "https://map.engineered-vision.com/"
+    },
+    "data.sections[@CpIo9U].links[@iil6QN].href": {
+      "source": "https://www.youtube.com/watch?v=8B-LFnAwexg&t=613s",
+      "de": "https://www.youtube.com/watch?v=8B-LFnAwexg&t=613s"
+    },
+    "data.sections[@CpIo9U].links[@Yaa2bl].href": {
+      "source": "https://www.hbs.edu/ris/Publication%20Files/24-038_51f8444f-502c-4139-8bf2-56eb4b65c58a.pdf",
+      "de": "https://www.hbs.edu/ris/Publication%20Files/24-038_51f8444f-502c-4139-8bf2-56eb4b65c58a.pdf"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backLinkLabel": {
+      "source": "Retour au blog",
+      "de": "Zurück zum Blog"
+    },
+    "data.title": {
+      "source": "Actus n°20 - Les 2 tendances en Industrie : Ouverture Technologique et Automation par IA",
+      "de": "News Nr. 20 – Die 2 Trends in der Industrie: Technologische Offenheit und KI-gestützte Automatisierung"
+    },
+    "data.tags[@paC7Ic].label": {
+      "source": "Automation",
+      "de": "Automatisierung"
+    },
+    "data.tags[@FaCf4l].label": {
+      "source": "Actualités TECH",
+      "de": "TECH-Nachrichten"
+    },
+    "data.tags[@eYNRI8].label": {
+      "source": "IA & Machine Learning",
+      "de": "KI & Machine Learning"
+    },
+    "data.articleMeta.readTime": {
+      "source": "2 min lecture",
+      "de": "2 Min Lesezeit"
+    },
+    "data.articleMeta.publishDate": {
+      "source": "01/04/25",
+      "de": "01.04.25"
+    },
+    "data.articleMeta.updatedDate": {
+      "source": "17/03/26",
+      "de": "17.03.26"
+    }
+  }
+}
