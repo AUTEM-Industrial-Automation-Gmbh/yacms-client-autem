@@ -1,0 +1,41 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.badges[@NQGnfm].alt": {
+      "source": "Thalys — AMOA vending machines, télémétrie IoT",
+      "de": "Thalys – AMOA Verkaufsautomaten, IoT-Telemetrie"
+    },
+    "data.badges[@O8E9ql].alt": {
+      "source": "Amazon — WCS/WMS, automatisation entrepôt mécanisé",
+      "de": "Amazon – WCS/WMS, Automatisierung mechanisierter Lager"
+    },
+    "data.badges[@slYZwB].alt": {
+      "source": "SEE/SFTRF — Supervision réseau routier et ferroviaire",
+      "de": "SEE/SFTRF – Überwachung von Straßen- und Schienennetzen"
+    },
+    "data.headline": {
+      "source": "Un projet industriel mal piloté côté client, c'est un intégrateur qui prend toutes les décisions techniques à votre place.",
+      "de": "Ein schlecht gesteuertes Industrieprojekt auf Kundenseite bedeutet, dass der Integrator alle technischen Entscheidungen für Sie trifft."
+    },
+    "data.paragraphs[@iaFBYa].text": {
+      "source": "Dans beaucoup de projets d'automatisme ou de digitalisation, le donneur d'ordre n'a pas les ressources internes pour suivre techniquement l'intégrateur. Résultat : les spécifications restent floues, les dérives de périmètre ne sont pas détectées, et à la réception, le système livré ne correspond pas exactement aux besoins opérationnels — sans que personne ne soit formellement en tort.",
+      "de": "Bei vielen Automatisierungs- oder Digitalisierungsprojekten fehlen dem Auftraggeber die internen Ressourcen, um den Integrator technisch zu begleiten. Das Ergebnis: Die Spezifikationen bleiben unklar, Umfangserweiterungen werden nicht erkannt und bei der Abnahme entspricht das gelieferte System nicht genau den betrieblichen Anforderungen – ohne dass jemand formell schuld ist."
+    },
+    "data.paragraphs[@TLXEIK].text": {
+      "source": "Les projets qui dérapent ont souvent en commun : un cahier des charges rédigé trop vite et sans expertise terrain, une phase de conception expédiée, des tests d'acceptation conduits sans méthode, et une formation bâclée à la mise en service — laissant des équipes démunies face à un système qu'elles n'ont pas contribué à définir.",
+      "de": "Schiefgelaufene Projekte haben oft gemeinsam: eine zu schnell und ohne Praxiserfahrung erstellte Leistungsbeschreibung, eine überstürzte Entwurfsphase, Testabnahmen ohne Methode und eine mangelhafte Schulung bei der Inbetriebnahme – was die Teams hilflos mit einem System zurücklässt, zu dessen Definition sie nicht beigetragen haben."
+    },
+    "data.paragraphs[@XrMqbI].text": {
+      "source": "L'assistance à maîtrise d'ouvrage technique (AMOA) permet de rééquilibrer cette relation : avec un expert de votre côté, vous rédigez des spécifications précises, vous pilotez les jalons techniques avec méthode, et vous réceptionnez un système conforme à ce que vous vouliez — pas seulement à ce que vous avez écrit.",
+      "de": "Technische Bauherrenunterstützung (AMOA) hilft, diese Beziehung wieder ins Gleichgewicht zu bringen: Mit einem Experten an Ihrer Seite formulieren Sie präzise Spezifikationen, steuern technische Meilensteine methodisch und nehmen ein System ab, das dem entspricht, was Sie wollten – nicht nur dem, was Sie geschrieben haben."
+    },
+    "data.paragraphs[@ooRJxe].text": {
+      "source": "AUTEM assure cette mission de représentant technique du client auprès des intégrateurs, en apportant une connaissance métier de l'automatisme et de l'informatique industrielle que peu de maîtres d'ouvrage ont en interne.",
+      "de": "AUTEM übernimmt diese Aufgabe als technischer Vertreter des Kunden gegenüber den Integratoren und bringt Fachkenntnisse in der Automatisierungs- und Industrieinformatik ein, die nur wenige Bauherren intern haben."
+    },
+    "data.closing": {
+      "source": "Votre intégrateur travaille mieux quand votre client sait ce qu'il veut — et peut le défendre techniquement.",
+      "de": "Ihr Integrator arbeitet besser, wenn Ihr Kunde weiß, was er will – und es technisch vertreten kann."
+    }
+  }
+}

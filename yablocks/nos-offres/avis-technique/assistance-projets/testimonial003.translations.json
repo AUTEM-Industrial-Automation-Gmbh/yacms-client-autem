@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Références projets AUTEM — assistance technique industrielle",
+      "de": "AUTEM-Projekt-Referenzen – industrielle technische Unterstützung"
+    },
+    "data.quote": {
+      "source": "AUTEM a joué un rôle clé dans la structuration technique de notre projet. Leur capacité à traduire nos besoins opérationnels en exigences précises pour l'intégrateur nous a évité bien des incompréhensions en cours de chantier.",
+      "de": "AUTEM spielte eine Schlüsselrolle bei der technischen Strukturierung unseres Projekts. Ihre Fähigkeit, unsere operativen Bedürfnisse in präzise Anforderungen für den Integrator zu übersetzen, hat uns während der Bauphase viele Missverständnisse erspart."
+    },
+    "data.author.name": {
+      "source": "Responsable Infrastructure & Systèmes",
+      "de": "Leiter Infrastruktur & Systeme"
+    },
+    "data.author.role": {
+      "source": "Thalys — Bruxelles",
+      "de": "Thalys – Brüssel"
+    }
+  }
+}

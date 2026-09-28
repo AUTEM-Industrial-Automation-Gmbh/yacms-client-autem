@@ -1,0 +1,25 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Vous avez un projet d'automatisme ou de digitalisation à piloter ?",
+      "de": "Haben Sie ein Automatisierungs- oder Digitalisierungsprojekt zu steuern?"
+    },
+    "data.benefits[@EwbBIi].text": {
+      "source": "Expert indépendant — aucun intérêt commercial lié à votre choix d'intégrateur",
+      "de": "Unabhängiger Experte – kein kommerzielles Interesse an Ihrer Wahl des Integrators"
+    },
+    "data.benefits[@jS198f].text": {
+      "source": "Spécifications, revues techniques, FAT/SAT — méthode complète du besoin à la réception",
+      "de": "Spezifikationen, technische Überprüfungen, FAT/SAT – vollständige Methode vom Bedarf bis zur Abnahme"
+    },
+    "data.benefits[@Q3kHQE].text": {
+      "source": "Expérience internationale : France, Belgique, Canada, Luxembourg, Maroc, Israël",
+      "de": "Internationale Erfahrung: Frankreich, Belgien, Kanada, Luxemburg, Marokko, Israel"
+    },
+    "data.cta.text": {
+      "source": "Discuter de votre projet",
+      "de": "Sprechen Sie mit uns über Ihr Projekt"
+    }
+  }
+}

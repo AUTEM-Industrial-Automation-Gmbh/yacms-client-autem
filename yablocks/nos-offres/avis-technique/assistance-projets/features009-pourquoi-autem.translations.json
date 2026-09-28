@@ -1,0 +1,49 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "POURQUOI AUTEM",
+      "de": "WARUM AUTEM"
+    },
+    "data.title": {
+      "source": "Un AMOA technique qui a lui-même intégré des systèmes — pas un chef de projet avec une checklist.",
+      "de": "Technische AMOA, die selbst Systeme integriert hat – kein Projektmanager mit einer Checkliste."
+    },
+    "data.paragraphs[@14aLyx].text": {
+      "source": "Un AMOA efficace est un expert qui comprend ce que l'intégrateur propose — pas quelqu'un qui pilote les délais sur un tableur. Chez AUTEM, nous avons programmé des automates Siemens et Rockwell, déployé des SCADA Ignition, mis en service des systèmes chez Amazon et Thalys. Nous savons ce qui est faisable, ce qui est risqué, et ce qui mérite d'être challengé.",
+      "de": "Eine effektive AMOA ist ein Experte, der versteht, was der Integrator vorschlägt – kein jemand, der die Fristen auf einer Tabelle verfolgt. Bei AUTEM haben wir Siemens- und Rockwell-Automaten programmiert, Ignition SCADA implementiert und Systeme bei Amazon und Thalys in Betrieb genommen. Wir wissen, was machbar ist, was riskant ist und was herausgefordert werden sollte."
+    },
+    "data.highlights[@k386OV].text": {
+      "source": "Expertise terrain en automatisme, SCADA, MES, IoT et réseaux industriels — nous challengeons les propositions techniques pour de vrai",
+      "de": "Praxiserfahrung in Automatisierung, SCADA, MES, IoT und Industrie-Netzwerken – wir hinterfragen technische Vorschläge wirklich."
+    },
+    "data.highlights[@f6g10d].text": {
+      "source": "Indépendant de tout intégrateur — aucun conflit d'intérêt dans les recommandations",
+      "de": "Unabhängig von jedem Integrator – keine Interessenkonflikte bei Empfehlungen."
+    },
+    "data.highlights[@k1B98f].text": {
+      "source": "Méthode rigoureuse : jalons documentés, revues formelles, traçabilité des décisions sur tout le projet",
+      "de": "Strikte Methode: dokumentierte Meilensteine, formelle Überprüfungen, Nachverfolgbarkeit von Entscheidungen über das gesamte Projekt hinweg."
+    },
+    "data.highlights[@epB3hA].text": {
+      "source": "Rédaction des specs en langage opérationnel : vos équipes terrain comprennent le cahier des charges",
+      "de": "Erstellung von Spezifikationen in operativer Sprache: Ihre Außendienstteams verstehen die Ausschreibung."
+    },
+    "data.highlights[@xZdMKH].text": {
+      "source": "Expérience internationale : France, Belgique (Thalys), Canada (TM), Luxembourg (ArcelorMittal), Israël (Wonderlogix)",
+      "de": "Internationale Erfahrung: Frankreich, Belgien (Thalys), Kanada (TM), Luxemburg (ArcelorMittal), Israel (Wonderlogix)"
+    },
+    "data.highlights[@umcYGw].text": {
+      "source": "Transfert de compétences inclus : vos équipes repartent avec les clés pour faire évoluer le système",
+      "de": "Kompetenztransfer inklusive: Ihre Teams gehen mit den Schlüsseln zur Weiterentwicklung des Systems."
+    },
+    "data.conclusion": {
+      "source": "Nos recommandations viennent de projets réels. Nous avons les mains sales — dans le bon sens.",
+      "de": "Unsere Empfehlungen stammen aus realen Projekten. Wir haben schmutzige Hände – im positiven Sinne."
+    },
+    "data.image.alt": {
+      "source": "AUTEM AMOA — assistance projet automatisme industriel",
+      "de": "AUTEM AMOA – Projektunterstützung für industrielle Automatisierung"
+    }
+  }
+}
