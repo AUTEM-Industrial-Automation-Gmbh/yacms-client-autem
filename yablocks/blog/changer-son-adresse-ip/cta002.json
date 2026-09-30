@@ -8,15 +8,18 @@
     "benefits": [
       {
         "icon": "wifi",
-        "text": "Architecture OPC-UA, MQTT & protocoles industriels"
+        "text": "Architecture OPC-UA, MQTT & protocoles industriels",
+        "_tid": "Qx1Pi5"
       },
       {
         "icon": "shield",
-        "text": "Réseaux industriels sécurisés et segmentés"
+        "text": "Réseaux industriels sécurisés et segmentés",
+        "_tid": "f3eJUB"
       },
       {
         "icon": "bar-chart",
-        "text": "Passerelles IoT et collecte de données terrain"
+        "text": "Passerelles IoT et collecte de données terrain",
+        "_tid": "Ocjet0"
       }
     ],
     "cta": {

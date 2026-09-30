@@ -1,0 +1,29 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backLinkLabel": {
+      "source": "Retour au blog",
+      "de": "Zurück zum Blog"
+    },
+    "data.title": {
+      "source": "Adresse IP | Changer son adresse IP en 1 clic | Autem",
+      "de": "IP-Adresse | Ändern Sie Ihre IP-Adresse mit 1 Klick | Autem"
+    },
+    "data.tags[@oda0l8].label": {
+      "source": "IoT Réseau",
+      "de": "IoT Netzwerk"
+    },
+    "data.articleMeta.readTime": {
+      "source": "3 min lecture",
+      "de": "3 Minuten Lesezeit"
+    },
+    "data.articleMeta.publishDate": {
+      "source": "07/11/21",
+      "de": "07.11.21"
+    },
+    "data.articleMeta.updatedDate": {
+      "source": "17/03/26",
+      "de": "26.03.17"
+    }
+  }
+}
