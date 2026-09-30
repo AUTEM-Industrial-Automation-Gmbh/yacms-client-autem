@@ -9,23 +9,28 @@
     "logos": [
       {
         "src": "/logos/ignition.png",
-        "alt": "Ignition — historien de données industriel"
+        "alt": "Ignition — historien de données industriel",
+        "_tid": "zlpHMB"
       },
       {
         "src": "/logos/siemens.png",
-        "alt": "Siemens — WinCC, SIMATIC"
+        "alt": "Siemens — WinCC, SIMATIC",
+        "_tid": "vIDyO3"
       },
       {
         "src": "/logos/rockwell.png",
-        "alt": "Rockwell Allen-Bradley — FactoryTalk Historian"
+        "alt": "Rockwell Allen-Bradley — FactoryTalk Historian",
+        "_tid": "7xQ01X"
       },
       {
         "src": "/logos/wonderware.png",
-        "alt": "AVEVA Wonderware — Historian"
+        "alt": "AVEVA Wonderware — Historian",
+        "_tid": "Qo5guL"
       },
       {
         "src": "/logos/schneider.png",
-        "alt": "Schneider Electric — EcoStruxure"
+        "alt": "Schneider Electric — EcoStruxure",
+        "_tid": "UCg9AG"
       }
     ]
   }

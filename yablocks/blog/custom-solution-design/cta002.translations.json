@@ -1,0 +1,25 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Un projet de connectivité industrielle ?",
+      "de": "Ein Projekt zur industriellen Konnektivität?"
+    },
+    "data.benefits[@nsIfBU].text": {
+      "source": "Architecture OPC-UA, MQTT & protocoles industriels",
+      "de": "OPC-UA, MQTT & industrielle Protokolle"
+    },
+    "data.benefits[@lvmU1O].text": {
+      "source": "Réseaux industriels sécurisés et segmentés",
+      "de": "Sichere und segmentierte industrielle Netzwerke"
+    },
+    "data.benefits[@hcpo0f].text": {
+      "source": "Passerelles IoT et collecte de données terrain",
+      "de": "IoT-Gateways und Datenerfassung vor Ort"
+    },
+    "data.cta.text": {
+      "source": "Discutons de votre projet",
+      "de": "Lassen Sie uns über Ihr Projekt sprechen"
+    }
+  }
+}

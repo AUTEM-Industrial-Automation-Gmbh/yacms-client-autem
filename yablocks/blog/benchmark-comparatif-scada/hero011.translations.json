@@ -1,0 +1,29 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backLinkLabel": {
+      "source": "Retour au blog",
+      "de": "Zurück zum Blog"
+    },
+    "data.title": {
+      "source": "Benchmark Comparatif SCADA | Jean-Romain BARDET & Sylvain Pastor",
+      "de": "Vergleichs-Benchmark SCADA | Jean-Romain BARDET & Sylvain Pastor"
+    },
+    "data.tags[@YTfslv].label": {
+      "source": "Supervision SCADA",
+      "de": "SCADA-Überwachung"
+    },
+    "data.articleMeta.readTime": {
+      "source": "3 min lecture",
+      "de": "3 Min Lesezeit"
+    },
+    "data.articleMeta.publishDate": {
+      "source": "11/05/23",
+      "de": "11.05.23"
+    },
+    "data.articleMeta.updatedDate": {
+      "source": "17/03/26",
+      "de": "17.03.26"
+    }
+  }
+}

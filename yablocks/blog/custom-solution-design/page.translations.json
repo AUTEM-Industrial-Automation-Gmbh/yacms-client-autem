@@ -1,0 +1,35 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Custom solution design - Embedded technology & the Future of IoT with Matthew Smith | Blog AUTEM",
+      "de": "Individuelle Lösungsgestaltung – Eingebettete Technologie & die Zukunft des IoT mit Matthew Smith | AUTEM Blog",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "In this article, explore \"when designing a custom solution becomes a better choice\".",
+      "de": "In diesem Artikel erfahren Sie, wann die Entwicklung einer individuellen Lösung die bessere Wahl ist.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "IoT Réseau",
+        "Architecture Systèmes",
+        "AUTEM",
+        "automatisme industriel"
+      ],
+      "de": [
+        "IoT Netzwerk",
+        "Systemarchitektur",
+        "AUTEM",
+        "Industrielle Automatisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Blog technique automatisme et SCADA industriel",
+      "de": "AUTEM – Technischer Blog für industrielle Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}

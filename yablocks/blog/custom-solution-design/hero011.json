@@ -10,11 +10,13 @@
     "tags": [
       {
         "label": "IoT Réseau",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "4GKDpZ"
       },
       {
         "label": "Architecture Systèmes",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "F442LH"
       }
     ],
     "articleMeta": {

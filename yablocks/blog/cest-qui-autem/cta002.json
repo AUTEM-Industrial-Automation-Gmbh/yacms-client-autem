@@ -8,15 +8,18 @@
     "benefits": [
       {
         "icon": "cpu",
-        "text": "Intégration automates Siemens, Rockwell, Schneider"
+        "text": "Intégration automates Siemens, Rockwell, Schneider",
+        "_tid": "yF5ZQd"
       },
       {
         "icon": "settings",
-        "text": "Programmation PLC & variateurs de vitesse"
+        "text": "Programmation PLC & variateurs de vitesse",
+        "_tid": "8UhN3c"
       },
       {
         "icon": "zap",
-        "text": "Mise en service et maintenance sur site"
+        "text": "Mise en service et maintenance sur site",
+        "_tid": "ENZJM7"
       }
     ],
     "cta": {

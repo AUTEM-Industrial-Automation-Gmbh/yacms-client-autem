@@ -1,0 +1,137 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@jg8hFp].heading": {
+      "source": "Introduction",
+      "de": "Einleitung"
+    },
+    "data.sections[@Pq5DHc].heading": {
+      "source": "C'est qui AUTEM",
+      "de": "Wer ist AUTEM"
+    },
+    "data.sections[@le4TlX].heading": {
+      "source": "HARDWARE",
+      "de": "HARDWARE"
+    },
+    "data.sections[@1ucDEF].heading": {
+      "source": "Software",
+      "de": "Software"
+    },
+    "data.sections[@4pjrAM].heading": {
+      "source": "Audit",
+      "de": "Audit"
+    },
+    "data.sections[@JzXgdw].heading": {
+      "source": "Equipe & Partenaires",
+      "de": "Team & Partner"
+    },
+    "data.sections[@jg8hFp].paragraphs[@vFZ1O8].text": {
+      "source": "Dans cet nouvel article, afin d'apporter un peu plus d'information sur mon activité, nous allons voir ce que c'est que AUTEM, quelle est sa valeur ajouté dans l'industrie.",
+      "de": "In diesem neuen Artikel werden wir, um etwas mehr Informationen über meine Tätigkeit zu geben, sehen, was AUTEM ist und welchen Mehrwert es in der Industrie bietet."
+    },
+    "data.sections[@Pq5DHc].paragraphs[@fSkXIV].text": {
+      "source": "Le mot d'ordre chez AUTEM c'est la compétitivité des industries par la digitalisation, par tout ce qui est automatisation, systèmes, machines automatisées. Le rôle de d'AUTEM est tout simplement un intégrateur de systèmes automatisées. Pour faire simple, AUTEM est un ensemble de personnes qui ne sont des industriels, qui ne sont pas des fabricants ni des développeurs de solutions mais qui sont au milieu pour trouver les bonnes solutions aux bons problèmes pour apporter de la compétitivité.",
+      "de": "Das Schlagwort bei AUTEM ist die Wettbewerbsfähigkeit von Industrien durch Digitalisierung, durch alles, was mit Automatisierung, Systemen und automatisierten Maschinen zu tun hat. Die Rolle von AUTEM ist ganz einfach die eines Integrators von automatisierten Systemen. Einfach ausgedrückt ist AUTEM eine Gruppe von Leuten, die keine Industriellen sind, die keine Hersteller oder Lösungsentwickler sind, sondern die sich in der Mitte befinden, um die richtigen Lösungen für die richtigen Probleme zu finden, um Wettbewerbsfähigkeit zu schaffen."
+    },
+    "data.sections[@Pq5DHc].paragraphs[@dNsFNz].text": {
+      "source": "Notre expertise se base sur les machines automatisées, l'informatique industrielle. Nous faisons principalement de l'intégration et du déploiement. AUTEM se base principalement sur l'amélioration d'un écosystème existant. En gros, notre activité se retrouve autour de 3 thèmes: Hardware Software Audit",
+      "de": "Unsere Expertise basiert auf automatisierten Maschinen und industrieller IT. Wir machen hauptsächlich Integration und Implementierung. AUTEM basiert hauptsächlich auf der Verbesserung eines bestehenden Ökosystems. Im Grunde dreht sich unsere Tätigkeit um 3 Themen: Hardware, Software, Audit"
+    },
+    "data.sections[@Pq5DHc].paragraphs[@LFqal4].text": {
+      "source": "Découvrez l'intégralité de cette section ici:",
+      "de": "Entdecken Sie diesen Abschnitt vollständig hier:"
+    },
+    "data.sections[@le4TlX].paragraphs[@TuXGNY].text": {
+      "source": "En terme de Hardware, se sera principalement du Rétrofit et de l'amélioration de machines existantes.",
+      "de": "Im Bereich Hardware geht es hauptsächlich um die Nachrüstung und Verbesserung bestehender Maschinen."
+    },
+    "data.sections[@le4TlX].paragraphs[@HrBOSe].text": {
+      "source": "Dans le rétrofit, nous adapons une machine qui existe en changeant parfois certains composants dans le but d'apporter de la compétitivité. Dans l'amélioration, nous faisons des petites optimisations sur une machine sans la modifier complètement.",
+      "de": "Bei der Nachrüstung passen wir eine bestehende Maschine an, indem wir manchmal bestimmte Komponenten austauschen, um die Wettbewerbsfähigkeit zu steigern. Bei der Verbesserung nehmen wir kleine Optimierungen an einer Maschine vor, ohne sie komplett zu verändern."
+    },
+    "data.sections[@le4TlX].paragraphs[@QRqcue].text": {
+      "source": "Découvrez l'intégralité de cette section ici:",
+      "de": "Entdecken Sie diesen Abschnitt vollständig hier:"
+    },
+    "data.sections[@1ucDEF].paragraphs[@pDZe8s].text": {
+      "source": "En terme de logiciel, se sera principalement de la performance et de la mesure de données par des logiciels de pilotage.",
+      "de": "Im Softwarebereich geht es hauptsächlich um Leistung und Datenerfassung durch Steuersoftware."
+    },
+    "data.sections[@1ucDEF].paragraphs[@RctMaG].text": {
+      "source": "Du coup, se sera des systèmes que l'on pourra intégrer, mesurer des taux de rendement, de la performance, déployer des systèmes de supervision, intervenir sur des système de supervision d'infrastrucure comme des tunnels",
+      "de": "Daher werden es Systeme sein, die wir integrieren, die Messung von Raten, Leistung, die Implementierung von Überwachungssystemen, die Intervention bei Infrastrukturüberwachungssystemen wie Tunneln."
+    },
+    "data.sections[@1ucDEF].paragraphs[@DssAEa].text": {
+      "source": "Découvrez l'intégralité de cette section ici:",
+      "de": "Entdecken Sie diesen Abschnitt vollständig hier:"
+    },
+    "data.sections[@4pjrAM].paragraphs[@57sikP].text": {
+      "source": "Il arrive que certains clients nous demandent notre avis sur des solutions qu'ils ont ou qu'ils s'apprêtent à acheter comme par exemple sur des thématiques telles que: Architecture, Télémétrie, Monnétique, Maintenance Préventive, Connectivité et Cybersécurité.",
+      "de": "Manchmal bitten uns Kunden um Rat zu Lösungen, die sie haben oder kaufen wollen, zum Beispiel zu Themen wie: Architektur, Telemetrie, Geldautomaten, vorbeugende Wartung, Konnektivität und Cybersicherheit."
+    },
+    "data.sections[@4pjrAM].paragraphs[@ZnpnVh].text": {
+      "source": "Découvrez l'intégralité de cette section ici:",
+      "de": "Entdecken Sie diesen Abschnitt vollständig hier:"
+    },
+    "data.sections[@JzXgdw].paragraphs[@qhAlxG].text": {
+      "source": "AUTEM est consitué de tout un réseau qui travail ensemble.",
+      "de": "AUTEM besteht aus einem ganzen Netzwerk, das zusammenarbeitet."
+    },
+    "data.sections[@JzXgdw].paragraphs[@oKJLKb].text": {
+      "source": "En interne, nous sommes au nombre de 3: Marc AKOTO pour tout ce qui concerne les Projets et l'architecture. Une personne qui est chargé du côté Informatique Industrielle Choukri ADJOUDJ pour tout ce qui concerne l'électricité et l'automatisme.",
+      "de": "Intern sind wir zu dritt: Marc AKOTO für alles, was Projekte und Architektur betrifft. Eine Person, die für industrielle IT zuständig ist, Choukri ADJOUDJ für alles, was Elektrik und Automatisierung betrifft."
+    },
+    "data.sections[@JzXgdw].paragraphs[@ZAXZeP].text": {
+      "source": "AUTEM travail également avec pleins d'autres partenaires dont: ERIGIUM pour les câblages et traveaux sur site FIELDCLOUD pour le côté Réseau et Cybersécurité SHOPTEC pour le Motion Control",
+      "de": "AUTEM arbeitet auch mit vielen anderen Partnern zusammen, darunter: ERIGIUM für Verkabelung und Arbeiten vor Ort FIELDCLOUD für Netzwerk und Cybersicherheit SHOPTEC für Motion Control"
+    },
+    "data.sections[@JzXgdw].paragraphs[@yS21H7].text": {
+      "source": "Découvrez l'intégralité de cette section ici:",
+      "de": "Entdecken Sie diesen Abschnitt vollständig hier:"
+    },
+    "data.sections[@Pq5DHc].links[@AZYl5s].text": {
+      "source": "Consulter | Vidéo (02min:03s)",
+      "de": "Ansehen | Video (02min:03s)"
+    },
+    "data.sections[@le4TlX].links[@akmjRX].text": {
+      "source": "Consulter | Vidéo (01min:53s)",
+      "de": "Ansehen | Video (01min:53s)"
+    },
+    "data.sections[@1ucDEF].links[@IRK1kU].text": {
+      "source": "Consulter | Vidéo (00min:51s)",
+      "de": "Ansehen | Video (00min:51s)"
+    },
+    "data.sections[@4pjrAM].links[@hPiZKe].text": {
+      "source": "Consulter | Vidéo (02min:05s)",
+      "de": "Ansehen | Video (02min:05s)"
+    },
+    "data.sections[@JzXgdw].links[@fzpK8k].text": {
+      "source": "Consulter | Vidéo (01min:55s)",
+      "de": "Ansehen | Video (01min:55s)"
+    },
+    "data.sections[@Pq5DHc].links[@AZYl5s].href": {
+      "source": "https://www.youtube.com/watch?v=U-Su10ZiBDQ&t=30s",
+      "de": "https://www.youtube.com/watch?v=U-Su10ZiBDQ&t=30s"
+    },
+    "data.sections[@le4TlX].links[@akmjRX].href": {
+      "source": "https://www.youtube.com/watch?v=U-Su10ZiBDQ&t=153s",
+      "de": "https://www.youtube.com/watch?v=U-Su10ZiBDQ&t=153s"
+    },
+    "data.sections[@1ucDEF].links[@IRK1kU].href": {
+      "source": "https://www.youtube.com/watch?v=U-Su10ZiBDQ&t=265s",
+      "de": "https://www.youtube.com/watch?v=U-Su10ZiBDQ&t=265s"
+    },
+    "data.sections[@4pjrAM].links[@hPiZKe].href": {
+      "source": "https://www.youtube.com/watch?v=U-Su10ZiBDQ&t=316s",
+      "de": "https://www.youtube.com/watch?v=U-Su10ZiBDQ&t=316s"
+    },
+    "data.sections[@JzXgdw].links[@fzpK8k].href": {
+      "source": "https://www.youtube.com/watch?v=U-Su10ZiBDQ&t=441s",
+      "de": "https://www.youtube.com/watch?v=U-Su10ZiBDQ&t=441s"
+    }
+  }
+}

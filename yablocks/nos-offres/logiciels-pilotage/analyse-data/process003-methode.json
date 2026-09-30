@@ -10,22 +10,26 @@
       {
         "title": "Collecte & structuration des données",
         "description": "Extraction et structuration des données existantes (SCADA, ERP, papier, relevés). Évaluation de la qualité et de la complétude. Identification des données manquantes et mise en place de collecte complémentaire si nécessaire.",
-        "icon": "search"
+        "icon": "search",
+        "_tid": "vSiSjj"
       },
       {
         "title": "Analyse & diagnostic",
         "description": "Analyse Pareto des pannes, arrêts et défauts. Cartographie VSM du flux actuel (as-is) : identification des goulots, temps d'attente, stocks et retouches. Arbre des causes sur les problèmes majeurs.",
-        "icon": "bar-chart"
+        "icon": "bar-chart",
+        "_tid": "hL61Dh"
       },
       {
         "title": "Chiffrage ROI & priorisation",
         "description": "Quantification des gains potentiels pour chaque axe d'amélioration : réduction des arrêts, amélioration du TRS, diminution des rebuts, suppression des gaspillages. Calcul du ROI, du payback et des ressources nécessaires pour chaque action.",
-        "icon": "target"
+        "icon": "target",
+        "_tid": "xbT3t9"
       },
       {
         "title": "Feuille de route & indicateurs de suivi",
         "description": "Présentation de la feuille de route priorisée (quick wins + projets structurants). Mise en place des tableaux de bord de suivi de l'amélioration continue. Transfert de méthode à vos équipes pour reproduire l'analyse en autonomie.",
-        "icon": "check-circle"
+        "icon": "check-circle",
+        "_tid": "G9mtuC"
       }
     ]
   }

@@ -1,0 +1,93 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@tcv0G0].heading": {
+      "source": "IP Shifter - Découverte",
+      "de": "IP Shifter – Entdeckung"
+    },
+    "data.sections[@tcv0G0].paragraphs[@I2u2MQ].text": {
+      "source": "Salut à toi, et bienvenue sur AUTEM.",
+      "de": "Hallo und willkommen bei AUTEM."
+    },
+    "data.sections[@tcv0G0].paragraphs[@ChzKrU].text": {
+      "source": "On va voir ensemble aujourd’hui comment tu peux changer l’adresse IP de ton PC en 1 clic .",
+      "de": "Wir werden heute gemeinsam sehen, wie Sie die IP-Adresse Ihres PCs mit einem Klick ändern können."
+    },
+    "data.sections[@tcv0G0].paragraphs[@pGSjum].text": {
+      "source": "On va prendre l’exemple d’une usine connectée comme celle-ci où chaque machine peut se trouver dans un réseau Ethernet différent.",
+      "de": "Wir nehmen das Beispiel einer vernetzten Fabrik wie dieser, bei der sich jede Maschine in einem anderen Ethernet-Netzwerk befinden kann."
+    },
+    "data.sections[@tcv0G0].paragraphs[@rFc9GK].text": {
+      "source": "Quand tu te branches avec ton ordinateur pour aller d’une machine à l’autre tu dois changer la configuration de ton adresse IP pour accéder au réseau spécifique de la machine en question. Et la configuration consiste notamment à changer : l’adresse IP, le masque de sous-réseau et la passerelle. C’est une tâche de configuration qui est assez fréquente pour les automaticiens, les développeurs embarqués ou bien les ingénieurs réseau. Évidemment pour faciliter le travail de tout ce beau monde, il existe un outil bien pratique que je te présente dans cet article et qui s’appelle “IP Shifter“ .",
+      "de": "Wenn Sie sich mit Ihrem Computer verbinden, um von einer Maschine zur anderen zu gelangen, müssen Sie die Konfiguration Ihrer IP-Adresse ändern, um auf das spezifische Netzwerk der betreffenden Maschine zuzugreifen. Und die Konfiguration besteht insbesondere darin, Folgendes zu ändern: die IP-Adresse, die Subnetzmaske und das Gateway. Dies ist eine Konfigurationsaufgabe, die für Automatisierungstechniker, Embedded-Entwickler oder Netzwerk-Ingenieure recht häufig vorkommt. Offensichtlich gibt es zur Erleichterung der Arbeit all dieser Leute ein sehr praktisches Werkzeug, das ich Ihnen in diesem Artikel vorstelle und das „IP Shifter“ heißt."
+    },
+    "data.sections[@tcv0G0].paragraphs[@Sdnpa9].text": {
+      "source": "IP Shifter a 3 avantages .",
+      "de": "IP Shifter hat 3 Vorteile."
+    },
+    "data.sections[@tcv0G0].image.alt": {
+      "source": "automation,IIoT,network,CyberSecurity,embeddedsystems,architecture,IoT,adresseip,VPN,IPaddress,industrialautomation…",
+      "de": "Automatisierung, IIoT, Netzwerk, Cybersicherheit, Embedded-Systeme, Architektur, IoT, IP-Adresse, VPN, IP-Adresse, Industrieautomatisierung…"
+    },
+    "data.sections[@tcv0G0].subsections[@FAPI1f].heading": {
+      "source": "1er Avantage du logiciel IP Shifter",
+      "de": "1. Vorteil der IP Shifter-Software"
+    },
+    "data.sections[@tcv0G0].subsections[@WheLIy].heading": {
+      "source": "2ème Avantage du logiciel IP Shifter",
+      "de": "2. Vorteil der IP Shifter-Software"
+    },
+    "data.sections[@tcv0G0].subsections[@B9cbsQ].heading": {
+      "source": "3ème Avantage du logiciel IP Shifter",
+      "de": "3. Vorteil der IP Shifter-Software"
+    },
+    "data.sections[@tcv0G0].subsections[@FAPI1f].paragraphs[@1lyf5b].text": {
+      "source": "IP Shifter te permet de changer le profil IP de ton PC très rapidement. Le cas typique c’est que tu as une panne machine, tu t’apprêtes à intervenir pour dépanner et tu dois changer ton adresse IP pour te connecter à la machine. Dans ce cas-là ce que certaines personnes feront, c’est qu’ils vont ouvrir en cascade les paramètres des cartes réseau, jusqu’à trouver le bon sous-menu, après avoir ouvert 4 ou 5 fenêtres.",
+      "de": "IP Shifter ermöglicht es Ihnen, das IP-Profil Ihres PCs sehr schnell zu ändern. Der typische Fall ist, dass Sie eine Maschinenpanne haben, sich zur Fehlerbehebung bereit machen und Ihre IP-Adresse ändern müssen, um sich mit der Maschine zu verbinden. In diesem Fall werden einige Leute die Netzwerkkarteneinstellungen kaskadenartig öffnen, bis sie das richtige Untermenü finden, nachdem sie 4 oder 5 Fenster geöffnet haben."
+    },
+    "data.sections[@tcv0G0].subsections[@FAPI1f].paragraphs[@VQVA57].text": {
+      "source": "Ce processus prend un temps fou. Alors si tu es dans ce cas-là : STOP ! Tu es en train de perdre un temps précieux alors que la production est à l’arrêt. À l’inverse en utilisant des outils automatisés comme IP Shifter, tu peux effectuer ce changement d’adresse IP en maximum 3 secondes.",
+      "de": "Dieser Vorgang dauert ewig. Wenn Sie sich also in dieser Situation befinden: STOPP! Sie verschwenden wertvolle Zeit, während die Produktion stillsteht. Im Gegensatz dazu können Sie mit automatisierten Tools wie IP Shifter diese IP-Adressänderung in maximal 3 Sekunden durchführen."
+    },
+    "data.sections[@tcv0G0].subsections[@FAPI1f].paragraphs[@ohESlf].text": {
+      "source": "Du coup IP Shifter c’est un petit utilitaire gratuit que tu peux télécharger avec le lien juste à la fin de l’article.",
+      "de": "Daher ist IP Shifter ein kleines kostenloses Dienstprogramm, das Sie mit dem Link am Ende des Artikels herunterladen können."
+    },
+    "data.sections[@tcv0G0].subsections[@FAPI1f].paragraphs[@ZS3yEE].text": {
+      "source": "Et lorsque tu l’ouvres il te propose directement les bons réglages pour modifier l’adresse IP de ta carte réseau. C’est le premier avantage : on gagne du temps sur les changements de profil IP.",
+      "de": "Und wenn Sie es öffnen, schlägt es Ihnen direkt die richtigen Einstellungen vor, um die IP-Adresse Ihrer Netzwerkkarte zu ändern. Das ist der erste Vorteil: Wir sparen Zeit bei der Änderung von IP-Profilen."
+    },
+    "data.sections[@tcv0G0].subsections[@WheLIy].paragraphs[@R0QnjJ].text": {
+      "source": "IP Shifter peut préconfigurer plusieurs profils IP avec les différentes cartes réseau qui sont concernées .",
+      "de": "IP Shifter kann mehrere IP-Profile mit den betreffenden Netzwerkkarten vorkonfigurieren."
+    },
+    "data.sections[@tcv0G0].subsections[@WheLIy].paragraphs[@HQ2yW8].text": {
+      "source": "Et dès que t’arrives sur un réseau spécifique d’une machine spécifique tu as juste à faire un clic sur la bonne ligne, et directement tes configurations sont appliquées à la carte réseau et tu es en ligne avec ta machine. Tu peux du coup enregistrer tous les sous-réseaux de ton usine. C’est le deuxième avantage.",
+      "de": "Und sobald Sie sich in einem bestimmten Netzwerk einer bestimmten Maschine befinden, klicken Sie einfach auf die richtige Zeile, und Ihre Konfigurationen werden direkt auf die Netzwerkkarte angewendet und Sie sind mit Ihrer Maschine online. Sie können daher alle Subnetze Ihrer Fabrik speichern. Das ist der zweite Vorteil."
+    },
+    "data.sections[@tcv0G0].subsections[@B9cbsQ].paragraphs[@9EumYQ].text": {
+      "source": "IP Shifter t’offre des commandes intégrées comme le ping ou le scan qui te permettent d’analyser ton réseau de machines connectées : le ping pour interroger une machine bien spécifique , et le scan pour scanner toute la plage d’adresse IP de ton sous-réseau .",
+      "de": "IP Shifter bietet Ihnen integrierte Befehle wie Ping oder Scan, mit denen Sie Ihr Netzwerk von verbundenen Maschinen analysieren können: Ping, um eine bestimmte Maschine abzufragen, und Scan, um den gesamten IP-Adressbereich Ihres Subnetzes zu scannen."
+    },
+    "data.sections[@tcv0G0].subsections[@B9cbsQ].paragraphs[@5Lc9lW].text": {
+      "source": "Et c'est tout pour IP Shifter . C’est l’outil qui va te permettre te connecter plus rapidement à tes machines en changeant tes configurations d’adresse IP .",
+      "de": "Und das war's für IP Shifter. Es ist das Werkzeug, mit dem Sie schneller auf Ihre Maschinen zugreifen können, indem Sie Ihre IP-Adresskonfigurationen ändern."
+    },
+    "data.sections[@tcv0G0].subsections[@B9cbsQ].paragraphs[@Lv2YX4].text": {
+      "source": "Si cette astuce te fait gagner du temps, tu peux me remercier en laissant un petit commentaire.",
+      "de": "Wenn Ihnen dieser Tipp Zeit spart, können Sie mir danken, indem Sie einen kleinen Kommentar hinterlassen."
+    },
+    "data.sections[@tcv0G0].subsections[@B9cbsQ].paragraphs[@0OmaBf].text": {
+      "source": "Et on se dit à très vite dans un prochain article.",
+      "de": "Und wir sehen uns sehr bald in einem nächsten Artikel."
+    },
+    "data.sections[@tcv0G0].subsections[@B9cbsQ].paragraphs[@kBDn9H].text": {
+      "source": "À bientôt!",
+      "de": "Bis bald!"
+    }
+  }
+}

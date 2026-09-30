@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Benchmark Comparatif SCADA | Jean-Romain BARDET & Sylvain Pastor | Blog AUTEM",
+      "de": "SCADA-Vergleichsbenchmark | Jean-Romain BARDET & Sylvain Pastor | AUTEM Blog",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Un aperçu complet des fonctionnalités, performances et avantages des différents systèmes SCADA pour une meilleure prise de décision.",
+      "de": "Ein umfassender Überblick über die Funktionen, Leistungen und Vorteile verschiedener SCADA-Systeme für eine bessere Entscheidungsfindung.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "Supervision SCADA",
+        "AUTEM",
+        "automatisme industriel"
+      ],
+      "de": [
+        "SCADA-Überwachung",
+        "AUTEM",
+        "Industrielle Automatisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Blog technique automatisme et SCADA industriel",
+      "de": "AUTEM – Fachblog für Automatisierung und industrielle SCADA-Systeme",
+      "de:manual": true
+    }
+  }
+}
