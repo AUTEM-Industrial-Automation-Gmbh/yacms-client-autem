@@ -10,156 +10,190 @@
         "heading": "Introduction",
         "paragraphs": [
           {
-            "text": "Quand on se pose la question de savoir quelle est la meilleure solution SCADA à installer en entreprise, la réponse qu'on a comme retour est souvent celle-ci: \"La meilleure solution est celle qu'on connaît.\" Et en général, on se rend compte que les gens ne prennent pas le temps de bien faire un comparatif des solutions sur le marché. Et c'est donc l'objet de cet article."
+            "text": "Quand on se pose la question de savoir quelle est la meilleure solution SCADA à installer en entreprise, la réponse qu'on a comme retour est souvent celle-ci: \"La meilleure solution est celle qu'on connaît.\" Et en général, on se rend compte que les gens ne prennent pas le temps de bien faire un comparatif des solutions sur le marché. Et c'est donc l'objet de cet article.",
+            "_tid": "4dPfjP"
           }
         ],
         "subsections": [],
-        "videoUrl": "https://www.youtube.com/embed/Q1jPnK36NQo"
+        "videoUrl": "https://www.youtube.com/embed/Q1jPnK36NQo",
+        "_tid": "aPBhjU"
       },
       {
         "heading": "1er critère comparatif - Références et Ancienneté",
         "paragraphs": [
           {
-            "text": "Pour le critère Références et Ancienneté , les solutions SCADAs qui obtiennent la meilleur note de 5 sont Win CC OA et Wonderware , éditeurs qui existaient depuis 1990."
+            "text": "Pour le critère Références et Ancienneté , les solutions SCADAs qui obtiennent la meilleur note de 5 sont Win CC OA et Wonderware , éditeurs qui existaient depuis 1990.",
+            "_tid": "m8OqWN"
           }
         ],
-        "subsections": []
+        "subsections": [],
+        "_tid": "e7NDiZ"
       },
       {
         "heading": "2ème critère comparatif - Installation & et démarrage",
         "paragraphs": [
           {
-            "text": "Pour le critère Installation & démarrage , les solutions SCADAs qui obtiennent la meilleure note de 5 sont SCorp-io , Ignition et Win CC OA , parce qu'elles sont facilement déployables en cloud ."
+            "text": "Pour le critère Installation & démarrage , les solutions SCADAs qui obtiennent la meilleure note de 5 sont SCorp-io , Ignition et Win CC OA , parce qu'elles sont facilement déployables en cloud .",
+            "_tid": "3VoAlk"
           }
         ],
-        "subsections": []
+        "subsections": [],
+        "_tid": "KRhLzT"
       },
       {
         "heading": "3ème critère comparatif - Portabilité",
         "paragraphs": [
           {
-            "text": "Pour le critère Portabilité , les solutions SCADAs qui obtiennent la meilleure note de 5 sont SCorp-io , Ignition et Win CC OA pour leur déploiement sur toutes les plateformes ."
+            "text": "Pour le critère Portabilité , les solutions SCADAs qui obtiennent la meilleure note de 5 sont SCorp-io , Ignition et Win CC OA pour leur déploiement sur toutes les plateformes .",
+            "_tid": "0fgiI1"
           }
         ],
-        "subsections": []
+        "subsections": [],
+        "_tid": "SfEnMF"
       },
       {
         "heading": "4ème critère comparatif - Connectivité",
         "paragraphs": [
           {
-            "text": "Pour le critère Connectivité , les solutions SCADAs qui obtiennent la meilleure note de 3 sont SCorp-io , Ignition , Panorama et Win CC OA pour leur capacité à être Serveur OPC-UA ."
+            "text": "Pour le critère Connectivité , les solutions SCADAs qui obtiennent la meilleure note de 3 sont SCorp-io , Ignition , Panorama et Win CC OA pour leur capacité à être Serveur OPC-UA .",
+            "_tid": "HGLRIy"
           }
         ],
-        "subsections": []
+        "subsections": [],
+        "_tid": "Tlfrpe"
       },
       {
         "heading": "5ème critère comparatif - Gestion BDD",
         "paragraphs": [
           {
-            "text": "Pour le critère Gestion BDD , les solutions SCADAs qui obtiennent la meilleure note de 5 sont SCorp-io , Ignition et Win CC OA pour leur capacité à s'interfacer avec toutes les bases de données du marché ."
+            "text": "Pour le critère Gestion BDD , les solutions SCADAs qui obtiennent la meilleure note de 5 sont SCorp-io , Ignition et Win CC OA pour leur capacité à s'interfacer avec toutes les bases de données du marché .",
+            "_tid": "1PdAK1"
           }
         ],
-        "subsections": []
+        "subsections": [],
+        "_tid": "GnHFRt"
       },
       {
         "heading": "6ème critère comparatif - Web",
         "paragraphs": [
           {
-            "text": "Pour le critère Web , les solutions SCADAs qui obtiennent la meilleure note de 5 sont SCorp-io et Ignition parce qu'elles intègrent du HTML5 et du CSS sans aucune limitation ."
+            "text": "Pour le critère Web , les solutions SCADAs qui obtiennent la meilleure note de 5 sont SCorp-io et Ignition parce qu'elles intègrent du HTML5 et du CSS sans aucune limitation .",
+            "_tid": "ib7x7p"
           }
         ],
-        "subsections": []
+        "subsections": [],
+        "_tid": "voVdWO"
       },
       {
         "heading": "7ème critère comparatif - Mobilité",
         "paragraphs": [
           {
-            "text": "Pour le critère Mobilité , les solutions SCADAs qui obtiennent la meilleure note de 5 sont Scorp-io et Ignition car ce sont des systèmes sur lesquels on peut utiliser HTML5 ."
+            "text": "Pour le critère Mobilité , les solutions SCADAs qui obtiennent la meilleure note de 5 sont Scorp-io et Ignition car ce sont des systèmes sur lesquels on peut utiliser HTML5 .",
+            "_tid": "Uj8QeO"
           }
         ],
-        "subsections": []
+        "subsections": [],
+        "_tid": "i73GH2"
       },
       {
         "heading": "8ème critère comparatif - Cloud",
         "paragraphs": [
           {
-            "text": "Pour le critère Cloud , la solution SCADA qui obtient la meilleure note de 5 est SCorp-io pour être le meilleur du Cloud - de façon natif ."
+            "text": "Pour le critère Cloud , la solution SCADA qui obtient la meilleure note de 5 est SCorp-io pour être le meilleur du Cloud - de façon natif .",
+            "_tid": "Y5wkys"
           }
         ],
-        "subsections": []
+        "subsections": [],
+        "_tid": "nawFcK"
       },
       {
         "heading": "9ème critère comparatif - IDE Dev",
         "paragraphs": [
           {
-            "text": "Pour le critère IDE Dev , la solution SCADA qui obtient la meilleure note de 5 est SCorp-io parce qu'lle offre une solution no-code, solution simple à configurer ."
+            "text": "Pour le critère IDE Dev , la solution SCADA qui obtient la meilleure note de 5 est SCorp-io parce qu'lle offre une solution no-code, solution simple à configurer .",
+            "_tid": "Asy6H1"
           }
         ],
-        "subsections": []
+        "subsections": [],
+        "_tid": "NUOIsV"
       },
       {
         "heading": "10ème critère comparatif - Support + Formation",
         "paragraphs": [
           {
-            "text": "Pour le critère Support + Formation , les solutions SCADAs qui obtiennent la meilleure note de 4 sont SCorp-io et Ignition parce qu'on peut facilement apprendre le langage à travers des formations gratuites ."
+            "text": "Pour le critère Support + Formation , les solutions SCADAs qui obtiennent la meilleure note de 4 sont SCorp-io et Ignition parce qu'on peut facilement apprendre le langage à travers des formations gratuites .",
+            "_tid": "PazKjz"
           }
         ],
-        "subsections": []
+        "subsections": [],
+        "_tid": "lyaZAx"
       },
       {
         "heading": "11ème critère comparatif - Licensing + coûts de récurrents",
         "paragraphs": [
           {
-            "text": "Pour le critère Licensing + coûts , les solutions SCADAs qui obtiennent la meilleure note de 5 sont SCorp-io et Ignition parce qu'elles offrent un tarif assez abordable pour l'utilisation de leur solution."
+            "text": "Pour le critère Licensing + coûts , les solutions SCADAs qui obtiennent la meilleure note de 5 sont SCorp-io et Ignition parce qu'elles offrent un tarif assez abordable pour l'utilisation de leur solution.",
+            "_tid": "YlhnSc"
           }
         ],
-        "subsections": []
+        "subsections": [],
+        "_tid": "D7kyN6"
       },
       {
         "heading": "12ème critère comparatif - Maintenabilité, versioning",
         "paragraphs": [
           {
-            "text": "Pour le critère Maintenabilité, versioning , les solutions SCADAs qui obtiennent la meilleure note de 4 sont SCorp-io , Ignition et Win CC OA pour leur compatibilité avec GIT ."
+            "text": "Pour le critère Maintenabilité, versioning , les solutions SCADAs qui obtiennent la meilleure note de 4 sont SCorp-io , Ignition et Win CC OA pour leur compatibilité avec GIT .",
+            "_tid": "Iq0dUC"
           }
         ],
-        "subsections": []
+        "subsections": [],
+        "_tid": "rpfpmg"
       },
       {
         "heading": "13ème critère comparatif - Sécurité, Stabilité",
         "paragraphs": [
           {
-            "text": "Pour le critère Sécurité, Stabilité , toutes les solutions explorées: SCorp-io , Ignition , Panorama , Win CC OA , PCVue et Wonderware passe le test avec une note de 3 car plusieurs volets sont à prendre en compte en matière de sécurité et de stabilité."
+            "text": "Pour le critère Sécurité, Stabilité , toutes les solutions explorées: SCorp-io , Ignition , Panorama , Win CC OA , PCVue et Wonderware passe le test avec une note de 3 car plusieurs volets sont à prendre en compte en matière de sécurité et de stabilité.",
+            "_tid": "KYf6HO"
           }
         ],
-        "subsections": []
+        "subsections": [],
+        "_tid": "6JMaap"
       },
       {
         "heading": "Resultat final",
         "paragraphs": [
           {
-            "text": "Après comparatif de toutes ces solutions, voici ci-après une vue globale des données qu'on obtient sur la base des notes mentionnées."
+            "text": "Après comparatif de toutes ces solutions, voici ci-après une vue globale des données qu'on obtient sur la base des notes mentionnées.",
+            "_tid": "Fc4Hyt"
           },
           {
-            "text": "N'hésitez pas à me contacter si vous désirez recevoir égalements ces données comparatifs."
+            "text": "N'hésitez pas à me contacter si vous désirez recevoir égalements ces données comparatifs.",
+            "_tid": "jtiYBC"
           },
           {
-            "text": "contact@autem-services.fr"
+            "text": "contact@autem-services.fr",
+            "_tid": "ewNaeH"
           }
         ],
         "subsections": [],
         "image": {
           "src": "https://autem-services.fr/assets/images/comparatif-scada.png",
           "alt": "automatisme,industrie40,autem,marc akoto,kepware,opc,datalogger,kepserverex,sql,oracle,mysql,ms access,opc server…"
-        }
+        },
+        "_tid": "zPvi2c"
       },
       {
         "heading": "Force des solutions",
         "paragraphs": [
           {
-            "text": "Pour chacune des solutions explorées, voici mon point de vue sur la force de chacune de ces solutions: ✅ Ignition a pour qualité d'être universelle ✅ Panorama a pour qualité d'être équilibré ✅ Win CC OA a pour qualité d'être Challenger et Robustre ✅ PcVue a pour qualité français et formateur ✅ Wonderware a pour qualité d'être sécurisé"
+            "text": "Pour chacune des solutions explorées, voici mon point de vue sur la force de chacune de ces solutions: ✅ Ignition a pour qualité d'être universelle ✅ Panorama a pour qualité d'être équilibré ✅ Win CC OA a pour qualité d'être Challenger et Robustre ✅ PcVue a pour qualité français et formateur ✅ Wonderware a pour qualité d'être sécurisé",
+            "_tid": "aT6Qp4"
           }
         ],
-        "subsections": []
+        "subsections": [],
+        "_tid": "eSxfAs"
       }
     ]
   }

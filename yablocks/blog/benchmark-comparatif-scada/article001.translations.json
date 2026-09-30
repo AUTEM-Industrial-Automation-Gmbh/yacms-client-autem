@@ -1,0 +1,149 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@aPBhjU].heading": {
+      "source": "Introduction",
+      "de": "Einleitung"
+    },
+    "data.sections[@e7NDiZ].heading": {
+      "source": "1er critère comparatif - Références et Ancienneté",
+      "de": "1. Vergleichskriterium - Referenzen und Alter"
+    },
+    "data.sections[@KRhLzT].heading": {
+      "source": "2ème critère comparatif - Installation & et démarrage",
+      "de": "2. Vergleichskriterium - Installation & Inbetriebnahme"
+    },
+    "data.sections[@SfEnMF].heading": {
+      "source": "3ème critère comparatif - Portabilité",
+      "de": "3. Vergleichskriterium - Portabilität"
+    },
+    "data.sections[@Tlfrpe].heading": {
+      "source": "4ème critère comparatif - Connectivité",
+      "de": "4. Vergleichskriterium - Konnektivität"
+    },
+    "data.sections[@GnHFRt].heading": {
+      "source": "5ème critère comparatif - Gestion BDD",
+      "de": "5. Vergleichskriterium - Datenbankverwaltung"
+    },
+    "data.sections[@voVdWO].heading": {
+      "source": "6ème critère comparatif - Web",
+      "de": "6. Vergleichskriterium - Web"
+    },
+    "data.sections[@i73GH2].heading": {
+      "source": "7ème critère comparatif - Mobilité",
+      "de": "7. Vergleichskriterium - Mobilität"
+    },
+    "data.sections[@nawFcK].heading": {
+      "source": "8ème critère comparatif - Cloud",
+      "de": "8. Vergleichskriterium - Cloud"
+    },
+    "data.sections[@NUOIsV].heading": {
+      "source": "9ème critère comparatif - IDE Dev",
+      "de": "9. Vergleichskriterium - IDE Dev"
+    },
+    "data.sections[@lyaZAx].heading": {
+      "source": "10ème critère comparatif - Support + Formation",
+      "de": "10. Vergleichskriterium - Support + Schulung"
+    },
+    "data.sections[@D7kyN6].heading": {
+      "source": "11ème critère comparatif - Licensing + coûts de récurrents",
+      "de": "11. Vergleichskriterium - Lizenzierung + laufende Kosten"
+    },
+    "data.sections[@rpfpmg].heading": {
+      "source": "12ème critère comparatif - Maintenabilité, versioning",
+      "de": "12. Vergleichskriterium - Wartbarkeit, Versionierung"
+    },
+    "data.sections[@6JMaap].heading": {
+      "source": "13ème critère comparatif - Sécurité, Stabilité",
+      "de": "13. Vergleichskriterium - Sicherheit, Stabilität"
+    },
+    "data.sections[@zPvi2c].heading": {
+      "source": "Resultat final",
+      "de": "Endergebnis"
+    },
+    "data.sections[@eSxfAs].heading": {
+      "source": "Force des solutions",
+      "de": "Stärken der Lösungen"
+    },
+    "data.sections[@aPBhjU].paragraphs[@4dPfjP].text": {
+      "source": "Quand on se pose la question de savoir quelle est la meilleure solution SCADA à installer en entreprise, la réponse qu'on a comme retour est souvent celle-ci: \"La meilleure solution est celle qu'on connaît.\" Et en général, on se rend compte que les gens ne prennent pas le temps de bien faire un comparatif des solutions sur le marché. Et c'est donc l'objet de cet article.",
+      "de": "Wenn man sich die Frage stellt, welche die beste SCADA-Lösung für Unternehmen ist, lautet die Antwort, die man oft erhält: „Die beste Lösung ist die, die man kennt.“ Und im Allgemeinen stellt man fest, dass die Leute sich nicht die Zeit nehmen, die Lösungen auf dem Markt gründlich zu vergleichen. Dies ist der Gegenstand dieses Artikels."
+    },
+    "data.sections[@e7NDiZ].paragraphs[@m8OqWN].text": {
+      "source": "Pour le critère Références et Ancienneté , les solutions SCADAs qui obtiennent la meilleur note de 5 sont Win CC OA et Wonderware , éditeurs qui existaient depuis 1990.",
+      "de": "Für das Kriterium Referenzen und Alter erhalten die SCADA-Lösungen Win CC OA und Wonderware die beste Note von 5, da diese Anbieter bereits seit 1990 existieren."
+    },
+    "data.sections[@KRhLzT].paragraphs[@3VoAlk].text": {
+      "source": "Pour le critère Installation & démarrage , les solutions SCADAs qui obtiennent la meilleure note de 5 sont SCorp-io , Ignition et Win CC OA , parce qu'elles sont facilement déployables en cloud .",
+      "de": "Für das Kriterium Installation & Inbetriebnahme erhalten die SCADA-Lösungen SCorp-io, Ignition und Win CC OA die beste Note von 5, da sie einfach in der Cloud bereitgestellt werden können."
+    },
+    "data.sections[@SfEnMF].paragraphs[@0fgiI1].text": {
+      "source": "Pour le critère Portabilité , les solutions SCADAs qui obtiennent la meilleure note de 5 sont SCorp-io , Ignition et Win CC OA pour leur déploiement sur toutes les plateformes .",
+      "de": "Für das Kriterium Portabilität erhalten die SCADA-Lösungen SCorp-io, Ignition und Win CC OA die beste Note von 5, da sie auf allen Plattformen eingesetzt werden können."
+    },
+    "data.sections[@Tlfrpe].paragraphs[@HGLRIy].text": {
+      "source": "Pour le critère Connectivité , les solutions SCADAs qui obtiennent la meilleure note de 3 sont SCorp-io , Ignition , Panorama et Win CC OA pour leur capacité à être Serveur OPC-UA .",
+      "de": "Für das Kriterium Konnektivität erhalten die SCADA-Lösungen SCorp-io, Ignition, Panorama und Win CC OA die beste Note von 3, da sie als OPC-UA-Server fungieren können."
+    },
+    "data.sections[@GnHFRt].paragraphs[@1PdAK1].text": {
+      "source": "Pour le critère Gestion BDD , les solutions SCADAs qui obtiennent la meilleure note de 5 sont SCorp-io , Ignition et Win CC OA pour leur capacité à s'interfacer avec toutes les bases de données du marché .",
+      "de": "Für das Kriterium Datenbankverwaltung erhalten die SCADA-Lösungen SCorp-io, Ignition und Win CC OA die beste Note von 5, da sie sich mit allen Datenbanken auf dem Markt verbinden können."
+    },
+    "data.sections[@voVdWO].paragraphs[@ib7x7p].text": {
+      "source": "Pour le critère Web , les solutions SCADAs qui obtiennent la meilleure note de 5 sont SCorp-io et Ignition parce qu'elles intègrent du HTML5 et du CSS sans aucune limitation .",
+      "de": "Für das Kriterium Web erhalten die SCADA-Lösungen SCorp-io und Ignition die beste Note von 5, da sie HTML5 und CSS ohne Einschränkungen integrieren."
+    },
+    "data.sections[@i73GH2].paragraphs[@Uj8QeO].text": {
+      "source": "Pour le critère Mobilité , les solutions SCADAs qui obtiennent la meilleure note de 5 sont Scorp-io et Ignition car ce sont des systèmes sur lesquels on peut utiliser HTML5 .",
+      "de": "Für das Kriterium Mobilität erhalten die SCADA-Lösungen Scorp-io und Ignition die beste Note von 5, da es sich um Systeme handelt, auf denen HTML5 verwendet werden kann."
+    },
+    "data.sections[@nawFcK].paragraphs[@Y5wkys].text": {
+      "source": "Pour le critère Cloud , la solution SCADA qui obtient la meilleure note de 5 est SCorp-io pour être le meilleur du Cloud - de façon natif .",
+      "de": "Für das Kriterium Cloud erhält die SCADA-Lösung SCorp-io die beste Note von 5, da sie nativ die beste Cloud-Lösung darstellt."
+    },
+    "data.sections[@NUOIsV].paragraphs[@Asy6H1].text": {
+      "source": "Pour le critère IDE Dev , la solution SCADA qui obtient la meilleure note de 5 est SCorp-io parce qu'lle offre une solution no-code, solution simple à configurer .",
+      "de": "Für das Kriterium IDE Dev erhält die SCADA-Lösung SCorp-io die beste Note von 5, da sie eine No-Code-Lösung bietet, die einfach zu konfigurieren ist."
+    },
+    "data.sections[@lyaZAx].paragraphs[@PazKjz].text": {
+      "source": "Pour le critère Support + Formation , les solutions SCADAs qui obtiennent la meilleure note de 4 sont SCorp-io et Ignition parce qu'on peut facilement apprendre le langage à travers des formations gratuites .",
+      "de": "Für das Kriterium Support + Schulung erhalten die SCADA-Lösungen SCorp-io und Ignition die beste Note von 4, da man die Sprache durch kostenlose Schulungen leicht erlernen kann."
+    },
+    "data.sections[@D7kyN6].paragraphs[@YlhnSc].text": {
+      "source": "Pour le critère Licensing + coûts , les solutions SCADAs qui obtiennent la meilleure note de 5 sont SCorp-io et Ignition parce qu'elles offrent un tarif assez abordable pour l'utilisation de leur solution.",
+      "de": "Für das Kriterium Lizenzierung + Kosten erhalten die SCADA-Lösungen SCorp-io und Ignition die beste Note von 5, da sie einen erschwinglichen Preis für die Nutzung ihrer Lösung bieten."
+    },
+    "data.sections[@rpfpmg].paragraphs[@Iq0dUC].text": {
+      "source": "Pour le critère Maintenabilité, versioning , les solutions SCADAs qui obtiennent la meilleure note de 4 sont SCorp-io , Ignition et Win CC OA pour leur compatibilité avec GIT .",
+      "de": "Für das Kriterium Wartbarkeit, Versionierung erhalten die SCADA-Lösungen SCorp-io, Ignition und Win CC OA die beste Note von 4, da sie mit GIT kompatibel sind."
+    },
+    "data.sections[@6JMaap].paragraphs[@KYf6HO].text": {
+      "source": "Pour le critère Sécurité, Stabilité , toutes les solutions explorées: SCorp-io , Ignition , Panorama , Win CC OA , PCVue et Wonderware passe le test avec une note de 3 car plusieurs volets sont à prendre en compte en matière de sécurité et de stabilité.",
+      "de": "Für das Kriterium Sicherheit, Stabilität bestehen alle untersuchten Lösungen: SCorp-io, Ignition, Panorama, Win CC OA, PCVue und Wonderware den Test mit einer Note von 3, da mehrere Aspekte in Bezug auf Sicherheit und Stabilität berücksichtigt werden müssen."
+    },
+    "data.sections[@zPvi2c].paragraphs[@Fc4Hyt].text": {
+      "source": "Après comparatif de toutes ces solutions, voici ci-après une vue globale des données qu'on obtient sur la base des notes mentionnées.",
+      "de": "Nach dem Vergleich all dieser Lösungen finden Sie hier einen globalen Überblick über die Daten, die wir auf der Grundlage der genannten Noten erhalten haben."
+    },
+    "data.sections[@zPvi2c].paragraphs[@jtiYBC].text": {
+      "source": "N'hésitez pas à me contacter si vous désirez recevoir égalements ces données comparatifs.",
+      "de": "Zögern Sie nicht, mich zu kontaktieren, wenn Sie diese Vergleichsdaten ebenfalls erhalten möchten."
+    },
+    "data.sections[@zPvi2c].paragraphs[@ewNaeH].text": {
+      "source": "contact@autem-services.fr",
+      "de": "contact@autem-services.fr"
+    },
+    "data.sections[@eSxfAs].paragraphs[@aT6Qp4].text": {
+      "source": "Pour chacune des solutions explorées, voici mon point de vue sur la force de chacune de ces solutions: ✅ Ignition a pour qualité d'être universelle ✅ Panorama a pour qualité d'être équilibré ✅ Win CC OA a pour qualité d'être Challenger et Robustre ✅ PcVue a pour qualité français et formateur ✅ Wonderware a pour qualité d'être sécurisé",
+      "de": "Für jede der untersuchten Lösungen hier mein Standpunkt zu den Stärken jeder einzelnen Lösung: ✅ Ignition ist universell einsetzbar ✅ Panorama ist ausgewogen ✅ Win CC OA ist ein Herausforderer und robust ✅ PcVue ist französisch und didaktisch ✅ Wonderware ist sicher"
+    },
+    "data.sections[@zPvi2c].image.alt": {
+      "source": "automatisme,industrie40,autem,marc akoto,kepware,opc,datalogger,kepserverex,sql,oracle,mysql,ms access,opc server…",
+      "de": "Automatisierung, Industrie40, Autem, Marc Akoto, Kepware, OPC, Datalogger, Kepserverex, SQL, Oracle, MySQL, MS Access, OPC Server…"
+    }
+  }
+}
