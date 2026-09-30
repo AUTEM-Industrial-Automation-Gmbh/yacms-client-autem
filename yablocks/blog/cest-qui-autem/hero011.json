@@ -10,11 +10,13 @@
     "tags": [
       {
         "label": "Automation",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "qklBym"
       },
       {
         "label": "Evolution de l'industrie",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "F8kBIJ"
       }
     ],
     "articleMeta": {

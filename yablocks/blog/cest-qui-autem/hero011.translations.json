@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backLinkLabel": {
+      "source": "Retour au blog",
+      "de": "Zurück zum Blog"
+    },
+    "data.title": {
+      "source": "C'est qui AUTEM ? Notre activité d'Intégrateur Automation Industriel",
+      "de": "Wer ist AUTEM? Unser Geschäft als Integrator für industrielle Automatisierung"
+    },
+    "data.tags[@qklBym].label": {
+      "source": "Automation",
+      "de": "Automatisierung"
+    },
+    "data.tags[@F8kBIJ].label": {
+      "source": "Evolution de l'industrie",
+      "de": "Industrieentwicklung"
+    },
+    "data.articleMeta.readTime": {
+      "source": "2 min lecture",
+      "de": "2 Minuten Lesezeit"
+    },
+    "data.articleMeta.publishDate": {
+      "source": "04/01/25",
+      "de": "04.01.25"
+    },
+    "data.articleMeta.updatedDate": {
+      "source": "17/03/26",
+      "de": "17.03.26"
+    }
+  }
+}

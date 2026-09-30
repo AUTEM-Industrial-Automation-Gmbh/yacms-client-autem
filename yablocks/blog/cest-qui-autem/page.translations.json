@@ -1,0 +1,35 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "C'est qui AUTEM ? Notre activité d'Intégrateur Automation Industriel | Blog AUTEM",
+      "de": "Wer ist AUTEM? Unser Tätigkeitsbereich als Integrator für industrielle Automatisierung | AUTEM Blog",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Entre Hardware, Software, et Performance Industrielle ... je vous dis tout sur AUTEM, le volet Business, les clients Industriels, les équipes et partenaires.",
+      "de": "Zwischen Hardware, Software und industrieller Leistung... ich erzähle Ihnen alles über AUTEM, das Geschäftsfeld, die Industriekunden, die Teams und die Partner.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "Automation",
+        "Evolution de l'industrie",
+        "AUTEM",
+        "automatisme industriel"
+      ],
+      "de": [
+        "Automatisierung",
+        "Industrieentwicklung",
+        "AUTEM",
+        "industrielle Automatisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Blog technique automatisme et SCADA industriel",
+      "de": "AUTEM – Technischer Blog für industrielle Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}
