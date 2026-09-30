@@ -1,0 +1,171 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@DvZp4S].heading": {
+      "source": "Introduction",
+      "de": "Einleitung"
+    },
+    "data.sections[@lcubeG].heading": {
+      "source": "Standard Solution VS Custom Solution - An Overview",
+      "de": "Standardlösung vs. kundenspezifische Lösung – Ein Überblick"
+    },
+    "data.sections[@b2DuAp].heading": {
+      "source": "Standard Solution VS Custom solution - Agriculture case",
+      "de": "Standardlösung vs. kundenspezifische Lösung – Fallstudie Landwirtschaft"
+    },
+    "data.sections[@SaaMlk].heading": {
+      "source": "Expert Arduino Engineer VS Control Monitoring Factory Case",
+      "de": "Experte für Arduino-Entwicklung vs. Fabrikfall für die Überwachung von Steuerungen"
+    },
+    "data.sections[@obxgZ3].heading": {
+      "source": "Manufactured with few skills available case",
+      "de": "Fallstudie: Herstellung mit wenigen verfügbaren Fachkräften"
+    },
+    "data.sections[@Rff2ST].heading": {
+      "source": "Textile Industries case",
+      "de": "Fallstudie Textilindustrie"
+    },
+    "data.sections[@8eu4BG].heading": {
+      "source": "Cultural aspect of technological project",
+      "de": "Kulturelle Aspekte technologischer Projekte"
+    },
+    "data.sections[@DvZp4S].paragraphs[@EGeMCb].text": {
+      "source": "When does designing a custom solution become the best choice? We will discover this together in this article with an expert: Matthew Smith We will find the answer to this question through various specific cases applied to a given field.",
+      "de": "Wann ist die Entwicklung einer kundenspezifischen Lösung die beste Wahl? Das werden wir in diesem Artikel gemeinsam mit einem Experten, Matthew Smith, entdecken. Wir werden die Antwort auf diese Frage anhand verschiedener spezifischer Fälle, die auf ein bestimmtes Feld angewendet werden, finden."
+    },
+    "data.sections[@lcubeG].paragraphs[@PNfa7l].text": {
+      "source": "Discover the entirety of this section through the following excerpt:",
+      "de": "Entdecken Sie diesen Abschnitt vollständig anhand des folgenden Auszugs:"
+    },
+    "data.sections[@b2DuAp].paragraphs[@clnMjE].text": {
+      "source": "Scenario 1: We want to be able to analyze the humidity level of a certain type of molecule in a specific type of environment. Which solutions should we consider?",
+      "de": "Szenario 1: Wir möchten den Feuchtigkeitsgehalt eines bestimmten Molekültyps in einer spezifischen Umgebung analysieren können. Welche Lösungen sollten wir in Betracht ziehen?"
+    },
+    "data.sections[@b2DuAp].paragraphs[@ahHiQ6].text": {
+      "source": "In this particular case, according to Matthew, it needs to be analyzed using two different approaches because each solution depends on several factors. Mainly, by 2024, there is already a variety of mature, custom-made products where the unit cost is really affordable. And it is entirely legitimate to purchase a custom sensor based on the criteria we are looking for. However, in previous years, it was necessary to go back to the fundamentals of the criteria we are looking for because no solutions existed yet. So if we put ourselves in the shoes of a company that manufactures only custom sensors for agriculture, the success of the solutions proposed by this company will depend on the solutions that already exist on the market and the added value that this company's solutions bring. One of the reasons we turn to custom solutions is that it serves as an opportunity for learning.",
+      "de": "In diesem speziellen Fall muss laut Matthew die Analyse mit zwei verschiedenen Ansätzen erfolgen, da jede Lösung von mehreren Faktoren abhängt. Hauptsächlich gibt es bis 2024 bereits eine Vielzahl ausgereifter, maßgeschneiderter Produkte, deren Stückkosten wirklich erschwinglich sind. Und es ist völlig legitim, einen kundenspezifischen Sensor basierend auf den gesuchten Kriterien zu erwerben. In früheren Jahren war es jedoch notwendig, zu den Grundlagen der gesuchten Kriterien zurückzukehren, da noch keine Lösungen existierten. Wenn wir uns also in die Lage eines Unternehmens versetzen, das nur kundenspezifische Sensoren für die Landwirtschaft herstellt, hängt der Erfolg der von diesem Unternehmen vorgeschlagenen Lösungen von den bereits auf dem Markt befindlichen Lösungen und dem Mehrwert ab, den die Lösungen dieses Unternehmens bieten. Einer der Gründe, warum wir uns für kundenspezifische Lösungen entscheiden, ist, dass sie eine Lernmöglichkeit bieten."
+    },
+    "data.sections[@b2DuAp].paragraphs[@wYTB2j].text": {
+      "source": "Explore this case in full through this excerpt:",
+      "de": "Erkunden Sie diesen Fall vollständig anhand dieses Auszugs:"
+    },
+    "data.sections[@SaaMlk].paragraphs[@CK4zj3].text": {
+      "source": "Scenarios 2: In this second case, we have a company with 5 highly advanced Arduino experts who implement all projects from the initial phase and a company that must conduct quality control monitoring. Which of the two cases would be more beneficial?",
+      "de": "Szenario 2: Im zweiten Fall haben wir ein Unternehmen mit 5 hochqualifizierten Arduino-Experten, die alle Projekte von der Anfangsphase an umsetzen, und ein Unternehmen, das eine Qualitätskontrolle durchführen muss. Welcher der beiden Fälle wäre vorteilhafter?"
+    },
+    "data.sections[@SaaMlk].paragraphs[@Pabe6g].text": {
+      "source": "According to Matthew, this is a somewhat difficult case to discuss. Especially when you have a team of 5 Arduino engineers. This demonstrates a solid knowledge of embedded systems where one can do without anything abstract to the project. Which is a strong point. The advantage here is that we can apply technical skills for specific needs. But for someone who is not familiar with the company's activities, it may seem unproductive because their methods can be compared to outdated methods. Because they do not rely on what others are doing outside of the company to adapt and learn from them.",
+      "de": "Laut Matthew ist dies ein etwas schwieriger Fall zu diskutieren. Insbesondere wenn man ein Team von 5 Arduino-Ingenieuren hat. Dies zeigt fundierte Kenntnisse eingebetteter Systeme, bei denen man auf nichts Abstraktes für das Projekt verzichten kann. Was ein starker Punkt ist. Der Vorteil hier ist, dass wir technische Fähigkeiten für spezifische Bedürfnisse anwenden können. Aber für jemanden, der mit den Aktivitäten des Unternehmens nicht vertraut ist, kann es unproduktiv erscheinen, da ihre Methoden mit veralteten Methoden verglichen werden können. Weil sie sich nicht darauf verlassen, was andere außerhalb des Unternehmens tun, um sich anzupassen und von ihnen zu lernen."
+    },
+    "data.sections[@SaaMlk].paragraphs[@91aQff].text": {
+      "source": "Explore this case in full through this excerpt:",
+      "de": "Erkunden Sie diesen Fall vollständig anhand dieses Auszugs:"
+    },
+    "data.sections[@obxgZ3].paragraphs[@kRNqd5].text": {
+      "source": "Scenario 3: In this third case, we put ourselves in the context of a country where expertise is not yet present. How to build a production factory with very few available skills. Should we turn to a customized solution to train people which will take more time or should we turn to an off-the-shelf solution?",
+      "de": "Szenario 3: In diesem dritten Fall versetzen wir uns in den Kontext eines Landes, in dem noch keine Expertise vorhanden ist. Wie baut man eine Produktionsfabrik mit sehr wenigen verfügbaren Fachkräften auf? Sollten wir uns für eine kundenspezifische Lösung entscheiden, um die Leute auszubilden, was mehr Zeit in Anspruch nimmt, oder sollten wir uns für eine Standardlösung entscheiden?"
+    },
+    "data.sections[@obxgZ3].paragraphs[@vFbxGs].text": {
+      "source": "According to Matthew, in this specific case, there is a specific keyword: Capacity Building . Capacity Building essentially means much more than learning and acquiring knowledge. Capacity means that one is able to practice and that one is also able to participate in terms of a means or in terms of possession of power to be able to participate. And so, in this industrial development strategy, there is a large part of education, and sometimes it is necessary to be able to establish this expertise from another locality on the development site. It requires people capable of learning the fundamentals, applying the fundamentals, undertaking innovation projects...",
+      "de": "Laut Matthew gibt es in diesem speziellen Fall ein Schlüsselwort: Capacity Building. Capacity Building bedeutet im Wesentlichen viel mehr als Lernen und Wissenserwerb. Kapazität bedeutet, dass man in der Lage ist, zu praktizieren, und dass man auch in der Lage ist, sich in Bezug auf Mittel oder in Bezug auf den Besitz von Macht zu beteiligen, um teilnehmen zu können. Und so gibt es in dieser industriellen Entwicklungsstrategie einen großen Teil der Bildung, und manchmal ist es notwendig, diese Expertise von einem anderen Ort auf den Entwicklungsstandort zu übertragen. Es erfordert Menschen, die in der Lage sind, die Grundlagen zu lernen, die Grundlagen anzuwenden, Innovationsprojekte durchzuführen..."
+    },
+    "data.sections[@obxgZ3].paragraphs[@vry1Ph].text": {
+      "source": "Explore this case in full through this excerpt:",
+      "de": "Erkunden Sie diesen Fall vollständig anhand dieses Auszugs:"
+    },
+    "data.sections[@Rff2ST].paragraphs[@JaYc44].text": {
+      "source": "Scenarios 4: In this fourth case, we place ourselves in the context of sectors where most of their equipment that they use for specific tasks are designed for specific tasks. Is this a good thing for these sectors or is it a situation that delays these sectors compared to others?",
+      "de": "Szenario 4: In diesem vierten Fall versetzen wir uns in den Kontext von Sektoren, in denen die meisten ihrer Geräte, die sie für spezifische Aufgaben verwenden, für spezifische Aufgaben entwickelt wurden. Ist das gut für diese Sektoren oder ist es eine Situation, die diese Sektoren im Vergleich zu anderen zurückhält?"
+    },
+    "data.sections[@Rff2ST].paragraphs[@gfu01O].text": {
+      "source": "\"If it's part of a competitive advantage, no problem,\" Matthew tells us. Certain circumstances may cause the reason why we choose to develop a custom device for a given process to change as well. Therefore, it is necessary to continually revisit the question.",
+      "de": "\"Wenn es Teil eines Wettbewerbsvorteils ist, kein Problem\", sagt Matthew. Bestimmte Umstände können dazu führen, dass sich der Grund für die Entwicklung eines kundenspezifischen Geräts für einen bestimmten Prozess ändert. Daher ist es notwendig, die Frage ständig zu überprüfen."
+    },
+    "data.sections[@Rff2ST].paragraphs[@91b0dw].text": {
+      "source": "Explore this case in full through this excerpt:",
+      "de": "Erkunden Sie diesen Fall vollständig anhand dieses Auszugs:"
+    },
+    "data.sections[@8eu4BG].paragraphs[@7P5HK3].text": {
+      "source": "The impact of technological projects on society is profound and requires special attention to cultural and psychological aspects. It is increasingly important to consider how these projects shape human interactions and social structures. Technological projects should not only focus on technical innovation but also on their harmonious integration into the social fabric, taking into account the needs, behaviors, and expectations of people.",
+      "de": "Die Auswirkungen technologischer Projekte auf die Gesellschaft sind tiefgreifend und erfordern besondere Aufmerksamkeit für kulturelle und psychologische Aspekte. Es ist zunehmend wichtig zu berücksichtigen, wie diese Projekte menschliche Interaktionen und soziale Strukturen prägen. Technologische Projekte sollten sich nicht nur auf technische Innovation konzentrieren, sondern auch auf ihre harmonische Integration in das soziale Gefüge, unter Berücksichtigung der Bedürfnisse, Verhaltensweisen und Erwartungen der Menschen."
+    },
+    "data.sections[@8eu4BG].paragraphs[@lcn0Ci].text": {
+      "source": "Discover the full excerpt here:",
+      "de": "Entdecken Sie den vollständigen Auszug hier:"
+    },
+    "data.sections[@DvZp4S].links[@gXdj3h].text": {
+      "source": "Matthew Smith",
+      "de": "Matthew Smith"
+    },
+    "data.sections[@lcubeG].links[@HMyz0L].text": {
+      "source": "Discover it here | Video (05min:18s)",
+      "de": "Entdecken Sie es hier | Video (05min:18s)"
+    },
+    "data.sections[@b2DuAp].links[@t7F3cA].text": {
+      "source": "Consulter | Vidéo (09min:24s)",
+      "de": "Ansehen | Video (09min:24s)"
+    },
+    "data.sections[@SaaMlk].links[@OlNnwx].text": {
+      "source": "Consulter | Vidéo (04min:40s)",
+      "de": "Ansehen | Video (04min:40s)"
+    },
+    "data.sections[@obxgZ3].links[@i7tqce].text": {
+      "source": "Consulter | Vidéo (06min:13s)",
+      "de": "Ansehen | Video (06min:13s)"
+    },
+    "data.sections[@Rff2ST].links[@Bkt4aa].text": {
+      "source": "Consulter | Vidéo (07min:00s)",
+      "de": "Ansehen | Video (07min:00s)"
+    },
+    "data.sections[@8eu4BG].links[@8FnhYz].text": {
+      "source": "Consulter | Vidéo (08min:56s)",
+      "de": "Ansehen | Video (08min:56s)"
+    },
+    "data.sections[@DvZp4S].links[@gXdj3h].href": {
+      "source": "https://linkedin.com/in/darthfiber",
+      "de": [
+        "https://linkedin.com/in/darthfiber"
+      ]
+    },
+    "data.sections[@lcubeG].links[@HMyz0L].href": {
+      "source": "https://www.youtube.com/watch?v=VqzDMR7GjVc&t=35s",
+      "de": [
+        "https://www.youtube.com/watch?v=VqzDMR7GjVc&t=35s"
+      ]
+    },
+    "data.sections[@b2DuAp].links[@t7F3cA].href": {
+      "source": "https://www.youtube.com/watch?v=VqzDMR7GjVc&t=353s",
+      "de": [
+        "https://www.youtube.com/watch?v=VqzDMR7GjVc&t=353s"
+      ]
+    },
+    "data.sections[@SaaMlk].links[@OlNnwx].href": {
+      "source": "https://www.youtube.com/watch?v=VqzDMR7GjVc&t=917s",
+      "de": [
+        "https://www.youtube.com/watch?v=VqzDMR7GjVc&t=917s"
+      ]
+    },
+    "data.sections[@obxgZ3].links[@i7tqce].href": {
+      "source": "https://www.youtube.com/watch?v=VqzDMR7GjVc&t=1197s",
+      "de": [
+        "https://www.youtube.com/watch?v=VqzDMR7GjVc&t=1197s"
+      ]
+    },
+    "data.sections[@Rff2ST].links[@Bkt4aa].href": {
+      "source": "https://www.youtube.com/watch?v=VqzDMR7GjVc&t=1570s",
+      "de": [
+        "https://www.youtube.com/watch?v=VqzDMR7GjVc&t=1570s"
+      ]
+    },
+    "data.sections[@8eu4BG].links[@8FnhYz].href": {
+      "source": "https://youtube.com/shorts/mQznb_cTWpo",
+      "de": [
+        "https://youtube.com/shorts/mQznb_cTWpo"
+      ]
+    }
+  }
+}
