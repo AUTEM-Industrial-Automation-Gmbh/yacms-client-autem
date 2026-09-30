@@ -10,104 +10,129 @@
         "heading": "Introduction",
         "paragraphs": [
           {
-            "text": "Aujourd'hui, nous allons parler des logiciels qui sont utilisés dans l'industrie. L'idée est de comprendre de quoi il s'agit, quels sont les modèles existants, quelles sont les nouvelles tendances et savoir un peu comment cela s'applique à l'industrie."
+            "text": "Aujourd'hui, nous allons parler des logiciels qui sont utilisés dans l'industrie. L'idée est de comprendre de quoi il s'agit, quels sont les modèles existants, quelles sont les nouvelles tendances et savoir un peu comment cela s'applique à l'industrie.",
+            "_tid": "LtjBZF"
           }
         ],
         "subsections": [],
-        "videoUrl": "https://www.youtube.com/embed/QgEiM2WzT8I?si=UyqF5PFqbcisRcaE"
+        "videoUrl": "https://www.youtube.com/embed/QgEiM2WzT8I?si=UyqF5PFqbcisRcaE",
+        "_tid": "LYygHy"
       },
       {
         "heading": "Les logiciels et leur histoire",
         "paragraphs": [
           {
-            "text": "Les logiciels ont leur place beaucoup plus dans l'industrie et ont été utiles dans plusieurs secteurs. Certains y ont consacré leur vie à proposer des solutions constructives ou à faire des recherches avancées pour de nouvelles technologies. Certains ont aussi connu des logiciels gratuits ou semi-gratuits. Il faut noter qu'avant l'avènement de l'Open Source, il y avait 3 types de licences logicielles qui existaient dans la nature. On appelait ça du Public Domain : on y retrouve les logiciels qui sont publiés gratuitement mais sans aucun support en arrière-plan."
+            "text": "Les logiciels ont leur place beaucoup plus dans l'industrie et ont été utiles dans plusieurs secteurs. Certains y ont consacré leur vie à proposer des solutions constructives ou à faire des recherches avancées pour de nouvelles technologies. Certains ont aussi connu des logiciels gratuits ou semi-gratuits. Il faut noter qu'avant l'avènement de l'Open Source, il y avait 3 types de licences logicielles qui existaient dans la nature. On appelait ça du Public Domain : on y retrouve les logiciels qui sont publiés gratuitement mais sans aucun support en arrière-plan.",
+            "_tid": "HmGbJc"
           },
           {
-            "text": "On pouvait également trouver les logiciels du type Freeware , semblable au Public Domain, mais les droits d'auteur de ces types de logiciels sont respectés."
+            "text": "On pouvait également trouver les logiciels du type Freeware , semblable au Public Domain, mais les droits d'auteur de ces types de logiciels sont respectés.",
+            "_tid": "mQbvmv"
           },
           {
-            "text": "Le dernier type de licence est le Shareware . Le logiciel peut être obtenu gratuitement ou avec un coût relativement très faible, mais il fallait obtenir un support physique (CD-ROM, disquette) qui contient le logiciel. Ce qui est important à savoir, c'est que le coût de la distribution du logiciel a chuté à cause de l'internet."
+            "text": "Le dernier type de licence est le Shareware . Le logiciel peut être obtenu gratuitement ou avec un coût relativement très faible, mais il fallait obtenir un support physique (CD-ROM, disquette) qui contient le logiciel. Ce qui est important à savoir, c'est que le coût de la distribution du logiciel a chuté à cause de l'internet.",
+            "_tid": "9qgPL3"
           },
           {
-            "text": "Découvrez l'intégralité de cette section ici :"
+            "text": "Découvrez l'intégralité de cette section ici :",
+            "_tid": "jnKBk0"
           }
         ],
         "subsections": [],
         "links": [
           {
             "text": "Consulter | Vidéo (01min:48s)",
-            "href": "https://www.youtube.com/live/QgEiM2WzT8I?t=108s"
+            "href": "https://www.youtube.com/live/QgEiM2WzT8I?t=108s",
+            "_tid": "Ez5Woe"
           }
-        ]
+        ],
+        "_tid": "TZfo7x"
       },
       {
         "heading": "Open-Source VS Gratuit",
         "paragraphs": [
           {
-            "text": "Une question importante à aborder : quelle est la différence entre un logiciel gratuit et un logiciel Open-Source ?"
+            "text": "Une question importante à aborder : quelle est la différence entre un logiciel gratuit et un logiciel Open-Source ?",
+            "_tid": "cZPe8n"
           },
           {
-            "text": "L' Open-Source est une méthodologie de développement et de distribution. C'est une manière de faire les choses et de les rendre accessibles à tous de manière publique. Cela permet, entre autres, de développer plus rapidement, car d'autres personnes pourront venir se rajouter au projet pour y contribuer."
+            "text": "L' Open-Source est une méthodologie de développement et de distribution. C'est une manière de faire les choses et de les rendre accessibles à tous de manière publique. Cela permet, entre autres, de développer plus rapidement, car d'autres personnes pourront venir se rajouter au projet pour y contribuer.",
+            "_tid": "GZsuua"
           },
           {
-            "text": "La confusion entre Logiciel Open-Source et Logiciel Gratuit est apparue au début des années 2000. Avant le mouvement Open-Source, il y avait un autre mouvement qui s'appelait le Free Software Foundation . Le mouvement Open-Source repose sur le droit américain, sur la culture des États-Unis. L'Open-Source fait donc ressortir deux termes importants : le Copyright qui protège l'œuvre et le droit d'auteur qui protège l'auteur."
+            "text": "La confusion entre Logiciel Open-Source et Logiciel Gratuit est apparue au début des années 2000. Avant le mouvement Open-Source, il y avait un autre mouvement qui s'appelait le Free Software Foundation . Le mouvement Open-Source repose sur le droit américain, sur la culture des États-Unis. L'Open-Source fait donc ressortir deux termes importants : le Copyright qui protège l'œuvre et le droit d'auteur qui protège l'auteur.",
+            "_tid": "9hr4fl"
           },
           {
-            "text": "Découvrez l'intégralité de cette section ici:"
+            "text": "Découvrez l'intégralité de cette section ici:",
+            "_tid": "TKXmU9"
           }
         ],
         "subsections": [],
         "links": [
           {
             "text": "Consulter | Vidéo (18min:22s)",
-            "href": "https://www.youtube.com/live/QgEiM2WzT8I?t=445s"
+            "href": "https://www.youtube.com/live/QgEiM2WzT8I?t=445s",
+            "_tid": "h4DeVu"
           }
-        ]
+        ],
+        "_tid": "a6TGix"
       },
       {
         "heading": "Perpétuel VS Abonnement",
         "paragraphs": [
           {
-            "text": "Quels sont les modèles actuels de licence qui existent ?"
+            "text": "Quels sont les modèles actuels de licence qui existent ?",
+            "_tid": "d4sq5B"
           },
           {
-            "text": "Pour commencer, il faut noter qu'au début de l'IoT, il y avait pas mal d'offres où il fallait payer par abonnement; payer selon les données que l'on utilisait, la volumétrie... Les modèles de licensing étaient compliqués autrefois."
+            "text": "Pour commencer, il faut noter qu'au début de l'IoT, il y avait pas mal d'offres où il fallait payer par abonnement; payer selon les données que l'on utilisait, la volumétrie... Les modèles de licensing étaient compliqués autrefois.",
+            "_tid": "bJYIKE"
           },
           {
-            "text": "Il y a deux solutions de licence qui existent actuellement : la solution Perpétuelle qui te permet de payer en une seule fois et d'éviter la coupure des accès aux ressources du logiciel, et la solution Abonnement qui consiste à payer tous les mois pour profiter des avantages du logiciel."
+            "text": "Il y a deux solutions de licence qui existent actuellement : la solution Perpétuelle qui te permet de payer en une seule fois et d'éviter la coupure des accès aux ressources du logiciel, et la solution Abonnement qui consiste à payer tous les mois pour profiter des avantages du logiciel.",
+            "_tid": "gkfOCu"
           },
           {
-            "text": "Pour les intégrateurs, peu importe le type de licence, il y a une grande frustration : celle de ne pas avoir de transparence. Pourquoi je paye ? Est-ce que je paye juste pour verrouiller un code ou est-ce que je paye vraiment pour un support et avoir en arrière-plan des personnes au bout du téléphone ? Cela génère parfois beaucoup d'incompréhension."
+            "text": "Pour les intégrateurs, peu importe le type de licence, il y a une grande frustration : celle de ne pas avoir de transparence. Pourquoi je paye ? Est-ce que je paye juste pour verrouiller un code ou est-ce que je paye vraiment pour un support et avoir en arrière-plan des personnes au bout du téléphone ? Cela génère parfois beaucoup d'incompréhension.",
+            "_tid": "0Zu1VA"
           },
           {
-            "text": "Découvrez l'intégralité de cette section ici:"
+            "text": "Découvrez l'intégralité de cette section ici:",
+            "_tid": "Hb2A8X"
           }
         ],
         "subsections": [],
         "links": [
           {
             "text": "Consulter | Vidéo (07min:38s)",
-            "href": "https://www.youtube.com/live/QgEiM2WzT8I?t=1547s"
+            "href": "https://www.youtube.com/live/QgEiM2WzT8I?t=1547s",
+            "_tid": "hsFQNk"
           }
-        ]
+        ],
+        "_tid": "JDqjsu"
       },
       {
         "heading": "Les nouveaux modèles",
         "paragraphs": [
           {
-            "text": "Quels sont les nouveaux modèles de logiciels industriels pour le futur ?"
+            "text": "Quels sont les nouveaux modèles de logiciels industriels pour le futur ?",
+            "_tid": "ZuioXf"
           },
           {
-            "text": "Découvrez l'intégralité des nouveaux modèles proposés par la communauté ici :"
+            "text": "Découvrez l'intégralité des nouveaux modèles proposés par la communauté ici :",
+            "_tid": "lnryfv"
           }
         ],
         "subsections": [],
         "links": [
           {
             "text": "Consulter | Vidéo (35min:42s)",
-            "href": "https://www.youtube.com/live/QgEiM2WzT8I?t=2061s"
+            "href": "https://www.youtube.com/live/QgEiM2WzT8I?t=2061s",
+            "_tid": "vfoTKo"
           }
-        ]
+        ],
+        "_tid": "kii4bh"
       }
     ]
   }

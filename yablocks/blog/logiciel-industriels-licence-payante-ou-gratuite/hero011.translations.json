@@ -1,0 +1,29 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backLinkLabel": {
+      "source": "Retour au blog",
+      "de": "Zurück zum Blog"
+    },
+    "data.title": {
+      "source": "Prix des Logiciels Industriels",
+      "de": "Preise für Industrie-Software"
+    },
+    "data.tags[@kF7diO].label": {
+      "source": "Architecture Systèmes",
+      "de": "Systemarchitektur"
+    },
+    "data.articleMeta.readTime": {
+      "source": "3 min lecture",
+      "de": "3 Minuten Lesezeit"
+    },
+    "data.articleMeta.publishDate": {
+      "source": "19/02/25",
+      "de": "25.02.19"
+    },
+    "data.articleMeta.updatedDate": {
+      "source": "17/03/26",
+      "de": "26.03.17"
+    }
+  }
+}

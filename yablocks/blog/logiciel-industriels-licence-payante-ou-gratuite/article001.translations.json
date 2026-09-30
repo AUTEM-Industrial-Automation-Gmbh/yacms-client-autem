@@ -1,0 +1,133 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@LYygHy].heading": {
+      "source": "Introduction",
+      "de": "Einleitung"
+    },
+    "data.sections[@TZfo7x].heading": {
+      "source": "Les logiciels et leur histoire",
+      "de": "Software und ihre Geschichte"
+    },
+    "data.sections[@a6TGix].heading": {
+      "source": "Open-Source VS Gratuit",
+      "de": "Open-Source vs. Kostenlos"
+    },
+    "data.sections[@JDqjsu].heading": {
+      "source": "Perpétuel VS Abonnement",
+      "de": "Einmalig vs. Abonnement"
+    },
+    "data.sections[@kii4bh].heading": {
+      "source": "Les nouveaux modèles",
+      "de": "Neue Modelle"
+    },
+    "data.sections[@LYygHy].paragraphs[@LtjBZF].text": {
+      "source": "Aujourd'hui, nous allons parler des logiciels qui sont utilisés dans l'industrie. L'idée est de comprendre de quoi il s'agit, quels sont les modèles existants, quelles sont les nouvelles tendances et savoir un peu comment cela s'applique à l'industrie.",
+      "de": "Heute sprechen wir über die Software, die in der Industrie eingesetzt wird. Die Idee ist zu verstehen, worum es geht, welche Modelle es gibt, welche neuen Trends es gibt und wie sie in der Industrie angewendet werden."
+    },
+    "data.sections[@TZfo7x].paragraphs[@HmGbJc].text": {
+      "source": "Les logiciels ont leur place beaucoup plus dans l'industrie et ont été utiles dans plusieurs secteurs. Certains y ont consacré leur vie à proposer des solutions constructives ou à faire des recherches avancées pour de nouvelles technologies. Certains ont aussi connu des logiciels gratuits ou semi-gratuits. Il faut noter qu'avant l'avènement de l'Open Source, il y avait 3 types de licences logicielles qui existaient dans la nature. On appelait ça du Public Domain : on y retrouve les logiciels qui sont publiés gratuitement mais sans aucun support en arrière-plan.",
+      "de": "Software spielt in der Industrie eine immer wichtigere Rolle und hat in verschiedenen Sektoren nützlich erwiesen. Einige widmeten ihr Leben der Bereitstellung konstruktiver Lösungen oder der Durchführung fortschrittlicher Forschung für neue Technologien. Einige kannten auch kostenlose oder halb kostenlose Software. Es ist zu beachten, dass vor dem Aufkommen von Open Source drei Arten von Softwarelizenzen existierten. Man nannte es Public Domain: Hier finden wir Software, die kostenlos veröffentlicht wird, aber ohne jeglichen Support im Hintergrund."
+    },
+    "data.sections[@TZfo7x].paragraphs[@mQbvmv].text": {
+      "source": "On pouvait également trouver les logiciels du type Freeware , semblable au Public Domain, mais les droits d'auteur de ces types de logiciels sont respectés.",
+      "de": "Man konnte auch Freeware-Software finden, ähnlich wie Public Domain, aber die Urheberrechte dieser Softwaretypen wurden beachtet."
+    },
+    "data.sections[@TZfo7x].paragraphs[@9qgPL3].text": {
+      "source": "Le dernier type de licence est le Shareware . Le logiciel peut être obtenu gratuitement ou avec un coût relativement très faible, mais il fallait obtenir un support physique (CD-ROM, disquette) qui contient le logiciel. Ce qui est important à savoir, c'est que le coût de la distribution du logiciel a chuté à cause de l'internet.",
+      "de": "Der letzte Lizenztyp ist Shareware. Die Software kann kostenlos oder zu einem sehr geringen Preis erworben werden, aber man musste ein physisches Medium (CD-ROM, Diskette) erhalten, das die Software enthielt. Wichtig ist zu wissen, dass die Kosten für die Softwareverteilung durch das Internet gesunken sind."
+    },
+    "data.sections[@TZfo7x].paragraphs[@jnKBk0].text": {
+      "source": "Découvrez l'intégralité de cette section ici :",
+      "de": "Entdecken Sie diesen Abschnitt vollständig hier:"
+    },
+    "data.sections[@a6TGix].paragraphs[@cZPe8n].text": {
+      "source": "Une question importante à aborder : quelle est la différence entre un logiciel gratuit et un logiciel Open-Source ?",
+      "de": "Eine wichtige Frage, die wir ansprechen müssen: Was ist der Unterschied zwischen kostenloser Software und Open-Source-Software?"
+    },
+    "data.sections[@a6TGix].paragraphs[@GZsuua].text": {
+      "source": "L' Open-Source est une méthodologie de développement et de distribution. C'est une manière de faire les choses et de les rendre accessibles à tous de manière publique. Cela permet, entre autres, de développer plus rapidement, car d'autres personnes pourront venir se rajouter au projet pour y contribuer.",
+      "de": "Open Source ist eine Methodik für Entwicklung und Vertrieb. Es ist eine Art, Dinge zu tun und sie für alle öffentlich zugänglich zu machen. Dies ermöglicht unter anderem eine schnellere Entwicklung, da andere Personen zum Projekt beitragen können."
+    },
+    "data.sections[@a6TGix].paragraphs[@9hr4fl].text": {
+      "source": "La confusion entre Logiciel Open-Source et Logiciel Gratuit est apparue au début des années 2000. Avant le mouvement Open-Source, il y avait un autre mouvement qui s'appelait le Free Software Foundation . Le mouvement Open-Source repose sur le droit américain, sur la culture des États-Unis. L'Open-Source fait donc ressortir deux termes importants : le Copyright qui protège l'œuvre et le droit d'auteur qui protège l'auteur.",
+      "de": "Die Verwechslung zwischen Open-Source-Software und kostenloser Software trat Anfang der 2000er Jahre auf. Vor der Open-Source-Bewegung gab es eine andere Bewegung namens Free Software Foundation. Die Open-Source-Bewegung basiert auf dem US-amerikanischen Recht, auf der Kultur der Vereinigten Staaten. Open Source hebt daher zwei wichtige Begriffe hervor: das Urheberrecht, das das Werk schützt, und das Urheberrecht, das den Urheber schützt."
+    },
+    "data.sections[@a6TGix].paragraphs[@TKXmU9].text": {
+      "source": "Découvrez l'intégralité de cette section ici:",
+      "de": "Entdecken Sie diesen Abschnitt vollständig hier:"
+    },
+    "data.sections[@JDqjsu].paragraphs[@d4sq5B].text": {
+      "source": "Quels sont les modèles actuels de licence qui existent ?",
+      "de": "Welche aktuellen Lizenzmodelle gibt es?"
+    },
+    "data.sections[@JDqjsu].paragraphs[@bJYIKE].text": {
+      "source": "Pour commencer, il faut noter qu'au début de l'IoT, il y avait pas mal d'offres où il fallait payer par abonnement; payer selon les données que l'on utilisait, la volumétrie... Les modèles de licensing étaient compliqués autrefois.",
+      "de": "Zunächst ist zu beachten, dass es zu Beginn des IoT viele Angebote gab, bei denen man per Abonnement bezahlen musste; bezahlen je nach genutzten Daten, Volumen... Die Lizenzmodelle waren früher kompliziert."
+    },
+    "data.sections[@JDqjsu].paragraphs[@gkfOCu].text": {
+      "source": "Il y a deux solutions de licence qui existent actuellement : la solution Perpétuelle qui te permet de payer en une seule fois et d'éviter la coupure des accès aux ressources du logiciel, et la solution Abonnement qui consiste à payer tous les mois pour profiter des avantages du logiciel.",
+      "de": "Es gibt derzeit zwei Lizenzlösungen: die Einzellizenz, mit der Sie einmalig bezahlen und den Zugriff auf die Software-Ressourcen nicht verlieren, und die Abonnementlösung, bei der Sie jeden Monat bezahlen, um die Vorteile der Software zu nutzen."
+    },
+    "data.sections[@JDqjsu].paragraphs[@0Zu1VA].text": {
+      "source": "Pour les intégrateurs, peu importe le type de licence, il y a une grande frustration : celle de ne pas avoir de transparence. Pourquoi je paye ? Est-ce que je paye juste pour verrouiller un code ou est-ce que je paye vraiment pour un support et avoir en arrière-plan des personnes au bout du téléphone ? Cela génère parfois beaucoup d'incompréhension.",
+      "de": "Für Integratoren spielt die Art der Lizenz keine Rolle, es gibt eine große Frustration: die mangelnde Transparenz. Warum zahle ich? Zahle ich nur, um einen Code zu sperren, oder zahle ich wirklich für Support und habe im Hintergrund Leute am Telefon? Das führt manchmal zu viel Unverständnis."
+    },
+    "data.sections[@JDqjsu].paragraphs[@Hb2A8X].text": {
+      "source": "Découvrez l'intégralité de cette section ici:",
+      "de": "Entdecken Sie diesen Abschnitt vollständig hier:"
+    },
+    "data.sections[@kii4bh].paragraphs[@ZuioXf].text": {
+      "source": "Quels sont les nouveaux modèles de logiciels industriels pour le futur ?",
+      "de": "Welches sind die neuen Modelle für industrielle Software für die Zukunft?"
+    },
+    "data.sections[@kii4bh].paragraphs[@lnryfv].text": {
+      "source": "Découvrez l'intégralité des nouveaux modèles proposés par la communauté ici :",
+      "de": "Entdecken Sie hier alle neuen Modelle, die von der Community vorgeschlagen werden:"
+    },
+    "data.sections[@TZfo7x].links[@Ez5Woe].text": {
+      "source": "Consulter | Vidéo (01min:48s)",
+      "de": "Ansehen | Video (01min:48s)"
+    },
+    "data.sections[@a6TGix].links[@h4DeVu].text": {
+      "source": "Consulter | Vidéo (18min:22s)",
+      "de": "Ansehen | Video (18min:22s)"
+    },
+    "data.sections[@JDqjsu].links[@hsFQNk].text": {
+      "source": "Consulter | Vidéo (07min:38s)",
+      "de": "Ansehen | Video (07min:38s)"
+    },
+    "data.sections[@kii4bh].links[@vfoTKo].text": {
+      "source": "Consulter | Vidéo (35min:42s)",
+      "de": "Ansehen | Video (35min:42s)"
+    },
+    "data.sections[@TZfo7x].links[@Ez5Woe].href": {
+      "source": "https://www.youtube.com/live/QgEiM2WzT8I?t=108s",
+      "de": [
+        "https://www.youtube.com/live/QgEiM2WzT8I?t=108s"
+      ]
+    },
+    "data.sections[@a6TGix].links[@h4DeVu].href": {
+      "source": "https://www.youtube.com/live/QgEiM2WzT8I?t=445s",
+      "de": [
+        "https://www.youtube.com/live/QgEiM2WzT8I?t=445s"
+      ]
+    },
+    "data.sections[@JDqjsu].links[@hsFQNk].href": {
+      "source": "https://www.youtube.com/live/QgEiM2WzT8I?t=1547s",
+      "de": [
+        "https://www.youtube.com/live/QgEiM2WzT8I?t=1547s"
+      ]
+    },
+    "data.sections[@kii4bh].links[@vfoTKo].href": {
+      "source": "https://www.youtube.com/live/QgEiM2WzT8I?t=2061s",
+      "de": [
+        "https://www.youtube.com/live/QgEiM2WzT8I?t=2061s"
+      ]
+    }
+  }
+}
