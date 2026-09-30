@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Nous analysons vos données quelle que soit leur source",
+      "de": "Wir analysieren Ihre Daten, unabhängig von ihrer Quelle"
+    },
+    "data.subtitle": {
+      "source": "SCADA, ERP, historien, Excel ou papier — nous partons de ce que vous avez",
+      "de": "SCADA, ERP, Historian, Excel oder Papier – wir beginnen mit dem, was Sie haben"
+    },
+    "data.logos[@zlpHMB].alt": {
+      "source": "Ignition — historien de données industriel",
+      "de": "Ignition – Industrieller Datenhistoriker"
+    },
+    "data.logos[@vIDyO3].alt": {
+      "source": "Siemens — WinCC, SIMATIC",
+      "de": "Siemens – WinCC, SIMATIC"
+    },
+    "data.logos[@7xQ01X].alt": {
+      "source": "Rockwell Allen-Bradley — FactoryTalk Historian",
+      "de": "Rockwell Allen-Bradley – FactoryTalk Historian"
+    },
+    "data.logos[@Qo5guL].alt": {
+      "source": "AVEVA Wonderware — Historian",
+      "de": "AVEVA Wonderware – Historian"
+    },
+    "data.logos[@UCg9AG].alt": {
+      "source": "Schneider Electric — EcoStruxure",
+      "de": "Schneider Electric – EcoStruxure"
+    }
+  }
+}

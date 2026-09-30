@@ -1,0 +1,45 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "NOTRE MÉTHODE",
+      "de": "UNSER ANSATZ"
+    },
+    "data.title": {
+      "source": "Du diagnostic terrain à la feuille de route priorisée : 4 étapes",
+      "de": "Von der Feldanalyse zur priorisierten Roadmap: 4 Schritte"
+    },
+    "data.steps[@vSiSjj].title": {
+      "source": "Collecte & structuration des données",
+      "de": "Datenerfassung & -strukturierung"
+    },
+    "data.steps[@hL61Dh].title": {
+      "source": "Analyse & diagnostic",
+      "de": "Analyse & Diagnose"
+    },
+    "data.steps[@xbT3t9].title": {
+      "source": "Chiffrage ROI & priorisation",
+      "de": "ROI-Bewertung & Priorisierung"
+    },
+    "data.steps[@G9mtuC].title": {
+      "source": "Feuille de route & indicateurs de suivi",
+      "de": "Roadmap & Überwachungsindikatoren"
+    },
+    "data.steps[@vSiSjj].description": {
+      "source": "Extraction et structuration des données existantes (SCADA, ERP, papier, relevés). Évaluation de la qualité et de la complétude. Identification des données manquantes et mise en place de collecte complémentaire si nécessaire.",
+      "de": "Extraktion und Strukturierung vorhandener Daten (SCADA, ERP, Papier, Erhebungen). Bewertung der Qualität und Vollständigkeit. Identifizierung fehlender Daten und ggf. Einrichtung zusätzlicher Erhebungen."
+    },
+    "data.steps[@hL61Dh].description": {
+      "source": "Analyse Pareto des pannes, arrêts et défauts. Cartographie VSM du flux actuel (as-is) : identification des goulots, temps d'attente, stocks et retouches. Arbre des causes sur les problèmes majeurs.",
+      "de": "Pareto-Analyse von Ausfällen, Stillständen und Fehlern. VSM-Mapping des aktuellen Zustands (As-Is): Identifizierung von Engpässen, Wartezeiten, Lagerbeständen und Nacharbeiten. Ursachenanalyse bei Hauptproblemen."
+    },
+    "data.steps[@xbT3t9].description": {
+      "source": "Quantification des gains potentiels pour chaque axe d'amélioration : réduction des arrêts, amélioration du TRS, diminution des rebuts, suppression des gaspillages. Calcul du ROI, du payback et des ressources nécessaires pour chaque action.",
+      "de": "Quantifizierung der potenziellen Gewinne für jeden Verbesserungsbereich: Reduzierung von Stillständen, Verbesserung der Gesamtanlageneffektivität (OEE), Verringerung von Ausschuss, Beseitigung von Verschwendung. Berechnung von ROI, Payback und benötigten Ressourcen für jede Maßnahme."
+    },
+    "data.steps[@G9mtuC].description": {
+      "source": "Présentation de la feuille de route priorisée (quick wins + projets structurants). Mise en place des tableaux de bord de suivi de l'amélioration continue. Transfert de méthode à vos équipes pour reproduire l'analyse en autonomie.",
+      "de": "Präsentation der priorisierten Roadmap (Quick Wins + strukturierende Projekte). Einrichtung von Dashboards zur Überwachung der kontinuierlichen Verbesserung. Methodentransfer an Ihre Teams zur eigenständigen Wiederholung der Analyse."
+    }
+  }
+}
