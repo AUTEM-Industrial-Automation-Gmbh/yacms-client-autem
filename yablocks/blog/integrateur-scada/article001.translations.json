@@ -1,0 +1,97 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@ivRNVJ].heading": {
+      "source": "Intégrateur SCADA pour une Connectivité Optimale",
+      "de": "SCADA-Integrator für optimale Konnektivität"
+    },
+    "data.sections[@iniw2w].heading": {
+      "source": "Intégrateur SCADA 4.0 pour une Supervision Industrielle Avancée",
+      "de": "SCADA-Integrator 4.0 für fortschrittliche Industrieüberwachung"
+    },
+    "data.sections[@XkR53k].heading": {
+      "source": "Intégrateur SCADA pour l'Optimisation des Données Machines",
+      "de": "SCADA-Integrator zur Optimierung von Maschinendaten"
+    },
+    "data.sections[@ivRNVJ].paragraphs[@j04KDX].text": {
+      "source": "À l'ère de l'industrie connectée, le constat est clair pour les entreprises industrielles : la frontière entre l'Opératif (OT) et l'Informatique (IT) s'amenuise. Les machines deviennent hybrides, exigeant des compétences polyvalentes. Les professionnels de l'industrie doivent aujourd'hui maîtriser le génie électrique, les systèmes automatisés, l'informatique industrielle et l'instrumentation. AUTEM, en tant qu' intégrateur SCADA hybride, mise sur la polyvalence, la fiabilité et la flexibilité pour répondre à ces nouveaux défis.",
+      "de": "Im Zeitalter der vernetzten Industrie ist die Erkenntnis für Industrieunternehmen klar: Die Grenze zwischen Betriebstechnik (OT) und Informationstechnologie (IT) verschwimmt. Maschinen werden hybrid und erfordern vielseitige Fähigkeiten. Branchenprofis müssen heute Elektrotechnik, Automatisierungssysteme, industrielle IT und Instrumentierung beherrschen. AUTEM setzt als hybrider SCADA-Integrator auf Vielseitigkeit, Zuverlässigkeit und Flexibilität, um diesen neuen Herausforderungen zu begegnen."
+    },
+    "data.sections[@ivRNVJ].paragraphs[@BDjDgV].text": {
+      "source": "Travailler avec un intégrateur industriel, c'est adopter une approche agnostique entre technologies, offrant une agilité précieuse pour vos projets. Nous mettons à votre disposition des ingénieurs et techniciens capables d'assurer la maintenabilité et l'évolutivité nécessaires pour vos automates API et supervisions SCADA. AUTEM propose son expertise en tant qu' intégrateur d'automatisme industriel , ainsi que comme chef de projet pour divers besoins tels que la programmation, les études, la mise en service, l'installation, la maintenance et le dépannage.",
+      "de": "Die Zusammenarbeit mit einem Industrieintegrator bedeutet, einen technologieunabhängigen Ansatz zu verfolgen, der wertvolle Agilität für Ihre Projekte bietet. Wir stellen Ihnen Ingenieure und Techniker zur Verfügung, die die Wartbarkeit und Skalierbarkeit Ihrer SPS-Automaten und SCADA-Überwachungssysteme gewährleisten können. AUTEM bietet seine Expertise als Integrator für industrielle Automatisierung sowie als Projektmanager für verschiedene Bedürfnisse wie Programmierung, Studien, Inbetriebnahme, Installation, Wartung und Fehlerbehebung."
+    },
+    "data.sections[@ivRNVJ].paragraphs[@vobZbS].text": {
+      "source": "Nos expériences couvrent un large éventail de secteurs, notamment l'agroalimentaire, la métallurgie, la logistique, la chimie, la mobilité et le transport. Que vous ayez des besoins en électrotechnique, automates, robots, ou supervision SCADA, AUTEM est votre partenaire fiable. En tant qu' intégrateur SCADA , nous sommes engagés à vous accompagner tout au long de vos projets, en vous offrant des solutions adaptées à vos spécificités industrielles.",
+      "de": "Unsere Erfahrungen erstrecken sich über eine breite Palette von Sektoren, darunter Lebensmittel, Metallurgie, Logistik, Chemie, Mobilität und Transport. Ob Sie Bedarf an Elektrotechnik, Automaten, Robotern oder SCADA-Überwachung haben, AUTEM ist Ihr zuverlässiger Partner. Als SCADA-Integrator verpflichten wir uns, Sie während Ihrer gesamten Projekte zu begleiten und Ihnen Lösungen anzubieten, die auf Ihre spezifischen industriellen Anforderungen zugeschnitten sind."
+    },
+    "data.sections[@ivRNVJ].paragraphs[@s3tdqk].text": {
+      "source": "Pour une connectivité optimale, AUTEM met en avant la certification de ses ingénieurs, garantissant une expertise de haut niveau. Que vous cherchiez une définition SCADA , des formations spécifiques, des solutions de supervision industrielle ou des conseils en architecture SCADA, notre équipe est prête à répondre à vos besoins. En collaborant avec AUTEM, vous bénéficiez d'une approche intégrée, alliant la technologie SCADA à une compréhension approfondie des enjeux industriels actuels.",
+      "de": "Für optimale Konnektivität legt AUTEM Wert auf die Zertifizierung seiner Ingenieure, die ein Höchstmaß an Fachwissen garantiert. Ob Sie eine SCADA-Definition, spezifische Schulungen, industrielle Überwachungslösungen oder Beratung zur SCADA-Architektur suchen, unser Team ist bereit, Ihre Bedürfnisse zu erfüllen. Durch die Zusammenarbeit mit AUTEM profitieren Sie von einem integrierten Ansatz, der SCADA-Technologie mit einem tiefen Verständnis der aktuellen industriellen Herausforderungen kombiniert."
+    },
+    "data.sections[@ivRNVJ].paragraphs[@bRjRW9].text": {
+      "source": "En résumé, en tant qu' intégrateur SCADA hybride, AUTEM offre bien plus qu'une simple prestation technique. Nous sommes le partenaire de confiance pour votre transition vers une industrie 4.0, combinant agilité, expertise et solutions sur mesure pour répondre à vos besoins spécifiques. Contactez-nous dès aujourd'hui pour explorer comment AUTEM peut être votre allié dans l'optimisation de vos processus industriels.",
+      "de": "Zusammenfassend lässt sich sagen, dass AUTEM als hybrider SCADA-Integrator weit mehr als nur eine technische Dienstleistung bietet. Wir sind der vertrauenswürdige Partner für Ihren Übergang zur Industrie 4.0 und kombinieren Agilität, Fachwissen und maßgeschneiderte Lösungen, um Ihre spezifischen Bedürfnisse zu erfüllen. Kontaktieren Sie uns noch heute, um zu erfahren, wie AUTEM Ihr Verbündeter bei der Optimierung Ihrer industriellen Prozesse sein kann."
+    },
+    "data.sections[@iniw2w].paragraphs[@LGM4n2].text": {
+      "source": "Dans le contexte dynamique de l'industrie 4.0, la nécessité de transcender les silos et de dissiper le mystère entourant certaines machines, souvent considérées comme des 'boîtes noires', est cruciale. Opter pour les services d'un intégrateur SCADA peut être la clé pour embrasser pleinement la connectivité évolutive de cette nouvelle ère industrielle.",
+      "de": "Im dynamischen Kontext von Industrie 4.0 ist die Notwendigkeit, Silos zu überwinden und das Geheimnis um bestimmte Maschinen, die oft als „Black Boxes“ betrachtet werden, zu lüften, von entscheidender Bedeutung. Die Inanspruchnahme der Dienste eines SCADA-Integrators kann der Schlüssel sein, um die sich entwickelnde Konnektivität dieser neuen industriellen Ära vollständig zu nutzen."
+    },
+    "data.sections[@iniw2w].paragraphs[@lIW4Gt].text": {
+      "source": "Engager un automaticien indépendant s'avère être une stratégie judicieuse, offrant une polyvalence décisive dans la gestion de vos parcs d'équipements industriels et de systèmes de contrôle-commande. Que ce soit pour les automates Siemens S7, Allen-Bradley ou Schneider, la programmation avec Simatic Step7, UnityPRO, RsLogix, ou encore l'interface homme-machine (IHM) et le SCADA avec WinCC, Wonderware, Ignition, notre expertise couvre l'ensemble des domaines critiques.",
+      "de": "Die Beauftragung eines unabhängigen Automatisierungstechnikers erweist sich als kluge Strategie, die entscheidende Vielseitigkeit bei der Verwaltung Ihrer industriellen Ausrüstung und Steuerungssysteme bietet. Ob für Siemens S7, Allen-Bradley oder Schneider SPS, Programmierung mit Simatic Step7, UnityPRO, RsLogix oder auch Mensch-Maschine-Schnittstellen (HMI) und SCADA mit WinCC, Wonderware, Ignition – unsere Expertise deckt alle kritischen Bereiche ab."
+    },
+    "data.sections[@iniw2w].paragraphs[@qfXufb].text": {
+      "source": "Au-delà de la simple supervision, nous maîtrisons les aspects fondamentaux de vos machines, qu'il s'agisse de l'hydraulique, de la pneumatique ou de la robotique. Cette approche holistique facilite le dépannage, la maintenance et se traduit rapidement par des avantages concrets en termes de réduction des coûts pour votre usine.",
+      "de": "Über die reine Überwachung hinaus beherrschen wir die grundlegenden Aspekte Ihrer Maschinen, sei es Hydraulik, Pneumatik oder Robotik. Dieser ganzheitliche Ansatz erleichtert die Fehlerbehebung und Wartung und führt schnell zu konkreten Kosteneinsparungen für Ihr Werk."
+    },
+    "data.sections[@iniw2w].paragraphs[@bcFTU3].text": {
+      "source": "Nos compétences s'étendent également aux réseaux industriels avec une expertise dans les protocoles Modbus, Profinet, Profibus, et ASi. Nous intégrons des solutions de vision avancées, telles que Cognex et Sick, ainsi que des systèmes robotiques de pointe comme ABB IRC5 et UR10, pour répondre aux exigences les plus complexes de votre environnement industriel.",
+      "de": "Unsere Kompetenzen erstrecken sich auch auf industrielle Netzwerke mit Expertise in den Protokollen Modbus, Profinet, Profibus und ASi. Wir integrieren fortschrittliche Bildverarbeitungslösungen wie Cognex und Sick sowie hochmoderne Robotersysteme wie ABB IRC5 und UR10, um den komplexesten Anforderungen Ihrer industriellen Umgebung gerecht zu werden."
+    },
+    "data.sections[@iniw2w].paragraphs[@koUxWH].text": {
+      "source": "Que vous possédiez ou non un bureau d'étude, notre approche proactive vise à vous autonomiser en vous donnant une compréhension approfondie de chaque composant de vos machines. Nous sommes convaincus que cette maîtrise globale est la clé pour maximiser l'efficacité opérationnelle de votre usine.",
+      "de": "Unabhängig davon, ob Sie über ein eigenes Konstruktionsbüro verfügen oder nicht, zielt unser proaktiver Ansatz darauf ab, Sie zu befähigen, indem wir Ihnen ein tiefes Verständnis jeder Komponente Ihrer Maschinen vermitteln. Wir sind davon überzeugt, dass diese globale Beherrschung der Schlüssel zur Maximierung der betrieblichen Effizienz Ihres Werks ist."
+    },
+    "data.sections[@iniw2w].paragraphs[@GPETxO].text": {
+      "source": "Dans cette ère de l'industrie 4.0, la certification et la formation SCADA deviennent des éléments cruciaux pour rester compétitif. En tant qu' intégrateur SCADA , nous nous engageons à vous accompagner dans votre évolution vers l'excellence industrielle, en fournissant des solutions sur mesure et en restant à la pointe des avancées technologiques.",
+      "de": "In diesem Zeitalter von Industrie 4.0 werden SCADA-Zertifizierung und -Schulung zu entscheidenden Elementen, um wettbewerbsfähig zu bleiben. Als SCADA-Integrator verpflichten wir uns, Sie bei Ihrer Entwicklung zu industrieller Exzellenz zu begleiten, indem wir maßgeschneiderte Lösungen anbieten und an der Spitze der technologischen Fortschritte bleiben."
+    },
+    "data.sections[@iniw2w].paragraphs[@tqdPBB].text": {
+      "source": "Faites le choix de l'efficacité, choisissez notre expertise en tant qu' intégrateur SCADA pour libérer le potentiel optimal de vos opérations industrielles.",
+      "de": "Wählen Sie Effizienz, wählen Sie unsere Expertise als SCADA-Integrator, um das optimale Potenzial Ihrer industriellen Abläufe freizusetzen."
+    },
+    "data.sections[@XkR53k].paragraphs[@eiEKgN].text": {
+      "source": "Les données machines occupent une place centrale dans les prises de décision stratégiques pour les entreprises. Leur potentiel d'optimisation du rendement de la production industrielle est colossal. Grâce à l'automatisme industriel, les informations générées par vos machines-outils peuvent désormais être collectées, historisées et exploitées de manière efficace. Cette approche vous donne le contrôle total de la performance, depuis l'installation de vos lignes de production jusqu'à la maintenance de chaque sous-ensemble.",
+      "de": "Maschinendaten spielen eine zentrale Rolle bei strategischen Entscheidungen für Unternehmen. Ihr Potenzial zur Optimierung der industriellen Produktionsleistung ist kolossal. Dank industrieller Automatisierung können Informationen, die von Ihren Werkzeugmaschinen generiert werden, nun effizient gesammelt, historisiert und genutzt werden. Dieser Ansatz gibt Ihnen die volle Kontrolle über die Leistung, von der Installation Ihrer Produktionslinien bis zur Wartung jeder Unterkomponente."
+    },
+    "data.sections[@XkR53k].paragraphs[@lPOof6].text": {
+      "source": "Se faire conseiller par un intégrateur SCADA indépendant est une assurance que vos choix technologiques sont parfaitement adaptés à la supervision et à la visualisation complète de vos machines, couvrant tous les aspects tels que l'électricité, les automates, les actionneurs, les organes, les moteurs, le réseau et la sécurité. Ainsi, pour diagnostiquer les éventuelles pannes d'équipement industriel, il vous suffira d'ouvrir le tableau de bord pour être alerté en amont et pouvoir mettre en œuvre des actions de maintenance prédictive, préventive ou curative.",
+      "de": "Die Beratung durch einen unabhängigen SCADA-Integrator ist eine Garantie dafür, dass Ihre technologischen Entscheidungen perfekt auf die Überwachung und Visualisierung Ihrer Maschinen abgestimmt sind und alle Aspekte wie Elektrik, Automaten, Aktoren, Komponenten, Motoren, Netzwerk und Sicherheit abdecken. So reicht es zur Diagnose möglicher Ausfälle von Industrieanlagen aus, das Dashboard zu öffnen, um frühzeitig benachrichtigt zu werden und vorausschauende, präventive oder kurative Wartungsmaßnahmen durchführen zu können."
+    },
+    "data.sections[@XkR53k].paragraphs[@TCtkhy].text": {
+      "source": "L'expertise d'un intégrateur SCADA se révèle cruciale pour exploiter pleinement le potentiel de vos données. Ces spécialistes garantissent une intégration optimale des systèmes SCADA, assurant ainsi une communication transparente entre vos équipements. Le processus d'installation est une étape clé où un intégrateur SCADA peut apporter une valeur ajoutée en s'assurant que chaque composant est configuré correctement pour une collecte de données efficace.",
+      "de": "Die Expertise eines SCADA-Integrators ist entscheidend, um das Potenzial Ihrer Daten voll auszuschöpfen. Diese Spezialisten gewährleisten eine optimale Integration von SCADA-Systemen und sorgen so für eine transparente Kommunikation zwischen Ihren Geräten. Der Installationsprozess ist ein wichtiger Schritt, bei dem ein SCADA-Integrator einen Mehrwert schaffen kann, indem er sicherstellt, dass jede Komponente für eine effiziente Datenerfassung korrekt konfiguriert ist."
+    },
+    "data.sections[@XkR53k].paragraphs[@mNIPXn].text": {
+      "source": "La définition précise des protocoles SCADA est également essentielle pour garantir une communication fluide au sein de votre réseau industriel. Un intégrateur SCADA qualifié peut vous accompagner dans cette démarche, en s'assurant que les normes et les certifications SCADA nécessaires sont respectées. Cela vous assure une utilisation optimale de votre logiciel SCADA, renforçant ainsi la fiabilité et la sécurité de votre supervision industrielle.",
+      "de": "Die genaue Definition von SCADA-Protokollen ist ebenfalls unerlässlich, um eine reibungslose Kommunikation in Ihrem industriellen Netzwerk zu gewährleisten. Ein qualifizierter SCADA-Integrator kann Sie bei diesem Prozess unterstützen und sicherstellen, dass die erforderlichen SCADA-Normen und -Zertifizierungen eingehalten werden. Dies gewährleistet eine optimale Nutzung Ihrer SCADA-Software und stärkt so die Zuverlässigkeit und Sicherheit Ihrer industriellen Überwachung."
+    },
+    "data.sections[@XkR53k].paragraphs[@LO5cEb].text": {
+      "source": "La formation SCADA est un volet indispensable pour maximiser les avantages de ces systèmes. Un intégrateur SCADA compétent peut dispenser des cours SCADA adaptés à vos besoins spécifiques, renforçant ainsi les compétences de votre équipe. La connaissance approfondie des interfaces SCADA, des API et des architectures SCADA est cruciale pour une utilisation efficace du logiciel.",
+      "de": "SCADA-Schulungen sind ein unverzichtbarer Bestandteil, um die Vorteile dieser Systeme zu maximieren. Ein kompetenter SCADA-Integrator kann SCADA-Kurse anbieten, die auf Ihre spezifischen Bedürfnisse zugeschnitten sind, und so die Fähigkeiten Ihres Teams stärken. Ein tiefes Verständnis von SCADA-Schnittstellen, SPS und SCADA-Architekturen ist für eine effektive Nutzung der Software unerlässlich."
+    },
+    "data.sections[@XkR53k].paragraphs[@oVctiw].text": {
+      "source": "En conclusion, faire appel à un intégrateur SCADA qualifié est une étape clé pour tirer le meilleur parti de vos données machines. Que ce soit pour la mise en place initiale, la maintenance continue ou l'optimisation constante, ces experts vous accompagnent à chaque étape, garantissant ainsi une supervision industrielle optimale et une utilisation judicieuse des systèmes SCADA. Intégrateur SCADA : votre partenaire pour révéler le plein potentiel de vos données industrielles.",
+      "de": "Zusammenfassend lässt sich sagen, dass die Beauftragung eines qualifizierten SCADA-Integrators ein wichtiger Schritt ist, um das Beste aus Ihren Maschinendaten herauszuholen. Ob für die erstmalige Einrichtung, die kontinuierliche Wartung oder die ständige Optimierung – diese Experten begleiten Sie bei jedem Schritt und gewährleisten so eine optimale industrielle Überwachung und eine sinnvolle Nutzung von SCADA-Systemen. SCADA-Integrator: Ihr Partner, um das volle Potenzial Ihrer Industriedaten zu erschließen."
+    },
+    "data.sections[@XkR53k].paragraphs[@9ajpRr].text": {
+      "source": "Des demandes ou questions ? Besoin de plus d'infos sur nos technologies et services ? Contactez-nous : contact@autem-services.fr",
+      "de": "Anfragen oder Fragen? Benötigen Sie weitere Informationen zu unseren Technologien und Dienstleistungen? Kontaktieren Sie uns: contact@autem-services.fr"
+    }
+  }
+}

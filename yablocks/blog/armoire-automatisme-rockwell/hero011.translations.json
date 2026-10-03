@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backLinkLabel": {
+      "source": "Retour au blog",
+      "de": "Zurück zum Blog"
+    },
+    "data.title": {
+      "source": "Armoire d'automatisme ROCKWELL",
+      "de": "ROCKWELL Automatisierungsschrank"
+    },
+    "data.tags[@23RL4b].label": {
+      "source": "Automation",
+      "de": "Automatisierung"
+    },
+    "data.tags[@XbDZo8].label": {
+      "source": "PC Industriel",
+      "de": "Industrie-PC"
+    },
+    "data.articleMeta.readTime": {
+      "source": "6 min lecture",
+      "de": "6 Minuten Lesezeit"
+    },
+    "data.articleMeta.publishDate": {
+      "source": "10/01/22",
+      "de": "10.01.22"
+    },
+    "data.articleMeta.updatedDate": {
+      "source": "17/03/26",
+      "de": "17.03.26"
+    }
+  }
+}

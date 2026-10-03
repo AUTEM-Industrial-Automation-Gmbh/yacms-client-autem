@@ -10,11 +10,13 @@
     "tags": [
       {
         "label": "Supervision SCADA",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "banzqJ"
       },
       {
         "label": "Automation",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "hHUNXy"
       }
     ],
     "articleMeta": {

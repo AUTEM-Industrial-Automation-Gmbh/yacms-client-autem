@@ -1,0 +1,69 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@c2K84B].heading": {
+      "source": "Introduction",
+      "de": "Einleitung"
+    },
+    "data.sections[@dhTfaT].heading": {
+      "source": "MQTT VS OPC UA",
+      "de": "MQTT VS OPC UA"
+    },
+    "data.sections[@MyCA37].heading": {
+      "source": "OPC UA - PubSub",
+      "de": "OPC UA - PubSub"
+    },
+    "data.sections[@QJDMgW].heading": {
+      "source": "Rappel sur l'open-source",
+      "de": "Rückblick auf Open-Source"
+    },
+    "data.sections[@HFDYfP].heading": {
+      "source": "L'open-source & SCADA",
+      "de": "Open-Source & SCADA"
+    },
+    "data.sections[@rkAHvx].heading": {
+      "source": "Les automates open-source existent-ils ?",
+      "de": "Gibt es Open-Source-Steuerungen?"
+    },
+    "data.sections[@Z1h6yX].heading": {
+      "source": "Emergence de marques alternatives pour les contrôles industriels",
+      "de": "Aufkommen alternativer Marken für industrielle Steuerungen"
+    },
+    "data.sections[@c2K84B].paragraphs[@3By8cn].text": {
+      "source": "L'industrie 4.0, ou la quatrième révolution industrielle, est en train de transformer de manière significative la manière dont nous concevons, produisons et livrons des biens. Dans ce contexte, l'utilisation de logiciels open-source est de plus en plus répandue pour développer des solutions innovantes et efficaces qui permettent aux entreprises de rester compétitives. Avec Sylvain Pastor, nous allons creuser un peu plus en profondeur sur les thêmes open-source et logiciels interopérable liés à l'industrie. 4.0.",
+      "de": "Industrie 4.0, oder die vierte industrielle Revolution, verändert die Art und Weise, wie wir Güter konzipieren, produzieren und liefern, grundlegend. In diesem Zusammenhang wird Open-Source-Software zunehmend zur Entwicklung innovativer und effizienter Lösungen eingesetzt, die Unternehmen wettbewerbsfähig halten. Mit Sylvain Pastor werden wir uns eingehender mit den Themen Open-Source und interoperabler Software im Zusammenhang mit Industrie 4.0 beschäftigen."
+    },
+    "data.sections[@dhTfaT].paragraphs[@lSeoKk].text": {
+      "source": "MQTT est une architecture de publication et d'abonnement c'est-à-dire qu'il y a plusieurs équipements sur un réseau informatique. Certains vont émettre des données, d'autres vont les recevoir ou encore, d'autres équipement feront les deux à la fois. Les appareils qui émettent publient leurs données dans des topics et ceux qui reçoivent, doivent s'abonner à ces topics pour les recevoir. Il faut noter également d'autres caractéristiques du MQTT comme une connexion non directe entre les devices (les appareils) une obligation de la part de tous les appareils devant se connecter à un serveur central Broker un protocole léger et facile à mettre en œuvre et qui est aussi efficace pour des connexions longues distances . et bien d'autres caractéristiques. Du côté de OPC UA on trouve plusieurs versions: OPC DA qui est la version de démarrage de OPC UA fonctionnait sur les plateformes Windows et faisait du COM/DCOM . Vient ensuite l' OPC UA - UA pour United Architecture enlevant le blocage du système d'exploitation. Il peut fonctionner avec un PLC qui a un OS ou pas. Comme caractéristique de ce protocole on a: Une Architecture Unifiée qui permet d'utiliser le protocole sans ce soucier du système d'exploitation . Une communication standardisée et sécurisée de machine à machine ou de PC à machine et à d'autres. Se base sur l'indépendance et l'interopérabilité.",
+      "de": "MQTT ist eine Publish-Subscribe-Architektur, d. h. es gibt mehrere Geräte in einem Computernetzwerk. Einige senden Daten, andere empfangen sie, und wieder andere Geräte tun beides gleichzeitig. Die Geräte, die senden, veröffentlichen ihre Daten in Topics, und die, die empfangen, müssen diese Topics abonnieren, um sie zu erhalten. Es ist auch erwähnenswert, dass MQTT weitere Merkmale aufweist, wie z. B. eine nicht direkte Verbindung zwischen den Geräten (Geräte), die Verpflichtung aller Geräte, sich mit einem zentralen Broker-Server zu verbinden, ein leichtes und einfach zu implementierendes Protokoll, das auch für Fernverbindungen effizient ist, und viele weitere Merkmale. Auf der Seite von OPC UA finden wir mehrere Versionen: OPC DA, die Startversion von OPC UA, lief auf Windows-Plattformen und nutzte COM/DCOM. Danach kam OPC UA – UA für Unified Architecture, das die Betriebssystembeschränkung aufhob. Es kann mit einer SPS mit oder ohne Betriebssystem funktionieren. Zu den Merkmalen dieses Protokolls gehören: Eine einheitliche Architektur, die es ermöglicht, das Protokoll unabhängig vom Betriebssystem zu verwenden. Eine standardisierte und sichere Kommunikation von Maschine zu Maschine oder von PC zu Maschine und anderen. Basiert auf Unabhängigkeit und Interoperabilität."
+    },
+    "data.sections[@MyCA37].paragraphs[@6uQfrX].text": {
+      "source": "OPC UA PubSub vient résoudre cette limitation de MQTT en spécifiant la payload , ce qui permet de porter de l'OPC UA PubSub sur du MQTT et cela sans broker MQTT .",
+      "de": "OPC UA PubSub löst diese Einschränkung von MQTT, indem es die Payload spezifiziert, was es ermöglicht, OPC UA PubSub über MQTT zu transportieren, und das ohne MQTT-Broker."
+    },
+    "data.sections[@QJDMgW].paragraphs[@8K5D5f].text": {
+      "source": "L'open-source est une méthodologie de développement et de distribution de technologie, où la base de code et tout le développement, la correction des bugs et la rédaction de la documentation sont effectués en public .",
+      "de": "Open-Source ist eine Methodik zur Entwicklung und Verbreitung von Technologie, bei der der Code und die gesamte Entwicklung, Fehlerbehebung und Dokumentation öffentlich erfolgen."
+    },
+    "data.sections[@QJDMgW].paragraphs[@Wf9jZH].text": {
+      "source": "Quelques caractéristiques de l'open-source : La présence d'un organe directeur qui gère publiquement le travail. La rapidité et la sécurité . Le projet développé publiquement permet de l'améliorer en lui-même du fait que le code déployé publiquement permet de déceler les différentes failles du projet.",
+      "de": "Einige Merkmale von Open-Source: Die Existenz einer Lenkungsgruppe, die die Arbeit öffentlich verwaltet. Geschwindigkeit und Sicherheit. Das öffentlich entwickelte Projekt ermöglicht es, es selbst zu verbessern, da der öffentlich bereitgestellte Code die verschiedenen Schwachstellen des Projekts aufdecken kann."
+    },
+    "data.sections[@HFDYfP].paragraphs[@jaqTFx].text": {
+      "source": "Ce qu'il faut retenir est que : Les SCADA open-source sont développées majoritairement par des laboratoires, des instituts de recherche ou des universités et sont toujours en perpétuelle évolution. Les SCADA open-source, côté industriel, sont très confidentiels . Certains font des exceptions. On peut citer TANGO Control System et EPICS Control (Experimental Physics and Industrial Control System) .",
+      "de": "Was man mitnehmen sollte, ist: Open-Source-SCADA-Systeme werden hauptsächlich von Laboren, Forschungsinstituten oder Universitäten entwickelt und sind ständig in der Weiterentwicklung begriffen. Open-Source-SCADA-Systeme sind im industriellen Bereich sehr vertraulich. Einige machen Ausnahmen. Man kann TANGO Control System und EPICS Control (Experimental Physics and Industrial Control System) nennen."
+    },
+    "data.sections[@rkAHvx].paragraphs[@USmOo9].text": {
+      "source": "Sur la question, nous pouvons répondre OU, mais avec des réserves. On peut citer certains exemples comme WAGO, Arduino PLC, OnLogic.",
+      "de": "Auf diese Frage können wir JA antworten, aber mit Vorbehalten. Man kann einige Beispiele wie WAGO, Arduino PLC, OnLogic nennen."
+    },
+    "data.sections[@Z1h6yX].paragraphs[@63MTaw].text": {
+      "source": "Avec l'ajout de fonctionnalités à certains systèmes de marque, cela permet de développer la notoriété de la marque. Mais attention : Le contrôleur n'est pas open-source. Il utilise des briques open-source pour son propre système.",
+      "de": "Durch die Hinzufügung von Funktionen zu bestimmten Markensystemen wird die Markenbekanntheit gesteigert. Aber Vorsicht: Die Steuerung ist nicht Open-Source. Sie verwendet Open-Source-Komponenten für ihr eigenes System."
+    }
+  }
+}

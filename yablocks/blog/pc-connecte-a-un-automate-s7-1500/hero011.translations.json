@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backLinkLabel": {
+      "source": "Retour au blog",
+      "de": "Zurück zum Blog"
+    },
+    "data.title": {
+      "source": "IHM web WinCC – PC connecté à un automate S7 1500 | Autem",
+      "de": "WinCC Web HMI – PC verbunden mit S7 1500 SPS | Autem"
+    },
+    "data.tags[@banzqJ].label": {
+      "source": "Supervision SCADA",
+      "de": "SCADA-Überwachung"
+    },
+    "data.tags[@hHUNXy].label": {
+      "source": "Automation",
+      "de": "Automatisierung"
+    },
+    "data.articleMeta.readTime": {
+      "source": "14 min lecture",
+      "de": "14 Minuten Lesezeit"
+    },
+    "data.articleMeta.publishDate": {
+      "source": "17/12/21",
+      "de": "17.12.21"
+    },
+    "data.articleMeta.updatedDate": {
+      "source": "17/03/26",
+      "de": "26.03.17"
+    }
+  }
+}

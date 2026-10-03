@@ -1,0 +1,29 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backLinkLabel": {
+      "source": "Retour au blog",
+      "de": "Zurück zum Blog"
+    },
+    "data.title": {
+      "source": "Intégrateur SCADA",
+      "de": "SCADA-Integrator"
+    },
+    "data.tags[@pkDPFf].label": {
+      "source": "Supervision SCADA",
+      "de": "SCADA-Überwachung"
+    },
+    "data.articleMeta.readTime": {
+      "source": "5 min lecture",
+      "de": "5 Minuten Lesezeit"
+    },
+    "data.articleMeta.publishDate": {
+      "source": "13/08/23",
+      "de": "13.08.23"
+    },
+    "data.articleMeta.updatedDate": {
+      "source": "17/03/26",
+      "de": "17.03.26"
+    }
+  }
+}

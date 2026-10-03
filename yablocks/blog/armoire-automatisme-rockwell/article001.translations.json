@@ -1,0 +1,109 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@OcL6MF].heading": {
+      "source": "ROCKWELL - Armoire électrique",
+      "de": "ROCKWELL - Schaltschrank"
+    },
+    "data.sections[@OcL6MF].paragraphs[@xAa3Nk].text": {
+      "source": "Salut à toi ! Bienvenue !",
+      "de": "Hallo! Willkommen!"
+    },
+    "data.sections[@OcL6MF].paragraphs[@8JduoO].text": {
+      "source": "Alors on a encore une photo d’un banc d’essai. Sur ce banc d'essai, on a deux intrus. Je te laisse réfléchir pour voir si tu arrives à les identifiés. Pour commencer, on va parcourir chaque élément un par un et à la fin de l’article, je vais te donner la réponse concernant les intrus.",
+      "de": "Wir haben hier wieder ein Foto von einem Prüfstand. Auf diesem Prüfstand befinden sich zwei Fremdkörper. Ich lasse dich überlegen, ob du sie identifizieren kannst. Zuerst werden wir jedes Element einzeln durchgehen und am Ende des Artikels werde ich dir die Antwort zu den Fremdkörpern geben."
+    },
+    "data.sections[@OcL6MF].paragraphs[@QQHzCi].text": {
+      "source": "On va commencer par décomposer notre banc d’essai ici comme on l’a déjà fait précédemment en différents éléments. Il y en a 14 qui sont affichés sur l'image ci-dessous.",
+      "de": "Wir werden unseren Prüfstand hier, wie bereits zuvor, in verschiedene Elemente zerlegen. Auf dem Bild unten sind 14 davon zu sehen."
+    },
+    "data.sections[@OcL6MF].paragraphs[@sw6ypX].text": {
+      "source": "On va commence ligne par ligne à les décomposer comme tu ferais au moment où tu ouvres ton armoire électrique.",
+      "de": "Wir werden Zeile für Zeile vorgehen und sie so zerlegen, wie du es tun würdest, wenn du deinen Schaltschrank öffnest."
+    },
+    "data.sections[@OcL6MF].paragraphs[@glJKuG].text": {
+      "source": "Première rangée, premier élément qu’on voit ici c’est un “Automate Programmable Industriel” de la marque Allen Bradley . Pourquoi Programmable Industriel ? Parce qu'on le reconnaît grâce à la clé qui sert à mettre l’automate en mode démarrage ou en mode programmation . C’est spécifique à Rockwell. Et aussi on le reconnaît grâce aux modules d’entrées/sorties qui sont sur la droite, avec les liserés bleus qui les identifient. Ces modules permettent de câbler des signaux d’entrée ou de sortie. A gauche on a le module de puissance qui sert à alimenter tout le bloc. L'ensemble forme un “Automate Programmable”. Là typiquement c’est la gamme “SoftLogix SLC 500” de Rockwell .",
+      "de": "Erste Reihe, erstes Element, das wir hier sehen, ist eine „speicherprogrammierbare Steuerung“ der Marke Allen Bradley. Warum speicherprogrammierbar? Weil wir sie an dem Schlüssel erkennen, mit dem die Steuerung in den Start- oder Programmiermodus versetzt wird. Das ist spezifisch für Rockwell. Und wir erkennen sie auch an den Ein-/Ausgabemodulen auf der rechten Seite mit den blauen Streifen, die sie kennzeichnen. Diese Module ermöglichen das Anschließen von Ein- oder Ausgangssignalen. Links haben wir das Stromversorgungsmodul, das den gesamten Block mit Strom versorgt. Das Ganze bildet eine „speicherprogrammierbare Steuerung“. Hier handelt es sich typischerweise um die „SoftLogix SLC 500“-Reihe von Rockwell."
+    },
+    "data.sections[@OcL6MF].paragraphs[@nVrgE5].text": {
+      "source": "En n°2 , on a du coup des “modules d’entrées/sorties“ . On voit que sur les trois premiers, on a des petites indications qui commencent par “I” pour “Input” et pour les trois derniers “Q” pour “Output” . Ceux-là, typiquement, sont des modules ou des cartes d’entrée/sorties.",
+      "de": "Unter Nr. 2 haben wir also „Ein-/Ausgabemodule“. Wir sehen, dass bei den ersten drei kleine Hinweise mit „I“ für „Input“ beginnen und bei den letzten drei mit „Q“ für „Output“. Dies sind typischerweise Ein-/Ausgabemodule oder -karten."
+    },
+    "data.sections[@OcL6MF].paragraphs[@dD3FUZ].text": {
+      "source": "3ème élément , on a “un Automate Programmable Industriel“ . En effet, on observe en premier les connexions pour l’automate avec le sélecteur pour mettre en mode run ou en mode programmation, et à droite, les différentes cartes d’entrée/Sortie. Là tu remarques quelque chose de particulier qui flash tout de suite : “c’est la couleur rouge“ . Pourquoi couleur rouge, parce que c’est la gamme “GuardLogix” de Allen Bradley et quand on parle de “GuardLogix” on veut parler tout simplement de fonctions de sécurité plus avancées que les autres automates pour pouvoir gérer des systèmes qui sont un peu critiques ou qui comportent des éléments très spéciaux sur lesquels on veut éviter qu’il y ait des perturbations. A ce moment-là on prend un GuardLogix, un automate de ce type-là.",
+      "de": "3. Element, wir haben „eine speicherprogrammierbare Steuerung“. Tatsächlich sehen wir zuerst die Anschlüsse für die Steuerung mit dem Wahlschalter zum Umschalten in den Run- oder Programmiermodus und rechts die verschiedenen Ein-/Ausgangskarten. Hier fällt dir etwas Besonderes auf, das sofort ins Auge sticht: „die rote Farbe“. Warum rot? Weil dies die „GuardLogix“-Reihe von Allen Bradley ist, und wenn wir von „GuardLogix“ sprechen, meinen wir einfach erweiterte Sicherheitsfunktionen im Vergleich zu anderen Steuerungen, um Systeme zu verwalten, die etwas kritisch sind oder sehr spezielle Elemente enthalten, bei denen wir Störungen vermeiden wollen. In diesem Fall nehmen wir eine GuardLogix, eine Steuerung dieser Art."
+    },
+    "data.sections[@OcL6MF].paragraphs[@N7RdLF].text": {
+      "source": "Alors pour le 4ème élément , on a un “coupleur réseau“ . Chez Rockwell le réseau le plus courant c’est “EthernetIp” . Du coup, on aura de l’ethernetIp qui va pouvoir se câbler avec d’autres communications.",
+      "de": "Beim 4. Element haben wir einen „Netzwerkkoppler“. Bei Rockwell ist das gängigste Netzwerk „EthernetIp“. Daher werden wir EthernetIp haben, das mit anderen Kommunikationsmitteln verbunden werden kann."
+    },
+    "data.sections[@OcL6MF].paragraphs[@50ohKy].text": {
+      "source": "N°5 , ici c’est “un switch” Allen Bradley , de la marque “Stratix” . Stratix de Allen Bradley nous permet de communiquer sur tous les protocoles Ethernet en TCP, UDP mais beaucoup plus en EthernetIp . C’est le type de Switch qu’on peut rencontrer dans une armoire Allen Bradley.",
+      "de": "Nr. 5, hier ist ein „Switch“ von Allen Bradley, Marke „Stratix“. Stratix von Allen Bradley ermöglicht uns die Kommunikation über alle Ethernet-Protokolle in TCP, UDP, aber vor allem in EthernetIp. Dies ist die Art von Switch, die man in einem Allen Bradley Schaltschrank finden kann."
+    },
+    "data.sections[@OcL6MF].paragraphs[@RR7AQI].text": {
+      "source": "N°6 , on a aussi un “Switch“ . Switch réseau avec 8 ports. Là on n’arrive pas à identifier la marque, mais cela nous permet de connecter des câbles RJ45 sur un réseau Ethernet .",
+      "de": "Nr. 6, wir haben auch einen „Switch“. Netzwerk-Switch mit 8 Ports. Hier können wir die Marke nicht identifizieren, aber er ermöglicht uns den Anschluss von RJ45-Kabeln an ein Ethernet-Netzwerk."
+    },
+    "data.sections[@OcL6MF].paragraphs[@CKHrvv].text": {
+      "source": "En n°7 , on a encore un “automate GuardLogix“ . Comme on l’a vu tout à l’heure, automate de sécurité avec des fonctions Safety avancées . On passe maintenant au numéro 8.",
+      "de": "Unter Nr. 7 haben wir wieder eine „GuardLogix Steuerung“. Wie wir bereits gesehen haben, eine Sicherheitssteuerung mit erweiterten Sicherheitsfunktionen. Wir gehen nun zu Nummer 8 über."
+    },
+    "data.sections[@OcL6MF].paragraphs[@LMZbzN].text": {
+      "source": "Le n°8 . Du coup on est sur un “automate programmable” un peu particulier parce que celui-là est un peu plus ancien par rapport aux gammes qu’on a actuellement. Par contre, il est très robuste ce qui fait qu'il peut tourner sur plusieurs années voire plusieurs dizaines d’années. De gauche à droite on va retrouver le “module de puissance“, “la carte de contrôle” et puis “quelques éléments” pour câbles et des entrées/sorties . C'est sûrement un automate de la gamme “SoftLogix SLC 5“ . On dira peut être le grand-père de tous ceux qu’on rencontre comme automates Allen Bradley aujourd’hui. Celui-là, il fait partie des gammes plus anciennes. Un peu plus robuste, mais du coup avec moins de fonctions que ce qu’on retrouve aujourd’hui.",
+      "de": "Nr. 8. Hier handelt es sich um eine etwas besondere „speicherprogrammierbare Steuerung“, da diese im Vergleich zu den aktuellen Baureihen etwas älter ist. Sie ist jedoch sehr robust, sodass sie mehrere Jahre oder sogar Jahrzehnte laufen kann. Von links nach rechts finden wir das „Stromversorgungsmodul“, die „Steuerkarte“ und dann „einige Elemente“ für Kabel und Ein-/Ausgänge. Es handelt sich wahrscheinlich um eine Steuerung aus der „SoftLogix SLC 5“-Reihe. Man könnte sagen, sie ist der Großvater all der Allen Bradley Steuerungen, die wir heute finden. Diese gehört zu den älteren Baureihen. Etwas robuster, aber mit weniger Funktionen als die heutigen."
+    },
+    "data.sections[@OcL6MF].paragraphs[@zO4i8c].text": {
+      "source": "En n°9 , on retrouve notre “automate ControlLogix“ . On le reconnaît là avec le bandeau noir qui est assez typique des automates ControlLogix . Chose très importante. Ici tu vas voir que plusieurs automates sont alignés dans le même bloc. Parce qu’on retrouve les clés plusieurs fois et cela, te permet d’identifier de manière visuelle que tu as plusieurs modules de contrôle. On voit ici en bleu, un cash qui est ouvert avec la pile qui sert à conserver la mémoire de l’automate , pour être plus précis, la mémoire du programme. Si on ouvrait tous les caches, c’est ce qu’on rencontrerait. En numéro 9, toute une série d’automates ControlLogix.",
+      "de": "Unter Nr. 9 finden wir unsere „ControlLogix Steuerung“. Wir erkennen sie an dem schwarzen Band, das für ControlLogix Steuerungen sehr typisch ist. Sehr wichtig. Hier siehst du, dass mehrere Steuerungen im selben Block nebeneinander aufgereiht sind. Da wir die Schlüssel mehrmals finden, kannst du visuell erkennen, dass du mehrere Steuermodule hast. Hier sehen wir in Blau eine geöffnete Klappe mit der Batterie, die dazu dient, den Speicher der Steuerung zu erhalten, genauer gesagt, den Programmspeicher. Wenn wir alle Klappen öffnen würden, würden wir das finden. Unter Nummer 9 eine ganze Reihe von ControlLogix Steuerungen."
+    },
+    "data.sections[@OcL6MF].paragraphs[@BPMvOf].text": {
+      "source": "Et on va passer au n°10 . C'est également un “automate programmable” . Celui-ci est de la gamme “CompactLogix” avec un “module de puissance“, “carte de contrôle” et les “entrées/sorties“ sur la droite avec les liserés bleus et verts.",
+      "de": "Und wir gehen zu Nr. 10 über. Dies ist ebenfalls eine „speicherprogrammierbare Steuerung“. Diese hier ist aus der „CompactLogix“-Reihe mit einem „Stromversorgungsmodul“, einer „Steuerkarte“ und den „Ein-/Ausgängen“ auf der rechten Seite mit den blauen und grünen Streifen."
+    },
+    "data.sections[@OcL6MF].paragraphs[@YvBaNh].text": {
+      "source": "En n°11 , on a encore un “Switch Stratix” pour du réseau pour mettre en réseau tous les composants Allen Bradley qu’on a sur ce banc d’essai.",
+      "de": "Unter Nr. 11 haben wir wieder einen „Stratix Switch“ für das Netzwerk, um alle Allen Bradley Komponenten, die wir auf diesem Prüfstand haben, zu vernetzen."
+    },
+    "data.sections[@OcL6MF].paragraphs[@1E00Jt].text": {
+      "source": "N°12 , c'est un “câblage électrique classique“ . On a des borniers et un disjoncteur pour pouvoir couper l’alimentation.",
+      "de": "Nr. 12, das ist eine „klassische elektrische Verkabelung“. Wir haben Klemmen und einen Leistungsschalter, um die Stromversorgung unterbrechen zu können."
+    },
+    "data.sections[@OcL6MF].paragraphs[@Wfc4qy].text": {
+      "source": "En n°13 , on a ici quelque chose d’un peu spécifique qui s’appelle “Armor Bloc” chez Rockwell, mais c’est tout simplement un concentrateur d’entrées/sorties . C’est un module d’entrées/sorties déporté de type “I/O Link“ qui permet d’interconnecter plusieurs entrées/sorties . Tu vois par exemple les câbles avec les couleurs orange et jaune, ce sera des entrées/sorties et ensuite le câble vert va récupérer tous les signaux de ces quatre ou cinq entrées/sorties et les concentrés pour les envoyer à l’automate. Cela permet d’économiser en câblage et aussi de regrouper tous les signaux d’entrée/sortie sur un même canal.",
+      "de": "Unter Nr. 13 haben wir hier etwas Besonderes, das bei Rockwell „Armor Bloc“ heißt, aber es ist ganz einfach ein Ein-/Ausgabe-Konzentrator. Es ist ein dezentrales Ein-/Ausgabemodul vom Typ „I/O Link“, das die Verbindung mehrerer Ein-/Ausgänge ermöglicht. Du siehst zum Beispiel die Kabel mit den orangefarbenen und gelben Farben, das sind Ein-/Ausgänge, und dann holt das grüne Kabel alle Signale dieser vier oder fünf Ein-/Ausgänge ab und konzentriert sie, um sie an die Steuerung zu senden. Dies spart Verkabelung und fasst alle Ein-/Ausgangssignale auf einem einzigen Kanal zusammen."
+    },
+    "data.sections[@OcL6MF].paragraphs[@s8C08g].text": {
+      "source": "Et le dernier groupe, ce sont les alimentations, modules de puissance de différents types. Ils permettent de convertir notre 230 V en 24 V ou 12 V pour les envoyer aux différents organes qui en ont besoin.",
+      "de": "Und die letzte Gruppe sind die Netzteile, Stromversorgungsmodule verschiedener Art. Sie wandeln unsere 230 V in 24 V oder 12 V um, um sie an die verschiedenen benötigten Komponenten zu senden."
+    },
+    "data.sections[@OcL6MF].paragraphs[@QokouD].text": {
+      "source": "Alors est-ce que tu as réussi à identifier les deux intrus. J’espère que oui. Si ce n’est pas le cas alors je vais te le dire : c’est le “n°2” et le “n°14” qui sont tous les deux des équipements Siemens .",
+      "de": "Hast du es geschafft, die beiden Fremdkörper zu identifizieren? Ich hoffe doch. Wenn nicht, dann sage ich es dir: Es sind die „Nr. 2“ und die „Nr. 14“, beides Siemens-Geräte."
+    },
+    "data.sections[@OcL6MF].paragraphs[@rCt4gK].text": {
+      "source": "N°2 , parce que ce sont des câbles d’entrée/sortie de Siemens et n°14 parce qu’on a, au milieu-là, un module de puissance “SITOP” , une marque Siemens, qui n'a rien à voir avec du Rockwell. Nous n'allons pas rentrer dans des guerres de marques. C'est juste pour marquer un peu la différence parce que je sais qu’il y a des personnes qui sont un peu sensibles quand on parle de marques.",
+      "de": "Nr. 2, weil es sich um Siemens Ein-/Ausgangskabel handelt, und Nr. 14, weil wir in der Mitte ein „SITOP“ Netzteil haben, eine Siemens-Marke, die nichts mit Rockwell zu tun hat. Wir werden keine Markenkriege führen. Es geht nur darum, den Unterschied hervorzuheben, weil ich weiß, dass manche Leute empfindlich reagieren, wenn über Marken gesprochen wird."
+    },
+    "data.sections[@OcL6MF].paragraphs[@wmzt4c].text": {
+      "source": "Cet article t'a permis de voir un peu l’identification des différents organes avec différentes marques, différents constructeurs. C’est le genre de choses qui va te permettre tout simplement, en ouvrant tes machines, de pouvoir récupérer les références des organes et puis pourquoi pas, t’assembler un banc d’essai sur ton usine ou bien dans ton atelier de maintenance, pour pouvoir tester tes machines : par exemple si tu dois faire des interventions maintenance, prévoir un petit peu en avance ce que tu dois faire comme modifications. C’est des économies de temps par la suite. Cela peut être intéressant d’assembler un banc d’essai de ce type-là.",
+      "de": "Dieser Artikel hat dir geholfen, die verschiedenen Komponenten verschiedener Marken und Hersteller zu identifizieren. Dies ist die Art von Dingen, die dir helfen wird, wenn du deine Maschinen öffnest, die Referenzen der Komponenten zu ermitteln und vielleicht sogar einen Prüfstand in deiner Fabrik oder deinem Wartungslabor aufzubauen, um deine Maschinen zu testen: zum Beispiel, wenn du Wartungsarbeiten durchführen musst, im Voraus planen, welche Änderungen du vornehmen musst. Das spart später Zeit. Es kann interessant sein, einen Prüfstand dieser Art aufzubauen."
+    },
+    "data.sections[@OcL6MF].paragraphs[@tDf0lC].text": {
+      "source": "Alors c’est tout pour la partie identification des organes automatismes chez Rockwell.",
+      "de": "Das war's also für den Teil der Identifizierung von Automatisierungskomponenten bei Rockwell."
+    },
+    "data.sections[@OcL6MF].paragraphs[@gnCPDN].text": {
+      "source": "À bientôt !",
+      "de": "Bis bald!"
+    },
+    "data.sections[@OcL6MF].image.alt": {
+      "source": "industry40,industrie40,autem,marc akoto,industrial automation,rockwell,banc d'essai,armoire ouverte,armoire électrique…",
+      "de": "industry40,industrie40,autem,marc akoto,industrial automation,rockwell,prüfstand,offener schrank,schaltschrank…"
+    }
+  }
+}

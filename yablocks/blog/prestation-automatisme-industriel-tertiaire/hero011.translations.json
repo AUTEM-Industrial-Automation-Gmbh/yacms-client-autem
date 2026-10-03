@@ -1,0 +1,29 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backLinkLabel": {
+      "source": "Retour au blog",
+      "de": "Zurück zum Blog"
+    },
+    "data.title": {
+      "source": "Automatisme industriel et tertiaire",
+      "de": "Industrielle und tertiäre Automatisierung"
+    },
+    "data.tags[@P7r9GS].label": {
+      "source": "Automation",
+      "de": "Automatisierung"
+    },
+    "data.articleMeta.readTime": {
+      "source": "3 min lecture",
+      "de": "3 Minuten Lesezeit"
+    },
+    "data.articleMeta.publishDate": {
+      "source": "13/08/23",
+      "de": "13.08.23"
+    },
+    "data.articleMeta.updatedDate": {
+      "source": "17/03/26",
+      "de": "17.03.26"
+    }
+  }
+}

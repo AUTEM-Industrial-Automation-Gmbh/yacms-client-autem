@@ -10,11 +10,13 @@
     "tags": [
       {
         "label": "Automation",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "23RL4b"
       },
       {
         "label": "PC Industriel",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "XbDZo8"
       }
     ],
     "articleMeta": {

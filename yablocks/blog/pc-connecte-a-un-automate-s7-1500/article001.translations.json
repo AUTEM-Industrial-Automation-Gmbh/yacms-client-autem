@@ -1,0 +1,493 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@m4VA1Z].heading": {
+      "source": "IHM web WinCC",
+      "de": "WinCC Unified Web HMI"
+    },
+    "data.sections[@uEFn9f].heading": {
+      "source": "Configuration du projet avec TIA Portal v17",
+      "de": "Projektkonfiguration mit TIA Portal v17"
+    },
+    "data.sections[@hfWLCc].heading": {
+      "source": "Etape 2: Ajout d'une interface de communication",
+      "de": "Schritt 2: Hinzufügen einer Kommunikationsschnittstelle"
+    },
+    "data.sections[@rm7vee].heading": {
+      "source": "Ecriture de la logique du programme",
+      "de": "Schreiben der Programm-Logik"
+    },
+    "data.sections[@ahQZj9].heading": {
+      "source": "Chargement du programme dans l’automate virtuel",
+      "de": "Laden des Programms in die virtuelle Steuerung"
+    },
+    "data.sections[@0wBITm].heading": {
+      "source": "Configuration de la partie IHM PCs",
+      "de": "Konfiguration des PC-HMI-Teils"
+    },
+    "data.sections[@kbM1qj].heading": {
+      "source": "Création de l'interface de l'IHM",
+      "de": "Erstellung der HMI-Oberfläche"
+    },
+    "data.sections[@qUwbKb].heading": {
+      "source": "Configuration des accès utilisateurs",
+      "de": "Konfiguration der Benutzerzugänge"
+    },
+    "data.sections[@8xHtDP].heading": {
+      "source": "Création du serveur web",
+      "de": "Erstellung des Webservers"
+    },
+    "data.sections[@T3B5rZ].heading": {
+      "source": "Lancement de la simulation",
+      "de": "Starten der Simulation"
+    },
+    "data.sections[@m4VA1Z].paragraphs[@IhJKPD].text": {
+      "source": "Salut à toi ! Est-ce que tu as déjà utilisé un IPhone pour commander un automate Siemens ? C’est ce que je vais t’apprendre à faire dans cette vidéo. Déjà ici on a un exemple.",
+      "de": "Hallo! Hast du schon mal ein iPhone benutzt, um eine Siemens-Steuerung zu bedienen? Das werde ich dir in diesem Video beibringen. Hier haben wir bereits ein Beispiel."
+    },
+    "data.sections[@m4VA1Z].paragraphs[@8JDDHd].text": {
+      "source": "On a là, avec le navigateur, l’équivalent d’un écran IPhone, et notre IHM qui est accessible avec une adresse ici qui contrôle l’automate (on voit qu’on est en direct avec un programme ladder). Et quand j’appuie start on a un état moteur qui passe à ON. Et quand j’appuie stop le moteur qui s’arrête. C’est le genre de choses qu’on va faire à travers cet article.",
+      "de": "Hier haben wir mit dem Browser das Äquivalent eines iPhone-Bildschirms, und unser HMI ist über eine Adresse erreichbar, die die Steuerung bedient (wir sehen, dass wir live mit einem Ladder-Programm verbunden sind). Und wenn ich auf Start drücke, ändert sich der Motorstatus auf EIN. Und wenn ich auf Stopp drücke, stoppt der Motor. Das ist die Art von Dingen, die wir in diesem Artikel behandeln werden."
+    },
+    "data.sections[@m4VA1Z].paragraphs[@wH81AN].text": {
+      "source": "Alors revenons au sujet : “Wincc Unified” c’est quoi ? En quoi est-ce que cela va nous permettre de créer une IHM qui est accessible depuis un téléphone ? Wincc Unified est une solution qui va nous permettre de faire plusieurs choses. Avec Wincc Unified on peut programmer soit les IHM classiques qu’on connaît avec un panel qui est localisé en physique sur la machine . On peut programmer soit le serveur web de l’automate parce que, les automates ont aussi un serveur web qui peut héberger une application pour de la visualisation (ici, la visualisation des interfaces homme-machine). Et puis (ce qui nous intéresse aujourd’hui) avec Wincc Unified on peut également programmer une interface de supervision directement basée sur le PC . C’est ce qu’on va faire ensemble aujourd’hui avec cette interface de supervision. Vu qu’elle est en web, elle est accessible par tous navigateurs, que ce soit une tablette un téléphone ou autre.",
+      "de": "Kommen wir zum Thema: Was ist „WinCC Unified“? Wie ermöglicht es uns, ein HMI zu erstellen, das von einem Telefon aus zugänglich ist? WinCC Unified ist eine Lösung, die es uns ermöglicht, mehrere Dinge zu tun. Mit WinCC Unified können wir entweder die klassischen HMIs programmieren, die wir von einem physisch an der Maschine angebrachten Panel kennen. Wir können entweder den Webserver der Steuerung programmieren, denn die Steuerungen haben auch einen Webserver, der eine Anwendung für die Visualisierung hosten kann (hier, die Visualisierung von Mensch-Maschine-Schnittstellen). Und dann (was uns heute interessiert) können wir mit WinCC Unified auch eine Überwachungsoberfläche direkt auf dem PC programmieren. Das werden wir heute gemeinsam mit dieser Überwachungsoberfläche tun. Da sie webbasiert ist, ist sie über jeden Browser zugänglich, sei es ein Tablet, ein Telefon oder etwas anderes."
+    },
+    "data.sections[@uEFn9f].paragraphs[@dDpFcl].text": {
+      "source": "On va commencer par ouvrir ici TIA Portal en version 17 parce que c’est la version 17 qui nous permet de créer avec Wincc Unified ce qu’on veut.",
+      "de": "Wir beginnen damit, hier TIA Portal Version 17 zu öffnen, denn Version 17 ermöglicht es uns, mit WinCC Unified das zu erstellen, was wir wollen."
+    },
+    "data.sections[@uEFn9f].paragraphs[@iTcf4M].text": {
+      "source": "Lorsque TIA Portal est ouvert, on vient créer ici un nouveau projet. Je vais l’appeler “IHM_sur_IPhone” pour donner un nom un peu parlant. Je crée le projet.",
+      "de": "Wenn TIA Portal geöffnet ist, erstellen wir hier ein neues Projekt. Ich nenne es „HMI_auf_iPhone“, um ihm einen aussagekräftigen Namen zu geben. Ich erstelle das Projekt."
+    },
+    "data.sections[@uEFn9f].paragraphs[@LyDdrF].text": {
+      "source": "Ensuite je vais venir rajouter ici des appareils. Dans \"configure device\" , je vais ajouter un nouveau device .",
+      "de": "Dann füge ich hier Geräte hinzu. Unter „Gerät konfigurieren“ füge ich ein neues Gerät hinzu."
+    },
+    "data.sections[@uEFn9f].paragraphs[@lbtyH6].text": {
+      "source": "Le premier device que je vais rajouter déjà c'est mon automate .",
+      "de": "Das erste Gerät, das ich hinzufüge, ist meine Steuerung."
+    },
+    "data.sections[@uEFn9f].paragraphs[@QxYyfn].text": {
+      "source": "Dans les contrôleurs je choisis une CPU de type 1500 ou 1200. Là pour l'exemple je vais prendre une CPU de type 1500.",
+      "de": "Unter „SPS“ wähle ich eine CPU vom Typ 1500 oder 1200. Hier nehme ich für das Beispiel eine CPU vom Typ 1500."
+    },
+    "data.sections[@uEFn9f].paragraphs[@iwMXr1].text": {
+      "source": "Ensuite je vais rajouter un nouveau device (un IHM). Et cette fois ci c'est un système qui est basée sur PC . Je viens ici sur \"PC système\" dans \"simatic hmi application\" et je choisis l'option \"wincc unified PC\" pour pouvoir créer l'IHM directement sur le serveur web de mon PC. Je clique sur “ajouter”.",
+      "de": "Dann füge ich ein neues Gerät hinzu (ein HMI). Und diesmal ist es ein PC-basiertes System. Ich gehe hier zu „PC-System“ unter „SIMATIC HMI Application“ und wähle die Option „WinCC Unified PC“, um das HMI direkt auf dem Webserver meines PCs zu erstellen. Ich klicke auf „Hinzufügen“."
+    },
+    "data.sections[@uEFn9f].paragraphs[@KXMV87].text": {
+      "source": "Et TIA Portal m'affiche maintenant la vue des appareils que je viens de rajouter.",
+      "de": "Und TIA Portal zeigt mir jetzt die Ansicht der Geräte an, die ich gerade hinzugefügt habe."
+    },
+    "data.sections[@hfWLCc].paragraphs[@ikfsGa].text": {
+      "source": "Quelque chose qui est important ici, c'est de pouvoir donner la possibilité au PC de communiquer avec l'automate . Pour cela, il faut une interface ou une carte de communication que je vais rajouter. Je viens cliquer ici dans \"hardware catalog\"",
+      "de": "Etwas Wichtiges hier ist, dem PC die Möglichkeit zu geben, mit der Steuerung zu kommunizieren. Dazu benötige ich eine Schnittstelle oder eine Kommunikationskarte, die ich hinzufügen werde. Ich klicke hier im „Hardwarekatalog“."
+    },
+    "data.sections[@hfWLCc].paragraphs[@9XccoT].text": {
+      "source": "Je choisis dans \"communication module\" un module de communication profinet/ethernet de type général IE pour \"Industrial Ethernet\" . Je glisse ce module et je viens le rajouter sur la station PC.",
+      "de": "Ich wähle unter „Kommunikationsmodule“ ein Profinet/Ethernet-Kommunikationsmodul vom Typ IE für „Industrial Ethernet“. Ich ziehe dieses Modul und füge es zur PC-Station hinzu."
+    },
+    "data.sections[@hfWLCc].paragraphs[@8QdPH6].text": {
+      "source": "Ensuite je vais venir ici dans le 'Network view' (la vue de réseau) pour créer ma connexion entre l'automate et mon IHM PC.",
+      "de": "Dann gehe ich hier zur „Netzwerkansicht“, um meine Verbindung zwischen der Steuerung und meinem PC-HMI zu erstellen."
+    },
+    "data.sections[@hfWLCc].paragraphs[@xdYEv0].text": {
+      "source": "Je clique ici, je fais un glisser et je lâche le clic. Le logiciel nous crée une connexion IHM.",
+      "de": "Ich klicke hier, ziehe und lasse die Maustaste los. Die Software erstellt eine HMI-Verbindung."
+    },
+    "data.sections[@hfWLCc].paragraphs[@9VVKOB].text": {
+      "source": "Ensuite dans la \"vue de topologie\" je vais relier mon PC IHM au port 1 de l’automate.",
+      "de": "Dann verbinde ich in der „Topologieansicht“ mein HMI-PC mit Port 1 der Steuerung."
+    },
+    "data.sections[@hfWLCc].paragraphs[@3qIgQA].text": {
+      "source": "Ainsi, on a bien tous les liens qui sont créés.",
+      "de": "Somit sind alle Verbindungen hergestellt."
+    },
+    "data.sections[@rm7vee].paragraphs[@RzMOWD].text": {
+      "source": "Une fois ceci fait, on va commencer à programmer le langage ladder qui nous permet de tester notre automate. Mais avant de passer à cette étape, on va revenir sur l'automate au niveau du port pour lui donner l'adresse IP qui va bien.",
+      "de": "Sobald dies erledigt ist, beginnen wir mit der Programmierung in Ladder-Sprache, die uns ermöglicht, unsere Steuerung zu testen. Aber bevor wir zu diesem Schritt übergehen, kehren wir zur Steuerung am Port zurück, um ihr die richtige IP-Adresse zu geben."
+    },
+    "data.sections[@rm7vee].paragraphs[@dFRwWT].text": {
+      "source": "Dans \"Ethernet adresses\" je vais lui donner à une adresse IP qui est dans la même plage que l'adresse IP de mon PC. Mon PC il est dans la plage 192.168.1. quelque chose et mon automate 1.101. Je ne mets pas de gateway, et je laisse tel quel.",
+      "de": "Unter „Ethernet-Adressen“ gebe ich ihr eine IP-Adresse, die im selben Bereich wie die IP-Adresse meines PCs liegt. Mein PC ist im Bereich 192.168.1.irgendwas und meine Steuerung 1.101. Ich gebe kein Gateway ein und lasse es so."
+    },
+    "data.sections[@rm7vee].paragraphs[@wr3sju].text": {
+      "source": "Ensuite dans les propriétés de l'automate, je viens ici clic droit sur properties au niveau de la protection.",
+      "de": "Dann gehe ich in den Eigenschaften der Steuerung, klicke mit der rechten Maustaste auf Eigenschaften im Bereich Schutz."
+    },
+    "data.sections[@rm7vee].paragraphs[@mYPg85].text": {
+      "source": "On a le \"mécanisme de connexion\" et il faut que j’autorise les communications avec des partenaires distants (avec les remote partners).",
+      "de": "Wir haben den „Verbindungsmechanismus“ und ich muss die Kommunikation mit entfernten Partnern zulassen."
+    },
+    "data.sections[@rm7vee].paragraphs[@ffX1v0].text": {
+      "source": "Typiquement c'est ce qui va me permettre de communiquer avec mon IHM PC. Je coche bien cette case, je clique sur ok. Après, au niveau du projet, je vais venir ici dans les propriétés dans la protection et je vais “autoriser la simulation”.",
+      "de": "Typischerweise ermöglicht mir das die Kommunikation mit meinem PC-HMI. Ich aktiviere dieses Kontrollkästchen, klicke auf OK. Danach gehe ich im Projekt zu den Eigenschaften im Bereich Schutz und aktiviere die „Simulation“."
+    },
+    "data.sections[@rm7vee].paragraphs[@B9Z51t].text": {
+      "source": "Vu que je n'ai pas un automate physique de la version 1500, je simule tout simplement l'automate. C'est gratuit et cela me permet d'avoir ce que je veux.",
+      "de": "Da ich keine physische Steuerung der Version 1500 habe, simuliere ich die Steuerung einfach. Das ist kostenlos und ermöglicht mir, das zu bekommen, was ich will."
+    },
+    "data.sections[@rm7vee].paragraphs[@b7nwr5].text": {
+      "source": "Je clique sur OK.",
+      "de": "Ich klicke auf OK."
+    },
+    "data.sections[@rm7vee].paragraphs[@9oCHhH].text": {
+      "source": "Ensuite on va créer un bloc qui va nous permettre d'enregistrer toutes nos données qui seront échangées avec l'IHM .",
+      "de": "Dann erstellen wir einen Block, der uns ermöglicht, alle Daten zu speichern, die mit dem HMI ausgetauscht werden."
+    },
+    "data.sections[@rm7vee].paragraphs[@9x0OEa].text": {
+      "source": "Je crée un db ici que je vais appeler DBmotorRun parce que ce sera du coup une simulation de démarrer/arrêter un moteur.",
+      "de": "Ich erstelle hier eine DB, die ich DBmotorRun nenne, da es sich um eine Simulation zum Starten/Stoppen eines Motors handelt."
+    },
+    "data.sections[@rm7vee].paragraphs[@mrYFYb].text": {
+      "source": "Ce db là, j'ai besoin au niveau des propriétés, de le paramétrer de manière assez précise.",
+      "de": "Diese DB muss ich in den Eigenschaften recht präzise konfigurieren."
+    },
+    "data.sections[@rm7vee].paragraphs[@la9H99].text": {
+      "source": "Au niveau des attributs il faut que je décoche cette case-là pour que l'accès au bloc ne soit pas optimisé. Parce que j'ai besoin d'accéder aux adresses absolues des variables. Dans ce cas-là je décoche cette option et je clique sur OK.",
+      "de": "Bei den Attributen muss ich dieses Kontrollkästchen deaktivieren, damit der Zugriff auf den Block nicht optimiert wird. Denn ich benötige Zugriff auf die absoluten Adressen der Variablen. In diesem Fall deaktiviere ich diese Option und klicke auf OK."
+    },
+    "data.sections[@rm7vee].paragraphs[@aVHayp].text": {
+      "source": "Maintenant on peut revenir sur notre LADDER et créer un programme d'auto-maintient.",
+      "de": "Jetzt können wir zu unserem LADDER zurückkehren und ein Selbsthaltungs-Programm erstellen."
+    },
+    "data.sections[@rm7vee].paragraphs[@iPNLxC].text": {
+      "source": "C'est assez classique pour le contrôle des moteurs. Je viens ici rajouter différents éléments. On a un contact normalement ouvert qui va venir activer une bobine, et tant que la bobine restera active (tant qu'on n'aura pas appuyer un bouton stop), la bobine va assurer son propre auto-maintien. Ce sont des lignes de ladder que tu vas souvent rencontrer.",
+      "de": "Das ist ziemlich klassisch für die Motorsteuerung. Ich füge hier verschiedene Elemente hinzu. Wir haben einen Schließerkontakt, der eine Spule aktiviert, und solange die Spule aktiv bleibt (solange wir nicht auf die Stopp-Taste drücken), sorgt die Spule für ihre eigene Selbsthaltung. Das sind Ladder-Zeilen, die du oft antreffen wirst."
+    },
+    "data.sections[@rm7vee].paragraphs[@mg1vsC].text": {
+      "source": "Ensuite le bouton start sera relié à l'info demandée (que je n'ai pas mise évidemment).",
+      "de": "Dann wird die Start-Taste mit der angeforderten Information verbunden (die ich natürlich nicht eingefügt habe)."
+    },
+    "data.sections[@rm7vee].paragraphs[@RWACri].text": {
+      "source": "Je vais revenir ici lister mes infos.",
+      "de": "Ich gehe hier zurück, um meine Informationen aufzulisten."
+    },
+    "data.sections[@rm7vee].paragraphs[@O6P2Y9].text": {
+      "source": "On a le bouton start qui est de type booléen , le bouton stop et un bouton qu'on va appeler etat_moteur qui est aussi un booléen . On va le préciser pour donner la valeur à 1. Cela correspondra à l'état ON .",
+      "de": "Wir haben die Start-Taste vom Typ Boolean, die Stopp-Taste und eine Taste, die wir Motor_EIN nennen und die ebenfalls ein Boolean ist. Wir setzen sie auf 1. Das entspricht dem Zustand EIN."
+    },
+    "data.sections[@rm7vee].paragraphs[@5cGq9U].text": {
+      "source": "Nous avons dit premièrement le bouton start, ensuite la même chose mais pour le bouton stop. On a le moteur en marche qui va assurer son auto-maintien grâce à ce deuxième contact normalement ouvert. Ici c'est le programme LADDER pour pouvoir faire notre test. Je vais compiler tout.",
+      "de": "Wir haben zuerst die Start-Taste gesagt, dann dasselbe für die Stopp-Taste. Wir haben den laufenden Motor, der durch diesen zweiten Schließerkontakt seine Selbsthaltung gewährleistet. Hier ist das LADDER-Programm für unseren Test. Ich kompiliere alles."
+    },
+    "data.sections[@rm7vee].paragraphs[@45xr4m].text": {
+      "source": "On vérifie que le programme est cohérent, et une fois que la compilation est terminée, je vais lancer maintenant mon automate virtuel avec PLCSIM Advanced pour pouvoir charger le programme à l'intérieur.",
+      "de": "Wir überprüfen, ob das Programm konsistent ist, und sobald die Kompilierung abgeschlossen ist, starte ich jetzt meine virtuelle Steuerung mit PLCSIM Advanced, um das Programm dort zu laden."
+    },
+    "data.sections[@ahQZj9].paragraphs[@9X334c].text": {
+      "source": "J’utilise ici la carte ethernet virtuel de plcsim.",
+      "de": "Ich benutze hier die virtuelle Ethernet-Karte von PLCSIM."
+    },
+    "data.sections[@ahQZj9].paragraphs[@sdn7bw].text": {
+      "source": "Je le laisse en local . On va créer un automate s7-1500 . On va l'appeler \"automate_s717500\" pour le nom Profinet. L'adresse internet, sera l'adresse IP 192.168.1.101 comme on a dit tout à l'heure, et je mets juste un masque en /24 pour pouvoir accéder à la même plage que mon PC (255.255.255.0) et je démarre mon automate.",
+      "de": "Ich lasse es lokal. Wir erstellen eine S7-1500-Steuerung. Wir nennen sie „Steuerung_S717500“ für den Profinet-Namen. Die Internetadresse ist die IP-Adresse 192.168.1.101, wie wir vorhin gesagt haben, und ich gebe nur eine Maske /24 ein, um auf denselben Bereich wie mein PC zugreifen zu können (255.255.255.0) und starte meine Steuerung."
+    },
+    "data.sections[@ahQZj9].paragraphs[@IfTzEc].text": {
+      "source": "L'automate devrait être accessible maintenant je vais venir ici charger le programme à l'intérieur.",
+      "de": "Die Steuerung sollte jetzt zugänglich sein. Ich lade das Programm dort hinein."
+    },
+    "data.sections[@ahQZj9].paragraphs[@q0IyP7].text": {
+      "source": "De là, TIA Portal va rechercher l'interface de PLCSIM sur le Profitnet-Ethernet.",
+      "de": "Von dort sucht TIA Portal nach der PLCSIM-Schnittstelle über Profinet-Ethernet."
+    },
+    "data.sections[@ahQZj9].paragraphs[@t5ny0a].text": {
+      "source": "Et une fois qu'il a trouvé, je peux cliquer ici sur \"charger\".",
+      "de": "Und sobald es sie gefunden hat, kann ich hier auf „Laden“ klicken."
+    },
+    "data.sections[@ahQZj9].paragraphs[@V2Uw3H].text": {
+      "source": "Il me demande de considérer comme un automate de confiance cet organe-là. Je clique sur ok (c'est typique à TIA Portal v17 parce que je ne l'ai pas vu ailleurs dans les versions précédente).",
+      "de": "Es fragt mich, ob ich dieses Gerät als vertrauenswürdige Steuerung betrachten soll. Ich klicke auf OK (das ist typisch für TIA Portal v17, da ich es in früheren Versionen nicht gesehen habe)."
+    },
+    "data.sections[@ahQZj9].paragraphs[@GgU093].text": {
+      "source": "Je dis que c'est un automate de confiance et je charge le programme.",
+      "de": "Ich sage, dass es eine vertrauenswürdige Steuerung ist und lade das Programm."
+    },
+    "data.sections[@ahQZj9].paragraphs[@Up8bvs].text": {
+      "source": "Charger et démarrer. Je termine. Là on est bon.",
+      "de": "Laden und starten. Ich beende. Jetzt sind wir bereit."
+    },
+    "data.sections[@ahQZj9].paragraphs[@CQpb8A].text": {
+      "source": "On devrait avoir le programme qui est chargé à l'intérieur de l'automate. Pour vérifier, je vais venir ici avec mon petit symbole pour voir le programme et je peux tester que quand j'appuie sur le bouton start on a le moteur qui s'arrête.",
+      "de": "Das Programm sollte jetzt in der Steuerung geladen sein. Zur Überprüfung gehe ich hier mit meinem kleinen Symbol, um das Programm anzuzeigen, und ich kann testen, dass beim Drücken der Start-Taste der Motor stoppt."
+    },
+    "data.sections[@ahQZj9].paragraphs[@6SfdmB].text": {
+      "source": "Même si le bouton est relâché le moteur reste actif et dès que je vais venir ici appuyer sur mon bouton stop, boom on arrête la boucle et du coup le moteur s'arrête.",
+      "de": "Auch wenn die Taste losgelassen wird, bleibt der Motor aktiv, und sobald ich hier auf meine Stopp-Taste drücke, stoppt die Schleife und damit der Motor."
+    },
+    "data.sections[@ahQZj9].paragraphs[@GpZfAi].text": {
+      "source": "Le programme pour l'instant fonctionne bien pour la partie automate.",
+      "de": "Das Programm funktioniert bisher gut für den Steuerungsanteil."
+    },
+    "data.sections[@0wBITm].paragraphs[@ufDzJk].text": {
+      "source": "Ensuite on vient sur la partie IHM PC et on va refaire un peu les mêmes configurations.",
+      "de": "Als Nächstes gehen wir zum PC-HMI-Teil und nehmen einige ähnliche Konfigurationen vor."
+    },
+    "data.sections[@0wBITm].paragraphs[@iIux1a].text": {
+      "source": "Déjà l'adresse IP sera l'adresse IP de mon PC vu que cette adresse va être basée sur mon PC. Mon PC est à l'adresse 1.52 (plus exactement ma VM parce qu'en réalité, je travaille dans une VM). Je ne mets toujours pas de router, on est dans la bonne plage.",
+      "de": "Die IP-Adresse ist die IP-Adresse meines PCs, da diese Adresse auf meinem PC basiert. Mein PC hat die Adresse 1.52 (genauer gesagt meine VM, da ich tatsächlich in einer VM arbeite). Ich gebe immer noch keinen Router ein, wir sind im richtigen Bereich."
+    },
+    "data.sections[@0wBITm].paragraphs[@5U5sB7].text": {
+      "source": "Ensuite je vais venir créer ici les tags qui correspondent aux 3 infos que j'ai dans ma DB automate.",
+      "de": "Dann erstelle ich hier die Tags, die den 3 Informationen in meiner Steuerungs-DB entsprechen."
+    },
+    "data.sections[@0wBITm].paragraphs[@GjhECW].text": {
+      "source": "Le premier tag start qui est de type booléen . Le deuxième sera stop . Et l'autre sera un moteur_ON comme on a dit tout à l'heure.",
+      "de": "Der erste Tag ist Start vom Typ Boolean. Der zweite ist Stopp. Und der andere ist Motor_EIN, wie wir vorhin gesagt haben."
+    },
+    "data.sections[@0wBITm].paragraphs[@oDqlDk].text": {
+      "source": "Alors ils sont reliés chacun respectivement aux signaux qu'on a déjà créés dans le DB moteur run. Je vais venir faire ici l'association avec les différents signaux :",
+      "de": "Sie sind jeweils mit den Signalen verbunden, die wir bereits in der DB Motor Run erstellt haben. Ich nehme hier die Zuordnung zu den verschiedenen Signalen vor:"
+    },
+    "data.sections[@0wBITm].paragraphs[@PaWPQS].text": {
+      "source": "Tag stop et le moteur_on. Je vérifie bien la cohérence ici en cliquant sur \"Synchroniser\".",
+      "de": "Tag Stopp und Motor_EIN. Ich überprüfe die Konsistenz hier, indem ich auf „Synchronisieren“ klicke."
+    },
+    "data.sections[@0wBITm].paragraphs[@yRVzz0].text": {
+      "source": "Tout est ok par rapport aux infos entre l'IHM et l'automate.",
+      "de": "Alles ist in Ordnung bezüglich der Informationen zwischen HMI und Steuerung."
+    },
+    "data.sections[@kbM1qj].paragraphs[@opVZUf].text": {
+      "source": "Après on va venir créer du coup le visuel, les boutons qui vont nous donner la commande sur les valeurs de l'automate.",
+      "de": "Dann erstellen wir die visuelle Oberfläche, die Tasten, die uns die Steuerung der Werte der Steuerung ermöglichen."
+    },
+    "data.sections[@kbM1qj].paragraphs[@Lqf2QB].text": {
+      "source": "Je viens ici dans la toolbox.",
+      "de": "Ich gehe hier zur Toolbox."
+    },
+    "data.sections[@kbM1qj].paragraphs[@JA8SjX].text": {
+      "source": "On va prendre déjà un premier bouton qui correspondra au bouton start. Je commence ici par changer le texte en start. Le fond du bouton, je vais le mettre en vert vu qu'il va démarrer et ensuite je rajoute les événements.",
+      "de": "Wir nehmen zuerst eine Taste, die der Start-Taste entspricht. Ich ändere zuerst den Text in Start. Die Hintergrundfarbe der Taste setze ich auf Grün, da sie starten soll, und dann füge ich die Ereignisse hinzu."
+    },
+    "data.sections[@kbM1qj].paragraphs[@6N2e6b].text": {
+      "source": "Quand on va appuyer sur le bouton, on veut modifier la valeur d'un tag. Je viens ici sélectionner le tag qu'on veut modifier c'est-à-dire \"start\".",
+      "de": "Wenn wir die Taste drücken, wollen wir den Wert eines Tags ändern. Ich wähle hier den Tag aus, den wir ändern wollen, nämlich „Start“."
+    },
+    "data.sections[@kbM1qj].paragraphs[@ogrMif].text": {
+      "source": "On vient modifier sa valeur à 1.",
+      "de": "Wir ändern seinen Wert auf 1."
+    },
+    "data.sections[@kbM1qj].paragraphs[@aWKtIN].text": {
+      "source": "Et lorsqu'on va relâcher le bouton, on modifie sa valeur à 0. Je reprends la même fonction tag: cette tagvalue. C’est le tag start qu'on revient mettre à zéro.",
+      "de": "Und wenn wir die Taste loslassen, ändern wir seinen Wert auf 0. Ich verwende wieder dieselbe Funktion Tag: Tagwert. Das ist der Tag Start, den wir wieder auf Null setzen."
+    },
+    "data.sections[@kbM1qj].paragraphs[@yAHbzE].text": {
+      "source": "On vient de finir avec le bouton start. Pour le bouton stop c'est la même chose. Je vais juste copier-coller le même bouton juste ici.",
+      "de": "Wir sind mit der Start-Taste fertig. Für die Stopp-Taste ist es dasselbe. Ich kopiere und füge einfach dieselbe Taste hier ein."
+    },
+    "data.sections[@kbM1qj].paragraphs[@gw8fJk].text": {
+      "source": "La variable qui est modifiée sera stop pour l'appui et encore stop pour le relâchement du bouton.",
+      "de": "Die zu ändernde Variable ist Stopp beim Drücken und wieder Stopp beim Loslassen der Taste."
+    },
+    "data.sections[@kbM1qj].paragraphs[@mViSPK].text": {
+      "source": "Accessoirement je vais donner une autre couleur pour qu'on voit bien la différence entre les deux.",
+      "de": "Optional gebe ich eine andere Farbe, damit wir den Unterschied zwischen beiden gut erkennen können."
+    },
+    "data.sections[@kbM1qj].paragraphs[@J4YMuJ].text": {
+      "source": "Et maintenant il nous faut juste un signal qui nous renvoie l'état du moteur. Je vais venir ici prendre juste une LED qui va s'allumer lorsque le moteur est démarré.",
+      "de": "Und jetzt brauchen wir nur noch ein Signal, das uns den Zustand des Motors zurückgibt. Ich nehme hier eine LED, die aufleuchtet, wenn der Motor gestartet ist."
+    },
+    "data.sections[@kbM1qj].paragraphs[@yYgA8f].text": {
+      "source": "Cette LED est grise par défaut et on va la lier à la valeur d'un tag.",
+      "de": "Diese LED ist standardmäßig grau und wir verknüpfen sie mit dem Wert eines Tags."
+    },
+    "data.sections[@kbM1qj].paragraphs[@mziydx].text": {
+      "source": "Mon tag sera l'état du moteur qui est dans une plage entre 0 et 1. Je vais choisir ici 0 ou 1. Dans le cas 0 on reste gris, et dans le cas 1 je vais afficher une belle couleur verte sur ma LED.",
+      "de": "Mein Tag ist der Zustand des Motors, der im Bereich zwischen 0 und 1 liegt. Ich wähle hier 0 oder 1. Im Fall 0 bleibt sie grau, und im Fall 1 zeige ich eine schöne grüne Farbe auf meiner LED an."
+    },
+    "data.sections[@kbM1qj].paragraphs[@sWhpTS].text": {
+      "source": "Je peux rajouter autre chose oui par exemple une petite info qui me dit de quoi on parle.",
+      "de": "Ich kann noch etwas hinzufügen, ja, zum Beispiel eine kleine Information, die mir sagt, worum es geht."
+    },
+    "data.sections[@kbM1qj].paragraphs[@qP7fOe].text": {
+      "source": "Là on vient chez qu'est l'état du moteur tout simplement. On a notre écran assez basique juste pour pouvoir tester le fonctionnement.",
+      "de": "Hier zeigen wir den Zustand des Motors an, ganz einfach. Wir haben unseren recht einfachen Bildschirm, nur um die Funktion zu testen."
+    },
+    "data.sections[@kbM1qj].paragraphs[@b5aS1B].text": {
+      "source": "Et je vais venir ici faire encore des configurations par rapport au chargement dans l'IHM PC. Il faut que je mette un mot de passe pour crypter la communication. Dans notre cas j'en ai pas besoin. Je vais juste désactiver cette coche.",
+      "de": "Und ich nehme hier noch Konfigurationen für das Laden in das PC-HMI vor. Ich muss ein Passwort eingeben, um die Kommunikation zu verschlüsseln. In unserem Fall brauche ich das nicht. Ich deaktiviere einfach dieses Kontrollkästchen."
+    },
+    "data.sections[@kbM1qj].paragraphs[@3oYcBV].text": {
+      "source": "Là on voit ici que le programme compile et à la fin, pas d'erreur.",
+      "de": "Hier sehen wir, dass das Programm kompiliert wird und am Ende keine Fehler auftreten."
+    },
+    "data.sections[@kbM1qj].paragraphs[@SPybC4].text": {
+      "source": "On a l'automate, l'IHM PC et maintenant on va lui donner des accès utilisateurs.",
+      "de": "Wir haben die Steuerung, das PC-HMI und jetzt werden wir ihm Benutzerzugänge geben."
+    },
+    "data.sections[@qUwbKb].paragraphs[@64apbF].text": {
+      "source": "Je viens dans \"settings sécurité\" ici au niveau des \"Users and roles\". Je rajoute un user de type local qui va s'appeler \"admin\" .",
+      "de": "Ich gehe hier zu „Einstellungen Sicherheit“ unter „Benutzer und Rollen“. Ich füge einen lokalen Benutzer hinzu, der „admin“ heißen wird."
+    },
+    "data.sections[@qUwbKb].paragraphs[@zpQB88].text": {
+      "source": "Je lui mets un mot de passe qui doit contenir une lettre majuscule et puis au moins 8 caractères et des chiffres. Tu pourras mettre quelque chose dont tu te souviens. Je valide et je lui donne les droits administrateurs.",
+      "de": "Ich gebe ihm ein Passwort, das einen Großbuchstaben und mindestens 8 Zeichen sowie Ziffern enthalten muss. Du kannst etwas eingeben, das du dir merken kannst. Ich bestätige und gebe ihm Administratorrechte."
+    },
+    "data.sections[@qUwbKb].paragraphs[@MBPF8Q].text": {
+      "source": "Une fois que j'ai fait cela, je vais maintenant créer le fameux serveur web qui est basé sur mon PC.",
+      "de": "Sobald ich das getan habe, erstelle ich nun den besagten Webserver, der auf meinem PC basiert."
+    },
+    "data.sections[@8xHtDP].paragraphs[@GKN6wh].text": {
+      "source": "Pour la création du serveur web, il existe un outil pas mal qui s'appelle \"wincc unified configuration\" je clique dessus.",
+      "de": "Für die Erstellung des Webservers gibt es ein gutes Werkzeug namens „WinCC Unified Configuration“, ich klicke darauf."
+    },
+    "data.sections[@8xHtDP].paragraphs[@1lhxie].text": {
+      "source": "Et tu vois ici plusieurs éléments. On a les différentes étapes pour créer le serveur web. Déjà on doit créer un certificat vu que c'est un site en http. Et je vais lui donner un nouveau nom qui correspond à une date fictive.",
+      "de": "Und du siehst hier mehrere Elemente. Wir haben die verschiedenen Schritte zur Erstellung des Webservers. Zuerst müssen wir ein Zertifikat erstellen, da es sich um eine HTTP-Seite handelt. Und ich gebe ihm einen neuen Namen, der einem fiktiven Datum entspricht."
+    },
+    "data.sections[@8xHtDP].paragraphs[@dmdotJ].text": {
+      "source": "Au niveau de la configuration des utilisateurs, je garde l'option par défaut.",
+      "de": "Bei der Benutzerkonfiguration behalte ich die Standardoption bei."
+    },
+    "data.sections[@8xHtDP].paragraphs[@dVHLEY].text": {
+      "source": "Le stockage en base de données pour l'instant je veux le faire dans le répertoire par défaut.",
+      "de": "Die Datenspeicherung möchte ich vorerst im Standardverzeichnis vornehmen."
+    },
+    "data.sections[@8xHtDP].paragraphs[@WDAQVZ].text": {
+      "source": "Pour les reports, je garde le répertoire par défaut.",
+      "de": "Für Berichte behalte ich das Standardverzeichnis bei."
+    },
+    "data.sections[@8xHtDP].paragraphs[@wBQN3C].text": {
+      "source": "Chargement sécurisé, j'ai décocher la case tout à l'heure. Je reste sur aucune aucun mot de passe pour le chargement",
+      "de": "Sicheres Laden, ich habe das Kontrollkästchen vorhin deaktiviert. Ich bleibe bei keinem Passwort für das Laden."
+    },
+    "data.sections[@8xHtDP].paragraphs[@wxJOXZ].text": {
+      "source": "Et maintenant je vais appliquer tous ces paramètres là à mon serveur web qui sera créée sur le PC. Je clique ici sur \"appliquer\" et cela va prendre quelques minutes pour faire la configuration du serveur web PC.",
+      "de": "Und jetzt wende ich all diese Einstellungen auf meinen Webserver an, der auf dem PC erstellt wird. Ich klicke hier auf „Anwenden“, und es dauert einige Minuten, die Konfiguration des PC-Webservers vorzunehmen."
+    },
+    "data.sections[@8xHtDP].paragraphs[@HvgXXn].text": {
+      "source": "Une fois que la configuration est terminée, je viens cliquer sur quitter.",
+      "de": "Sobald die Konfiguration abgeschlossen ist, klicke ich auf Beenden."
+    },
+    "data.sections[@8xHtDP].paragraphs[@9PFwYu].text": {
+      "source": "Et pour vérifier que mon serveur web (qui va accueillir l'IHM) est bien créé, je vais venir ici dans les services web de mon PC. Je clique ici sur le \"gestionnaire des services internet\" et quand je déroule mon PC les sites web qui sont basés dessus, je vois ici un serveur qui s'appelle \"wincc unified scada\" .",
+      "de": "Und um zu überprüfen, ob mein Webserver (der das HMI aufnehmen wird) korrekt erstellt wurde, gehe ich hier zu den Webdiensten meines PCs. Ich klicke hier auf den „Internetinformationsdienste-Manager“, und wenn ich meinen PC aufklappe, sehe ich die darauf basierenden Websites, und ich sehe hier einen Server namens „WinCC Unified SCADA“."
+    },
+    "data.sections[@8xHtDP].paragraphs[@2eKLrb].text": {
+      "source": "C'est sur ce serveur web là qu'on va venir charger notre IHM qui sera ensuite accessible avec l'adresse IP du serveur web de mon PC.",
+      "de": "Auf diesem Webserver werden wir unser HMI laden, das dann über die IP-Adresse des Webservers meines PCs zugänglich sein wird."
+    },
+    "data.sections[@T3B5rZ].paragraphs[@OPR0uN].text": {
+      "source": "L'étape suivante c'est de venir ici cliquer la partie IHM et lancer la simulation sur le serveur du PC .",
+      "de": "Der nächste Schritt ist, hier auf den HMI-Teil zu klicken und die Simulation auf dem PC-Server zu starten."
+    },
+    "data.sections[@T3B5rZ].paragraphs[@J8BWyW].text": {
+      "source": "Tu cliques ici sur l'icône simulation. On va faire un téléchargement total. On démarre le runtime une fois que le chargement est fini. On garde les valeurs actuelles et on ne fait pas de reset vu que c'est le premier chargement.",
+      "de": "Du klickst hier auf das Simulationssymbol. Wir machen einen vollständigen Download. Wir starten die Runtime, sobald der Download abgeschlossen ist. Wir behalten die aktuellen Werte bei und machen keinen Reset, da es sich um den ersten Download handelt."
+    },
+    "data.sections[@T3B5rZ].paragraphs[@wFW4YQ].text": {
+      "source": "Je peux cliquer sur charger. Tu as des petits éléments qui apparaissent de manière furtive, mais juste pour te dire que le programme a été chargé sur ton serveur web. Et pour vérifier cela, tu peux venir lancer le \"runtime manager\" de SIMATIC pour voir ici lesquels projets sont présents sur ton serveur web du PC.",
+      "de": "Ich kann auf Laden klicken. Es erscheinen kurz einige kleine Elemente, die dir mitteilen, dass das Programm auf deinen Webserver geladen wurde. Und um das zu überprüfen, kannst du den „Runtime Manager“ von SIMATIC starten, um zu sehen, welche Projekte auf deinem PC-Webserver vorhanden sind."
+    },
+    "data.sections[@T3B5rZ].paragraphs[@EdvSQN].text": {
+      "source": "Là on voit notre projet qui est bien présent ici qui est en état, qui fonctionne et qui correspond au projet qu'on a créé.",
+      "de": "Hier sehen wir unser Projekt, das vorhanden ist, läuft und dem Projekt entspricht, das wir erstellt haben."
+    },
+    "data.sections[@T3B5rZ].paragraphs[@dliQNh].text": {
+      "source": "Là normalement on devrait être capable d'accéder à cette page IHM web depuis n'importe quel appareil qui est dans le réseau. Pour accomplir cette tâche, on va déjà tester avec le navigateur du PC en donnant l'adresse IP du PC.",
+      "de": "Normalerweise sollten wir jetzt von jedem Gerät im Netzwerk auf diese HMI-Webseite zugreifen können. Um dies zu tun, testen wir zuerst mit dem Browser des PCs, indem wir die IP-Adresse des PCs eingeben."
+    },
+    "data.sections[@T3B5rZ].paragraphs[@rpH5QY].text": {
+      "source": "On le lance. Parfois, il faut réactiver ici le certificat pour qu'ils prennent bien en compte qu'on est sur un nouveau serveur http.",
+      "de": "Wir starten ihn. Manchmal muss man hier das Zertifikat reaktivieren, damit sie richtig erkennen, dass wir uns auf einem neuen HTTP-Server befinden."
+    },
+    "data.sections[@T3B5rZ].paragraphs[@g9duwW].text": {
+      "source": "Je viens ici cliquer sur \"avancé\" et dire \"accepter le risque\" parce que je sais de quel serveur web il s'agit.",
+      "de": "Ich klicke hier auf „Erweitert“ und sage „Risiko akzeptieren“, weil ich weiß, um welchen Webserver es sich handelt."
+    },
+    "data.sections[@T3B5rZ].paragraphs[@2sPWiJ].text": {
+      "source": "Une fois que tu as accepté, tu as ces 3 icônes-là qui apparaissent. Je clique ici sur wincc unified runtime . On devrait voir apparaître la page et IHM qu'on a créée.",
+      "de": "Sobald du akzeptiert hast, erscheinen diese 3 Symbole. Ich klicke hier auf WinCC Unified Runtime. Die von uns erstellte HMI-Seite sollte erscheinen."
+    },
+    "data.sections[@T3B5rZ].paragraphs[@8ghRgV].text": {
+      "source": "Là, vu qu'on a configuré des mots de passe, il va me demander les identifiants que j'ai configuré.",
+      "de": "Da wir Passwörter konfiguriert haben, wird er mich nach den von mir konfigurierten Anmeldedaten fragen."
+    },
+    "data.sections[@T3B5rZ].paragraphs[@dmm9kn].text": {
+      "source": "Je me connecte à mon IHM que j'ai créée. Là, tu vois bien que l'adresse IP correspond là au nom de mon PC.",
+      "de": "Ich melde mich bei meinem erstellten HMI an. Hier siehst du, dass die IP-Adresse dem Namen meines PCs entspricht."
+    },
+    "data.sections[@T3B5rZ].paragraphs[@ibsYZ9].text": {
+      "source": "Si je tapais la même adresse IP sur un téléphone ou bien une tablette qui se trouve dans le même réseau que ce serveur web là (qui est basé sur le PC), on aurait quand même accès à la même page.",
+      "de": "Wenn ich dieselbe IP-Adresse auf einem Telefon oder Tablet eingeben würde, das sich im selben Netzwerk wie dieser Webserver befindet (der auf dem PC basiert), hätten wir trotzdem Zugriff auf dieselbe Seite."
+    },
+    "data.sections[@T3B5rZ].paragraphs[@gfk8MM].text": {
+      "source": "Pour te montrer, je vais venir ici dans les outils supplémentaires, la vue adaptative.",
+      "de": "Um es dir zu zeigen, gehe ich hier zu den zusätzlichen Werkzeugen, die adaptive Ansicht."
+    },
+    "data.sections[@T3B5rZ].paragraphs[@lcZQNb].text": {
+      "source": "Tu peux choisir différents appareils : un IPad ou tout ce qui se connecte avec des navigateurs web auront accès à la même chose.",
+      "de": "Du kannst verschiedene Geräte auswählen: ein iPad oder alles, was über Webbrowser zugänglich ist, hat denselben Zugriff."
+    },
+    "data.sections[@T3B5rZ].paragraphs[@gH5tWb].text": {
+      "source": "Ensuite on va tester notre programme, je vais venir ici réduire un petit peu. L'auto-maintient: lorsque j'appuie sur start qu'est ce qui se passe ? On voit que le moteur est bien ON, et la led qui s'allume et lorsque j'appuie sur stop, le moteur s'arrête.",
+      "de": "Dann testen wir unser Programm. Ich verkleinere es hier ein wenig. Die Selbsthaltung: Wenn ich auf Start drücke, was passiert? Wir sehen, dass der Motor EIN ist und die LED leuchtet, und wenn ich auf Stopp drücke, stoppt der Motor."
+    },
+    "data.sections[@T3B5rZ].paragraphs[@wsqT26].text": {
+      "source": "C'est tout pour cet article: Wincc Unified . Tu as vu comment est-ce que tu peux tout simplement créer le programme sur ton PC et puis avoir accès à une IHM sans avoir besoin de payer par exemple d’un panel dédié sur ta machine.",
+      "de": "Das war's für diesen Artikel: WinCC Unified. Du hast gesehen, wie du ganz einfach ein Programm auf deinem PC erstellen und dann auf ein HMI zugreifen kannst, ohne zum Beispiel für ein dediziertes Panel an deiner Maschine bezahlen zu müssen."
+    },
+    "data.sections[@T3B5rZ].paragraphs[@b5bxxx].text": {
+      "source": "Tu as juste besoin d'un PC qui se connecte à l'utomate de ta machine, et ensuite tu accèdes à l'HM depuis un téléphone, tablette, un PC , ou tout appareil qui a un navigateur web.",
+      "de": "Du benötigst nur einen PC, der sich mit der Steuerung deiner Maschine verbindet, und dann greifst du über ein Telefon, Tablet, einen PC oder jedes Gerät mit einem Webbrowser auf das HMI zu."
+    },
+    "data.sections[@T3B5rZ].paragraphs[@t5TX3s].text": {
+      "source": "Si tu as déjà utilisé Wincc Unified je serais intéressé d'avoir ton avis dans les commentaires.",
+      "de": "Wenn du WinCC Unified bereits verwendet hast, würde ich mich über deine Meinung in den Kommentaren freuen."
+    },
+    "data.sections[@T3B5rZ].paragraphs[@ND4bRa].text": {
+      "source": "Par exemple si tu veux que je t'envoie le programme pour pouvoir reproduire cette simulation chez toi, fais-le moi savoir en commentaire.",
+      "de": "Wenn du zum Beispiel möchtest, dass ich dir das Programm sende, damit du diese Simulation zu Hause nachbauen kannst, lass es mich in den Kommentaren wissen."
+    },
+    "data.sections[@T3B5rZ].paragraphs[@V6ZlVY].text": {
+      "source": "Et on se dit à bientôt dans un prochain article.",
+      "de": "Und wir sehen uns in einem zukünftigen Artikel wieder."
+    },
+    "data.sections[@m4VA1Z].image.alt": {
+      "source": "PC connecté à un automate S7 1500",
+      "de": "PC verbunden mit einer S7 1500 Steuerung"
+    },
+    "data.sections[@uEFn9f].image.alt": {
+      "source": "PC connecté à un automate S7 1500",
+      "de": "PC verbunden mit einer S7 1500 Steuerung"
+    },
+    "data.sections[@hfWLCc].image.alt": {
+      "source": "PC connecté à un automate S7 1500",
+      "de": "PC verbunden mit einer S7 1500 Steuerung"
+    },
+    "data.sections[@rm7vee].image.alt": {
+      "source": "PC connecté à un automate S7 1500",
+      "de": "PC verbunden mit einer S7 1500 Steuerung"
+    },
+    "data.sections[@ahQZj9].image.alt": {
+      "source": "PC connecté à un automate S7 1500",
+      "de": "PC verbunden mit einer S7 1500 Steuerung"
+    },
+    "data.sections[@0wBITm].image.alt": {
+      "source": "PC connecté à un automate S7 1500",
+      "de": "PC verbunden mit einer S7 1500 Steuerung"
+    },
+    "data.sections[@kbM1qj].image.alt": {
+      "source": "PC connecté à un automate S7 1500",
+      "de": "PC verbunden mit einer S7 1500 Steuerung"
+    },
+    "data.sections[@qUwbKb].image.alt": {
+      "source": "PC connecté à un automate S7 1500",
+      "de": "PC verbunden mit einer S7 1500 Steuerung"
+    },
+    "data.sections[@8xHtDP].image.alt": {
+      "source": "PC connecté à un automate S7 1500",
+      "de": "PC verbunden mit einer S7 1500 Steuerung"
+    },
+    "data.sections[@T3B5rZ].image.alt": {
+      "source": "PC connecté à un automate S7 1500",
+      "de": "PC verbunden mit einer S7 1500 Steuerung"
+    }
+  }
+}
