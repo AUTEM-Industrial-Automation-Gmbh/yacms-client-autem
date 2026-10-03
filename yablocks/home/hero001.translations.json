@@ -80,6 +80,14 @@
       "source": "Verkor",
       "de": "Verkor",
       "en": "Verkor"
+    },
+    "data.logos.items[@eJHXNL].alt": {
+      "source": "Fromagerie de Mézières",
+      "de": "Fromagerie de Mézières"
+    },
+    "data.logos.items[@HzC9kB].alt": {
+      "source": "Mivelaz Bois",
+      "de": "Mivelaz Bois"
     }
   }
 }
