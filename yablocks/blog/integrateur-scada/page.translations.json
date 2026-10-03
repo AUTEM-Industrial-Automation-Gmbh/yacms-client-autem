@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Intégrateur SCADA | Blog AUTEM",
+      "de": "SCADA-Integrator | AUTEM Blog",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Quel avantage pour vos projets industriels ?",
+      "de": "Welchen Vorteil bringt er für Ihre Industrieprojekte?",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "Supervision SCADA",
+        "AUTEM",
+        "automatisme industriel"
+      ],
+      "de": [
+        "SCADA-Überwachung",
+        "AUTEM",
+        "Industrielle Automatisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Blog technique automatisme et SCADA industriel",
+      "de": "AUTEM – Technischer Blog für Automatisierung und industrielle SCADA-Systeme",
+      "de:manual": true
+    }
+  }
+}
