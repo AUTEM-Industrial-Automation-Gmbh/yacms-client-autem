@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Automatisme industriel et tertiaire | Blog AUTEM",
+      "de": "Industrielle und tertiäre Automatisierung | AUTEM Blog",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "L'automatisme industriel et tertiaire appliquée à la conception, installation et maintenance de machines.",
+      "de": "Industrielle und tertiäre Automatisierung angewendet auf Design, Installation und Wartung von Maschinen.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "Automation",
+        "AUTEM",
+        "automatisme industriel"
+      ],
+      "de": [
+        "Automatisierung",
+        "AUTEM",
+        "Industrielle Automatisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Blog technique automatisme et SCADA industriel",
+      "de": "AUTEM – Technischer Blog für industrielle Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}
