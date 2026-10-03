@@ -1,0 +1,35 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "IHM web WinCC – PC connecté à un automate S7 1500 | Autem | Blog AUTEM",
+      "de": "WinCC Web HMI – PC verbunden mit S7 1500 SPS | Autem | AUTEM Blog",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Wincc Unified - Les différentes étapes pour utiliser un SMART Phone pour commander un automate de la marque Siemens.",
+      "de": "Wincc Unified - Die verschiedenen Schritte zur Verwendung eines Smartphones zur Steuerung einer Siemens-SPS.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "Supervision SCADA",
+        "Automation",
+        "AUTEM",
+        "automatisme industriel"
+      ],
+      "de": [
+        "SCADA-Visualisierung",
+        "Automatisierung",
+        "AUTEM",
+        "Industrielle Automatisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Blog technique automatisme et SCADA industriel",
+      "de": "AUTEM — Technischer Blog für Automatisierung und industrielle SCADA-Systeme",
+      "de:manual": true
+    }
+  }
+}
