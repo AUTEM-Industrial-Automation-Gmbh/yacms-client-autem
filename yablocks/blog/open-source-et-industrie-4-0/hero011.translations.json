@@ -1,0 +1,29 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backLinkLabel": {
+      "source": "Retour au blog",
+      "de": "Zurück zum Blog"
+    },
+    "data.title": {
+      "source": "Open-Source & Industrie 4.0",
+      "de": "Open-Source & Industrie 4.0"
+    },
+    "data.tags[@hEF8fy].label": {
+      "source": "Architecture Systèmes",
+      "de": "Systemarchitektur"
+    },
+    "data.articleMeta.readTime": {
+      "source": "3 min lecture",
+      "de": "3 Min Lesezeit"
+    },
+    "data.articleMeta.publishDate": {
+      "source": "30/03/23",
+      "de": "30.03.23"
+    },
+    "data.articleMeta.updatedDate": {
+      "source": "17/03/26",
+      "de": "26.03.17"
+    }
+  }
+}

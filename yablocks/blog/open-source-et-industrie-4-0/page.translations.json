@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Open-Source & Industrie 4.0 | Blog AUTEM",
+      "de": "Open-Source & Industrie 4.0 | AUTEM Blog",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Découvrez comment l'utilisation de logiciels open-source peut aider à accélérer la transformation numérique de l'industrie 4.0 et à améliorer l'efficacité opérationnelle.",
+      "de": "Erfahren Sie, wie der Einsatz von Open-Source-Software die digitale Transformation der Industrie 4.0 beschleunigen und die betriebliche Effizienz verbessern kann.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "Architecture Systèmes",
+        "AUTEM",
+        "automatisme industriel"
+      ],
+      "de": [
+        "Systemarchitektur",
+        "AUTEM",
+        "Industrielle Automatisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Blog technique automatisme et SCADA industriel",
+      "de": "AUTEM – Technischer Blog für industrielle Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}
