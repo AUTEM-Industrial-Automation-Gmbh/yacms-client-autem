@@ -1,0 +1,45 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@KjKzzT].heading": {
+      "source": "Introduction",
+      "de": "Einleitung"
+    },
+    "data.sections[@cyk9Ud].heading": {
+      "source": "A use case",
+      "de": "Ein Anwendungsfall"
+    },
+    "data.sections[@KjKzzT].paragraphs[@O8ma29].text": {
+      "source": "I need to tell you something. On one preview article , I told you you can train your AI privately in order to think like an industrial automation engineer. Let's see in real example one use case to train your private AI on your commissioning notes.",
+      "de": "Ich muss Ihnen etwas erzählen. In einem früheren Artikel habe ich Ihnen erzählt, dass Sie Ihre KI privat trainieren können, um wie ein Ingenieur für industrielle Automatisierung zu denken. Sehen wir uns ein reales Beispiel für einen Anwendungsfall an, um Ihre private KI mit Ihren Inbetriebnahme-Notizen zu trainieren."
+    },
+    "data.sections[@cyk9Ud].paragraphs[@suvTvf].text": {
+      "source": "Let's imagine you have finished to commission one system. Then, you want to write a report to discuss with the client about what was the good things that happened and what was the bad things that you can improve on the next iteration. And that can be Usefull ffor your team or for the client. Then. you can feed those inputs and then the AI will work on that and give you back what it found was important and then you can use it as the base for discussion.",
+      "de": "Stellen wir uns vor, Sie haben die Inbetriebnahme eines Systems abgeschlossen. Dann möchten Sie einen Bericht schreiben, um mit dem Kunden darüber zu sprechen, was gut gelaufen ist und was schlecht gelaufen ist und was Sie bei der nächsten Iteration verbessern können. Und das kann für Ihr Team oder für den Kunden nützlich sein. Dann können Sie diese Eingaben einspeisen und die KI wird daran arbeiten und Ihnen zurückgeben, was sie für wichtig hielt, und dann können Sie es als Diskussionsgrundlage verwenden."
+    },
+    "data.sections[@cyk9Ud].paragraphs[@KQ01r4].text": {
+      "source": "Found a real example on that following link:",
+      "de": "Ein reales Beispiel finden Sie unter folgendem Link:"
+    },
+    "data.sections[@KjKzzT].links[@QBytdC].text": {
+      "source": "On one preview article",
+      "de": "In einem früheren Artikel"
+    },
+    "data.sections[@cyk9Ud].links[@724NIW].text": {
+      "source": "Visualize | Vidéo (1 min : 45 s)",
+      "de": "Visualisieren | Video (1 Min : 45 Sek)"
+    },
+    "data.sections[@KjKzzT].links[@QBytdC].href": {
+      "source": "https://autem-services.fr/blogs/automate-your-documentation.html",
+      "de": "https://autem-services.fr/blogs/automate-your-documentation.html"
+    },
+    "data.sections[@cyk9Ud].links[@724NIW].href": {
+      "source": "https://www.youtube.com/watch?v=NweO7_zrDn8&t=48s",
+      "de": "https://www.youtube.com/watch?v=NweO7_zrDn8&t=48s"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Automate your Engineering Reports💡 | Blog AUTEM",
+      "de": "Automatisieren Sie Ihre Ingenieurberichte💡 | AUTEM Blog",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Automate your Engineering Reports with AI - Real-Life example",
+      "de": "Automatisieren Sie Ihre Ingenieurberichte mit KI – Praxisbeispiel",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "Automation",
+        "IA & Machine Learning",
+        "AUTEM",
+        "automatisme industriel"
+      ],
+      "de": [
+        "Automatisierung",
+        "KI & Machine Learning",
+        "AUTEM",
+        "industrielle Automatisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Blog technique automatisme et SCADA industriel",
+      "de": "AUTEM – Technischer Blog für Automatisierung und industrielle SCADA-Systeme",
+      "de:manual": true
+    }
+  }
+}

@@ -10,11 +10,13 @@
     "tags": [
       {
         "label": "Automation",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "sHIeC9"
       },
       {
         "label": "IA & Machine Learning",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "fX1THJ"
       }
     ],
     "articleMeta": {

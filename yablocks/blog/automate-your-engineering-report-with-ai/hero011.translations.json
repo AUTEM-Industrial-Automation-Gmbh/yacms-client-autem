@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backLinkLabel": {
+      "source": "Retour au blog",
+      "de": "Zurück zum Blog"
+    },
+    "data.title": {
+      "source": "Automate your Engineering Reports💡",
+      "de": "Automatisieren Sie Ihre Ingenieurberichte💡"
+    },
+    "data.tags[@sHIeC9].label": {
+      "source": "Automation",
+      "de": "Automatisierung"
+    },
+    "data.tags[@fX1THJ].label": {
+      "source": "IA & Machine Learning",
+      "de": "KI & Maschinelles Lernen"
+    },
+    "data.articleMeta.readTime": {
+      "source": "1 min lecture",
+      "de": "1 Min Lesezeit"
+    },
+    "data.articleMeta.publishDate": {
+      "source": "24/06/25",
+      "de": "24.06.25"
+    },
+    "data.articleMeta.updatedDate": {
+      "source": "17/03/26",
+      "de": "17.03.26"
+    }
+  }
+}
