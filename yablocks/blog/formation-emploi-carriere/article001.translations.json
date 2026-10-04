@@ -1,0 +1,81 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@h05jtd].heading": {
+      "source": "Intro et présentation",
+      "de": "Einleitung und Vorstellung"
+    },
+    "data.sections[@h6Wnb2].heading": {
+      "source": "Finding a job in industry",
+      "de": "Jobsuche in der Industrie"
+    },
+    "data.sections[@uFJy74].heading": {
+      "source": "Academics and Training",
+      "de": "Akademische Ausbildung und Weiterbildung"
+    },
+    "data.sections[@TXZOJ7].heading": {
+      "source": "Automation and Industry in Cameroon",
+      "de": "Automatisierung und Industrie in Kamerun"
+    },
+    "data.sections[@gvUCgd].heading": {
+      "source": "Final word",
+      "de": "Schlusswort"
+    },
+    "data.sections[@h05jtd].paragraphs[@eFYIOC].text": {
+      "source": "This week, we welcome a new expert, Balthazar N'GABRA , an electrical engineer, instrumentation and automation specialist with an impressively versatile profile, whose exemplary journey illustrates the profound impact of education on professional development. A graduate in Fundamental Physics, Balthazar continued his studies at the Faculty of Industrial Engineering at the Polytechnic School of Douala, Cameroon, gaining access to this prestigious institution through a competitive examination. His academic journey then took him to India, where he earned his engineering degree.",
+      "de": "Diese Woche begrüßen wir einen neuen Experten, Balthazar N'GABRA, einen Elektroingenieur, Spezialist für Instrumentierung und Automatisierung mit einem beeindruckend vielseitigen Profil. Sein beispielhafter Werdegang veranschaulicht den tiefgreifenden Einfluss von Bildung auf die berufliche Entwicklung. Balthazar, Absolvent der Physik, setzte sein Studium an der Fakultät für Wirtschaftsingenieurwesen der Polytechnischen Schule von Douala, Kamerun, fort und erhielt durch eine Aufnahmeprüfung Zugang zu dieser renommierten Institution. Sein akademischer Weg führte ihn dann nach Indien, wo er seinen Ingenieurabschluss erwarb."
+    },
+    "data.sections[@h05jtd].paragraphs[@gQz1jA].text": {
+      "source": "Balthazar will share not only the key stages and challenges of his academic path, but he will also offer his unique perspective on the world of industrial automation in Cameroon. He will also share his view on the evolution of his perception of the engineering profession, contrasting his past ideas with the reality he knows after obtaining his degree.",
+      "de": "Balthazar wird nicht nur die wichtigsten Etappen und Herausforderungen seines akademischen Weges teilen, sondern auch seine einzigartige Perspektive auf die Welt der industriellen Automatisierung in Kamerun darlegen. Er wird auch seine Sicht auf die Entwicklung seiner Wahrnehmung des Ingenieurberufs darlegen und seine früheren Vorstellungen mit der Realität vergleichen, die er nach seinem Abschluss kennengelernt hat."
+    },
+    "data.sections[@h6Wnb2].paragraphs[@qjnhSG].text": {
+      "source": "Balthazar identifies two primary obstacles in his job search journey: the lack of opportunities to establish local connections and the demanding criteria of years of experience , typically ranging from three to five years. This is a significant hurdle for new and young graduates who do not possess such experience.",
+      "de": "Balthazar identifiziert zwei Haupthindernisse auf seinem Weg zur Jobsuche: das Fehlen von Möglichkeiten zum Aufbau lokaler Kontakte und die anspruchsvollen Kriterien bezüglich der Berufserfahrung, die typischerweise drei bis fünf Jahre beträgt. Dies ist eine erhebliche Hürde für neue und junge Absolventen, die keine solche Erfahrung haben."
+    },
+    "data.sections[@uFJy74].paragraphs[@RLhjLq].text": {
+      "source": "Balthazar's journey through academia and training proved to be a multifaceted challenge, encompassing both social and academic aspects. Reflecting on his time in India, he highlights how such environments propel individuals to push beyond their conventional boundaries. The rigorous academic culture in India demands that students, including himself, exert extraordinary effort and dedication. The intensity of study there requires students to exceed their limitations, which, for Balthazar, was not just challenging but also deeply enriching and stimulating.",
+      "de": "Balthazars akademischer und beruflicher Werdegang erwies sich als vielschichtige Herausforderung, die sowohl soziale als auch akademische Aspekte umfasste. Rückblickend auf seine Zeit in Indien hebt er hervor, wie solche Umgebungen Einzelpersonen dazu anspornen, über ihre konventionellen Grenzen hinauszugehen. Die strenge akademische Kultur in Indien verlangt von den Studierenden, einschließlich ihm selbst, außergewöhnliche Anstrengungen und Hingabe. Die Intensität des Studiums dort erfordert, dass die Studierenden ihre Grenzen überschreiten, was für Balthazar nicht nur herausfordernd, sondern auch zutiefst bereichernd und anregend war."
+    },
+    "data.sections[@TXZOJ7].paragraphs[@yeVYFX].text": {
+      "source": "Upon returning to Cameroon, Balthazar observed notable similarities in industrial equipment with some machinery sourced from China and other pieces hailing from the USA.",
+      "de": "Nach seiner Rückkehr nach Kamerun stellte Balthazar bemerkenswerte Ähnlichkeiten bei Industrieanlagen fest, wobei einige Maschinen aus China und andere aus den USA stammten."
+    },
+    "data.sections[@gvUCgd].paragraphs[@PFDagR].text": {
+      "source": "Balthazar initially perceived the engineering profession as shrouded in mystery. It was during the heart of his education that he gained a deep appreciation for this field. He now views the role of an engineer as not just challenging, but also immensely fascinating and fulfilling.",
+      "de": "Balthazar nahm den Ingenieurberuf anfangs als etwas Geheimnisvolles wahr. Erst im Herzen seiner Ausbildung entwickelte er eine tiefe Wertschätzung für dieses Feld. Heute betrachtet er die Rolle eines Ingenieurs nicht nur als herausfordernd, sondern auch als unglaublich faszinierend und erfüllend."
+    },
+    "data.sections[@gvUCgd].paragraphs[@ddyc7e].text": {
+      "source": "Liens utiles",
+      "de": "Nützliche Links"
+    },
+    "data.sections[@gvUCgd].list.items[@hQ07VF].text": {
+      "source": "Page LinkedIn de Balthazar N'GABRA | 🌍 Site web",
+      "de": "Balthazar N'GABRAs LinkedIn-Profil | 🌍 Website"
+    },
+    "data.sections[@h05jtd].links[@GyrgKS].text": {
+      "source": "Balthazar N'GABRA",
+      "de": "Balthazar N'GABRA"
+    },
+    "data.sections[@gvUCgd].links[@3ag5NT].text": {
+      "source": "Page LinkedIn de Balthazar N'GABRA | Site web",
+      "de": "Balthazar N'GABRAs LinkedIn-Profil | Website"
+    },
+    "data.sections[@h05jtd].links[@GyrgKS].href": {
+      "source": "https://www.linkedin.com/in/balthazar-ngabra/",
+      "de": [
+        "https://www.linkedin.com/in/balthazar-ngabra/"
+      ]
+    },
+    "data.sections[@gvUCgd].links[@3ag5NT].href": {
+      "source": "https://www.linkedin.com/in/balthazar-ngabra/",
+      "de": [
+        "https://www.linkedin.com/in/balthazar-ngabra/"
+      ]
+    }
+  }
+}

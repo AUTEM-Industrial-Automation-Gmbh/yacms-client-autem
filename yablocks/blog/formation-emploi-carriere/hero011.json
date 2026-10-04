@@ -10,11 +10,13 @@
     "tags": [
       {
         "label": "Astuces Carrière",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "74cmzr"
       },
       {
         "label": "Interview-Atelier LIVE",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "OrYdzv"
       }
     ],
     "articleMeta": {
