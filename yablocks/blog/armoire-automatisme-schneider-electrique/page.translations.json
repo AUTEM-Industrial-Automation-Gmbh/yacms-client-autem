@@ -1,0 +1,35 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Armoire d'automatisme - Schneider Electric | Blog AUTEM",
+      "de": "Schaltschrank - Schneider Electric | AUTEM Blog",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Identification des différents éléments de la gamme Schneider Electric présent dans un banc d'essai",
+      "de": "Identifizierung der verschiedenen Elemente der Schneider Electric-Reihe, die in einem Prüfstand vorhanden sind",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "Automation",
+        "Electricité",
+        "AUTEM",
+        "automatisme industriel"
+      ],
+      "de": [
+        "Automatisierung",
+        "Elektrizität",
+        "AUTEM",
+        "Industrielle Automatisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Blog technique automatisme et SCADA industriel",
+      "de": "AUTEM – Technischer Blog für industrielle Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}

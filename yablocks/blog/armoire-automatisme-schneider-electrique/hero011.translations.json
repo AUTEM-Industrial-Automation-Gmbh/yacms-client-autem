@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backLinkLabel": {
+      "source": "Retour au blog",
+      "de": "Zurück zum Blog"
+    },
+    "data.title": {
+      "source": "Armoire d'automatisme - Schneider Electric",
+      "de": "Schaltschrank - Schneider Electric"
+    },
+    "data.tags[@bPsxxz].label": {
+      "source": "Automation",
+      "de": "Automatisierung"
+    },
+    "data.tags[@LejxKt].label": {
+      "source": "Electricité",
+      "de": "Elektrizität"
+    },
+    "data.articleMeta.readTime": {
+      "source": "5 min lecture",
+      "de": "5 Min Lesezeit"
+    },
+    "data.articleMeta.publishDate": {
+      "source": "11/02/22",
+      "de": "11.02.22"
+    },
+    "data.articleMeta.updatedDate": {
+      "source": "17/03/26",
+      "de": "17.03.26"
+    }
+  }
+}

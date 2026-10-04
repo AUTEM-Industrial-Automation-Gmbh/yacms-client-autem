@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backLinkLabel": {
+      "source": "Retour au blog",
+      "de": "Zurück zum Blog"
+    },
+    "data.title": {
+      "source": "Project & Team Collaboration in manufacturing",
+      "de": "Projekt- & Teamkollaboration im produzierenden Gewerbe"
+    },
+    "data.tags[@Jek1a6].label": {
+      "source": "Gestion Projet Stratégique",
+      "de": "Strategisches Projektmanagement"
+    },
+    "data.tags[@flb2k4].label": {
+      "source": "Astuces Carrière",
+      "de": "Karrieretipps"
+    },
+    "data.articleMeta.readTime": {
+      "source": "1 min lecture",
+      "de": "1 Min Lesezeit"
+    },
+    "data.articleMeta.publishDate": {
+      "source": "03/06/25",
+      "de": "03.06.25"
+    },
+    "data.articleMeta.updatedDate": {
+      "source": "17/03/26",
+      "de": "17.03.26"
+    }
+  }
+}

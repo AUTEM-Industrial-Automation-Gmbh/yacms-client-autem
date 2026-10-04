@@ -1,0 +1,35 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Project & Team Collaboration in manufacturing | Blog AUTEM",
+      "de": "Projekt- & Teamkollaboration in der Fertigung | AUTEM Blog",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Handle your team collaboration with Focalboard which provide more data ownership and more interoperability of your existing system.",
+      "de": "Verwalten Sie Ihre Teamkollaboration mit Focalboard, das mehr Datenhoheit und mehr Interoperabilität Ihres bestehenden Systems bietet.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "Gestion Projet Stratégique",
+        "Astuces Carrière",
+        "AUTEM",
+        "automatisme industriel"
+      ],
+      "de": [
+        "Projektmanagement Strategie",
+        "Karrieretipps",
+        "AUTEM",
+        "Industrielle Automatisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Blog technique automatisme et SCADA industriel",
+      "de": "AUTEM – Technischer Blog für Automatisierung und industrielle SCADA-Systeme",
+      "de:manual": true
+    }
+  }
+}

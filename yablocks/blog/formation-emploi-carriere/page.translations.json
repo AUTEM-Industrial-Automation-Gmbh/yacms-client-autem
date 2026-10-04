@@ -1,0 +1,35 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Formation, Emploi, Carrière - Balthazar N'GABRA | Blog AUTEM",
+      "de": "Ausbildung, Beschäftigung, Karriere - Balthazar N'GABRA | AUTEM Blog",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Unique perspective and perception in world of industrial automation in Cameroon.",
+      "de": "Einzigartige Perspektive und Wahrnehmung in der Welt der industriellen Automatisierung in Kamerun.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "Astuces Carrière",
+        "Interview-Atelier LIVE",
+        "AUTEM",
+        "automatisme industriel"
+      ],
+      "de": [
+        "Karrieretipps",
+        "Interview-Workshop LIVE",
+        "AUTEM",
+        "industrielle Automatisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Blog technique automatisme et SCADA industriel",
+      "de": "AUTEM — Technischer Blog für industrielle Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}

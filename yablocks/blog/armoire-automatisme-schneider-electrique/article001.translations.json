@@ -1,0 +1,73 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@iv1QcQ].heading": {
+      "source": "Schneider Electric - Armoire électrique",
+      "de": "Schneider Electric - Schaltschrank"
+    },
+    "data.sections[@iv1QcQ].paragraphs[@TYjiwB].text": {
+      "source": "Salut à toi. Alors j’avais promis un article sur du matériel Schneider Electric et on va observer ici des organes de la gamme Schneider Electric dans une armoire qui concerne une machine réelle qui tourne. Là concrètement il s’agit d’un banc d’essai qui simule une station de pompage d’eau. C’est un banc de régulation.",
+      "de": "Hallo. Ich hatte ja einen Artikel über Schneider Electric-Material versprochen und wir werden uns hier Komponenten aus dem Schneider Electric-Sortiment in einem Schaltschrank ansehen, der eine echte, laufende Maschine betrifft. Konkret handelt es sich hier um eine Prüfbank, die eine Wasserpumpstation simuliert. Es ist eine Regelungsprüfbank."
+    },
+    "data.sections[@iv1QcQ].paragraphs[@LFJQiW].text": {
+      "source": "On a du débit à réguler, on a un niveau d’eau à gérer. Et ce banc d’essai est concrètement installé dans un centre de formation en Algérie et il a servi pour un mémoire de master. D’ailleurs je mettrai le lien en bas, c’est assez intéressant ce que les gars ont fait sur ce matériel. A l’intérieur on a du matériel Schneider Electric . Très intéressant à observer. Cela permet d’entraîner le regard pour identifier ses organes. Comme nous l'avons fait dans les deux précédents articles, on va les décomposer un par un en commençant par la partie alimentation.",
+      "de": "Wir müssen den Durchfluss regeln, wir müssen einen Wasserstand verwalten. Und diese Prüfbank ist konkret in einem Ausbildungszentrum in Algerien installiert und diente für eine Masterarbeit. Ich werde übrigens den Link unten einfügen, es ist ziemlich interessant, was die Jungs mit diesem Material gemacht haben. Im Inneren befindet sich Schneider Electric-Material. Sehr interessant zu beobachten. Das schult das Auge, um diese Komponenten zu identifizieren. Wie wir es in den beiden vorherigen Artikeln getan haben, werden wir sie nacheinander aufschlüsseln, beginnend mit dem Stromversorgungsteil."
+    },
+    "data.sections[@iv1QcQ].paragraphs[@ZvPJDJ].text": {
+      "source": "Les deux premiers composants, principalement le premier pour commencer concerne l’alimentation.",
+      "de": "Die ersten beiden Komponenten, hauptsächlich die erste, betreffen die Stromversorgung."
+    },
+    "data.sections[@iv1QcQ].paragraphs[@JWpMpe].text": {
+      "source": "Ici typiquement c’est un convertisseur d’énergie , un transformateurs qui va nous envoyer du courant continu. Ensuite on a à nouveau des alimentations. Pourquoi on sait que ce sont des alimentations ? Parce que en haut, on devine les trois fils qui arrivent pour la phase, le neutre et la terre et en bas on a les différentes sorties, on imagine 0-24 V qui vont aller après alimenter les organes qui fonctionnent en courant continu 24 V (basse tension). Ce genre d’alimentation permet de faire de la conversion d’énergie 230 V alternatifs vers 24 V continu . Ensuite tous les organes qui vont suivre sur la droite en haut sont liés purement à de l’électricité. Du coup, interface énergie entre l’alimentation et les différents organes, les différents actionneurs typiquement le numéro 3, c’est un disjoncteur différentiel .",
+      "de": "Hier handelt es sich typischerweise um einen Energiewandler, einen Transformator, der uns Gleichstrom liefert. Dann haben wir wieder Stromversorgungen. Warum wissen wir, dass es sich um Stromversorgungen handelt? Weil man oben die drei Kabel für Phase, Neutralleiter und Erde erahnen kann und unten die verschiedenen Ausgänge, wir stellen uns 0-24 V vor, die dann die Gleichstromkomponenten (Niederspannung) versorgen werden. Diese Art von Stromversorgung ermöglicht die Umwandlung von 230 V Wechselstrom in 24 V Gleichstrom. Dann sind alle nachfolgenden Komponenten rechts oben rein elektrisch verbunden. Also, Energie-Schnittstelle zwischen der Stromversorgung und den verschiedenen Komponenten, den verschiedenen Aktoren, typischerweise Nummer 3, ist ein Fehlerstromschutzschalter."
+    },
+    "data.sections[@iv1QcQ].paragraphs[@KgJaQu].text": {
+      "source": "Tu le reconnais avec notamment un petit bouton de test en haut à droite et ce disjoncteur différentiel permet de gérer les surintensités moteurs .",
+      "de": "Man erkennt ihn unter anderem an der kleinen Testtaste oben rechts und dieser Fehlerstromschutzschalter dient der Regelung von Motorüberströmen."
+    },
+    "data.sections[@iv1QcQ].paragraphs[@NHVssc].text": {
+      "source": "Le numéro 4 du coup correspond aussi à une interface électrique. Là typiquement c’est un relais thermique. On l’appelle aussi disjoncteur moteur par abus de langage parce que c’est un relais thermique qui sert à protéger le moteur des surtensions.",
+      "de": "Nummer 4 ist ebenfalls eine elektrische Schnittstelle. Hier handelt es sich typischerweise um ein thermisches Relais. Man nennt es umgangssprachlich auch Motorschutzschalter, weil es ein thermisches Relais ist, das den Motor vor Überspannung schützt."
+    },
+    "data.sections[@iv1QcQ].paragraphs[@VD2Och].text": {
+      "source": "En numéro 5, tu reconnais là des disjoncteurs classiques soit de type fusible ou magnétique . En tout cas ils servent à protéger électriquement les différents organes de l’armoire électrique. Pour ce qui suit (numéro 6), je n’ai pas réussi à identifier exactement parce que l’image est un peu flou, mais j’imagine, à cause des fils qui arrivent en haut et en bas qu’il s’agit d’un contacteur. Ce n’est certainement pas un contacteur moteur puisque les fils sont un peu trop fins au niveau du diamètre pour pouvoir gérer des intensités pour un moteur, mais cela peut être aussi un contacteur pour des électrovannes par exemple.",
+      "de": "Nummer 5, man erkennt hier klassische Schutzschalter, entweder Sicherungs- oder Magnetauslöser. Auf jeden Fall dienen sie dem elektrischen Schutz der verschiedenen Komponenten des Schaltschranks. Was folgt (Nummer 6), konnte ich nicht genau identifizieren, da das Bild etwas unscharf ist, aber ich vermute, aufgrund der Kabel, die oben und unten ankommen, dass es sich um einen Schütz handelt. Es ist sicherlich kein Motorschütz, da die Kabel im Durchmesser etwas zu dünn sind, um Ströme für einen Motor zu bewältigen, aber es könnte auch ein Schütz für Magnetventile sein, zum Beispiel."
+    },
+    "data.sections[@iv1QcQ].paragraphs[@cJvjPM].text": {
+      "source": "On passe au suivant (numéro 7). On identifie un relais de sécurité . Typiquement on va pouvoir venir câbler tous nos arrêts d’urgence, les barrières de sécurité. Tout ce qui touche à la sécurité de la machine, on va venir le câbler dessus. En faisant cela, on a toutes les boucles de sécurité qui sont centralisées et si il y a un seul des éléments de sécurité qui est ouvert, on arrête tout sur la machine. Cela permet de sécuriser le fonctionnement. Là, notre banc d’essai qui simule la station de pompage typiquement il est équipé aussi des organes de sécurité.",
+      "de": "Wir gehen zum nächsten (Nummer 7). Wir identifizieren ein Sicherheitsrelais. Typischerweise kann man hier alle Not-Aus-Schalter, Sicherheitslichtschranken verkabeln. Alles, was mit der Maschinensicherheit zu tun hat, wird hier angeschlossen. Dadurch werden alle Sicherheitskreise zentralisiert und wenn auch nur eines der Sicherheitselemente offen ist, wird die gesamte Maschine abgeschaltet. Das sichert den Betrieb. Unsere Prüfbank, die die Pumpstation simuliert, ist typischerweise auch mit Sicherheitskomponenten ausgestattet."
+    },
+    "data.sections[@iv1QcQ].paragraphs[@yllLuI].text": {
+      "source": "Et le dernier élément enfin les derniers éléments de la ligne (numéro 8), ce sont des contacteurs . Pourquoi on reconnait que ce sont des contacteurs, on a chaque fois les trois phases qui vont aller vers le moteur qui correspondent au point d’ancrage pour les fils et on a différents signaux qui peuvent activer le contacteur en général des signaux 24 V qui sont envoyés par l’automate. Typiquement, de façon visuelle, ils ressemblent beaucoup à des contacteurs. Tu peux en retrouver dans pas mal d’armoires électriques.",
+      "de": "Und das letzte Element, schließlich die letzten Elemente der Reihe (Nummer 8), sind Schütze. Warum erkennen wir, dass es sich um Schütze handelt? Wir haben jedes Mal die drei Phasen, die zum Motor gehen und die Befestigungspunkte für die Kabel darstellen, und wir haben verschiedene Signale, die den Schütz aktivieren können, im Allgemeinen 24-V-Signale, die von der SPS gesendet werden. Typischerweise sehen sie optisch Schützen sehr ähnlich. Man findet sie in vielen Schaltschränken."
+    },
+    "data.sections[@iv1QcQ].paragraphs[@BH9b2M].text": {
+      "source": "Alors avant de passer à deuxième ligne, petit message pour les nouveaux, si c’est la première fois que tu tombes sur un article de AUTEM , sache que ici on partage énormément de connaissances et de contenus sur l’automatisme. Du coup, n’hésitez pas à regarder les autres articles. Il y a plein de sujets intéressants que tu peux trouver.",
+      "de": "Bevor wir zur zweiten Reihe übergehen, eine kleine Nachricht für neue Leser: Wenn Sie zum ersten Mal auf einen Artikel von AUTEM stoßen, wissen Sie, dass wir hier sehr viele Kenntnisse und Inhalte zur Automatisierungstechnik teilen. Zögern Sie also nicht, sich die anderen Artikel anzusehen. Es gibt viele interessante Themen, die Sie finden können."
+    },
+    "data.sections[@iv1QcQ].paragraphs[@puLZDx].text": {
+      "source": "Alors, on passe aux composants suivants. Numéro 9 sur la deuxième ligne, là typiquement c’est un variateur , variateur de la marque Altivar 31 de la gamme télémécanique . Alors les fans de Schneider sauront que télémécanique en fait c’est une entreprise qui a été racheté par Schneider Electric et du coup maintenant tout le matériel télémécanique fait entièrement partie intégrante des gammes Schneider Electric notamment tout le matériel Altivar, comme ce variateur. C'est un variateur de fréquence pour pouvoir piloter des moteurs asynchrones qui enverront différentes vitesses, différentes rampes de démarrage ou d’accélération . D’ailleurs en parlant de télémécanique et Schneider Electric, je ferai peut-être un article sur l’histoire des constructeurs, leur évolution dans le temps parce qu’il y a des choses intéressantes à savoir là-dessus.",
+      "de": "Nun, wir gehen zu den nächsten Komponenten über. Nummer 9 in der zweiten Reihe, hier handelt es sich typischerweise um einen Frequenzumrichter, einen Umrichter der Marke Altivar 31 aus dem Télémécanique-Sortiment. Die Fans von Schneider wissen, dass Télémécanique ein Unternehmen ist, das von Schneider Electric übernommen wurde, und daher ist jetzt das gesamte Télémécanique-Material vollständig in die Schneider Electric-Sortimente integriert, insbesondere das gesamte Altivar-Material, wie dieser Frequenzumrichter. Es ist ein Frequenzumrichter zur Steuerung von Asynchronmotoren, der verschiedene Geschwindigkeiten, verschiedene Anlauf- oder Beschleunigungsrampen ermöglicht. Apropos Télémécanique und Schneider Electric, vielleicht schreibe ich einen Artikel über die Geschichte der Hersteller, ihre Entwicklung im Laufe der Zeit, denn es gibt interessante Dinge darüber zu wissen."
+    },
+    "data.sections[@iv1QcQ].paragraphs[@WO7lF3].text": {
+      "source": "Eléments suivants (numéro 10) l’organe principal du coût de cette armoire-là c’est le fameux automate . C’est un automate TSX57 de Schneider Electric . Automates des gammes Premium du coup qui permet d’avoir des fonctions avancées notamment en termes de communication. Cette gamme d’automates là, est peut-être ancienne en 2022, mais continue d’exister et est assez robuste ; enfin, moi j’ai récemment remplacé un matériel qui utilisait encore cet automate là et qui tient depuis plus de vingt ans. Matériel plutôt fiable, le TSX57 pour l’organe d’automatisme.",
+      "de": "Nächste Elemente (Nummer 10), die Hauptkomponente dieses Schaltschranks ist die berühmte SPS. Es ist eine TSX57 SPS von Schneider Electric. SPSen der Premium-Reihe, die erweiterte Funktionen, insbesondere im Bereich der Kommunikation, ermöglicht. Diese SPS-Reihe mag im Jahr 2022 alt sein, existiert aber weiterhin und ist ziemlich robust; ich habe kürzlich eine Anlage ersetzt, die noch diese SPS verwendete und seit über zwanzig Jahren läuft. Ziemlich zuverlässiges Material, die TSX57 für die Automatisierungskomponente."
+    },
+    "data.sections[@iv1QcQ].paragraphs[@Hz2JkT].text": {
+      "source": "Et enfin on termine du coup par deux éléments de câblage en numéro 11, le bornier pour pouvoir relier tous les câbles aux organes de la machine et une extension encore du bornier quand ce sont des câblages un peu spécifiques.",
+      "de": "Und schließlich beenden wir mit zwei Verkabelungselementen unter Nummer 11, der Anschlussklemme, um alle Kabel mit den Maschinenkomponenten zu verbinden, und einer Erweiterung der Anschlussklemme für etwas spezifischere Verkabelungen."
+    },
+    "data.sections[@iv1QcQ].paragraphs[@YGhLZX].text": {
+      "source": "C'est tout pour les éléments de notre machine avec l’armoire Schneider Electric. On se retrouve dans un autre article. A bientôt.",
+      "de": "Das war's für die Elemente unserer Maschine mit dem Schneider Electric-Schaltschrank. Wir sehen uns in einem anderen Artikel. Bis bald."
+    },
+    "data.sections[@iv1QcQ].image.alt": {
+      "source": "schneider,modicon,schneider electric,energy,industry40,industrie40,autem,marc akoto,industrial automation,banc d'essai…",
+      "de": "schneider,modicon,schneider electric,energie,industry40,industrie40,autem,marc akoto,industrielle automatisierung,prüfbank…"
+    }
+  }
+}

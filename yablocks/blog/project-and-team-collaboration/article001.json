@@ -10,35 +10,43 @@
         "heading": "Introduction",
         "paragraphs": [
           {
-            "text": "For those who are system integrators like us, I have a question: How do you handle your team collaboration ? Currently, we have a lot of tools existing. Most of them are SAAS. and i was wondering how you can find an alternative that can help you handle your own project and team collaboration with more data ownership and more interoperability of your existing system. I found an alternative for this: Focalboard ; and that is what we are going to see in this article."
+            "text": "For those who are system integrators like us, I have a question: How do you handle your team collaboration ? Currently, we have a lot of tools existing. Most of them are SAAS. and i was wondering how you can find an alternative that can help you handle your own project and team collaboration with more data ownership and more interoperability of your existing system. I found an alternative for this: Focalboard ; and that is what we are going to see in this article.",
+            "_tid": "CwlY8m"
           }
         ],
         "subsections": [],
-        "videoUrl": "https://www.youtube.com/embed/0DBqMHjbCc0?si=Hl3bJSfA2JjSjia6"
+        "videoUrl": "https://www.youtube.com/embed/0DBqMHjbCc0?si=Hl3bJSfA2JjSjia6",
+        "_tid": "7sWGnX"
       },
       {
         "heading": "Focalboard solution",
         "paragraphs": [
           {
-            "text": "Tools like Asana, Notion, Jira, Trello can help to handle your team collaboration but with some disavantages like the following: They can't work offline You don't the ownership of your data They have a costly subscription It's difficult to share it with partner"
+            "text": "Tools like Asana, Notion, Jira, Trello can help to handle your team collaboration but with some disavantages like the following: They can't work offline You don't the ownership of your data They have a costly subscription It's difficult to share it with partner",
+            "_tid": "aVo7X0"
           },
           {
-            "text": "With Focalboard, the main advantage we found here is first; the interoperability because it's the HTML or Markdown format for the data you put in. the second advantage, is that you can host it or self-hosted server and you can also share it easily with partners."
+            "text": "With Focalboard, the main advantage we found here is first; the interoperability because it's the HTML or Markdown format for the data you put in. the second advantage, is that you can host it or self-hosted server and you can also share it easily with partners.",
+            "_tid": "1F6ENC"
           },
           {
-            "text": "Before finish, they is one thing that I've noticed that's missing like some UI feature like The GANT view ."
+            "text": "Before finish, they is one thing that I've noticed that's missing like some UI feature like The GANT view .",
+            "_tid": "Jav9Wb"
           },
           {
-            "text": "The entire section can be found in this following link:"
+            "text": "The entire section can be found in this following link:",
+            "_tid": "Hkfebr"
           }
         ],
         "subsections": [],
         "links": [
           {
             "text": "Visualize | Vidéo (03 min : 38 s)",
-            "href": "https://www.youtube.com/watch?v=0DBqMHjbCc0&t=35s"
+            "href": "https://www.youtube.com/watch?v=0DBqMHjbCc0&t=35s",
+            "_tid": "xmUePY"
           }
-        ]
+        ],
+        "_tid": "6mD1uy"
       }
     ]
   }

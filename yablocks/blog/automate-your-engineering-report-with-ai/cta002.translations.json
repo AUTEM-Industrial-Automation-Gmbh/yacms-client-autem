@@ -1,0 +1,25 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Un projet d'automatisation industrielle ?",
+      "de": "Ein Projekt zur industriellen Automatisierung?"
+    },
+    "data.benefits[@NZyt90].text": {
+      "source": "Intégration automates Siemens, Rockwell, Schneider",
+      "de": "Integration von Siemens-, Rockwell-, Schneider-Automaten"
+    },
+    "data.benefits[@gv0132].text": {
+      "source": "Programmation PLC & variateurs de vitesse",
+      "de": "SPS- & Frequenzumrichter-Programmierung"
+    },
+    "data.benefits[@XPyjra].text": {
+      "source": "Mise en service et maintenance sur site",
+      "de": "Inbetriebnahme und Wartung vor Ort"
+    },
+    "data.cta.text": {
+      "source": "Discutons de votre projet",
+      "de": "Lassen Sie uns über Ihr Projekt sprechen"
+    }
+  }
+}

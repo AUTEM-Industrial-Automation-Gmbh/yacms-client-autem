@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backLinkLabel": {
+      "source": "Retour au blog",
+      "de": "Zurück zum Blog"
+    },
+    "data.title": {
+      "source": "Formation, Emploi, Carrière - Balthazar N'GABRA",
+      "de": "Ausbildung, Beruf, Karriere – Balthazar N'GABRA"
+    },
+    "data.tags[@74cmzr].label": {
+      "source": "Astuces Carrière",
+      "de": "Karrieretipps"
+    },
+    "data.tags[@OrYdzv].label": {
+      "source": "Interview-Atelier LIVE",
+      "de": "Interview-Workshop LIVE"
+    },
+    "data.articleMeta.readTime": {
+      "source": "2 min lecture",
+      "de": "2 Min Lesezeit"
+    },
+    "data.articleMeta.publishDate": {
+      "source": "17/11/23",
+      "de": "17.11.23"
+    },
+    "data.articleMeta.updatedDate": {
+      "source": "17/03/26",
+      "de": "26.03.17"
+    }
+  }
+}

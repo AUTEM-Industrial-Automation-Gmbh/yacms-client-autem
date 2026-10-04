@@ -10,11 +10,13 @@
     "tags": [
       {
         "label": "Gestion Projet Stratégique",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "Jek1a6"
       },
       {
         "label": "Astuces Carrière",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "flb2k4"
       }
     ],
     "articleMeta": {

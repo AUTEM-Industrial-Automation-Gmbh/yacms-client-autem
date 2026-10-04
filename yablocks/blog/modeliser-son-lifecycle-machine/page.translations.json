@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Modéliser son LifeCycle Machine | Blog AUTEM",
+      "de": "Machine Lifecycle Modeling | AUTEM Blog",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "3 paramètres pour des Décisions Objectives Maintenance Préventive",
+      "de": "3 Parameters for Objective Preventive Maintenance Decisions",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "Cycle de Vie et Obsolescence",
+        "AUTEM",
+        "automatisme industriel"
+      ],
+      "de": [
+        "Lifecycle and Obsolescence",
+        "AUTEM",
+        "industrial automation"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Blog technique automatisme et SCADA industriel",
+      "de": "AUTEM — Technical blog for industrial automation and SCADA",
+      "de:manual": true
+    }
+  }
+}

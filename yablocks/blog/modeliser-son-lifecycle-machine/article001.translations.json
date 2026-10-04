@@ -1,0 +1,65 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@1spYZP].heading": {
+      "source": "Introduction",
+      "de": "Einleitung"
+    },
+    "data.sections[@AxSX3P].heading": {
+      "source": "Les temps d'arrêt ou Downtime",
+      "de": "Ausfallzeiten oder Downtime"
+    },
+    "data.sections[@X8rmFY].heading": {
+      "source": "Les investissements",
+      "de": "Investitionen"
+    },
+    "data.sections[@Tvt8EK].heading": {
+      "source": "Les dépendances",
+      "de": "Abhängigkeiten"
+    },
+    "data.sections[@khfLmm].heading": {
+      "source": "Simulation des 3 paramètres",
+      "de": "Simulation der 3 Parameter"
+    },
+    "data.sections[@1spYZP].paragraphs[@rnA2Kb].text": {
+      "source": "Récemment, j'ai eu une question d'un responsable process concernant sa production. Cette question concernait tout ce qui a un lien avec la fiabilité et la maintenance préventive . La question est la suivante : Comment faire pour obtenir des données fiables pour modéliser le cycle de vie de sa production ? On peut se poser cette question soit pour répondre à des questions d'investissement ou soit pour prioriser les actions. Et donc, pour modéliser le cycle de vie de sa production, savoir prendre des décisions objectives et prioriser des actions, on se basera sur 3 paramètres : Les temps d'arrêt ou Downtime Les investissements Les dépendances entre machines On ajoutera à ces 3 paramètres un modèle : dans notre cas, ce sera deux machines A et B qui permettront d'obtenir un produit unique. Liens utiles pour cette actualité : Simulation / scenarios solver",
+      "de": "Kürzlich hatte ich eine Frage von einem Prozessmanager bezüglich seiner Produktion. Diese Frage betraf alles, was mit Zuverlässigkeit und vorbeugender Wartung zu tun hat. Die Frage lautet: Wie erhält man zuverlässige Daten, um den Lebenszyklus seiner Produktion zu modellieren? Man kann sich diese Frage stellen, um entweder Investitionsfragen zu beantworten oder um Maßnahmen zu priorisieren. Um den Lebenszyklus seiner Produktion zu modellieren, objektive Entscheidungen zu treffen und Maßnahmen zu priorisieren, werden wir uns auf 3 Parameter stützen: Ausfallzeiten oder Downtime Investitionen Abhängigkeiten zwischen Maschinen Zu diesen 3 Parametern fügen wir ein Modell hinzu: In unserem Fall werden es zwei Maschinen A und B sein, die die Herstellung eines einzigen Produkts ermöglichen. Nützliche Links zu diesem Thema: Simulation / Szenarien-Solver"
+    },
+    "data.sections[@AxSX3P].paragraphs[@VtlNwk].text": {
+      "source": "Les Downtime correspondent à tout ce qui concerne l'occurrence et la criticité des défauts. On parlera de MTBF, MTTR et également de la courbe de vieillissement de la machine .",
+      "de": "Downtime bezieht sich auf alles, was mit dem Auftreten und der Kritikalität von Fehlern zu tun hat. Wir werden von MTBF, MTTR und auch von der Alterungskurve der Maschine sprechen."
+    },
+    "data.sections[@X8rmFY].paragraphs[@VqF19w].text": {
+      "source": "Les investissements n'incluent pas uniquement le budget (CAPEX) . Ils incluent également les recrutements , car on investit aussi dans les personnes, ce qui permet d'intégrer tous les aspects liés aux investissements.",
+      "de": "Investitionen umfassen nicht nur das Budget (CAPEX). Sie umfassen auch Einstellungen, da wir auch in Menschen investieren, was die Berücksichtigung aller investitionsbezogenen Aspekte ermöglicht."
+    },
+    "data.sections[@Tvt8EK].paragraphs[@oznVku].text": {
+      "source": "Au niveau des dépendances, il arrive parfois que des couplages se forment en amont ou en aval entre les machines. On peut alors simuler son processus de production en testant le résultat obtenu selon la présence ou l'absence de ces dépendances.",
+      "de": "Auf der Ebene der Abhängigkeiten kommt es manchmal vor, dass Kopplungen stromaufwärts oder stromabwärts zwischen den Maschinen entstehen. Man kann dann seinen Produktionsprozess simulieren, indem man das erzielte Ergebnis testet, je nachdem, ob diese Abhängigkeiten vorhanden sind oder nicht."
+    },
+    "data.sections[@khfLmm].paragraphs[@46oKQC].text": {
+      "source": "Découvrez l'intégralité de cette simulation ici :",
+      "de": "Entdecken Sie diese Simulation hier in voller Länge:"
+    },
+    "data.sections[@1spYZP].links[@oU6EaP].text": {
+      "source": "Simulation / scenarios solver",
+      "de": "Simulation / Szenarien-Solver"
+    },
+    "data.sections[@khfLmm].links[@eSG693].text": {
+      "source": "Consulter | Vidéo (5 min 36 s)",
+      "de": "Ansehen | Video (5 Min. 36 Sek.)"
+    },
+    "data.sections[@1spYZP].links[@oU6EaP].href": {
+      "source": "https://demo.autem-services.fr/data/perspective/client/lifecycle",
+      "de": "https://demo.autem-services.fr/data/perspective/client/lifecycle"
+    },
+    "data.sections[@khfLmm].links[@eSG693].href": {
+      "source": "https://www.youtube.com/watch?v=16IX2XTkiGI&t=367s",
+      "de": "https://www.youtube.com/watch?v=16IX2XTkiGI&t=367s"
+    }
+  }
+}

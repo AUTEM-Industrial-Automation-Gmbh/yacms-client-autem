@@ -10,11 +10,13 @@
     "tags": [
       {
         "label": "Automation",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "bPsxxz"
       },
       {
         "label": "Electricité",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "LejxKt"
       }
     ],
     "articleMeta": {

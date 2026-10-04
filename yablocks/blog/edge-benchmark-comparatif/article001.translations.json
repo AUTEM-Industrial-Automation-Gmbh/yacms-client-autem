@@ -1,0 +1,107 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@eGnScY].heading": {
+      "source": "Intro et Présentation",
+      "de": "Einleitung und Vorstellung"
+    },
+    "data.sections[@lqgbvU].heading": {
+      "source": "Qu'est ce que le EDGE ?",
+      "de": "Was ist EDGE?"
+    },
+    "data.sections[@a7UMrZ].heading": {
+      "source": "Comparatif Hardware & OS",
+      "de": "Hardware- & OS-Vergleich"
+    },
+    "data.sections[@pcOgHY].heading": {
+      "source": "Comparatif Com. & DB",
+      "de": "Kommunikations- & DB-Vergleich"
+    },
+    "data.sections[@JYUy8H].heading": {
+      "source": "Comparatif Comparatif Applicatif",
+      "de": "Anwendungsübergreifender Vergleich"
+    },
+    "data.sections[@eGnScY].paragraphs[@5koMkf].text": {
+      "source": "Nouveau benchmark comparatif cette semaine sur le EDGE Computing dans le but de vous aider dans le choix d'une solution EDGE: TwinCAT/BSD , solution de Beckhoff , CtrlX , solution de Rexroth , Edge Controller , solution de Wago et Edge Controller , solution de Opto22 , solution de Wago . Un comparatif très intéressant, présenté par des experts et se basant sur quelques critères importants : Connectivité, Déploiement, Portabilité, Cloud, Modularité, BDD, Web, IDE dev, Support, Licensing, Coûts initiaux et récurrents, Maintenabilité, Stabilité, Sécurité . Pour recevoir ce benchmark contactez Marc Akoto",
+      "de": "Neues Benchmark für EDGE Computing diese Woche, um Ihnen bei der Auswahl einer EDGE-Lösung zu helfen: TwinCAT/BSD, Beckhoff-Lösung, CtrlX, Rexroth-Lösung, Edge Controller, Wago-Lösung und Edge Controller, Opto22-Lösung, Wago-Lösung. Ein sehr interessanter Vergleich, präsentiert von Experten und basierend auf einigen wichtigen Kriterien: Konnektivität, Bereitstellung, Portabilität, Cloud, Modularität, Datenbanken, Web, Entwicklungsumgebung, Support, Lizenzierung, Anfangs- und laufende Kosten, Wartbarkeit, Stabilität, Sicherheit. Um dieses Benchmark zu erhalten, kontaktieren Sie Marc Akoto."
+    },
+    "data.sections[@lqgbvU].paragraphs[@qC1g0j].text": {
+      "source": "Le Edge computing peut être défini comme un compromis entre le monde informatique et le monde industriel. Il s'agit d'une approche visant à gérer le temps réel de manière fiable dans un environnement industriel tout en exploitant la puissance et l'ouverture des applications et des services Web au plus près des machines. En d'autres termes, le Edge computing consiste à connecter les machines à des services Web et des serveurs tout en permettant le déploiement d'applications sur le terrain, avec un accent sur la compétence nécessaire pour mettre en œuvre cette technologie et sur la facilité d'interconnexion entre les systèmes informatiques et les systèmes d'automatisation.",
+      "de": "Edge Computing kann als Kompromiss zwischen der IT-Welt und der industriellen Welt definiert werden. Es ist ein Ansatz, der darauf abzielt, Echtzeit zuverlässig in einer industriellen Umgebung zu verwalten und gleichzeitig die Leistung und Offenheit von Webanwendungen und -diensten in unmittelbarer Nähe der Maschinen zu nutzen. Mit anderen Worten, Edge Computing besteht darin, Maschinen mit Webdiensten und Servern zu verbinden und gleichzeitig die Bereitstellung von Anwendungen vor Ort zu ermöglichen, wobei der Schwerpunkt auf den für die Implementierung dieser Technologie erforderlichen Fähigkeiten und der einfachen Vernetzung zwischen IT-Systemen und Automatisierungssystemen liegt."
+    },
+    "data.sections[@a7UMrZ].paragraphs[@lSPHey].text": {
+      "source": "Sur le critère \" Hardware & OS \", la solution CtrlX de Rexroth et TwinCAT/BSD de Beckhoff s'en sortent bien avec une note de 5 points . Wago et Opto22 s'en sortent avec un total de 4 points, note attribuée à cause de certaines remarques: manque de device all-in-one chez Wago et manque de Docker natif chez Opto22 .",
+      "de": "Beim Kriterium „Hardware & OS“ schneiden die Lösung CtrlX von Rexroth und TwinCAT/BSD von Beckhoff mit 5 Punkten gut ab. Wago und Opto22 erzielen insgesamt 4 Punkte, eine Bewertung, die aufgrund einiger Anmerkungen vergeben wurde: Fehlen eines All-in-One-Geräts bei Wago und Fehlen von nativem Docker bei Opto22."
+    },
+    "data.sections[@a7UMrZ].paragraphs[@QNZb9R].text": {
+      "source": "Sur le critère \" installation, Démarrage \", le point important va être la cible: est-ce que l'installation devra être effectuée par un automaticien ou par un informaticien ? Pour ce qui est de Wago, le Wago computer sera beaucoup plus dédié à un prfil informaticien tandis que les solutions CtrlX, TwinCAT/BSD et Groov Epic seront plus dédiées aux automaticiens .",
+      "de": "Beim Kriterium „Installation, Inbetriebnahme“ ist das wichtige Kriterium das Ziel: Soll die Installation von einem Automatisierungstechniker oder einem IT-Spezialisten durchgeführt werden? Bei Wago ist der Wago-Computer stärker auf ein IT-Profil ausgerichtet, während die Lösungen CtrlX, TwinCAT/BSD und Groov Epic eher für Automatisierungstechniker bestimmt sind."
+    },
+    "data.sections[@a7UMrZ].paragraphs[@3sjjIk].text": {
+      "source": "Sur le critère de \" l'interopérabilité \", chacune des solutions offre une portabilité avec Codesys . Opto22 ne propose pas de Docker pour faire tourner une application tierce et il faut également noté que les solution de Beckhoff et Opto22 ne se déploient que sur leur propre matériel .",
+      "de": "Beim Kriterium „Interoperabilität“ bietet jede Lösung Portabilität mit Codesys. Opto22 bietet kein Docker zum Ausführen von Drittanbieteranwendungen an, und es ist auch anzumerken, dass die Lösungen von Beckhoff und Opto22 nur auf ihrer eigenen Hardware bereitgestellt werden."
+    },
+    "data.sections[@a7UMrZ].paragraphs[@8ipDxB].text": {
+      "source": "Critère \" Modularité \", chaque solution propose une option pour un développement spécifique . Pas de Motion chez Opto22. Rexroth et Beckhoff se distinguent encore par une modularité plus étendue .",
+      "de": "Kriterium „Modularität“, jede Lösung bietet eine Option für spezifische Entwicklung. Kein Motion bei Opto22. Rexroth und Beckhoff zeichnen sich weiterhin durch eine erweiterte Modularität aus."
+    },
+    "data.sections[@pcOgHY].paragraphs[@aCDMKX].text": {
+      "source": "En ce qui concerne la Connectivité , dans une perspective EDGE/M2M , chaque solution propose une gamme variée de protocoles. Cependant, le choix des protocoles peut dépendre des cas d'utilisation ou des préférences en fonction du marché cible (bâtiment, eau, industrie lourde, machines spécialisées, etc.) .",
+      "de": "In Bezug auf die Konnektivität bietet jede Lösung im EDGE/M2M-Kontext eine breite Palette von Protokollen. Die Wahl der Protokolle kann jedoch je nach Anwendungsfall oder Präferenzen je nach Zielmarkt (Gebäude, Wasser, Schwerindustrie, Spezialmaschinen usw.) variieren."
+    },
+    "data.sections[@pcOgHY].paragraphs[@ypJkxZ].text": {
+      "source": "Pour ce qui est de la Gestion des Bases de Données , le timeseries DB n'est pas natif chez Wago et Opto22.",
+      "de": "Was die Verwaltung von Datenbanken betrifft, so ist die Timeseries-DB bei Wago und Opto22 nicht nativ."
+    },
+    "data.sections[@JYUy8H].paragraphs[@A5PAbj].text": {
+      "source": "Pour le Web , toutes les solutions proposent du HTML5. Opto22, cependant, se démarque avec un webvisu standard particulièrement riche, inspiré du monde SCADA (Ignition) .",
+      "de": "Für das Web bieten alle Lösungen HTML5. Opto22 sticht jedoch mit einer besonders reichhaltigen Standard-Webvisualisierung hervor, die von der SCADA-Welt (Ignition) inspiriert ist."
+    },
+    "data.sections[@JYUy8H].paragraphs[@WYAdqf].text": {
+      "source": "En ce qui concerne la Mobilité , toutes les solutions offrent une accessibilité via le Web et un client VPN . Rexroth offre un avantage supplémentaire en permettant de monitorer une flotte de dispositifs .",
+      "de": "In Bezug auf die Mobilität bieten alle Lösungen Zugriff über das Web und einen VPN-Client. Rexroth bietet einen zusätzlichen Vorteil, indem es die Überwachung einer Geräteflotte ermöglicht."
+    },
+    "data.sections[@JYUy8H].paragraphs[@L2MTXh].text": {
+      "source": "Pour le critère Support + Formation , toutes les solutions offrent un support, une base de connaissances et des options de formation . Les solutions de Beckhoff et de Rexroth permettent même une simulation complète grâce à l' accès au SDK .",
+      "de": "Beim Kriterium Support + Schulung bieten alle Lösungen Support, eine Wissensdatenbank und Schulungsoptionen. Die Lösungen von Beckhoff und Rexroth ermöglichen sogar eine vollständige Simulation durch Zugriff auf das SDK."
+    },
+    "data.sections[@JYUy8H].paragraphs[@rZfeVH].text": {
+      "source": "En ce qui concerne les coûts matériels et les licences, le prix public est équivalent pour toutes les solutions. Wago se distingue par une licence gratuite . Du côté du matériel Opto22, le coût pourrait être plus avantageux s'il était amorti par une utilisation hybride entre PLC et SCADA .",
+      "de": "Was die Hardwarekosten und Lizenzen betrifft, so sind die Listenpreise für alle Lösungen gleich. Wago zeichnet sich durch eine kostenlose Lizenz aus. Auf der Seite der Opto22-Hardware könnten die Kosten vorteilhafter sein, wenn sie durch eine hybride Nutzung zwischen SPS und SCADA amortisiert würden."
+    },
+    "data.sections[@JYUy8H].paragraphs[@uyLEVR].text": {
+      "source": "En ce qui concerne la Référence et l'ancienneté , Beckhoff se classe en première position avec la solution EDGE TwinCAT, qui existe depuis 1996.",
+      "de": "In Bezug auf Referenz und Alter steht Beckhoff mit der EDGE TwinCAT-Lösung, die seit 1996 existiert, an erster Stelle."
+    },
+    "data.sections[@JYUy8H].paragraphs[@jXLLuI].text": {
+      "source": "En ce qui concerne la Sécurité + Stabilité , toutes les solutions proposent des fonctionnalités réseau natives et un matériel industriel robuste.",
+      "de": "In Bezug auf Sicherheit + Stabilität bieten alle Lösungen native Netzwerkfunktionen und robuste Industriehardware."
+    },
+    "data.sections[@JYUy8H].paragraphs[@MQ7udd].text": {
+      "source": "Liens utiles",
+      "de": "Nützliche Links"
+    },
+    "data.sections[@JYUy8H].list.items[@K03Eg9].text": {
+      "source": "Pour obtenir ce Benchmark contact 👉 Marc Akoto | ✉️ Mail",
+      "de": "Um dieses Benchmark zu erhalten, kontaktieren Sie 👉 Marc Akoto | ✉️ Mail"
+    },
+    "data.sections[@JYUy8H].list.items[@5CYgTj].text": {
+      "source": "Benchmark Comparatif SCADA | 📽️ Vidéo",
+      "de": "Vergleichs-Benchmark SCADA | 📽️ Video"
+    },
+    "data.sections[@JYUy8H].links[@7BUtNP].text": {
+      "source": "Benchmark Comparatif SCADA | Vidéo",
+      "de": "Vergleichs-Benchmark SCADA | Video"
+    },
+    "data.sections[@JYUy8H].links[@7BUtNP].href": {
+      "source": "https://youtube.com/live/Q1jPnK36NQo",
+      "de": [
+        "https://youtube.com/live/Q1jPnK36NQo"
+      ]
+    }
+  }
+}

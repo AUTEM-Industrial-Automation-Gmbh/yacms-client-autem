@@ -10,59 +10,71 @@
         "heading": "Introduction",
         "paragraphs": [
           {
-            "text": "Récemment, j'ai eu une question d'un responsable process concernant sa production. Cette question concernait tout ce qui a un lien avec la fiabilité et la maintenance préventive . La question est la suivante : Comment faire pour obtenir des données fiables pour modéliser le cycle de vie de sa production ? On peut se poser cette question soit pour répondre à des questions d'investissement ou soit pour prioriser les actions. Et donc, pour modéliser le cycle de vie de sa production, savoir prendre des décisions objectives et prioriser des actions, on se basera sur 3 paramètres : Les temps d'arrêt ou Downtime Les investissements Les dépendances entre machines On ajoutera à ces 3 paramètres un modèle : dans notre cas, ce sera deux machines A et B qui permettront d'obtenir un produit unique. Liens utiles pour cette actualité : Simulation / scenarios solver"
+            "text": "Récemment, j'ai eu une question d'un responsable process concernant sa production. Cette question concernait tout ce qui a un lien avec la fiabilité et la maintenance préventive . La question est la suivante : Comment faire pour obtenir des données fiables pour modéliser le cycle de vie de sa production ? On peut se poser cette question soit pour répondre à des questions d'investissement ou soit pour prioriser les actions. Et donc, pour modéliser le cycle de vie de sa production, savoir prendre des décisions objectives et prioriser des actions, on se basera sur 3 paramètres : Les temps d'arrêt ou Downtime Les investissements Les dépendances entre machines On ajoutera à ces 3 paramètres un modèle : dans notre cas, ce sera deux machines A et B qui permettront d'obtenir un produit unique. Liens utiles pour cette actualité : Simulation / scenarios solver",
+            "_tid": "rnA2Kb"
           }
         ],
         "subsections": [],
         "links": [
           {
             "text": "Simulation / scenarios solver",
-            "href": "https://demo.autem-services.fr/data/perspective/client/lifecycle"
+            "href": "https://demo.autem-services.fr/data/perspective/client/lifecycle",
+            "_tid": "oU6EaP"
           }
         ],
-        "videoUrl": "https://www.youtube.com/embed/16IX2XTkiGI?si=qhlCAuCL0olh1evb"
+        "videoUrl": "https://www.youtube.com/embed/16IX2XTkiGI?si=qhlCAuCL0olh1evb",
+        "_tid": "1spYZP"
       },
       {
         "heading": "Les temps d'arrêt ou Downtime",
         "paragraphs": [
           {
-            "text": "Les Downtime correspondent à tout ce qui concerne l'occurrence et la criticité des défauts. On parlera de MTBF, MTTR et également de la courbe de vieillissement de la machine ."
+            "text": "Les Downtime correspondent à tout ce qui concerne l'occurrence et la criticité des défauts. On parlera de MTBF, MTTR et également de la courbe de vieillissement de la machine .",
+            "_tid": "VtlNwk"
           }
         ],
-        "subsections": []
+        "subsections": [],
+        "_tid": "AxSX3P"
       },
       {
         "heading": "Les investissements",
         "paragraphs": [
           {
-            "text": "Les investissements n'incluent pas uniquement le budget (CAPEX) . Ils incluent également les recrutements , car on investit aussi dans les personnes, ce qui permet d'intégrer tous les aspects liés aux investissements."
+            "text": "Les investissements n'incluent pas uniquement le budget (CAPEX) . Ils incluent également les recrutements , car on investit aussi dans les personnes, ce qui permet d'intégrer tous les aspects liés aux investissements.",
+            "_tid": "VqF19w"
           }
         ],
-        "subsections": []
+        "subsections": [],
+        "_tid": "X8rmFY"
       },
       {
         "heading": "Les dépendances",
         "paragraphs": [
           {
-            "text": "Au niveau des dépendances, il arrive parfois que des couplages se forment en amont ou en aval entre les machines. On peut alors simuler son processus de production en testant le résultat obtenu selon la présence ou l'absence de ces dépendances."
+            "text": "Au niveau des dépendances, il arrive parfois que des couplages se forment en amont ou en aval entre les machines. On peut alors simuler son processus de production en testant le résultat obtenu selon la présence ou l'absence de ces dépendances.",
+            "_tid": "oznVku"
           }
         ],
-        "subsections": []
+        "subsections": [],
+        "_tid": "Tvt8EK"
       },
       {
         "heading": "Simulation des 3 paramètres",
         "paragraphs": [
           {
-            "text": "Découvrez l'intégralité de cette simulation ici :"
+            "text": "Découvrez l'intégralité de cette simulation ici :",
+            "_tid": "46oKQC"
           }
         ],
         "subsections": [],
         "links": [
           {
             "text": "Consulter | Vidéo (5 min 36 s)",
-            "href": "https://www.youtube.com/watch?v=16IX2XTkiGI&t=367s"
+            "href": "https://www.youtube.com/watch?v=16IX2XTkiGI&t=367s",
+            "_tid": "eSG693"
           }
-        ]
+        ],
+        "_tid": "khfLmm"
       }
     ]
   }
