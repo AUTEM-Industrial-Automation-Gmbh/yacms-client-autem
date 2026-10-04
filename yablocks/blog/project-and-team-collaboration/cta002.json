@@ -8,15 +8,18 @@
     "benefits": [
       {
         "icon": "book-open",
-        "text": "Formations automatisme & supervision adaptées"
+        "text": "Formations automatisme & supervision adaptées",
+        "_tid": "dy9zif"
       },
       {
         "icon": "users",
-        "text": "Coaching et accompagnement de techniciens"
+        "text": "Coaching et accompagnement de techniciens",
+        "_tid": "1Hmamx"
       },
       {
         "icon": "award",
-        "text": "Préparation aux certifications industrielles"
+        "text": "Préparation aux certifications industrielles",
+        "_tid": "e1CYci"
       }
     ],
     "cta": {
