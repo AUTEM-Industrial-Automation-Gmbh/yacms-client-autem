@@ -8,15 +8,18 @@
     "benefits": [
       {
         "icon": "layers",
-        "text": "Conception d'architectures IT/OT convergentes"
+        "text": "Conception d'architectures IT/OT convergentes",
+        "_tid": "QCFAVJ"
       },
       {
         "icon": "server",
-        "text": "Intégration Edge, Cloud & systèmes embarqués"
+        "text": "Intégration Edge, Cloud & systèmes embarqués",
+        "_tid": "r4BW9T"
       },
       {
         "icon": "shield",
-        "text": "Sécurisation et segmentation des réseaux"
+        "text": "Sécurisation et segmentation des réseaux",
+        "_tid": "ve8ufn"
       }
     ],
     "cta": {

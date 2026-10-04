@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "EDGE Benchmark Comparatif | Blog AUTEM",
+      "de": "EDGE Benchmark Vergleich | AUTEM Blog",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Comparaison de 4 solutions EDGE : CtrlX by Rexroth, TwinCAT/BSD by Beckhoff, Edge Controller by Wago, Groov Epic by Opto22",
+      "de": "Vergleich von 4 EDGE-Lösungen: CtrlX von Rexroth, TwinCAT/BSD von Beckhoff, Edge Controller von Wago, Groov Epic von Opto22",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "Architecture Systèmes",
+        "AUTEM",
+        "automatisme industriel"
+      ],
+      "de": [
+        "Systemarchitektur",
+        "AUTEM",
+        "Industrielle Automatisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Blog technique automatisme et SCADA industriel",
+      "de": "AUTEM – Technischer Blog für industrielle Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}
