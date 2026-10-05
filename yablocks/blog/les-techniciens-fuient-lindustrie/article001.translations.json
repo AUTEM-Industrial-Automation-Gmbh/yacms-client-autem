@@ -1,0 +1,144 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@bQighl].heading": {
+      "source": "Introduction",
+      "de": "Einleitung"
+    },
+    "data.sections[@vN19bu].heading": {
+      "source": "Fiches de poste rigides",
+      "de": "Starre Stellenbeschreibungen"
+    },
+    "data.sections[@oBnPld].heading": {
+      "source": "Aucune vision proactive",
+      "de": "Keine proaktive Vision"
+    },
+    "data.sections[@QZkcoZ].heading": {
+      "source": "Négligence du concret",
+      "de": "Vernachlässigung des Konkreten"
+    },
+    "data.sections[@lqixoG].heading": {
+      "source": "Valorisation des techniciens",
+      "de": "Aufwertung von Technikern"
+    },
+    "data.sections[@bQighl].paragraphs[@barJA6].text": {
+      "source": "Nous allons regarder aujourd'hui pourquoi les meilleurs techniciens, les meilleurs ingénieurs quittent l'industrie en ce moment. L'un des premiers constat que j'ai fait est qu'on remarque que la majeure partie des techniciens abandonnent le métier industriel dans les cinq ans après l'école. Un autre constat: le fameux 30, 40, 20, c'est-à-dire le top 30% des techniciens qui démissionnent , Les 20% des techniciens moins bons qui sont licenciés et seulement 40% des techniciens restent pour faire carrière dans l'industrie . Un troisième constat, c'est la grande démission après la période du COVID. Du coup, c'est parti !",
+      "de": [
+        "Wir werden uns heute ansehen, warum die besten Techniker und Ingenieure derzeit die Industrie verlassen.",
+        "Eine der ersten Beobachtungen, die ich gemacht habe, ist, dass die Mehrheit der Techniker den industriellen Beruf innerhalb von fünf Jahren nach der Ausbildung aufgibt.",
+        "Eine weitere Beobachtung: das berühmte 30, 40, 20, d.h. die Top 30 % der Techniker, die kündigen, die 20 % der schlechteren Techniker, die entlassen werden, und nur 40 % der Techniker bleiben für eine Karriere in der Industrie.",
+        "Eine dritte Beobachtung ist die große Kündigungswelle nach der COVID-Zeit.",
+        "Los geht's!"
+      ]
+    },
+    "data.sections[@vN19bu].paragraphs[@0uSqhC].text": {
+      "source": "Première analyse, c'est concernant les fiches de poste. On a une forme de rigidité sur la définition des fiches de postes, qui est contrastée avec l'époque actuelle où on est vraiment sur du multitâche. Un exemple, vous prenez votre téléphone et en fonction de votre âge vous allez remarquer que les plus de 30 ans vont se rendre compte qu'il y a vraiment un cadre défini autour du portable, alors que l'autre génération, ils ne voient pas ces bordures-là. Ils pensent beaucoup plus le monde en 3D . Leur perception du monde est beaucoup plus enrichie et du coup il y a un potentiel à exploiter.",
+      "de": [
+        "Erste Analyse: Es geht um die Stellenbeschreibungen.",
+        "Wir haben eine gewisse Starrheit bei der Definition der Stellenbeschreibungen, die im Gegensatz zur heutigen Zeit steht, in der es wirklich um Multitasking geht.",
+        "Ein Beispiel: Sie nehmen Ihr Telefon und je nach Alter werden Sie feststellen, dass Personen über 30 Jahren feststellen, dass es einen definierten Rahmen um das Mobiltelefon gibt, während die andere Generation diese Ränder nicht sieht.",
+        "Sie denken viel mehr in 3D.",
+        "Ihre Wahrnehmung der Welt ist viel reicher und daher gibt es ein Potenzial zu nutzen."
+      ]
+    },
+    "data.sections[@vN19bu].paragraphs[@yax8Sl].text": {
+      "source": "Donc, sur la base de cela, si nous définissons les fiches de postes qui sont déjà au départ un peu cloisonnées, on ne pourra pas exploiter tout ce potentiel là chez les jeunes qui sont capables de s'adapter, de gérer du multitâche, de gérer de la collaboration avec beaucoup d'autonomie.",
+      "de": [
+        "Wenn wir also auf dieser Grundlage Stellenbeschreibungen definieren, die von vornherein etwas eingeschränkt sind, können wir dieses Potenzial bei jungen Menschen, die anpassungsfähig sind, Multitasking beherrschen und mit viel Autonomie zusammenarbeiten können, nicht voll ausschöpfen."
+      ]
+    },
+    "data.sections[@vN19bu].paragraphs[@ZECk49].text": {
+      "source": "Donc en terme de fiches de postes, il faut apprendre à désapprendre tout ce qu'on a appelé la division du travail , c'est-à-dire, comment on organise l'efficience des personnes parce qu'on les voit comme des ressources et non pas comme des personnes qui contribuent à un écosystème. C'est important d'avoir aujourd'hui des fiches de postes qui ont un domaine fonctionnel mais où le contenu va être personnalisé en fonction du potentiel de chacun .",
+      "de": [
+        "Daher müssen wir in Bezug auf Stellenbeschreibungen lernen, alles zu verlernen, was wir als Arbeitsteilung bezeichnet haben, d.h. wie wir die Effizienz von Personen organisieren, weil wir sie als Ressourcen und nicht als Personen betrachten, die zu einem Ökosystem beitragen.",
+        "Es ist wichtig, heute Stellenbeschreibungen zu haben, die einen Funktionsbereich haben, aber deren Inhalt je nach Potenzial jedes Einzelnen personalisiert wird."
+      ]
+    },
+    "data.sections[@vN19bu].paragraphs[@RIqc0U].text": {
+      "source": "Découvrez l'intégralité de cette analyse ici:",
+      "de": "Lesen Sie die vollständige Analyse hier:"
+    },
+    "data.sections[@oBnPld].paragraphs[@1XP0XJ].text": {
+      "source": "Deuxième analyse, on remarque que les techniciens n'ont pas de vision en face d'eux . Les décideurs ne proposent pas de vision proactive; ils sont plus dans une tendance à réagir soit aux tendances ou soit à des notions décidées sur la base de l'argent tout simplement. Ils ne pensent que finance mais sans aucune vision à proposer aux jeunes qui arrivent et donc, ces derniers iront voir d'autres personnes qui leurs proposent une vision. C'est un peu comme si vous avez un comptable que vous mettez à la tête d'un pays et vous espérez qu'il prenne ses décisions autrement que sur la base des finances publiques; ce qui sera carrément impossible vu qu'il est comptable de base.",
+      "de": [
+        "Zweite Analyse: Wir stellen fest, dass die Techniker keine Perspektive vor sich haben.",
+        "Die Entscheidungsträger bieten keine proaktive Vision; sie reagieren eher auf Trends oder auf rein finanzielle Entscheidungen.",
+        "Sie denken nur an Finanzen, aber ohne jegliche Vision für die ankommenden jungen Leute, und daher werden diese zu anderen Personen gehen, die ihnen eine Vision bieten.",
+        "Es ist ein bisschen so, als würde man einen Buchhalter an die Spitze eines Landes stellen und erwarten, dass er andere Entscheidungen trifft als auf der Grundlage öffentlicher Finanzen; was praktisch unmöglich wäre, da er von Grund auf Buchhalter ist."
+      ]
+    },
+    "data.sections[@oBnPld].paragraphs[@VNVvBN].text": {
+      "source": "Découvrez l'intégralité de cette analyse ici:",
+      "de": "Lesen Sie die vollständige Analyse hier:"
+    },
+    "data.sections[@QZkcoZ].paragraphs[@k17dGG].text": {
+      "source": "Troisième analyse, on tente de négliger un peu le côté concret et c'est un peu comme si des gens très abstraits essaient de diriger un écosystème très concret. Aujourd'hui, on a perdu un peu le sens du concret, le sens du matériel; pas seulement en entreprise. Si vous essayez de vous rappeler la dernière fois que vous avez touché de vos mains un tronc d'arbre ou de l'herbe mouillée dans une forêt, vous allez remarquer que cela remonte à longtemps à part ceux qui ont la chance de vivre dans des régions où ils sont à côté de la nature.",
+      "de": [
+        "Dritte Analyse: Wir versuchen, die konkrete Seite ein wenig zu vernachlässigen, und es ist ein bisschen so, als würden sehr abstrakte Menschen versuchen, ein sehr konkretes Ökosystem zu leiten.",
+        "Heute haben wir ein wenig den Sinn für das Konkrete, den Sinn für das Materielle verloren; nicht nur im Unternehmen.",
+        "Wenn Sie versuchen, sich daran zu erinnern, wann Sie das letzte Mal einen Baumstamm oder nasses Gras im Wald mit Ihren eigenen Händen berührt haben, werden Sie feststellen, dass das lange her ist, außer für diejenigen, die das Glück haben, in Regionen zu leben, in denen sie in der Nähe der Natur sind."
+      ]
+    },
+    "data.sections[@QZkcoZ].paragraphs[@6mY90b].text": {
+      "source": "On est vraiment très déconnecté de la réalité. Et du coup, les managers aussi le sont. Cela veut dire que par rapport aux compétences, aux meilleurs techniciens qui eux pour le coup sont très encré dans le concret, dans le métier, soit très manuel ou en tout cas très technique , ces derniers vont être dirigés par des managers qui sont sur de l'abstraction, qui sont sur de la finance, alors que l'activité industriel est vraiment basée sur des produits concrts.",
+      "de": [
+        "Wir sind wirklich sehr von der Realität abgekoppelt.",
+        "Und damit auch die Manager.",
+        "Das bedeutet, dass in Bezug auf die Fähigkeiten, die besten Techniker, die im Übrigen sehr stark im Konkreten, im Handwerk, entweder sehr manuell oder zumindest sehr technisch verankert sind, von Managern geleitet werden, die sich mit Abstraktion, mit Finanzen beschäftigen, während die industrielle Tätigkeit wirklich auf konkreten Produkten basiert."
+      ]
+    },
+    "data.sections[@QZkcoZ].paragraphs[@XWWnZr].text": {
+      "source": "Je pense qu'il faut une vision qui est plus ancrée dans la réalité arretée avec une abstraction excessive: On peut abstrait certaines choses, mais il y a des choses pour lesquelles il faut savoir donner de la valeur au concret .",
+      "de": [
+        "Ich denke, wir brauchen eine Vision, die stärker in der Realität verankert ist und mit übermäßiger Abstraktion aufhört:",
+        "Wir können bestimmte Dinge abstrahieren, aber es gibt Dinge, bei denen wir wissen müssen, wie man dem Konkreten Wert beimisst."
+      ]
+    },
+    "data.sections[@QZkcoZ].paragraphs[@RCCcJk].text": {
+      "source": "Découvrez l'intégralité de cette analyse ici:",
+      "de": "Lesen Sie die vollständige Analyse hier:"
+    },
+    "data.sections[@lqixoG].paragraphs[@3IJBUX].text": {
+      "source": "Ma dernière analyse est un peu liée à la précédente: Quelle est la valeur, le respect qu'on donne à ces métiers concrets, à ces techniciens, à ces ingénieurs. Et donc, cette quatrième raison pour lesquelles les meilleurs techniciens partent de l'industrie, c'est parce qu'on ne les respectent pas .",
+      "de": [
+        "Meine letzte Analyse hängt ein wenig mit der vorherigen zusammen: Welchen Wert, welchen Respekt geben wir diesen konkreten Berufen, diesen Technikern, diesen Ingenieuren?",
+        "Und das ist der vierte Grund, warum die besten Techniker die Industrie verlassen: weil wir sie nicht respektieren."
+      ]
+    },
+    "data.sections[@lqixoG].paragraphs[@OwdPok].text": {
+      "source": "Si vous voulez trouver la personne qui maîtrise le mieux une usine, demandez à parler avec le ou les automaticiens de l'usine. Ce sont eux qui connaissent le mieux le fonctionnement de l'usine. Quand on parle de respect , on ne parle pas que de rémunération mais vraiment d'impact . Un exemple, vous allez avoir des managers, peut-être par orgueil qui ne vont pas admettre de dire en réunion que l'impact a été plus important par l'action de l'automaticien plutôt que par leur propre gestion managériale. On va avoir des actions qui ont un impact énorme et par contre les actions qui seront mise en valeur seront d'autres actions qui sont liées à soit de la hiérarchie, soit de la politque interne, mais surtout pas l'impact réel en fait qi a été apporté sur le terrain. C'est vrai aussi bien que pour les automaticiens sur site que pour les intégrateurs.",
+      "de": [
+        "Wenn Sie die Person finden wollen, die ein Werk am besten beherrscht, bitten Sie darum, mit dem oder den Automatisierungstechnikern des Werks zu sprechen.",
+        "Sie kennen die Funktionsweise des Werks am besten.",
+        "Wenn wir von Respekt sprechen, sprechen wir nicht nur von Vergütung, sondern wirklich von Wirkung.",
+        "Ein Beispiel: Sie haben Manager, die vielleicht aus Stolz nicht zugeben wollen, dass in einer Besprechung die Wirkung durch die Aktion des Automatisierungstechnikers wichtiger war als durch ihr eigenes Management.",
+        "Es wird Aktionen geben, die eine enorme Wirkung haben, und andererseits werden die Aktionen, die hervorgehoben werden, andere Aktionen sein, die mit der Hierarchie oder der internen Politik zusammenhängen, aber vor allem nicht mit der tatsächlichen Wirkung, die vor Ort erzielt wurde.",
+        "Dies gilt sowohl für die Automatisierungstechniker vor Ort als auch für die Integratoren."
+      ]
+    },
+    "data.sections[@lqixoG].paragraphs[@lZdN2T].text": {
+      "source": "Découvrez l'intégralité de cette analyse ici:",
+      "de": "Lesen Sie die vollständige Analyse hier:"
+    },
+    "data.sections[@vN19bu].links[@lLYZWd].text": {
+      "source": "Consulter | Video (01min:48s)",
+      "de": "Ansehen | Video (01min:48s)"
+    },
+    "data.sections[@oBnPld].links[@7zIeXT].text": {
+      "source": "Consulter | Vidéo (02min:23s)",
+      "de": "Ansehen | Video (02min:23s)"
+    },
+    "data.sections[@QZkcoZ].links[@Z9Pr3b].text": {
+      "source": "Consulter | Vidéo (01min:42s)",
+      "de": "Ansehen | Video (01min:42s)"
+    },
+    "data.sections[@lqixoG].links[@YdZr7I].text": {
+      "source": "Consulter | Vidéo (03min:51s)",
+      "de": "Ansehen | Video (03min:51s)"
+    }
+  }
+}
