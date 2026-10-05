@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "WorldSkills: challenge Industrie 4.0 | Blog AUTEM",
+      "de": "WorldSkills: Industrie 4.0 Challenge | AUTEM Blog",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Incarnation de l'excellence industrielle avec Lazhar Benchelloug et Hugo Marquez.",
+      "de": "Verkörperung industrieller Exzellenz mit Lazhar Benchelloug und Hugo Marquez.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "Evenèments",
+        "AUTEM",
+        "automatisme industriel"
+      ],
+      "de": [
+        "Veranstaltungen",
+        "AUTEM",
+        "industrielle Automatisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Blog technique automatisme et SCADA industriel",
+      "de": "AUTEM – Technischer Blog für industrielle Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}
