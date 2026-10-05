@@ -10,20 +10,24 @@
         "heading": "Introduction",
         "paragraphs": [
           {
-            "text": "Dans cet article, nous verrons quatre (4) raisons d'utiliser des containers plutôt que des machines virtuelles dans vos environnements industriels. Plusieurs raisons existent pour l'utilisation de la containerisation mais nous allons uniquement nous baser sur quatre qui s'appliquent notamment aux usines."
+            "text": "Dans cet article, nous verrons quatre (4) raisons d'utiliser des containers plutôt que des machines virtuelles dans vos environnements industriels. Plusieurs raisons existent pour l'utilisation de la containerisation mais nous allons uniquement nous baser sur quatre qui s'appliquent notamment aux usines.",
+            "_tid": "T9t9VH"
           }
         ],
         "subsections": [],
-        "videoUrl": "https://www.youtube.com/embed/mOL6fIDCpKI?si=Bd0lK-nLD9d3fzJR"
+        "videoUrl": "https://www.youtube.com/embed/mOL6fIDCpKI?si=Bd0lK-nLD9d3fzJR",
+        "_tid": "blfDD5"
       },
       {
         "heading": "La frugalité",
         "paragraphs": [
           {
-            "text": "En industrie, on aime bien économiser les sous. Et les sous se traduisent aussi en termes de machines qui vont faire des actions physiques mais aussi qui vont supporter des logiciels. Et la première chose que vous remarquez (sur l'image précédente) entre une VM et un Container, est que l'environnement tournant sur le container économise une couche : l'hyperviseur . On va pouvoir attaquer directement le Container Engine (le moteur qui permet de faire tourner les applications containerisées) , et ça en installant un OS et le Container Engine et on peut déployer des applications. Ce qu'on y gagne est énorme : On gagne de la mémoire et de la puissance de calcul (CPU)"
+            "text": "En industrie, on aime bien économiser les sous. Et les sous se traduisent aussi en termes de machines qui vont faire des actions physiques mais aussi qui vont supporter des logiciels. Et la première chose que vous remarquez (sur l'image précédente) entre une VM et un Container, est que l'environnement tournant sur le container économise une couche : l'hyperviseur . On va pouvoir attaquer directement le Container Engine (le moteur qui permet de faire tourner les applications containerisées) , et ça en installant un OS et le Container Engine et on peut déployer des applications. Ce qu'on y gagne est énorme : On gagne de la mémoire et de la puissance de calcul (CPU)",
+            "_tid": "71OJ9t"
           },
           {
-            "text": "Découvrez l'intégralité de cette section à travers cet extrait :"
+            "text": "Découvrez l'intégralité de cette section à travers cet extrait :",
+            "_tid": "pQ8MH6"
           }
         ],
         "subsections": [],
@@ -34,18 +38,22 @@
         "links": [
           {
             "text": "Consulter | Vidéo (01min:11s)",
-            "href": "https://www.youtube.com/watch?v=mOL6fIDCpKI&t=84s"
+            "href": "https://www.youtube.com/watch?v=mOL6fIDCpKI&t=84s",
+            "_tid": "xMdPv3"
           }
-        ]
+        ],
+        "_tid": "Q39hOO"
       },
       {
         "heading": "La rapidité",
         "paragraphs": [
           {
-            "text": "Deuxième avantage que je vois, principalement dans mon quotidien, c'est la rapidité . Comme vous le voyez sur la figure ci-dessus, avec Docker, on peut déployer très rapidement sur tout type d'équipement. L'environnement industriel demande de la réactivité et on a besoin de déployer très rapidement des services sans créer trop d'arrêts de production et donc les minutes de production valent très cher. Moins on peut arrêter le système, mieux c'est ."
+            "text": "Deuxième avantage que je vois, principalement dans mon quotidien, c'est la rapidité . Comme vous le voyez sur la figure ci-dessus, avec Docker, on peut déployer très rapidement sur tout type d'équipement. L'environnement industriel demande de la réactivité et on a besoin de déployer très rapidement des services sans créer trop d'arrêts de production et donc les minutes de production valent très cher. Moins on peut arrêter le système, mieux c'est .",
+            "_tid": "jA25ka"
           },
           {
-            "text": "Découvrez l'intégralité de cette section à travers cet extrait :"
+            "text": "Découvrez l'intégralité de cette section à travers cet extrait :",
+            "_tid": "ptR7TJ"
           }
         ],
         "subsections": [],
@@ -56,18 +64,22 @@
         "links": [
           {
             "text": "Consulter | Vidéo (00min:55s)",
-            "href": "https://www.youtube.com/watch?v=mOL6fIDCpKI&t=155s"
+            "href": "https://www.youtube.com/watch?v=mOL6fIDCpKI&t=155s",
+            "_tid": "VrtKQv"
           }
-        ]
+        ],
+        "_tid": "He60xC"
       },
       {
         "heading": "La portabilité",
         "paragraphs": [
           {
-            "text": "Troisième avantage, c'est la portabilité. En industrie, nous avons beaucoup de systèmes qui tournent sur Windows, d'autres qui tournent sur Linux. Avec Docker, on va pouvoir éviter les dépendances qui ont rapport avec les systèmes d'exploitation : on va pouvoir créer de l'isolation par rapport à l'environnement qui fait tourner l'application et on évite du coup beaucoup de problèmes de compatibilité ."
+            "text": "Troisième avantage, c'est la portabilité. En industrie, nous avons beaucoup de systèmes qui tournent sur Windows, d'autres qui tournent sur Linux. Avec Docker, on va pouvoir éviter les dépendances qui ont rapport avec les systèmes d'exploitation : on va pouvoir créer de l'isolation par rapport à l'environnement qui fait tourner l'application et on évite du coup beaucoup de problèmes de compatibilité .",
+            "_tid": "mXgzaz"
           },
           {
-            "text": "Découvrez l'intégralité de cette section à travers cet extrait :"
+            "text": "Découvrez l'intégralité de cette section à travers cet extrait :",
+            "_tid": "Cc6Wi4"
           }
         ],
         "subsections": [],
@@ -78,18 +90,22 @@
         "links": [
           {
             "text": "Consulter | Vidéo (01min:10s)",
-            "href": "https://www.youtube.com/watch?v=mOL6fIDCpKI&t=210s"
+            "href": "https://www.youtube.com/watch?v=mOL6fIDCpKI&t=210s",
+            "_tid": "lTrOVq"
           }
-        ]
+        ],
+        "_tid": "G8Q3Fs"
       },
       {
         "heading": "La maintenabilité",
         "paragraphs": [
           {
-            "text": "Quatrième avantage, c'est la maintenabilité . On est en industrie, et en industrie, les systèmes évoluent et du coup, il faut les maintenir. Et l'avantage de passer toutes ces applications en conteneur est qu'on va pouvoir simplifier la maintenance juste avec un petit fichier YAML. En gros, en un seul fichier, vous avez la possibilité de résumer toute votre infrastructure, toutes vos applications à déployer et en un clic, vous allez pouvoir soit mettre à jour, soit déployer de nouvelles évolutions ; un peu comme ce que l'on appelle Infrastructure As A Code (IAAC) ."
+            "text": "Quatrième avantage, c'est la maintenabilité . On est en industrie, et en industrie, les systèmes évoluent et du coup, il faut les maintenir. Et l'avantage de passer toutes ces applications en conteneur est qu'on va pouvoir simplifier la maintenance juste avec un petit fichier YAML. En gros, en un seul fichier, vous avez la possibilité de résumer toute votre infrastructure, toutes vos applications à déployer et en un clic, vous allez pouvoir soit mettre à jour, soit déployer de nouvelles évolutions ; un peu comme ce que l'on appelle Infrastructure As A Code (IAAC) .",
+            "_tid": "hYpPvZ"
           },
           {
-            "text": "Découvrez l'intégralité de cette section à travers cet extrait :"
+            "text": "Découvrez l'intégralité de cette section à travers cet extrait :",
+            "_tid": "gL79ix"
           }
         ],
         "subsections": [],
@@ -100,9 +116,11 @@
         "links": [
           {
             "text": "Consulter | Vidéo (02min:54s)",
-            "href": "https://www.youtube.com/watch?v=mOL6fIDCpKI&t=280s"
+            "href": "https://www.youtube.com/watch?v=mOL6fIDCpKI&t=280s",
+            "_tid": "EQf1yx"
           }
-        ]
+        ],
+        "_tid": "T0viC4"
       }
     ]
   }

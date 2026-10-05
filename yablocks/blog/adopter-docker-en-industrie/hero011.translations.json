@@ -1,0 +1,29 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backLinkLabel": {
+      "source": "Retour au blog",
+      "de": "Zurück zum Blog"
+    },
+    "data.title": {
+      "source": "4 raisons d'adopter DOCKER en Industrie",
+      "de": "4 Gründe, DOCKER in der Industrie einzuführen"
+    },
+    "data.tags[@gseQdJ].label": {
+      "source": "Architecture Systèmes",
+      "de": "Systemarchitektur"
+    },
+    "data.articleMeta.readTime": {
+      "source": "2 min lecture",
+      "de": "2 Min Lesezeit"
+    },
+    "data.articleMeta.publishDate": {
+      "source": "21/10/24",
+      "de": "21.10.24"
+    },
+    "data.articleMeta.updatedDate": {
+      "source": "17/03/26",
+      "de": "26.03.17"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "4 raisons d'adopter DOCKER en Industrie | Blog AUTEM",
+      "de": "4 Gründe für DOCKER in der Industrie | AUTEM Blog",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "4 raisons d'adopter DOCKER en Industrie | Containerisation VS Virtualisation",
+      "de": "4 Gründe für DOCKER in der Industrie | Containerisierung vs. Virtualisierung",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "Architecture Systèmes",
+        "AUTEM",
+        "automatisme industriel"
+      ],
+      "de": [
+        "Systemarchitektur",
+        "AUTEM",
+        "industrielle Automatisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Blog technique automatisme et SCADA industriel",
+      "de": "AUTEM – Technischer Blog für industrielle Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}
