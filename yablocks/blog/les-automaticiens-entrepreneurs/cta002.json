@@ -8,15 +8,18 @@
     "benefits": [
       {
         "icon": "refresh-cw",
-        "text": "Diagnostic et audit machines vieillissantes"
+        "text": "Diagnostic et audit machines vieillissantes",
+        "_tid": "chkDzZ"
       },
       {
         "icon": "tool",
-        "text": "Remplacement d'automates obsolètes"
+        "text": "Remplacement d'automates obsolètes",
+        "_tid": "TnUWUr"
       },
       {
         "icon": "shield",
-        "text": "Pérennisation du parc machines industriel"
+        "text": "Pérennisation du parc machines industriel",
+        "_tid": "ff6p9f"
       }
     ],
     "cta": {

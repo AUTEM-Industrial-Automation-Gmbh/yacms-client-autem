@@ -1,0 +1,29 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backLinkLabel": {
+      "source": "Retour au blog",
+      "de": "Zurück zum Blog"
+    },
+    "data.title": {
+      "source": "A Combien sont payés les automaticiens ?",
+      "de": "Wie viel verdienen Automatisierungstechniker?"
+    },
+    "data.tags[@N1BONL].label": {
+      "source": "Astuces Carrière",
+      "de": "Karrieretipps"
+    },
+    "data.articleMeta.readTime": {
+      "source": "6 min lecture",
+      "de": "6 Minuten Lesezeit"
+    },
+    "data.articleMeta.publishDate": {
+      "source": "02/03/23",
+      "de": "02.03.23"
+    },
+    "data.articleMeta.updatedDate": {
+      "source": "17/03/26",
+      "de": "17.03.26"
+    }
+  }
+}

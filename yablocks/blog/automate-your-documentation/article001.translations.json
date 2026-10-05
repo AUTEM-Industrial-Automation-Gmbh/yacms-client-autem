@@ -1,0 +1,135 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@2wrOeA].heading": {
+      "source": "Introduction",
+      "de": "Einleitung"
+    },
+    "data.sections[@mg3O2D].heading": {
+      "source": "Reason 1 - Time saving",
+      "de": "Grund 1 – Zeitersparnis"
+    },
+    "data.sections[@p1ZH3K].heading": {
+      "source": "Reason 2 - Your own knowledge",
+      "de": "Grund 2 – Eigenes Wissen"
+    },
+    "data.sections[@KTdHbV].heading": {
+      "source": "Reason 3 - For the future",
+      "de": "Grund 3 – Für die Zukunft"
+    },
+    "data.sections[@w4pWKf].heading": {
+      "source": "Markdown Text format",
+      "de": "Markdown-Textformat"
+    },
+    "data.sections[@2wrOeA].paragraphs[@rRpgg9].text": {
+      "source": "Why it is important to automate your documentation ? We all know that, sitting and writing your documentation is not the best or the most exciting activity in engineering but it's very important, first of all for the end user or for us internally just to make sure we don't forget what we have done. And, really like in that series, if noticed I'm exploring all the activities related to knowledge based documentation because I really see where it can bring a lot of value, a lot of differentiation in the business. Basically, the idea is to tell you that's it is really important to not just take for granted documentation, but to really own that activity as a way for you to leverage your business.",
+      "de": "Warum ist es wichtig, Ihre Dokumentation zu automatisieren? Wir alle wissen, dass das Sitzen und Schreiben Ihrer Dokumentation nicht die beste oder aufregendste Tätigkeit im Ingenieurwesen ist, aber sie ist sehr wichtig, zuerst für den Endbenutzer oder für uns intern, nur um sicherzustellen, dass wir nicht vergessen, was wir getan haben. Und, genau wie in dieser Serie, wenn Sie bemerkt haben, untersuche ich alle Aktivitäten im Zusammenhang mit wissensbasierten Dokumentationen, weil ich wirklich sehe, wo sie viel Wert, viel Differenzierung im Geschäft bringen kann. Grundsätzlich ist die Idee, Ihnen zu sagen, dass es wirklich wichtig ist, Dokumentation nicht einfach als selbstverständlich anzusehen, sondern diese Aktivität wirklich als eine Möglichkeit für Sie zu nutzen, Ihr Geschäft zu stärken."
+    },
+    "data.sections[@mg3O2D].paragraphs[@2RB9bk].text": {
+      "source": "First of all, automate your documentation is important for time saving . When you have manual writing documentation to, you know that it can take an afternoon, a day, may be few day, few weeks sometimes and if you have a way to take the inputs and have an automated workflow to create some output out of it, it will be really a big gain in your activity. In order to save some time, it's important to automate your documentation workflow.",
+      "de": "Erstens ist die Automatisierung Ihrer Dokumentation wichtig für die Zeitersparnis. Wenn Sie manuelle Dokumentationen schreiben, wissen Sie, dass dies einen Nachmittag, einen Tag, vielleicht ein paar Tage, manchmal ein paar Wochen dauern kann. Wenn Sie eine Möglichkeit haben, die Eingaben zu nehmen und einen automatisierten Workflow zu haben, um daraus einige Ausgaben zu erstellen, wird dies ein großer Gewinn in Ihrer Tätigkeit sein. Um Zeit zu sparen, ist es wichtig, Ihren Dokumentations-Workflow zu automatisieren."
+    },
+    "data.sections[@mg3O2D].paragraphs[@jauQ9y].text": {
+      "source": "The entire section can be found in this following link:",
+      "de": "Der gesamte Abschnitt kann unter folgendem Link gefunden werden:"
+    },
+    "data.sections[@p1ZH3K].paragraphs[@kbbAFt].text": {
+      "source": "We all know that in the engineering business, kwonledge is really the core asset. And even if you take the example for instance of your own money, and you don't have access to those accounts, that means you don't have access to your money. It's the same with kwonledge. If you don't have access to the places or the tools or the format where it is stored, you can already know that your knowledge is basically locks somewhere. And it is really important to be conscious on how we manage, how we version, how we store our knowledge, our documents because it's really what makes difference between a standard engineering approach and a really like top level engineering. So make sure you document your things and make sure the workflow for documented is automatic because it will help you on leveraging your knowledge as an asset in the engineering business.",
+      "de": "Wir alle wissen, dass im Ingenieurwesen Wissen das Kernkapital ist. Und selbst wenn Sie zum Beispiel Ihr eigenes Geld nehmen und keinen Zugriff auf diese Konten haben, bedeutet das, dass Sie keinen Zugriff auf Ihr Geld haben. Dasselbe gilt für Wissen. Wenn Sie keinen Zugriff auf die Orte, Werkzeuge oder Formate haben, in denen es gespeichert ist, können Sie bereits wissen, dass Ihr Wissen irgendwo gesperrt ist. Und es ist wirklich wichtig, sich bewusst zu sein, wie wir unser Wissen, unsere Dokumente verwalten, versionieren und speichern, denn das ist es, was den Unterschied zwischen einem Standard-Ingenieuransatz und einem wirklich erstklassigen Ingenieurwesen ausmacht. Stellen Sie also sicher, dass Sie Ihre Dinge dokumentieren und dass der Workflow für die Dokumentation automatisch ist, denn das wird Ihnen helfen, Ihr Wissen als Vermögenswert im Ingenieurwesen zu nutzen."
+    },
+    "data.sections[@p1ZH3K].paragraphs[@iozmFH].text": {
+      "source": "The entire section can be found in this following link:",
+      "de": "Der gesamte Abschnitt kann unter folgendem Link gefunden werden:"
+    },
+    "data.sections[@KTdHbV].paragraphs[@dtQOcy].text": {
+      "source": "We have documented let's say your past activities, in present, you already documented your activities, then, if you really want to be ready for the future for instance to leverage tools like AI, machine learning, you need a base, you need an input and that input is the automated document that you will generate on a daily basis and if you already implemented a way to take that, take your notes into like clear formatting and clear automated workflow, it will be better for you in the future, to speed up your engineering task and leverage tools like AI. So really important to automate that workflow for the future of your activity.",
+      "de": "Wir haben sagen wir mal Ihre vergangenen Aktivitäten dokumentiert, in der Gegenwart haben Sie Ihre Aktivitäten bereits dokumentiert, dann, wenn Sie wirklich für die Zukunft bereit sein wollen, zum Beispiel um Werkzeuge wie KI, maschinelles Lernen zu nutzen, brauchen Sie eine Basis, Sie brauchen eine Eingabe, und diese Eingabe ist das automatisierte Dokument, das Sie täglich generieren werden, und wenn Sie bereits eine Möglichkeit implementiert haben, diese Notizen in ein klares Format und einen klaren automatisierten Workflow zu bringen, wird es für Sie in Zukunft besser sein, Ihre Ingenieuraufgaben zu beschleunigen und Werkzeuge wie KI zu nutzen. Es ist also wirklich wichtig, diesen Workflow für die Zukunft Ihrer Tätigkeit zu automatisieren."
+    },
+    "data.sections[@KTdHbV].paragraphs[@ymN4Dc].text": {
+      "source": "The entire section can be found in this following link:",
+      "de": "Der gesamte Abschnitt kann unter folgendem Link gefunden werden:"
+    },
+    "data.sections[@w4pWKf].paragraphs[@DDPrPX].text": {
+      "source": "The entire section can be found in this following link:",
+      "de": "Der gesamte Abschnitt kann unter folgendem Link gefunden werden:"
+    },
+    "data.sections[@w4pWKf].paragraphs[@ITAPZh].text": {
+      "source": "Usefull link here: More Markdown use case by Leonardo Castorina",
+      "de": "Nützlicher Link hier: Mehr Markdown-Anwendungsfälle von Leonardo Castorina"
+    },
+    "data.sections[@w4pWKf].list.items[@MackV1].text": {
+      "source": "First reason for using Markdown is because, text is really the format of the digital era . If you take tools like AI or even programming langages, all of those are based on text. So if you take the habit of thinking in terms of text and writing in terms of text intead of diagrams, pictures, you really positionning yourself in the digital era because those text, those notes, that you are taking in Markdown format will be ready to use by some advanced tool. So, really make sure that it's int the text format that your are documenting your activities because that's what we will be using now and in the future.",
+      "de": "Der erste Grund für die Verwendung von Markdown ist, dass Text wirklich das Format des digitalen Zeitalters ist. Wenn Sie Werkzeuge wie KI oder sogar Programmiersprachen betrachten, basieren all diese auf Text. Wenn Sie sich also angewöhnen, in Bezug auf Text zu denken und in Bezug auf Text anstatt Diagramme und Bilder zu schreiben, positionieren Sie sich wirklich im digitalen Zeitalter, denn diese Texte, diese Notizen, die Sie im Markdown-Format machen, sind für fortgeschrittene Werkzeuge einsatzbereit. Stellen Sie also wirklich sicher, dass Sie Ihre Aktivitäten im Textformat dokumentieren, denn das werden wir jetzt und in Zukunft verwenden."
+    },
+    "data.sections[@w4pWKf].list.items[@teeMCv].text": {
+      "source": "Second reason why we use Markdown format is because there is an approach which is called data first, format second and if you take the media format for instance images, audio formats even diagrams, they are all kind of locked, by the proprietary format. You will need some application to open those. instead, if you use some native markdown text, you already know that this format can be used in any kind of application. And therefor, you really put the focus on the information which is inside instead of putting the focus on the format of that information.",
+      "de": "Der zweite Grund, warum wir das Markdown-Format verwenden, ist, dass es einen Ansatz gibt, der als \"Data First, Format Second\" bezeichnet wird. Wenn Sie sich beispielsweise Medienformate wie Bilder, Audioformate oder sogar Diagramme ansehen, sind diese alle irgendwie durch proprietäre Formate gesperrt. Sie benötigen eine Anwendung, um diese zu öffnen. Stattdessen, wenn Sie einfachen Markdown-Text verwenden, wissen Sie bereits, dass dieses Format in jeder Anwendung verwendet werden kann. Und deshalb legen Sie den Fokus wirklich auf die Informationen, die darin enthalten sind, anstatt den Fokus auf das Format dieser Informationen zu legen."
+    },
+    "data.sections[@w4pWKf].list.items[@Dl7zjU].text": {
+      "source": "Third reason why we use Markdown format is for storage because it's compatible with all file systems either Windows, Mac or Linux. It's natively compatible with all type of storage system.",
+      "de": "Der dritte Grund, warum wir das Markdown-Format verwenden, ist die Speicherung, da es mit allen Dateisystemen kompatibel ist, sei es Windows, Mac oder Linux. Es ist nativ mit allen Arten von Speichersystemen kompatibel."
+    },
+    "data.sections[@w4pWKf].list.items[@tAG0bj].text": {
+      "source": "Fourth reason why we use Markdown format is the versioning . You know that for programming or for any type of Git versioning you will need some text because that's what Git will analyze to process your push, pull or merge requests. And if you have your documentation already in the format of text, then you know that the versioning will be better. You will be able to really understand like what was the history of modification in your documents and this really brings you to the next level because there are very few application which provide a format which is compatible with all kind of software and also a format which is compatible with the versioning and natively the Markdown text can be compatible with versioning tools which is also a good thing.",
+      "de": "Der vierte Grund, warum wir das Markdown-Format verwenden, ist die Versionierung. Sie wissen, dass Sie für die Programmierung oder für jede Art von Git-Versionierung Text benötigen, da Git dies analysiert, um Ihre Push-, Pull- oder Merge-Anfragen zu verarbeiten. Und wenn Sie Ihre Dokumentation bereits im Textformat haben, wissen Sie, dass die Versionierung besser sein wird. Sie werden wirklich verstehen können, wie die Änderungshistorie Ihrer Dokumente aussah, und das bringt Sie wirklich auf die nächste Stufe, da es nur sehr wenige Anwendungen gibt, die ein Format anbieten, das mit allen Arten von Software kompatibel ist und auch ein Format, das mit der Versionierung kompatibel ist, und nativ kann Markdown-Text mit Versionierungswerkzeugen kompatibel sein, was ebenfalls gut ist."
+    },
+    "data.sections[@w4pWKf].list.items[@vsaatr].text": {
+      "source": "Finally, the last reason why we prefer to use the Markdown format is the the interoperability If you take all existing tools right now on the market, the main format for import and export is Markdown. And there is a reason for that: it's because it's can be understood by any type of programming language. Even if you program your own Python scriot for exporting or importing data, you can really use the Markdown format as your central format for all the routing. You can take some word documents, import them and save them as Markdown and export them as PDF or as JSON. The thing is to having everything centralized in Markdown is really something which can help you interact with all type of software or all type of application.",
+      "de": "Schließlich ist der letzte Grund, warum wir das Markdown-Format bevorzugen, die Interoperabilität. Wenn Sie sich alle derzeit auf dem Markt befindlichen Werkzeuge ansehen, ist das Hauptformat für den Import und Export Markdown. Und dafür gibt es einen Grund: Es kann von jeder Art von Programmiersprache verstanden werden. Selbst wenn Sie Ihr eigenes Python-Skript zum Exportieren oder Importieren von Daten programmieren, können Sie das Markdown-Format wirklich als zentrales Format für das gesamte Routing verwenden. Sie können einige Word-Dokumente nehmen, sie importieren und als Markdown speichern und als PDF oder JSON exportieren. Die Sache ist, dass alles in Markdown zentralisiert zu haben, wirklich etwas ist, das Ihnen helfen kann, mit allen Arten von Software oder allen Arten von Anwendungen zu interagieren."
+    },
+    "data.sections[@mg3O2D].links[@MSKwnx].text": {
+      "source": "Visualize | Vidéo (0 min : 31 s)",
+      "de": "Ansehen | Video (0 Min : 31 Sek)"
+    },
+    "data.sections[@p1ZH3K].links[@RExomO].text": {
+      "source": "Visualize | Vidéo (01 min : 00 s)",
+      "de": "Ansehen | Video (01 Min : 00 Sek)"
+    },
+    "data.sections[@KTdHbV].links[@MyjHZc].text": {
+      "source": "Visualize | Vidéo (0 min : 49 s)",
+      "de": "Ansehen | Video (0 Min : 49 Sek)"
+    },
+    "data.sections[@w4pWKf].links[@RuSgAp].text": {
+      "source": "Visualize | Vidéo (6 min : 06 s)",
+      "de": "Ansehen | Video (6 Min : 06 Sek)"
+    },
+    "data.sections[@w4pWKf].links[@DEqbQg].text": {
+      "source": "More Markdown use case by Leonardo Castorina",
+      "de": "Mehr Markdown-Anwendungsfälle von Leonardo Castorina"
+    },
+    "data.sections[@mg3O2D].links[@MSKwnx].href": {
+      "source": "https://www.youtube.com/watch?v=Mklhs3BIxvQ&t=52s",
+      "de": [
+        "https://www.youtube.com/watch?v=Mklhs3BIxvQ&t=52s"
+      ]
+    },
+    "data.sections[@p1ZH3K].links[@RExomO].href": {
+      "source": "https://www.youtube.com/watch?v=Mklhs3BIxvQ&t=83s",
+      "de": [
+        "https://www.youtube.com/watch?v=Mklhs3BIxvQ&t=83s"
+      ]
+    },
+    "data.sections[@KTdHbV].links[@MyjHZc].href": {
+      "source": "https://www.youtube.com/watch?v=Mklhs3BIxvQ&t=83s",
+      "de": [
+        "https://www.youtube.com/watch?v=Mklhs3BIxvQ&t=83s"
+      ]
+    },
+    "data.sections[@w4pWKf].links[@RuSgAp].href": {
+      "source": "https://www.youtube.com/watch?v=Mklhs3BIxvQ&t=192s",
+      "de": [
+        "https://www.youtube.com/watch?v=Mklhs3BIxvQ&t=192s"
+      ]
+    },
+    "data.sections[@w4pWKf].links[@DEqbQg].href": {
+      "source": "https://medium.com/better-humans/obsidian-tutorial-for-academic-writing-87b038060522",
+      "de": [
+        "https://medium.com/better-humans/obsidian-tutorial-for-academic-writing-87b038060522"
+      ]
+    }
+  }
+}

@@ -10,11 +10,13 @@
     "tags": [
       {
         "label": "Evolution de l'industrie",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "RudHzW"
       },
       {
         "label": "Astuces Carrière",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "HHxIhh"
       }
     ],
     "articleMeta": {

@@ -1,0 +1,29 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backLinkLabel": {
+      "source": "Retour au blog",
+      "de": "Zurück zum Blog"
+    },
+    "data.title": {
+      "source": "Les automaticiens entrepreneurs",
+      "de": "Unternehmerische Automatisierungstechniker"
+    },
+    "data.tags[@lYELLF].label": {
+      "source": "Machines Vintage",
+      "de": "Vintage Maschinen"
+    },
+    "data.articleMeta.readTime": {
+      "source": "3 min lecture",
+      "de": "3 Minuten Lesezeit"
+    },
+    "data.articleMeta.publishDate": {
+      "source": "04/03/25",
+      "de": "04.03.25"
+    },
+    "data.articleMeta.updatedDate": {
+      "source": "17/03/26",
+      "de": "17.03.26"
+    }
+  }
+}

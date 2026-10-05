@@ -1,0 +1,35 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Réflexion: Les techniciens fuient les usines | Blog AUTEM",
+      "de": "Reflexion: Techniker fliehen aus Fabriken | AUTEM Blog",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Pourquoi les meilleurs quittent l'industrie ?",
+      "de": "Warum die Besten die Branche verlassen?",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "Evolution de l'industrie",
+        "Astuces Carrière",
+        "AUTEM",
+        "automatisme industriel"
+      ],
+      "de": [
+        "Industrieentwicklung",
+        "Karrieretipps",
+        "AUTEM",
+        "industrielle Automatisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Blog technique automatisme et SCADA industriel",
+      "de": "AUTEM – Blog für industrielle Automatisierungs- und SCADA-Technik",
+      "de:manual": true
+    }
+  }
+}

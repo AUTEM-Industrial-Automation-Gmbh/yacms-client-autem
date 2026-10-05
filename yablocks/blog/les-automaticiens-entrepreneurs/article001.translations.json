@@ -1,0 +1,149 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@elXP8M].heading": {
+      "source": "Introduction",
+      "de": "Einleitung"
+    },
+    "data.sections[@x3rJ0Q].heading": {
+      "source": "Contexte & Constat",
+      "de": "Kontext & Beobachtung"
+    },
+    "data.sections[@rHK9Sg].heading": {
+      "source": "Perspective & Projection",
+      "de": "Perspektive & Projektion"
+    },
+    "data.sections[@39ySxH].heading": {
+      "source": "Développement formation",
+      "de": "Entwicklung & Weiterbildung"
+    },
+    "data.sections[@4YGtR1].heading": {
+      "source": "Business, projet, plan de vie",
+      "de": "Geschäft, Projekt, Lebensplan"
+    },
+    "data.sections[@elXP8M].paragraphs[@TLbfCF].text": {
+      "source": "Beaucoup veulent se mettre à leur propre compte. C'est ce dont nous allons parler ce soir. Aujourd'hui, nous allons parler des techniciens qui restent dans l'industrie en se mettant à leur compte : auto-entrepreneur, freelance, indépendant. Nous allons explorer tout cela en profondeur.",
+      "de": "Viele wollen sich selbstständig machen. Darum geht es heute Abend. Heute sprechen wir über Techniker, die sich in der Branche selbstständig machen: als Kleinunternehmer, Freiberufler, Unabhängige. Wir werden all dies eingehend untersuchen."
+    },
+    "data.sections[@x3rJ0Q].paragraphs[@EfbbSw].text": {
+      "source": "Lorsque l'on cherche à savoir \" Pourquoi se mettre à son propre compte ? \", en général, on n'obtient pas la vraie raison dès le départ. La plupart des réponses que l'on reçoit tournent autour des réponses suivantes: Avoir plus d'argent. L'écosystème devient incertain du coup, je me protège en sautant du bateau en premier avant qu'il ne s'échoue.",
+      "de": "Wenn man fragt „Warum sich selbstständig machen?“, erhält man in der Regel nicht sofort die wirkliche Antwort. Die meisten Antworten, die man erhält, drehen sich um folgende Punkte: Mehr Geld verdienen. Das Ökosystem wird unsicher, also schütze ich mich, indem ich zuerst vom sinkenden Schiff springe, bevor es strandet."
+    },
+    "data.sections[@x3rJ0Q].paragraphs[@I3opDg].text": {
+      "source": "Ce sont toutes des raisons valables. Mais en général, il y a forcément une raison plus profonde comme une ambition de vouloir créer une entreprise ou de s'affirmer encore un peu plus comme personne ou de changer quelque chose dans un écosystème qui nous a vraiment marqué.",
+      "de": "Das sind alles gültige Gründe. Aber im Allgemeinen gibt es immer einen tieferen Grund, wie den Ehrgeiz, ein Unternehmen gründen zu wollen, sich als Person noch mehr zu behaupten oder etwas in einem Ökosystem zu verändern, das uns wirklich geprägt hat."
+    },
+    "data.sections[@x3rJ0Q].paragraphs[@aa201a].text": {
+      "source": "Il est très important de se poser cette question avant de commencer car quand le processus est lancé, il est lancé !",
+      "de": "Es ist sehr wichtig, sich diese Frage zu stellen, bevor man anfängt, denn wenn der Prozess einmal in Gang gesetzt ist, dann läuft er!"
+    },
+    "data.sections[@x3rJ0Q].paragraphs[@A1HsBv].text": {
+      "source": "Découvrez l'intégralité de cette section ici :",
+      "de": "Entdecken Sie diesen Abschnitt hier in voller Länge:"
+    },
+    "data.sections[@rHK9Sg].paragraphs[@1qdQ8d].text": {
+      "source": "Premier point : être Automaticien, indépendant, répond parfois à une envie de se donner de la projection et des ambitions sur le long terme. Mais on constate beaucoup plus dans les industries que les usines ou les entreprises d'ingénierie fonctionnent de plus en plus sur une fenêtre court terme, parfois moyen terme, sans vraiment donner la perspective aux employés et aux salariés : on les exploite.",
+      "de": "Erster Punkt: Als unabhängiger Automatisierungstechniker tätig zu sein, entspricht manchmal dem Wunsch nach langfristiger Projektion und Ambitionen. Wir stellen jedoch in den Industrien fest, dass Fabriken oder Ingenieurbüros zunehmend auf kurz- bis mittelfristige Sicht arbeiten, ohne den Mitarbeitern und Angestellten wirkliche Perspektiven zu bieten: Sie werden ausgebeutet."
+    },
+    "data.sections[@rHK9Sg].paragraphs[@yiYM62].text": {
+      "source": "Du coup, les personnes qui veulent se mettre à leur propre compte, en réponse à ce constat, veulent se donner eux-mêmes leur propre projection . Ceci peut être l'une des projections.",
+      "de": "Daher wollen sich die Personen, die sich selbstständig machen wollen, als Reaktion auf diese Beobachtung, selbst ihre eigene Projektion geben. Dies kann eine der Projektionen sein."
+    },
+    "data.sections[@rHK9Sg].paragraphs[@8xHHi9].text": {
+      "source": "Une fois que la projection a été faite, il faut maintenant y réfléchir avant de se lancer.",
+      "de": "Sobald die Projektion gemacht ist, muss man darüber nachdenken, bevor man loslegt."
+    },
+    "data.sections[@rHK9Sg].paragraphs[@0M2j6g].text": {
+      "source": "Découvrez l'intégralité de cette section ici :",
+      "de": "Entdecken Sie diesen Abschnitt hier in voller Länge:"
+    },
+    "data.sections[@39ySxH].paragraphs[@LlefDX].text": {
+      "source": "Un des premiers conseils que je partage dans cette réflexion, c'est en termes de développement, d'investissement sur sa personne, sur ses compétences .",
+      "de": "Einer der ersten Ratschläge, die ich in dieser Überlegung teile, betrifft die Entwicklung und Investition in die eigene Person und die eigenen Fähigkeiten."
+    },
+    "data.sections[@39ySxH].paragraphs[@fJGDOj].text": {
+      "source": "Quand on est ingénieur, le développement de compétences devient beaucoup plus important car personne ne le fera à votre place.",
+      "de": "Wenn man Ingenieur ist, wird die Entwicklung von Fähigkeiten umso wichtiger, da niemand sie an Ihrer Stelle entwickeln wird."
+    },
+    "data.sections[@39ySxH].paragraphs[@afNyJu].text": {
+      "source": "Découvrez l'intégralité de cette section ici :",
+      "de": "Entdecken Sie diesen Abschnitt hier in voller Länge:"
+    },
+    "data.sections[@4YGtR1].paragraphs[@ahIGbJ].text": {
+      "source": "Un autre aspect sur lequel il faut réfléchir, c'est l'aspect Business .",
+      "de": "Ein weiterer Aspekt, über den man nachdenken muss, ist der geschäftliche Aspekt."
+    },
+    "data.sections[@4YGtR1].paragraphs[@gtXOEU].text": {
+      "source": "Être automaticien indépendant, c'est être Ingénieur Automaticien et entrepreneur indépendant. Cela nécessite d'inclure deux rôles différents: Le rôle d'apporter de la valeur technique La gestion d'une entreprise: gérer une entreprise, chercher les clients, nourrir une relation commerciale",
+      "de": "Ein unabhängiger Automatisierungstechniker zu sein, bedeutet, ein unabhängiger Automatisierungsingenieur und Unternehmer zu sein. Dies erfordert die Übernahme zweier verschiedener Rollen: Die Rolle der technischen Wertschöpfung. Die Geschäftsführung: ein Unternehmen führen, Kunden suchen, Geschäftsbeziehungen pflegen."
+    },
+    "data.sections[@4YGtR1].paragraphs[@NYoZXk].text": {
+      "source": "Au début, cela peut paraître pertinent, mais il ne faut pas se dire dès le début que l'aventure sera bonne car nous sommes bons techniquement .",
+      "de": "Am Anfang mag das sinnvoll erscheinen, aber man sollte nicht von Anfang an denken, dass das Abenteuer gut wird, nur weil wir technisch gut sind."
+    },
+    "data.sections[@4YGtR1].paragraphs[@MKjgdo].text": {
+      "source": "La question qu'il faut se poser est de savoir si l'on a envie d'apporter une différence dans l'écosystème, d'impacter en tant qu'entrepreneur . Encore cela n'a rien à voir avec le rôle d'un investisseur : un investisseur vient juste miser de l'argent sur un domaine qui va apporter de la rentabilité.",
+      "de": "Die Frage, die man sich stellen muss, ist, ob man einen Unterschied im Ökosystem machen möchte, ob man als Unternehmer Einfluss nehmen möchte. Dies hat nichts mit der Rolle eines Investors zu tun: Ein Investor investiert einfach Geld in einen Bereich, der Rentabilität verspricht."
+    },
+    "data.sections[@4YGtR1].paragraphs[@MOLbF5].text": {
+      "source": "Un dernier conseil, il faut également réfléchir au projet, au plan, à la carrière: Où est-ce que l'on va? Quel est mon plan de vie ? Qu'est-ce que j'ai envie de faire de ma carrière ? Qu'est-ce que j'ai envie de faire comme projet ? (qui reflétera le projet d'entreprise qui est beaucoup lié au projet de l'entrepreneur)",
+      "de": "Ein letzter Rat: Man muss auch über das Projekt, den Plan, die Karriere nachdenken: Wohin gehe ich? Was ist mein Lebensplan? Was möchte ich aus meiner Karriere machen? Was für ein Projekt möchte ich umsetzen? (was das Unternehmensprojekt widerspiegeln wird, das eng mit dem Projekt des Unternehmers verbunden ist)"
+    },
+    "data.sections[@4YGtR1].paragraphs[@eHSIvM].text": {
+      "source": "En gros, TOUT DOIT ÊTRE CLAIR SUR VOUS-MÊME : VOTRE MISSION, VOS VALEURS , pour pouvoir interagir avec les différentes personnes que vous allez devoir gérer.",
+      "de": "Kurz gesagt, ALLES MUSS BEI IHNEN KLAR SEIN: IHRE MISSION, IHRE WERTE, um mit den verschiedenen Personen interagieren zu können, die Sie führen müssen."
+    },
+    "data.sections[@4YGtR1].paragraphs[@SPfgZZ].text": {
+      "source": "Le meilleur moyen de rester stoïque, c'est d'avoir un plan clair sur le long terme, un peu comme une boussole.",
+      "de": "Der beste Weg, standhaft zu bleiben, ist ein klarer Langzeitplan, ein bisschen wie ein Kompass."
+    },
+    "data.sections[@4YGtR1].paragraphs[@tdgowj].text": {
+      "source": "Découvrez l'intégralité de cette section ici :",
+      "de": "Entdecken Sie diesen Abschnitt hier in voller Länge:"
+    },
+    "data.sections[@x3rJ0Q].links[@cQsv6a].text": {
+      "source": "Consulter | Vidéo (01min:56s)",
+      "de": "Ansehen | Video (01Min:56Sek)"
+    },
+    "data.sections[@rHK9Sg].links[@gmHPkU].text": {
+      "source": "Consulter | Vidéo (1min:11s)",
+      "de": "Ansehen | Video (1Min:11Sek)"
+    },
+    "data.sections[@39ySxH].links[@f8nDQt].text": {
+      "source": "Consulter | Vidéo (03min:00s)",
+      "de": "Ansehen | Video (03Min:00Sek)"
+    },
+    "data.sections[@4YGtR1].links[@b1ZGIx].text": {
+      "source": "Consulter | Vidéo (5min:03s)",
+      "de": "Ansehen | Video (5Min:03Sek)"
+    },
+    "data.sections[@x3rJ0Q].links[@cQsv6a].href": {
+      "source": "https://www.youtube.com/watch?v=D47jnznsNc4&t=78s",
+      "de": [
+        "https://www.youtube.com/watch?v=D47jnznsNc4&t=78s"
+      ]
+    },
+    "data.sections[@rHK9Sg].links[@gmHPkU].href": {
+      "source": "https://www.youtube.com/watch?v=D47jnznsNc4&t=194s",
+      "de": [
+        "https://www.youtube.com/watch?v=D47jnznsNc4&t=194s"
+      ]
+    },
+    "data.sections[@39ySxH].links[@f8nDQt].href": {
+      "source": "https://www.youtube.com/watch?v=D47jnznsNc4&t=265s",
+      "de": [
+        "https://www.youtube.com/watch?v=D47jnznsNc4&t=265s"
+      ]
+    },
+    "data.sections[@4YGtR1].links[@b1ZGIx].href": {
+      "source": "https://www.youtube.com/watch?v=D47jnznsNc4&t=445s",
+      "de": [
+        "https://www.youtube.com/watch?v=D47jnznsNc4&t=445s"
+      ]
+    }
+  }
+}

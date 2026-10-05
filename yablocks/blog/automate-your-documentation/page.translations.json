@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Automate your Documentation: MARKDOWN vs WORD | Blog AUTEM",
+      "de": "Automatisieren Sie Ihre Dokumentation: MARKDOWN vs WORD | Blog AUTEM",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "It is really important to not just take for granted documentation, but to really own that activity as a way for you to leverage your business.",
+      "de": "Es ist wirklich wichtig, die Dokumentation nicht einfach als gegeben hinzunehmen, sondern diese Aktivität wirklich zu meistern, um Ihr Unternehmen voranzubringen.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "Transfert de Compétences",
+        "AUTEM",
+        "automatisme industriel"
+      ],
+      "de": [
+        "Kompetenztransfer",
+        "AUTEM",
+        "Industrielle Automatisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Blog technique automatisme et SCADA industriel",
+      "de": "AUTEM — Technischer Blog für Automatisierung und industrielle SCADA-Systeme",
+      "de:manual": true
+    }
+  }
+}

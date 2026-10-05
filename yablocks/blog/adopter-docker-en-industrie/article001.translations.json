@@ -1,0 +1,113 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@blfDD5].heading": {
+      "source": "Introduction",
+      "de": "Einleitung"
+    },
+    "data.sections[@Q39hOO].heading": {
+      "source": "La frugalité",
+      "de": "Frugalität"
+    },
+    "data.sections[@He60xC].heading": {
+      "source": "La rapidité",
+      "de": "Geschwindigkeit"
+    },
+    "data.sections[@G8Q3Fs].heading": {
+      "source": "La portabilité",
+      "de": "Portabilität"
+    },
+    "data.sections[@T0viC4].heading": {
+      "source": "La maintenabilité",
+      "de": "Wartbarkeit"
+    },
+    "data.sections[@blfDD5].paragraphs[@T9t9VH].text": {
+      "source": "Dans cet article, nous verrons quatre (4) raisons d'utiliser des containers plutôt que des machines virtuelles dans vos environnements industriels. Plusieurs raisons existent pour l'utilisation de la containerisation mais nous allons uniquement nous baser sur quatre qui s'appliquent notamment aux usines.",
+      "de": "In diesem Artikel werden wir vier (4) Gründe untersuchen, warum Container anstelle von virtuellen Maschinen in Ihren industriellen Umgebungen verwendet werden sollten. Es gibt mehrere Gründe für die Verwendung von Containerisierung, aber wir werden uns nur auf vier konzentrieren, die insbesondere für Fabriken relevant sind."
+    },
+    "data.sections[@Q39hOO].paragraphs[@71OJ9t].text": {
+      "source": "En industrie, on aime bien économiser les sous. Et les sous se traduisent aussi en termes de machines qui vont faire des actions physiques mais aussi qui vont supporter des logiciels. Et la première chose que vous remarquez (sur l'image précédente) entre une VM et un Container, est que l'environnement tournant sur le container économise une couche : l'hyperviseur . On va pouvoir attaquer directement le Container Engine (le moteur qui permet de faire tourner les applications containerisées) , et ça en installant un OS et le Container Engine et on peut déployer des applications. Ce qu'on y gagne est énorme : On gagne de la mémoire et de la puissance de calcul (CPU)",
+      "de": "In der Industrie sparen wir gerne Geld. Und Geld bedeutet auch Maschinen, die physische Aktionen ausführen, aber auch Software unterstützen. Und das Erste, was Sie bemerken (im vorherigen Bild) zwischen einer VM und einem Container, ist, dass die auf dem Container laufende Umgebung eine Schicht einspart: den Hypervisor. Wir können direkt auf die Container-Engine (die Engine, die das Ausführen von containerisierten Anwendungen ermöglicht) zugreifen, indem wir ein Betriebssystem und die Container-Engine installieren, und dann Anwendungen bereitstellen. Der Gewinn ist enorm: Wir sparen Arbeitsspeicher und Rechenleistung (CPU)."
+    },
+    "data.sections[@Q39hOO].paragraphs[@pQ8MH6].text": {
+      "source": "Découvrez l'intégralité de cette section à travers cet extrait :",
+      "de": "Entdecken Sie diesen Abschnitt vollständig anhand dieses Auszugs:"
+    },
+    "data.sections[@He60xC].paragraphs[@jA25ka].text": {
+      "source": "Deuxième avantage que je vois, principalement dans mon quotidien, c'est la rapidité . Comme vous le voyez sur la figure ci-dessus, avec Docker, on peut déployer très rapidement sur tout type d'équipement. L'environnement industriel demande de la réactivité et on a besoin de déployer très rapidement des services sans créer trop d'arrêts de production et donc les minutes de production valent très cher. Moins on peut arrêter le système, mieux c'est .",
+      "de": "Zweiter Vorteil, den ich hauptsächlich in meinem Alltag sehe, ist die Geschwindigkeit. Wie Sie in der obigen Abbildung sehen können, können wir mit Docker sehr schnell auf jeder Art von Ausrüstung bereitstellen. Die industrielle Umgebung erfordert Reaktionsfähigkeit, und wir müssen Dienste sehr schnell bereitstellen, ohne zu viele Produktionsausfälle zu verursachen. Daher sind Produktionsminuten sehr wertvoll. Je weniger wir das System stoppen können, desto besser."
+    },
+    "data.sections[@He60xC].paragraphs[@ptR7TJ].text": {
+      "source": "Découvrez l'intégralité de cette section à travers cet extrait :",
+      "de": "Entdecken Sie diesen Abschnitt vollständig anhand dieses Auszugs:"
+    },
+    "data.sections[@G8Q3Fs].paragraphs[@mXgzaz].text": {
+      "source": "Troisième avantage, c'est la portabilité. En industrie, nous avons beaucoup de systèmes qui tournent sur Windows, d'autres qui tournent sur Linux. Avec Docker, on va pouvoir éviter les dépendances qui ont rapport avec les systèmes d'exploitation : on va pouvoir créer de l'isolation par rapport à l'environnement qui fait tourner l'application et on évite du coup beaucoup de problèmes de compatibilité .",
+      "de": "Dritter Vorteil ist die Portabilität. In der Industrie laufen viele unserer Systeme unter Windows, andere unter Linux. Mit Docker können wir Abhängigkeiten vermeiden, die mit Betriebssystemen zusammenhängen: Wir können eine Isolation von der Umgebung, in der die Anwendung läuft, schaffen und dadurch viele Kompatibilitätsprobleme vermeiden."
+    },
+    "data.sections[@G8Q3Fs].paragraphs[@Cc6Wi4].text": {
+      "source": "Découvrez l'intégralité de cette section à travers cet extrait :",
+      "de": "Entdecken Sie diesen Abschnitt vollständig anhand dieses Auszugs:"
+    },
+    "data.sections[@T0viC4].paragraphs[@hYpPvZ].text": {
+      "source": "Quatrième avantage, c'est la maintenabilité . On est en industrie, et en industrie, les systèmes évoluent et du coup, il faut les maintenir. Et l'avantage de passer toutes ces applications en conteneur est qu'on va pouvoir simplifier la maintenance juste avec un petit fichier YAML. En gros, en un seul fichier, vous avez la possibilité de résumer toute votre infrastructure, toutes vos applications à déployer et en un clic, vous allez pouvoir soit mettre à jour, soit déployer de nouvelles évolutions ; un peu comme ce que l'on appelle Infrastructure As A Code (IAAC) .",
+      "de": "Vierter Vorteil ist die Wartbarkeit. Wir sind in der Industrie, und in der Industrie entwickeln sich Systeme weiter, und daher müssen sie gewartet werden. Und der Vorteil, all diese Anwendungen in Container zu verpacken, ist, dass wir die Wartung mit einer kleinen YAML-Datei vereinfachen können. Im Grunde haben Sie in einer einzigen Datei die Möglichkeit, Ihre gesamte Infrastruktur, alle Ihre bereitzustellenden Anwendungen zusammenzufassen und mit einem Klick können Sie entweder aktualisieren oder neue Entwicklungen bereitstellen; ein bisschen wie das, was wir Infrastructure As A Code (IAAC) nennen."
+    },
+    "data.sections[@T0viC4].paragraphs[@gL79ix].text": {
+      "source": "Découvrez l'intégralité de cette section à travers cet extrait :",
+      "de": "Entdecken Sie diesen Abschnitt vollständig anhand dieses Auszugs:"
+    },
+    "data.sections[@Q39hOO].image.alt": {
+      "source": "La frugalité | 4 raisons d’adopter Docker en industrie",
+      "de": "Frugalität | 4 Gründe, Docker in der Industrie einzusetzen"
+    },
+    "data.sections[@He60xC].image.alt": {
+      "source": "La rapidité | 4 raisons d’adopter Docker en industrie",
+      "de": "Geschwindigkeit | 4 Gründe, Docker in der Industrie einzusetzen"
+    },
+    "data.sections[@G8Q3Fs].image.alt": {
+      "source": "La portabilité | 4 raisons d’adopter Docker en industrie",
+      "de": "Portabilität | 4 Gründe, Docker in der Industrie einzusetzen"
+    },
+    "data.sections[@T0viC4].image.alt": {
+      "source": "La maintenabilité | 4 raisons d’adopter Docker en industrie",
+      "de": "Wartbarkeit | 4 Gründe, Docker in der Industrie einzusetzen"
+    },
+    "data.sections[@Q39hOO].links[@xMdPv3].text": {
+      "source": "Consulter | Vidéo (01min:11s)",
+      "de": "Ansehen | Video (01 Min: 11 Sek)"
+    },
+    "data.sections[@He60xC].links[@VrtKQv].text": {
+      "source": "Consulter | Vidéo (00min:55s)",
+      "de": "Ansehen | Video (00 Min: 55 Sek)"
+    },
+    "data.sections[@G8Q3Fs].links[@lTrOVq].text": {
+      "source": "Consulter | Vidéo (01min:10s)",
+      "de": "Ansehen | Video (01 Min: 10 Sek)"
+    },
+    "data.sections[@T0viC4].links[@EQf1yx].text": {
+      "source": "Consulter | Vidéo (02min:54s)",
+      "de": "Ansehen | Video (02 Min: 54 Sek)"
+    },
+    "data.sections[@Q39hOO].links[@xMdPv3].href": {
+      "source": "https://www.youtube.com/watch?v=mOL6fIDCpKI&t=84s",
+      "de": "https://www.youtube.com/watch?v=mOL6fIDCpKI&t=84s"
+    },
+    "data.sections[@He60xC].links[@VrtKQv].href": {
+      "source": "https://www.youtube.com/watch?v=mOL6fIDCpKI&t=155s",
+      "de": "https://www.youtube.com/watch?v=mOL6fIDCpKI&t=155s"
+    },
+    "data.sections[@G8Q3Fs].links[@lTrOVq].href": {
+      "source": "https://www.youtube.com/watch?v=mOL6fIDCpKI&t=210s",
+      "de": "https://www.youtube.com/watch?v=mOL6fIDCpKI&t=210s"
+    },
+    "data.sections[@T0viC4].links[@EQf1yx].href": {
+      "source": "https://www.youtube.com/watch?v=mOL6fIDCpKI&t=280s",
+      "de": "https://www.youtube.com/watch?v=mOL6fIDCpKI&t=280s"
+    }
+  }
+}
