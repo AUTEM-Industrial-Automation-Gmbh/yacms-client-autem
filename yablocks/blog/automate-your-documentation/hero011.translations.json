@@ -1,0 +1,29 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backLinkLabel": {
+      "source": "Retour au blog",
+      "de": "Zurück zum Blog"
+    },
+    "data.title": {
+      "source": "Automate your Documentation: MARKDOWN vs WORD",
+      "de": "Automatisieren Sie Ihre Dokumentation: MARKDOWN vs WORD"
+    },
+    "data.tags[@Lq8GfO].label": {
+      "source": "Transfert de Compétences",
+      "de": "Wissenstransfer"
+    },
+    "data.articleMeta.readTime": {
+      "source": "3 min lecture",
+      "de": "3 Min Lesezeit"
+    },
+    "data.articleMeta.publishDate": {
+      "source": "17/06/25",
+      "de": "17.06.25"
+    },
+    "data.articleMeta.updatedDate": {
+      "source": "17/03/26",
+      "de": "17.03.26"
+    }
+  }
+}
