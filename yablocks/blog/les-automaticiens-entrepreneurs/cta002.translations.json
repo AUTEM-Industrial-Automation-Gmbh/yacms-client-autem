@@ -1,0 +1,25 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Un projet de retrofit ou modernisation ?",
+      "de": "Ein Retrofit- oder Modernisierungsprojekt?"
+    },
+    "data.benefits[@chkDzZ].text": {
+      "source": "Diagnostic et audit machines vieillissantes",
+      "de": "Diagnose und Audit von alternden Maschinen"
+    },
+    "data.benefits[@TnUWUr].text": {
+      "source": "Remplacement d'automates obsolètes",
+      "de": "Austausch veralteter Steuerungen"
+    },
+    "data.benefits[@ff6p9f].text": {
+      "source": "Pérennisation du parc machines industriel",
+      "de": "Sicherung des industriellen Maschinenparks für die Zukunft"
+    },
+    "data.cta.text": {
+      "source": "Discutons de votre projet",
+      "de": "Lassen Sie uns über Ihr Projekt sprechen"
+    }
+  }
+}
