@@ -1,0 +1,29 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backLinkLabel": {
+      "source": "Retour au blog",
+      "de": "Zurück zum Blog"
+    },
+    "data.title": {
+      "source": "Communication Réseau Industriel - AUTEM",
+      "de": "Industrielle Netzwerkkommunikation - AUTEM"
+    },
+    "data.tags[@3OKyvX].label": {
+      "source": "IoT Réseau",
+      "de": "Netzwerk IoT"
+    },
+    "data.articleMeta.readTime": {
+      "source": "2 min lecture",
+      "de": "2 Min Lesezeit"
+    },
+    "data.articleMeta.publishDate": {
+      "source": "01/11/23",
+      "de": "01.11.23"
+    },
+    "data.articleMeta.updatedDate": {
+      "source": "17/03/26",
+      "de": "17.03.26"
+    }
+  }
+}
