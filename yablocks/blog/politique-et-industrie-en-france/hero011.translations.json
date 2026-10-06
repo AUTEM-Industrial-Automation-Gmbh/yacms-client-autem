@@ -1,0 +1,29 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backLinkLabel": {
+      "source": "Retour au blog",
+      "de": "Zurück zum Blog"
+    },
+    "data.title": {
+      "source": "Politique et Industrie en France",
+      "de": "Politik und Industrie in Frankreich"
+    },
+    "data.tags[@8GExre].label": {
+      "source": "Evolution de l'industrie",
+      "de": "Industrielle Entwicklung"
+    },
+    "data.articleMeta.readTime": {
+      "source": "1 min lecture",
+      "de": "1 Minute Lesezeit"
+    },
+    "data.articleMeta.publishDate": {
+      "source": "18/06/24",
+      "de": "18.06.24"
+    },
+    "data.articleMeta.updatedDate": {
+      "source": "17/03/26",
+      "de": "17.03.26"
+    }
+  }
+}
