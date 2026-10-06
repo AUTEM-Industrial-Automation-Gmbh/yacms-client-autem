@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "A Combien sont payés les automaticiens ? | Blog AUTEM",
+      "de": "Wie viel verdienen Automatisierungstechniker? | AUTEM Blog",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Analyse des salaires des automaticiens : chiffres et enjeux actuels pour cette profession de l'industrie.",
+      "de": "Gehaltsanalyse für Automatisierungstechniker: aktuelle Zahlen und Herausforderungen für diesen Industrieberuf.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "Astuces Carrière",
+        "AUTEM",
+        "automatisme industriel"
+      ],
+      "de": [
+        "Karrieretipps",
+        "AUTEM",
+        "Industrielle Automatisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Blog technique automatisme et SCADA industriel",
+      "de": "AUTEM – Fachblog für industrielle Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}

@@ -10,47 +10,56 @@
         "heading": "Introduction",
         "paragraphs": [
           {
-            "text": "Imaginez que vous ne connaissez pas une machine et que vous voulez en déduire son fonctionnement grâce à l'intelligence artificielle ? C'est ce que nous allons voir dans cet article. J'ai découvert récemment un outil qui s'appelle EXALENS qui permet de le faire. Grâce à lui, vous aurez la possibilité de vous connecter à un système inconnu et en déduire avec l'analyse des signaux le fonctionnement process, les boucles séquentielles et la programmation automatisme de la dite machine."
+            "text": "Imaginez que vous ne connaissez pas une machine et que vous voulez en déduire son fonctionnement grâce à l'intelligence artificielle ? C'est ce que nous allons voir dans cet article. J'ai découvert récemment un outil qui s'appelle EXALENS qui permet de le faire. Grâce à lui, vous aurez la possibilité de vous connecter à un système inconnu et en déduire avec l'analyse des signaux le fonctionnement process, les boucles séquentielles et la programmation automatisme de la dite machine.",
+            "_tid": "Pp2ABm"
           }
         ],
         "subsections": [],
         "links": [
           {
             "text": "EXALENS",
-            "href": "https://www.youtube.com/@exalens"
+            "href": "https://www.youtube.com/@exalens",
+            "_tid": "7eLaP5"
           }
         ],
-        "videoUrl": "https://www.youtube.com/embed/0WT2NOuXGrY?si=DdKRS_bExCUSuEwq"
+        "videoUrl": "https://www.youtube.com/embed/0WT2NOuXGrY?si=DdKRS_bExCUSuEwq",
+        "_tid": "UVgTM8"
       },
       {
         "heading": "Fonctionnement",
         "paragraphs": [
           {
-            "text": "Découvrez le fonctionnement en direct de EXALENS à travers cet extrait :"
+            "text": "Découvrez le fonctionnement en direct de EXALENS à travers cet extrait :",
+            "_tid": "3sOHtW"
           }
         ],
         "subsections": [],
         "links": [
           {
             "text": "Consulter | Vidéo (02min:33s)",
-            "href": "https://www.youtube.com/watch?v=0WT2NOuXGrY&t=146s"
+            "href": "https://www.youtube.com/watch?v=0WT2NOuXGrY&t=146s",
+            "_tid": "a0tOQ3"
           }
-        ]
+        ],
+        "_tid": "S8YK3w"
       },
       {
         "heading": "Analyse des résultats",
         "paragraphs": [
           {
-            "text": "Découvrez l'analyse des résultats de l'apprentissage fait par EXALENS à travers cet extrait:"
+            "text": "Découvrez l'analyse des résultats de l'apprentissage fait par EXALENS à travers cet extrait:",
+            "_tid": "zDdjeZ"
           }
         ],
         "subsections": [],
         "links": [
           {
             "text": "Consulter | Vidéo (03min:19s)",
-            "href": "https://www.youtube.com/watch?v=0WT2NOuXGrY&t=300s"
+            "href": "https://www.youtube.com/watch?v=0WT2NOuXGrY&t=300s",
+            "_tid": "JcnZk9"
           }
-        ]
+        ],
+        "_tid": "d16Y7x"
       }
     ]
   }

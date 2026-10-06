@@ -1,0 +1,25 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Un projet IA pour votre usine ?",
+      "de": "Ein KI-Projekt für Ihr Werk?"
+    },
+    "data.benefits[@nBnhns].text": {
+      "source": "Déploiement de modèles IA on-premise & Edge",
+      "de": "Bereitstellung von KI-Modellen On-Premise & Edge"
+    },
+    "data.benefits[@CgPerw].text": {
+      "source": "Maintenance prédictive et détection d'anomalies",
+      "de": "Vorausschauende Wartung und Anomalieerkennung"
+    },
+    "data.benefits[@UbWru6].text": {
+      "source": "Analytics industriels et dashboards intelligents",
+      "de": "Industrielle Analysen und intelligente Dashboards"
+    },
+    "data.cta.text": {
+      "source": "Discutons de votre projet",
+      "de": "Lassen Sie uns über Ihr Projekt sprechen"
+    }
+  }
+}

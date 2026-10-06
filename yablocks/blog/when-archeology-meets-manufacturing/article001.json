@@ -10,83 +10,101 @@
         "heading": "Introduction",
         "paragraphs": [
           {
-            "text": "We will discuss about some machines again and today i'll try to give you one example why I think some dinosaure machines are the best. I will give you one example with some software thing: It's about the old software that were used to program some PLC. Let's go !"
+            "text": "We will discuss about some machines again and today i'll try to give you one example why I think some dinosaure machines are the best. I will give you one example with some software thing: It's about the old software that were used to program some PLC. Let's go !",
+            "_tid": "1f1MCg"
           }
         ],
         "subsections": [],
-        "videoUrl": "https://www.youtube.com/embed/s4VBRaxRgaM?si=LAQZaq5qJ5odAIOo"
+        "videoUrl": "https://www.youtube.com/embed/s4VBRaxRgaM?si=LAQZaq5qJ5odAIOo",
+        "_tid": "q2Uf2Z"
       },
       {
         "heading": "The Savior Syndrome",
         "paragraphs": [
           {
-            "text": "PLC (Programmable Logic Controllers) have been for a while the , electronic \"brains\" found inside industrial cabinets. Many PLCs in old machines are 20–30 years old but continue to function perfectly with minimal maintenance."
+            "text": "PLC (Programmable Logic Controllers) have been for a while the , electronic \"brains\" found inside industrial cabinets. Many PLCs in old machines are 20–30 years old but continue to function perfectly with minimal maintenance.",
+            "_tid": "niX2Sj"
           },
           {
-            "text": "Explore the full content of this section here"
+            "text": "Explore the full content of this section here",
+            "_tid": "ddTE9S"
           }
         ],
         "subsections": [],
         "links": [
           {
             "text": "Visualize | Vidéo (01 min : 45 s)",
-            "href": "https://www.youtube.com/live/s4VBRaxRgaM?t=63s"
+            "href": "https://www.youtube.com/live/s4VBRaxRgaM?t=63s",
+            "_tid": "aXyuzQ"
           }
-        ]
+        ],
+        "_tid": "u4BIzE"
       },
       {
         "heading": "Software Stability (Vintage vs. Modern)",
         "paragraphs": [
           {
-            "text": "Old programming software (like RSLogix 500 for Allen Bradley or PL7 for Schneider) is incredibly stable . Unlike modern software (like TIA Portal), can crash frequently and cause hours of lost work, these legacy tools almost never crash during operation."
+            "text": "Old programming software (like RSLogix 500 for Allen Bradley or PL7 for Schneider) is incredibly stable . Unlike modern software (like TIA Portal), can crash frequently and cause hours of lost work, these legacy tools almost never crash during operation.",
+            "_tid": "d6aR1g"
           },
           {
-            "text": "Explore the full content of this section here"
+            "text": "Explore the full content of this section here",
+            "_tid": "zuj9vy"
           }
         ],
         "subsections": [],
         "links": [
           {
             "text": "Visualize | Vidéo (02 min : 05 s)",
-            "href": "https://www.youtube.com/live/s4VBRaxRgaM?t=168s"
+            "href": "https://www.youtube.com/live/s4VBRaxRgaM?t=168s",
+            "_tid": "88x0nh"
           }
-        ]
+        ],
+        "_tid": "rXl0kR"
       },
       {
         "heading": "Optimization through Constraints",
         "paragraphs": [
           {
-            "text": "Because legacy software was designed for older operating systems (Windows XP/2000) with limited hardware, developers were forced to optimize memory and communication channels. This resulted in a robust, \"lean\" design that requires very little RAM to run effectively today."
+            "text": "Because legacy software was designed for older operating systems (Windows XP/2000) with limited hardware, developers were forced to optimize memory and communication channels. This resulted in a robust, \"lean\" design that requires very little RAM to run effectively today.",
+            "_tid": "CaVe8K"
           },
           {
-            "text": "Explore the full content of this section here"
+            "text": "Explore the full content of this section here",
+            "_tid": "j6Ds8X"
           }
         ],
         "subsections": [],
         "links": [
           {
             "text": "Visualize | Vidéo (01 min : 32 s)",
-            "href": "https://www.youtube.com/live/s4VBRaxRgaM?t=293s"
+            "href": "https://www.youtube.com/live/s4VBRaxRgaM?t=293s",
+            "_tid": "2BU1lB"
           }
-        ]
+        ],
+        "_tid": "w8HgCe"
       },
       {
         "heading": "Industrial Priorities",
         "paragraphs": [
           {
-            "text": "While modern software offers more features, in a factory setting, stability and robustness are more valuable than \"shiny\" new functionalities ."
+            "text": "While modern software offers more features, in a factory setting, stability and robustness are more valuable than \"shiny\" new functionalities .",
+            "_tid": "kSDo8J"
           },
           {
-            "text": "Explore the full content of this section here"
+            "text": "Explore the full content of this section here",
+            "_tid": "5uAdI3"
           }
         ],
         "subsections": [],
         "links": [
           {
             "text": "Visualize | Vidéo (01 min : 52 s)",
-            "href": "https://www.youtube.com/live/s4VBRaxRgaM?t=385s"
+            "href": "https://www.youtube.com/live/s4VBRaxRgaM?t=385s",
+            "_tid": "NEETE7"
           }
-        ]
+        ],
+        "_tid": "szlMID"
       }
     ]
   }

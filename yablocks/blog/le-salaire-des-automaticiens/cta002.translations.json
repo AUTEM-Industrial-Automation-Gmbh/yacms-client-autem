@@ -1,0 +1,25 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Développez vos compétences industrielles",
+      "de": "Entwickeln Sie Ihre industriellen Fähigkeiten"
+    },
+    "data.benefits[@2Z62p8].text": {
+      "source": "Formations automatisme & supervision adaptées",
+      "de": "Schulungen für Automatisierung & Überwachung"
+    },
+    "data.benefits[@voQjRp].text": {
+      "source": "Coaching et accompagnement de techniciens",
+      "de": "Coaching und Betreuung von Technikern"
+    },
+    "data.benefits[@dfQaf6].text": {
+      "source": "Préparation aux certifications industrielles",
+      "de": "Vorbereitung auf industrielle Zertifizierungen"
+    },
+    "data.cta.text": {
+      "source": "Discutons de votre projet",
+      "de": "Lassen Sie uns über Ihr Projekt sprechen"
+    }
+  }
+}

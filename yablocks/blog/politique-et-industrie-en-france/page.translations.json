@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Politique et Industrie en France | Blog AUTEM",
+      "de": "Politik und Industrie in Frankreich | AUTEM Blog",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Je compare les programmes des candidats",
+      "de": "Ich vergleiche die Programme der Kandidaten",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "Evolution de l'industrie",
+        "AUTEM",
+        "automatisme industriel"
+      ],
+      "de": [
+        "Industrieentwicklung",
+        "AUTEM",
+        "industrielle Automatisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Blog technique automatisme et SCADA industriel",
+      "de": "AUTEM – Technischer Blog für industrielle Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}

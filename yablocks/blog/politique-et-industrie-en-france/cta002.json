@@ -8,15 +8,18 @@
     "benefits": [
       {
         "icon": "cpu",
-        "text": "Automatisation et intégration de systèmes"
+        "text": "Automatisation et intégration de systèmes",
+        "_tid": "a6mMe8"
       },
       {
         "icon": "monitor",
-        "text": "Supervision SCADA et acquisition de données"
+        "text": "Supervision SCADA et acquisition de données",
+        "_tid": "BMGZhX"
       },
       {
         "icon": "users",
-        "text": "Accompagnement technique de A à Z"
+        "text": "Accompagnement technique de A à Z",
+        "_tid": "D3i5IU"
       }
     ],
     "cta": {

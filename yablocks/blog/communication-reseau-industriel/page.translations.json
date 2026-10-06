@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Communication Réseau Industriel - AUTEM | Blog AUTEM",
+      "de": "Industrielle Netzwerkkommunikation - AUTEM | AUTEM Blog",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Partage de mon expérience au concours Golden Tech 2022.",
+      "de": "Teile meine Erfahrungen beim Golden Tech 2022 Wettbewerb.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "IoT Réseau",
+        "AUTEM",
+        "automatisme industriel"
+      ],
+      "de": [
+        "IoT Netzwerk",
+        "AUTEM",
+        "industrielle Automatisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Blog technique automatisme et SCADA industriel",
+      "de": "AUTEM – Technischer Blog für industrielle Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}

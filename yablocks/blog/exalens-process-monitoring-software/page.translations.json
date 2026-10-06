@@ -1,0 +1,35 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Exalens: Rétro-Ingénierie automatique avec IA | Blog AUTEM",
+      "de": "Exalens: Automatische Reverse Engineering mit KI | AUTEM Blog",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "Exalens, un outil innovant basé facilier vos rétrofits ou moderniser de vieilles machines.",
+      "de": "Exalens, ein innovatives Tool zur Erleichterung Ihrer Nachrüstungen oder zur Modernisierung alter Maschinen.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "IA & Machine Learning",
+        "Cycle de Vie et Obsolescence",
+        "AUTEM",
+        "automatisme industriel"
+      ],
+      "de": [
+        "KI & Maschinelles Lernen",
+        "Lebenszyklus und Obsoleszenz",
+        "AUTEM",
+        "Industrielle Automatisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Blog technique automatisme et SCADA industriel",
+      "de": "AUTEM – Technischer Blog für industrielle Automatisierung und SCADA",
+      "de:manual": true
+    }
+  }
+}

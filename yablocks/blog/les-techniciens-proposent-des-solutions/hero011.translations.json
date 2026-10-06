@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backLinkLabel": {
+      "source": "Retour au blog",
+      "de": "Zurück zum Blog"
+    },
+    "data.title": {
+      "source": "Sauver l'Industrie : les Techniciens proposent des SOLUTIONS",
+      "de": "Rettung der Industrie: Techniker bieten LÖSUNGEN"
+    },
+    "data.tags[@o6gXj0].label": {
+      "source": "Evolution de l'industrie",
+      "de": "Industrieentwicklung"
+    },
+    "data.tags[@ayTVG8].label": {
+      "source": "Transfert de Compétences",
+      "de": "Kompetenztransfer"
+    },
+    "data.articleMeta.readTime": {
+      "source": "7 min lecture",
+      "de": "7 Minuten Lesezeit"
+    },
+    "data.articleMeta.publishDate": {
+      "source": "29/06/24",
+      "de": "29.06.24"
+    },
+    "data.articleMeta.updatedDate": {
+      "source": "17/03/26",
+      "de": "17.03.26"
+    }
+  }
+}

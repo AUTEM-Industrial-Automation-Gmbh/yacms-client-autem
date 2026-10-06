@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backLinkLabel": {
+      "source": "Retour au blog",
+      "de": "Zurück zum Blog"
+    },
+    "data.title": {
+      "source": "When Archeology meets Manufacturing",
+      "de": "Wenn Archäologie auf Fertigung trifft"
+    },
+    "data.tags[@rpJVay].label": {
+      "source": "Evolution de l'industrie",
+      "de": "Industrieentwicklung"
+    },
+    "data.tags[@QzYwsV].label": {
+      "source": "Machines Vintage",
+      "de": "Vintage Maschinen"
+    },
+    "data.articleMeta.readTime": {
+      "source": "1 min lecture",
+      "de": "1 Minute Lesezeit"
+    },
+    "data.articleMeta.publishDate": {
+      "source": "01/02/26",
+      "de": "01.02.26"
+    },
+    "data.articleMeta.updatedDate": {
+      "source": "17/03/26",
+      "de": "17.03.26"
+    }
+  }
+}

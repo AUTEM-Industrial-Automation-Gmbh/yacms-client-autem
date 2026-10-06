@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backLinkLabel": {
+      "source": "Retour au blog",
+      "de": "Zurück zum Blog"
+    },
+    "data.title": {
+      "source": "Exalens: Rétro-Ingénierie automatique avec IA",
+      "de": "Exalens: Automatische Reverse Engineering mit KI"
+    },
+    "data.tags[@UVkO90].label": {
+      "source": "IA & Machine Learning",
+      "de": "KI & Machine Learning"
+    },
+    "data.tags[@nvJP7K].label": {
+      "source": "Cycle de Vie et Obsolescence",
+      "de": "Lebenszyklus und Obsoleszenz"
+    },
+    "data.articleMeta.readTime": {
+      "source": "1 min lecture",
+      "de": "1 Min Lesezeit"
+    },
+    "data.articleMeta.publishDate": {
+      "source": "11/11/24",
+      "de": "11.11.24"
+    },
+    "data.articleMeta.updatedDate": {
+      "source": "17/03/26",
+      "de": "17.03.26"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@CzKI0F].heading": {
+      "source": "Introduction",
+      "de": "Einleitung"
+    },
+    "data.sections[@YGBrZH].heading": {
+      "source": "Impact sur l'industrie",
+      "de": "Auswirkungen auf die Industrie"
+    },
+    "data.sections[@JehBzv].heading": {
+      "source": "Principales formations politiques",
+      "de": "Wichtige politische Parteien"
+    },
+    "data.sections[@juOENJ].heading": {
+      "source": "Politiques industrielles + Exemples",
+      "de": "Industriepolitik + Beispiele"
+    },
+    "data.sections[@dDdCIc].heading": {
+      "source": "Similitudes et différences de chaque parti",
+      "de": "Ähnlichkeiten und Unterschiede der einzelnen Parteien"
+    },
+    "data.sections[@nkZrCO].heading": {
+      "source": "Analyse",
+      "de": "Analyse"
+    },
+    "data.sections[@CzKI0F].paragraphs[@jWTax6].text": {
+      "source": "Aujourd'hui, on va parler de politique et d'industrie. Un sujet qui touche au côté personnel, donc beaucoup de hauteur, de recul, d'écoute et de tolérance. Je ne donnerai ni une orientation politique, ni une opinion arrêtée par rapport à ce sujet-là et enfin, j'essayerai de comprendre en quoi nous, en tant qu'ingénieurs, on peut être concernés ou impactés par ce sujet. Notre outils de recherche de l'information sera ChatGPT.",
+      "de": "Heute sprechen wir über Politik und Industrie. Ein Thema, das uns persönlich betrifft, daher viel Weitsicht, Distanz, Zuhören und Toleranz. Ich werde weder eine politische Richtung vorgeben noch eine feste Meinung zu diesem Thema äußern und schließlich versuchen zu verstehen, wie wir als Ingenieure von diesem Thema betroffen oder beeinflusst werden können. Unser Werkzeug zur Informationssuche wird ChatGPT sein."
+    },
+    "data.sections[@YGBrZH].paragraphs[@o8Ibu3].text": {
+      "source": "Découvrez l'impact sur l'industrie ici:",
+      "de": "Entdecken Sie hier die Auswirkungen auf die Industrie:"
+    },
+    "data.sections[@JehBzv].paragraphs[@ugTyLX].text": {
+      "source": "Découvre l'intégralité des principales formations politiques ici :",
+      "de": "Entdecken Sie hier die wichtigsten politischen Parteien im Detail:"
+    },
+    "data.sections[@juOENJ].paragraphs[@TJjiAG].text": {
+      "source": "Découvre l'intégralité des politiques industrielles ainsi que quelques exemples ici :",
+      "de": "Entdecken Sie hier die detaillierten Industriepolitiken und einige Beispiele:"
+    },
+    "data.sections[@dDdCIc].paragraphs[@JuTee4].text": {
+      "source": "Découvre l'intégralité des similitudes et différences de chaque parti ici :",
+      "de": "Entdecken Sie hier die detaillierten Ähnlichkeiten und Unterschiede der einzelnen Parteien:"
+    },
+    "data.sections[@nkZrCO].paragraphs[@CCKuo8].text": {
+      "source": "Découvre l'intégralité de mon analyse ici :",
+      "de": "Entdecken Sie hier meine detaillierte Analyse:"
+    },
+    "data.sections[@YGBrZH].links[@g2fNZb].text": {
+      "source": "Consulter | Video (02min:47s)",
+      "de": "Ansehen | Video (02:47 Min.)"
+    },
+    "data.sections[@JehBzv].links[@4uKarY].text": {
+      "source": "Consulter | Vidéo (03min:34s)",
+      "de": "Ansehen | Video (03:34 Min.)"
+    },
+    "data.sections[@juOENJ].links[@NgJ4Gx].text": {
+      "source": "Consulter | Vidéo (03min:32s)",
+      "de": "Ansehen | Video (03:32 Min.)"
+    },
+    "data.sections[@dDdCIc].links[@0oaG3m].text": {
+      "source": "Consulter | Vidéo (05min:57s)",
+      "de": "Ansehen | Video (05:57 Min.)"
+    },
+    "data.sections[@nkZrCO].links[@bUEAmW].text": {
+      "source": "Consulter | Vidéo (13min:12s)",
+      "de": "Ansehen | Video (13:12 Min.)"
+    },
+    "data.sections[@YGBrZH].links[@g2fNZb].href": {
+      "source": "https://www.youtube.com/live/Cnw2YCLoN1U?t=130s",
+      "de": "https://www.youtube.com/live/Cnw2YCLoN1U?t=130s"
+    },
+    "data.sections[@JehBzv].links[@4uKarY].href": {
+      "source": "https://www.youtube.com/live/Cnw2YCLoN1U?t=297s",
+      "de": "https://www.youtube.com/live/Cnw2YCLoN1U?t=297s"
+    },
+    "data.sections[@juOENJ].links[@NgJ4Gx].href": {
+      "source": "https://www.youtube.com/live/Cnw2YCLoN1U?t=511s",
+      "de": "https://www.youtube.com/live/Cnw2YCLoN1U?t=511s"
+    },
+    "data.sections[@dDdCIc].links[@0oaG3m].href": {
+      "source": "https://www.youtube.com/live/Cnw2YCLoN1U?t=723s",
+      "de": "https://www.youtube.com/live/Cnw2YCLoN1U?t=723s"
+    },
+    "data.sections[@nkZrCO].links[@bUEAmW].href": {
+      "source": "https://www.youtube.com/live/Cnw2YCLoN1U?t=1080s",
+      "de": "https://www.youtube.com/live/Cnw2YCLoN1U?t=1080s"
+    }
+  }
+}

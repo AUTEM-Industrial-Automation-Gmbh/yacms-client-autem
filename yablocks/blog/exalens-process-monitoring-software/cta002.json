@@ -8,15 +8,18 @@
     "benefits": [
       {
         "icon": "cpu",
-        "text": "Déploiement de modèles IA on-premise & Edge"
+        "text": "Déploiement de modèles IA on-premise & Edge",
+        "_tid": "nBnhns"
       },
       {
         "icon": "trending-up",
-        "text": "Maintenance prédictive et détection d'anomalies"
+        "text": "Maintenance prédictive et détection d'anomalies",
+        "_tid": "CgPerw"
       },
       {
         "icon": "bar-chart",
-        "text": "Analytics industriels et dashboards intelligents"
+        "text": "Analytics industriels et dashboards intelligents",
+        "_tid": "UbWru6"
       }
     ],
     "cta": {

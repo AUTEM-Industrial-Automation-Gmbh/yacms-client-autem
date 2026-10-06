@@ -1,0 +1,97 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@q2Uf2Z].heading": {
+      "source": "Introduction",
+      "de": "Einleitung"
+    },
+    "data.sections[@u4BIzE].heading": {
+      "source": "The Savior Syndrome",
+      "de": "Das Retter-Syndrom"
+    },
+    "data.sections[@rXl0kR].heading": {
+      "source": "Software Stability (Vintage vs. Modern)",
+      "de": "Softwarestabilität (Vintage vs. Modern)"
+    },
+    "data.sections[@w8HgCe].heading": {
+      "source": "Optimization through Constraints",
+      "de": "Optimierung durch Einschränkungen"
+    },
+    "data.sections[@szlMID].heading": {
+      "source": "Industrial Priorities",
+      "de": "Industrielle Prioritäten"
+    },
+    "data.sections[@q2Uf2Z].paragraphs[@1f1MCg].text": {
+      "source": "We will discuss about some machines again and today i'll try to give you one example why I think some dinosaure machines are the best. I will give you one example with some software thing: It's about the old software that were used to program some PLC. Let's go !",
+      "de": "Wir werden uns wieder mit einigen Maschinen beschäftigen, und heute werde ich versuchen, Ihnen ein Beispiel dafür zu geben, warum ich denke, dass einige Dinosaurier-Maschinen die besten sind. Ich gebe Ihnen ein Beispiel mit einer Software-Sache: Es geht um die alte Software, die zum Programmieren von SPS verwendet wurde. Los geht's!"
+    },
+    "data.sections[@u4BIzE].paragraphs[@niX2Sj].text": {
+      "source": "PLC (Programmable Logic Controllers) have been for a while the , electronic \"brains\" found inside industrial cabinets. Many PLCs in old machines are 20–30 years old but continue to function perfectly with minimal maintenance.",
+      "de": "SPS (speicherprogrammierbare Steuerungen) sind seit einiger Zeit die elektronischen „Gehirne“ in Industriegehäusen. Viele SPS in alten Maschinen sind 20–30 Jahre alt, funktionieren aber mit minimalem Wartungsaufwand perfekt."
+    },
+    "data.sections[@u4BIzE].paragraphs[@ddTE9S].text": {
+      "source": "Explore the full content of this section here",
+      "de": "Entdecken Sie hier den vollständigen Inhalt dieses Abschnitts"
+    },
+    "data.sections[@rXl0kR].paragraphs[@d6aR1g].text": {
+      "source": "Old programming software (like RSLogix 500 for Allen Bradley or PL7 for Schneider) is incredibly stable . Unlike modern software (like TIA Portal), can crash frequently and cause hours of lost work, these legacy tools almost never crash during operation.",
+      "de": "Alte Programmiersoftware (wie RSLogix 500 für Allen Bradley oder PL7 für Schneider) ist unglaublich stabil. Im Gegensatz zu moderner Software (wie TIA Portal), die häufig abstürzen und stundenlange verlorene Arbeit verursachen kann, stürzen diese Legacy-Tools während des Betriebs fast nie ab."
+    },
+    "data.sections[@rXl0kR].paragraphs[@zuj9vy].text": {
+      "source": "Explore the full content of this section here",
+      "de": "Entdecken Sie hier den vollständigen Inhalt dieses Abschnitts"
+    },
+    "data.sections[@w8HgCe].paragraphs[@CaVe8K].text": {
+      "source": "Because legacy software was designed for older operating systems (Windows XP/2000) with limited hardware, developers were forced to optimize memory and communication channels. This resulted in a robust, \"lean\" design that requires very little RAM to run effectively today.",
+      "de": "Da Legacy-Software für ältere Betriebssysteme (Windows XP/2000) mit begrenzter Hardware entwickelt wurde, waren die Entwickler gezwungen, Speicher und Kommunikationskanäle zu optimieren. Dies führte zu einem robusten, „schlanken“ Design, das heute nur sehr wenig RAM benötigt, um effektiv zu laufen."
+    },
+    "data.sections[@w8HgCe].paragraphs[@j6Ds8X].text": {
+      "source": "Explore the full content of this section here",
+      "de": "Entdecken Sie hier den vollständigen Inhalt dieses Abschnitts"
+    },
+    "data.sections[@szlMID].paragraphs[@kSDo8J].text": {
+      "source": "While modern software offers more features, in a factory setting, stability and robustness are more valuable than \"shiny\" new functionalities .",
+      "de": "Während moderne Software mehr Funktionen bietet, sind in einer Fabrikumgebung Stabilität und Robustheit wertvoller als „glänzende“ neue Funktionalitäten."
+    },
+    "data.sections[@szlMID].paragraphs[@5uAdI3].text": {
+      "source": "Explore the full content of this section here",
+      "de": "Entdecken Sie hier den vollständigen Inhalt dieses Abschnitts"
+    },
+    "data.sections[@u4BIzE].links[@aXyuzQ].text": {
+      "source": "Visualize | Vidéo (01 min : 45 s)",
+      "de": "Visualisieren | Video (01 Min : 45 Sek)"
+    },
+    "data.sections[@rXl0kR].links[@88x0nh].text": {
+      "source": "Visualize | Vidéo (02 min : 05 s)",
+      "de": "Visualisieren | Video (02 Min : 05 Sek)"
+    },
+    "data.sections[@w8HgCe].links[@2BU1lB].text": {
+      "source": "Visualize | Vidéo (01 min : 32 s)",
+      "de": "Visualisieren | Video (01 Min : 32 Sek)"
+    },
+    "data.sections[@szlMID].links[@NEETE7].text": {
+      "source": "Visualize | Vidéo (01 min : 52 s)",
+      "de": "Visualisieren | Video (01 Min : 52 Sek)"
+    },
+    "data.sections[@u4BIzE].links[@aXyuzQ].href": {
+      "source": "https://www.youtube.com/live/s4VBRaxRgaM?t=63s",
+      "de": "https://www.youtube.com/live/s4VBRaxRgaM?t=63s"
+    },
+    "data.sections[@rXl0kR].links[@88x0nh].href": {
+      "source": "https://www.youtube.com/live/s4VBRaxRgaM?t=168s",
+      "de": "https://www.youtube.com/live/s4VBRaxRgaM?t=168s"
+    },
+    "data.sections[@w8HgCe].links[@2BU1lB].href": {
+      "source": "https://www.youtube.com/live/s4VBRaxRgaM?t=293s",
+      "de": "https://www.youtube.com/live/s4VBRaxRgaM?t=293s"
+    },
+    "data.sections[@szlMID].links[@NEETE7].href": {
+      "source": "https://www.youtube.com/live/s4VBRaxRgaM?t=385s",
+      "de": "https://www.youtube.com/live/s4VBRaxRgaM?t=385s"
+    }
+  }
+}

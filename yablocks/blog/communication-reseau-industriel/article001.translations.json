@@ -1,0 +1,79 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@cdmEgF].heading": {
+      "source": "Intro et présentation",
+      "de": "Einführung und Vorstellung"
+    },
+    "data.sections[@qQc8Te].heading": {
+      "source": "Communication réseau industriel - Expérience Golden Tech",
+      "de": "Industrielle Netzwerkkommunikation – Golden Tech Erfahrung"
+    },
+    "data.sections[@cdmEgF].paragraphs[@FLGgje].text": {
+      "source": "Marc AKOTO , ingénieur en systèmes automatisés , incarne une fusion entre fiabilité, flexibilité et polyvalence. Depuis 2022, il exerce ses compétences au sein de l'entreprise AUTEM , basée à Paris. Sa formation en mécatronique en Arts & Métiers - GeorgiaTech, lui a permis de bâtir une solide base technique. Fort d'une expérience diversifiée dans des secteurs aussi variés que l' agroalimentaire avec Danone , le textile avec Hermès , la chimie avec Unilever , la métallurgie avec ArcelorMittal et Saint-Gobain , la mobilité avec des acteurs tels que SFTRF, SNCF et Thalys , la logistique avec Amazon , ainsi que les machines spéciales avec Bema, Marc a su conjuguer sa curiosité pour la technique et son sens du concret pour impacter les choix industriels. La profession d'ingénieur en systèmes automatisés offre de multiples avantages, tels que la capacité à influencer les choix industriels et la possibilité de vivre une passion pour des technologies polyvalentes . Cependant, elle comporte également quelques inconvénients, notamment des déplacements fréquents et des risques industriels . Si l'on se demande quelles sont les qualités essentielles pour exceller dans ce métier, Marc estime qu'il faut faire preuve de patience, de fiabilité, de flexibilité et de polyvalence .",
+      "de": "Marc AKOTO, ein Ingenieur für Automatisierungssysteme, verkörpert eine Verschmelzung von Zuverlässigkeit, Flexibilität und Vielseitigkeit. Seit 2022 setzt er seine Fähigkeiten bei AUTEM in Paris ein. Seine Ausbildung in Mechatronik an der Arts & Métiers – GeorgiaTech hat ihm eine solide technische Grundlage verschafft. Mit vielfältiger Erfahrung in Branchen wie der Lebensmittelindustrie (Danone), der Textilindustrie (Hermès), der Chemieindustrie (Unilever), der Metallverarbeitung (ArcelorMittal und Saint-Gobain), der Mobilität (SFTRF, SNCF und Thalys), der Logistik (Amazon) sowie im Bereich Spezialmaschinen (Bema) hat Marc seine Neugier für Technik und seinen praktischen Sinn genutzt, um industrielle Entscheidungen zu beeinflussen. Der Beruf des Ingenieurs für Automatisierungssysteme bietet viele Vorteile, wie die Möglichkeit, industrielle Entscheidungen zu beeinflussen und eine Leidenschaft für vielseitige Technologien zu leben. Allerdings birgt er auch einige Nachteile, insbesondere häufige Reisen und industrielle Risiken. Wenn man sich fragt, welche wesentlichen Qualitäten für den Erfolg in diesem Beruf erforderlich sind, ist Marc der Meinung, dass Geduld, Zuverlässigkeit, Flexibilität und Vielseitigkeit unerlässlich sind."
+    },
+    "data.sections[@qQc8Te].paragraphs[@P1nWo8].text": {
+      "source": "Participer au concour Golden Tech a été une décision motivée par plusieurs facteurs. Ce concour constitue une vitrine exceptionnelle, notamment lors d'événements de grande envergure tels que GLOBAL INDUSTRIE . Ce concour offre une opportunité unique de mettre en avant son expertise au sein de la communauté des experts des technologies industrielles, tout en permettant d'établir des liens précieux et de développer un réseau professionnel.",
+      "de": "Die Teilnahme am Golden Tech Wettbewerb war eine Entscheidung, die von mehreren Faktoren motiviert war. Dieser Wettbewerb stellt eine außergewöhnliche Plattform dar, insbesondere bei großen Veranstaltungen wie der GLOBAL INDUSTRIE. Er bietet eine einzigartige Gelegenheit, seine Expertise in der Community der Experten für industrielle Technologien hervorzuheben und gleichzeitig wertvolle Kontakte zu knüpfen und ein professionelles Netzwerk aufzubauen."
+    },
+    "data.sections[@qQc8Te].paragraphs[@BY3oJ5].text": {
+      "source": "Les liens maintenu avec les sponsors que j'ai rencontrés m'ont ouvert des portes à des propositions de mission passionnantes et à des opportunités d'acquisition de matériel de pointe.",
+      "de": "Die Beziehungen zu den Sponsoren, die ich kennengelernt habe, haben mir Türen zu spannenden Projektangeboten und Möglichkeiten zur Anschaffung modernster Ausrüstung geöffnet."
+    },
+    "data.sections[@qQc8Te].paragraphs[@3ydk4C].text": {
+      "source": "L'un des plus beau souvenir de la compétition, a été l'atmosphère dynamique qui régnait en permanence. L'émulation collective entre les participants était palpable. J'ai particulièrement apprécié l'opportunité d'apprendre de nouvelles techniques et de perfectionner mes compétences.",
+      "de": "Eine der schönsten Erinnerungen an den Wettbewerb war die stets dynamische Atmosphäre. Die kollektive Begeisterung unter den Teilnehmern war spürbar. Ich habe besonders die Gelegenheit geschätzt, neue Techniken zu lernen und meine Fähigkeiten zu perfektionieren."
+    },
+    "data.sections[@qQc8Te].paragraphs[@3oVuws].text": {
+      "source": "Pour les futurs candidats, mon conseil serait de tirer pleinement parti du support technique offert par les partenaires du concours. Cela représente une opportunité exceptionnelle pour progresser dans nos métiers et affiner nos méthodes en les confrontant à d'autres candidats tout aussi passionnés et talentueux.",
+      "de": "Für zukünftige Kandidaten würde ich raten, die technische Unterstützung der Partner des Wettbewerbs voll auszuschöpfen. Dies stellt eine außergewöhnliche Gelegenheit dar, uns in unseren Berufen weiterzuentwickeln und unsere Methoden zu verfeinern, indem wir sie mit ebenso leidenschaftlichen und talentierten Kandidaten vergleichen."
+    },
+    "data.sections[@qQc8Te].paragraphs[@1EjuTI].text": {
+      "source": "Liens utiles",
+      "de": "Nützliche Links"
+    },
+    "data.sections[@qQc8Te].list.items[@OQwsnU].text": {
+      "source": "Page LinkedIn de Marc AKOTO | 🌍 Site web",
+      "de": "Marc AKOTO LinkedIn-Seite | 🌍 Webseite"
+    },
+    "data.sections[@qQc8Te].image.alt": {
+      "source": "Communication Réseau Industriel",
+      "de": "Industrielle Netzwerkkommunikation"
+    },
+    "data.sections[@cdmEgF].links[@KxZA36].text": {
+      "source": "Marc AKOTO",
+      "de": "Marc AKOTO"
+    },
+    "data.sections[@cdmEgF].links[@uw7YWv].text": {
+      "source": "AUTEM",
+      "de": "AUTEM"
+    },
+    "data.sections[@qQc8Te].links[@uxlvdc].text": {
+      "source": "Page LinkedIn de Marc AKOTO | Site web",
+      "de": "Marc AKOTO LinkedIn-Seite | Webseite"
+    },
+    "data.sections[@cdmEgF].links[@KxZA36].href": {
+      "source": "https://www.linkedin.com/in/akoto/",
+      "de": [
+        "https://www.linkedin.com/in/akoto/"
+      ]
+    },
+    "data.sections[@cdmEgF].links[@uw7YWv].href": {
+      "source": "https://www.linkedin.com/company/autemautomation/",
+      "de": [
+        "https://www.linkedin.com/company/autemautomation/"
+      ]
+    },
+    "data.sections[@qQc8Te].links[@uxlvdc].href": {
+      "source": "https://www.linkedin.com/in/akoto/",
+      "de": [
+        "https://www.linkedin.com/in/akoto/"
+      ]
+    }
+  }
+}
