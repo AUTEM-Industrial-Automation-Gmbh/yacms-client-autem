@@ -10,11 +10,13 @@
     "tags": [
       {
         "label": "IA & Machine Learning",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "UVkO90"
       },
       {
         "label": "Cycle de Vie et Obsolescence",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "nvJP7K"
       }
     ],
     "articleMeta": {

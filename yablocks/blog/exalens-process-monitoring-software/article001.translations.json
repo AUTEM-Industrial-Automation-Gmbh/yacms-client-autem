@@ -1,0 +1,57 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@UVgTM8].heading": {
+      "source": "Introduction",
+      "de": "Einleitung"
+    },
+    "data.sections[@S8YK3w].heading": {
+      "source": "Fonctionnement",
+      "de": "Funktionsweise"
+    },
+    "data.sections[@d16Y7x].heading": {
+      "source": "Analyse des résultats",
+      "de": "Analyse der Ergebnisse"
+    },
+    "data.sections[@UVgTM8].paragraphs[@Pp2ABm].text": {
+      "source": "Imaginez que vous ne connaissez pas une machine et que vous voulez en déduire son fonctionnement grâce à l'intelligence artificielle ? C'est ce que nous allons voir dans cet article. J'ai découvert récemment un outil qui s'appelle EXALENS qui permet de le faire. Grâce à lui, vous aurez la possibilité de vous connecter à un système inconnu et en déduire avec l'analyse des signaux le fonctionnement process, les boucles séquentielles et la programmation automatisme de la dite machine.",
+      "de": "Stellen Sie sich vor, Sie kennen eine Maschine nicht und möchten ihre Funktionsweise mithilfe von künstlicher Intelligenz entschlüsseln? Genau das werden wir in diesem Artikel untersuchen. Ich habe kürzlich ein Tool namens EXALENS entdeckt, das genau das ermöglicht. Damit können Sie sich mit einem unbekannten System verbinden und durch die Analyse von Signalen den Prozessablauf, sequentielle Schleifen und die Automatisierungslogik der betreffenden Maschine ableiten."
+    },
+    "data.sections[@S8YK3w].paragraphs[@3sOHtW].text": {
+      "source": "Découvrez le fonctionnement en direct de EXALENS à travers cet extrait :",
+      "de": "Entdecken Sie die Live-Funktionsweise von EXALENS anhand dieses Auszugs:"
+    },
+    "data.sections[@d16Y7x].paragraphs[@zDdjeZ].text": {
+      "source": "Découvrez l'analyse des résultats de l'apprentissage fait par EXALENS à travers cet extrait:",
+      "de": "Entdecken Sie die Analyse der Ergebnisse des von EXALENS durchgeführten Lernprozesses anhand dieses Auszugs:"
+    },
+    "data.sections[@UVgTM8].links[@7eLaP5].text": {
+      "source": "EXALENS",
+      "de": "EXALENS"
+    },
+    "data.sections[@S8YK3w].links[@a0tOQ3].text": {
+      "source": "Consulter | Vidéo (02min:33s)",
+      "de": "Ansehen | Video (02min:33s)"
+    },
+    "data.sections[@d16Y7x].links[@JcnZk9].text": {
+      "source": "Consulter | Vidéo (03min:19s)",
+      "de": "Ansehen | Video (03min:19s)"
+    },
+    "data.sections[@UVgTM8].links[@7eLaP5].href": {
+      "source": "https://www.youtube.com/@exalens",
+      "de": "https://www.youtube.com/@exalens"
+    },
+    "data.sections[@S8YK3w].links[@a0tOQ3].href": {
+      "source": "https://www.youtube.com/watch?v=0WT2NOuXGrY&t=146s",
+      "de": "https://www.youtube.com/watch?v=0WT2NOuXGrY&t=146s"
+    },
+    "data.sections[@d16Y7x].links[@JcnZk9].href": {
+      "source": "https://www.youtube.com/watch?v=0WT2NOuXGrY&t=300s",
+      "de": "https://www.youtube.com/watch?v=0WT2NOuXGrY&t=300s"
+    }
+  }
+}
