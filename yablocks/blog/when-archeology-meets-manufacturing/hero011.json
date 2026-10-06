@@ -10,11 +10,13 @@
     "tags": [
       {
         "label": "Evolution de l'industrie",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "rpJVay"
       },
       {
         "label": "Machines Vintage",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "QzYwsV"
       }
     ],
     "articleMeta": {
