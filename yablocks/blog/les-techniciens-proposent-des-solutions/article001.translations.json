@@ -1,0 +1,269 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.tocTitle": {
+      "source": "Sommaire",
+      "de": "Inhaltsverzeichnis"
+    },
+    "data.sections[@FHH1P7].heading": {
+      "source": "Introduction",
+      "de": "Einleitung"
+    },
+    "data.sections[@PqxKn0].heading": {
+      "source": "Passion et Formation",
+      "de": "Leidenschaft und Ausbildung"
+    },
+    "data.sections[@QS1Ozu].heading": {
+      "source": "Communication avec les décideurs",
+      "de": "Kommunikation mit Entscheidungsträgern"
+    },
+    "data.sections[@hy4rND].heading": {
+      "source": "Reconnaissance et conditions de travail",
+      "de": "Anerkennung und Arbeitsbedingungen"
+    },
+    "data.sections[@aEUwb2].heading": {
+      "source": "Revoir le modèle business de l'industrie",
+      "de": "Das Geschäftsmodell der Industrie überdenken"
+    },
+    "data.sections[@KaPCft].heading": {
+      "source": "Favoriser l'équilibre vie perso/pro",
+      "de": "Förderung der Work-Life-Balance"
+    },
+    "data.sections[@x0FGiV].heading": {
+      "source": "Une gestion industrielle plus rigoureuse",
+      "de": "Strengere industrielle Führung"
+    },
+    "data.sections[@WChQjp].heading": {
+      "source": "Recrutement: attirer les talents",
+      "de": "Personalbeschaffung: Talente anziehen"
+    },
+    "data.sections[@lUfr2u].heading": {
+      "source": "Stratégie industrielle",
+      "de": "Industriestrategie"
+    },
+    "data.sections[@FHH1P7].paragraphs[@QaN9HB].text": {
+      "source": "On refait la suite de l'article dernier en me basant sur le point que vous l'avez déjà lu. Pour un bref résumé, l'article montrait la raison pour laquelle les meilleurs techniciens fuient l'industrie. Aujourd'hui je vous propose d'aborder les solutions possibles. On verra les actions que posent les techniciens qui restent dans l'industrie pour que cette dernière puisse perdurer.",
+      "de": "Wir setzen den letzten Artikel fort, basierend auf der Annahme, dass Sie ihn bereits gelesen haben. Zur kurzen Zusammenfassung: Der Artikel zeigte, warum die besten Techniker die Branche verlassen. Heute schlage ich vor, mögliche Lösungen zu erörtern. Wir werden die Maßnahmen betrachten, die die verbleibenden Techniker ergreifen, damit die Branche bestehen kann."
+    },
+    "data.sections[@PqxKn0].paragraphs[@WCFU5L].text": {
+      "source": "Ce qu'il faut retenir de ce point: Survivre exige une passion intense et une adaptation constante. Garder la flamme est un combat quotidien. Pour cela il faut renouveler les compétences et les centres d'intérêt à intervalle régulier pour s'adapter à l'évolution du marché, et garder l'intérêt des meilleurs profils Gestion des carrières et salaires : que la seule voie d'évolution ne soit pas de devenir manageur S'inspirer des écosystèmes industriels dynamiques : Suisse, Allemagne, Amérique, Asie Investir dans la formation continue et le développement des compétences pour permettre derépondre aux exigences évolutives du métier.",
+      "de": "Was Sie aus diesem Punkt mitnehmen sollten: Überleben erfordert intensive Leidenschaft und ständige Anpassung. Die Flamme am Leben zu erhalten, ist ein täglicher Kampf. Dazu müssen die Fähigkeiten und Interessen regelmäßig erneuert werden, um sich an die Marktentwicklung anzupassen und die besten Talente zu halten. Karriere- und Gehaltsmanagement: Nicht nur der Weg zur Führungskraft. Inspiration aus dynamischen Industrieökosystemen: Schweiz, Deutschland, Amerika, Asien. Investition in Weiterbildung und Kompetenzentwicklung, um den sich entwickelnden Anforderungen des Berufs gerecht zu werden."
+    },
+    "data.sections[@PqxKn0].paragraphs[@etyFTd].text": {
+      "source": "Première piste pour sauver l'industrie: c'est la passion . L'industrie est un domaine qui demande beaucoup de passion parce que son aspect en global est très exigeant. Il faut de l'expérience, un combat quotidien, des compétences à avoir sur différentes spécialités techniques; et si on veut avoir un marché industriel qui soit dynamique, il faut s'avoir nourrir et entretenir cette passion-là; avoir la capacité de s'adapter, à garder la flamme. Le côté du renouvellement quotidien est important pour renouveler la passion, la motivation .",
+      "de": "Erster Ansatz zur Rettung der Industrie: Leidenschaft. Die Industrie ist ein Bereich, der viel Leidenschaft erfordert, da sie insgesamt sehr anspruchsvoll ist. Sie erfordert Erfahrung, täglichen Kampf und Fähigkeiten in verschiedenen technischen Spezialgebieten. Wenn wir einen dynamischen Industriemarkt wollen, müssen wir diese Leidenschaft nähren und pflegen; die Fähigkeit zur Anpassung haben, die Flamme am Leben erhalten. Die tägliche Erneuerung ist wichtig, um Leidenschaft und Motivation aufrechtzuerhalten."
+    },
+    "data.sections[@PqxKn0].paragraphs[@BZI03z].text": {
+      "source": "Découvrez l'intégralité de cette analyse ici:",
+      "de": "Entdecken Sie die vollständige Analyse hier:"
+    },
+    "data.sections[@QS1Ozu].paragraphs[@bddxIV].text": {
+      "source": "Ce qu'il faut retenir de ce point: La direction est souvent non informée. Alors que les techniciens savent tout ce qu'il faut pour améliorer le process de production Il faut donc supprimer les obstacles de communication entre la direction et les instances de décision Et éviter le décalage entre les experts technique et la hiérarchie.",
+      "de": "Was Sie aus diesem Punkt mitnehmen sollten: Die Geschäftsleitung ist oft nicht informiert. Während die Techniker alles wissen, was zur Verbesserung des Produktionsprozesses notwendig ist. Daher müssen Kommunikationshindernisse zwischen Geschäftsleitung und Entscheidungsträgern beseitigt werden. Vermeiden Sie die Diskrepanz zwischen technischen Experten und der Hierarchie."
+    },
+    "data.sections[@QS1Ozu].paragraphs[@e65InF].text": {
+      "source": "Deuxième point important: la communication avec les décideurs . De manière générale, la communication avec les instances de décision. Un obstacle qui a été constaté par pas mal de gens et qui nous amène à une solution possible c'est qu'il faudrait mettre en place des moyens de communication pour que la voix des techniciens puisse être entendue parce qu'ils font partir de ceux qui connaissent le mieux l'entreprise. Un décalage entre les instances de décision et la partie technique entraînerait un décalage entre les décisions prises et la réalité du terrain . Cet aspect du côté communication est super important et c'est l'une des choses à améliorer.",
+      "de": "Zweiter wichtiger Punkt: Kommunikation mit Entscheidungsträgern. Generell die Kommunikation mit den Entscheidungsgremien. Ein Hindernis, das von vielen beobachtet wurde und uns zu einer möglichen Lösung führt, ist die Notwendigkeit, Kommunikationsmittel einzurichten, damit die Stimme der Techniker gehört wird, da sie zu denjenigen gehören, die das Unternehmen am besten kennen. Eine Diskrepanz zwischen Entscheidungsgremien und dem technischen Bereich würde zu einer Diskrepanz zwischen den getroffenen Entscheidungen und der Realität vor Ort führen. Dieser Kommunikationsaspekt ist äußerst wichtig und eine der Dinge, die verbessert werden müssen."
+    },
+    "data.sections[@QS1Ozu].paragraphs[@5o0TKd].text": {
+      "source": "Découvrez l'intégralité de cette analyse ici:",
+      "de": "Entdecken Sie die vollständige Analyse hier:"
+    },
+    "data.sections[@hy4rND].paragraphs[@eYdkH7].text": {
+      "source": "Ce qu'il faut retenir de ce point: Valoriser le métier technique et mettre des outils et conditions de travail adéquates. Etre en permanence sous pression pour la productivité, c'est ce qui affecte le moral des techniciens. Pour préserver la qualité des emplois, il faut par exemple alterner entre moment intense, et période plus détendue",
+      "de": "Was Sie aus diesem Punkt mitnehmen sollten: Den technischen Beruf aufwerten und angemessene Werkzeuge und Arbeitsbedingungen bereitstellen. Ständig unter Produktivitätsdruck zu stehen, beeinträchtigt die Moral der Techniker. Um die Qualität der Arbeitsplätze zu erhalten, ist es beispielsweise wichtig, zwischen intensiven Phasen und entspannteren Perioden abzuwechseln."
+    },
+    "data.sections[@hy4rND].paragraphs[@0MHium].text": {
+      "source": "Troisème point: les conditions de travail assez difficiles et exigeantes . On parle d'un ralentissement de la productivité de l'entreprise par les techniciens. Mon conseil si vous voulez gardez les meilleurs techniciens dans vos usines, il va falloir mettre en place des outils de travail adéquats, tout un environnement et les conditions adéquats pour que les techniciens puissent s'y donner à coeur joie et permet d'avoir une qualité sur l'environnement et tout ce qui se fait du côté technique.",
+      "de": "Dritter Punkt: Die recht schwierigen und anspruchsvollen Arbeitsbedingungen. Wir sprechen von einer Verlangsamung der Unternehmensproduktivität durch die Techniker. Mein Rat, wenn Sie die besten Techniker in Ihren Werken halten wollen: Sie müssen angemessene Arbeitsmittel, ein ganzes Umfeld und die richtigen Bedingungen schaffen, damit sich die Techniker voll einbringen können und eine Qualität im Umfeld und bei allen technischen Tätigkeiten gewährleistet ist."
+    },
+    "data.sections[@hy4rND].paragraphs[@C873ej].text": {
+      "source": "Découvrez l'intégralité de cette analyse ici:",
+      "de": "Entdecken Sie die vollständige Analyse hier:"
+    },
+    "data.sections[@aEUwb2].paragraphs[@Wm6Yzd].text": {
+      "source": "Ce qu'il faut retenir: L'industrie s'est éloignée des principes originels du capitalisme entrepreunarial de Ford et Adam Smith Les déviances spéculatives et financières actuelles entraînent des problèmes d'exploitation des personnes et de dépression. Il est donc important de remettre en question la manière dont le modèle business affecte le travail et le bien-être des techniciens. Des modèles alternatifs sont possible, comme l'Economie de Partage, qui remet les interactions humaines au 1er plan des décisions de l'entreprise : Voir l'article Un autre modèle ce sont les modèles de SCOP comme l'entreprise Fagor du groupe MONDRAGON en France Il faut montrer et incarner une stratégie industrielle, et une vision long terme La stratégie et la direction prise sont parfois abstraites et décorrélés de la réalité pour les techniciens. Les personnes ont besoin de se projeter dans une mission dont ils se sentent contributeurs",
+      "de": "Was Sie mitnehmen sollten: Die Industrie hat sich von den ursprünglichen Prinzipien des unternehmerischen Kapitalismus von Ford und Adam Smith entfernt. Aktuelle spekulative und finanzielle Abweichungen führen zu Problemen der Ausbeutung von Menschen und Depressionen. Es ist daher wichtig, die Art und Weise, wie das Geschäftsmodell die Arbeit und das Wohlbefinden der Techniker beeinflusst, zu hinterfragen. Alternative Modelle sind möglich, wie die Sharing Economy, die menschliche Interaktionen in den Mittelpunkt der Unternehmensentscheidungen stellt: Siehe Artikel. Ein weiteres Modell sind Genossenschaftsmodelle (SCOP) wie das Unternehmen Fagor der MONDRAGON-Gruppe in Frankreich. Es ist notwendig, eine Industriestrategie und eine langfristige Vision zu zeigen und zu verkörpern. Die Strategie und die eingeschlagene Richtung sind manchmal abstrakt und von der Realität der Techniker entkoppelt. Menschen müssen sich in einer Mission wiederfinden, zu der sie sich als Mitwirkende fühlen."
+    },
+    "data.sections[@aEUwb2].paragraphs[@sq9bea].text": {
+      "source": "Quatrième point: Le business modè global de l'activité industrielle. On est dans un modèle qui est soi-disant capitaliste. On a l'impression que c'est à cause du capitalisme que l'industrie est en train de se perdre. L'argument que je mettais en face de ça est que l'origine de la théorie capitalistique selon Adam Smith dans les années 1700 c'était de faire en sorte qu'il y ait une forme de contrepouvoir à l'Etat car avant c'était seulement l'Etat qui possédait tous les actifs; et donc, mettre le capital entre les mains des individus était un moyen de démocratiser l'activité économique . De ce fait, si on est arrivé à une impasse aujourd'hui c'est qu'on a oublié cette origine du capitalisme et qu'on est en train d'aller vers autre chose.",
+      "de": "Vierter Punkt: Das globale Geschäftsmodell der industriellen Tätigkeit. Wir befinden uns in einem angeblich kapitalistischen Modell. Es scheint, dass die Industrie aufgrund des Kapitalismus verloren geht. Das Argument, das ich dem entgegenhalte, ist, dass der Ursprung der kapitalistischen Theorie nach Adam Smith im 18. Jahrhundert darin bestand, ein Gegengewicht zum Staat zu schaffen, da zuvor nur der Staat alle Vermögenswerte besaß; und somit war die Übertragung von Kapital in die Hände von Einzelpersonen ein Mittel zur Demokratisierung der wirtschaftlichen Aktivität. Wenn wir heute an einem toten Punkt angekommen sind, liegt das daran, dass wir diesen Ursprung des Kapitalismus vergessen haben und uns in eine andere Richtung bewegen."
+    },
+    "data.sections[@aEUwb2].paragraphs[@qQrtlf].text": {
+      "source": "Découvrez l'intégralité de cette analyse ici:",
+      "de": "Entdecken Sie die vollständige Analyse hier:"
+    },
+    "data.sections[@KaPCft].paragraphs[@SHjnSt].text": {
+      "source": "Ce qu'il faut retenir: Les horaires rigides comme le 3x8 sont incompatibles avec une vie moderne équilibrée : sorties entre amis, temps de famille, etc ... Les périodes de déplacements deviennent excessives alors qu'elles pourraient être des occasions d'enrichissement, de découverte et de rencontres. Il faudra privilégier un cadre spatio-temporel qui préserve à la santé et à la vie personnelle des techniciens.",
+      "de": "Was Sie aus diesem Punkt mitnehmen sollten: Starre Arbeitszeiten wie das 3-Schicht-System sind unvereinbar mit einem ausgewogenen modernen Leben: Ausgehen mit Freunden, Familienzeit usw. Reisezeiten werden übermäßig lang, obwohl sie Gelegenheiten für Bereicherung, Entdeckung und Begegnungen sein könnten. Es ist notwendig, einen räumlich-zeitlichen Rahmen zu bevorzugen, der die Gesundheit und das Privatleben der Techniker schützt."
+    },
+    "data.sections[@KaPCft].paragraphs[@usTO4h].text": {
+      "source": "Cinquième point:L'équilibre Vie perso / Vie professionnelle. La plupart des personnes qui nous suivent sont des gens qui ont soit envie d'avoir une vie sociale soit de fonder une famille. Si on prend des techniciens dans ce cas, et vous les mettez dans un mode où les horaires sont complètement décalés par rapport aux horaires de la vie moderne dans les grandes villes, il y aura forcément des gens qui vont fuir les usines parce qu'ils non pas la vie sociale ou la vie familiale dont ils ont besoin.",
+      "de": "Fünfter Punkt: Work-Life-Balance. Die meisten unserer Follower sind Menschen, die entweder ein Sozialleben haben oder eine Familie gründen möchten. Wenn Sie Techniker in dieser Situation haben und sie in einen Modus versetzen, in dem die Arbeitszeiten völlig von den Arbeitszeiten des modernen Lebens in Großstädten abweichen, werden zwangsläufig Menschen die Werke verlassen, weil sie nicht das Sozial- oder Familienleben haben, das sie brauchen."
+    },
+    "data.sections[@KaPCft].paragraphs[@q2xHe1].text": {
+      "source": "L'une des solutions c'est de mettre en place un équilibre ou des moyens qui permettent d'avoir une forme d'équilibre avec la vie personnelle .",
+      "de": "Eine der Lösungen besteht darin, ein Gleichgewicht oder Mittel zu schaffen, die eine Form von Gleichgewicht mit dem Privatleben ermöglichen."
+    },
+    "data.sections[@KaPCft].paragraphs[@XFakOz].text": {
+      "source": "Découvrez l'intégralité de cette analyse ici:",
+      "de": "Entdecken Sie die vollständige Analyse hier:"
+    },
+    "data.sections[@x0FGiV].paragraphs[@vsQKKR].text": {
+      "source": "Ce qu'il faut retenir: Certains projets techniques, comme dans l'industrie nucléaire française, sont mal gérés en terme de technologie et de management des personnes. Les risques de sécurité démesurés, les décisions irrationnelles, voire même les mensonges pour dissimuler les défauts ou les problèmes techniques majeurs. Tout ceci affecte la confiance des techniciens qui préfèrent fuir pour ne pas déroger à leurs valeurs. Et concernant particulièrement la sécurité, il faut être intransigeant et appeler à plus d'intégrité et de rigueur dans l'industrie, pour éviter de mettre des vies en péril dans l'usine et aux alentours. Un retour aux pratiques honnêtes et méticuleuses s'impose pour améliorer l'intégrité et la qualité du travail.",
+      "de": "Was Sie mitnehmen sollten: Bestimmte technische Projekte, wie in der französischen Atomindustrie, werden in Bezug auf Technologie und Personalmanagement schlecht geführt. Übermäßige Sicherheitsrisiken, irrationale Entscheidungen, sogar Lügen, um erhebliche Mängel oder technische Probleme zu vertuschen. All dies beeinträchtigt das Vertrauen der Techniker, die lieber fliehen, um ihre Werte nicht zu verletzen. Und insbesondere in Bezug auf die Sicherheit muss kompromisslos vorgegangen und zu mehr Integrität und Sorgfalt in der Industrie aufgerufen werden, um zu vermeiden, dass Leben im Werk und in der Umgebung gefährdet werden. Eine Rückkehr zu ehrlichen und sorgfältigen Praktiken ist unerlässlich, um die Integrität und Qualität der Arbeit zu verbessern."
+    },
+    "data.sections[@x0FGiV].paragraphs[@bu0Opn].text": {
+      "source": "Sixième point : Améliorer la gestion de l'industrie. Il faudrait arrêter de donner des postes de responsables de production à des ingénieurs qui sont juste gradés. La gestion de production, c'est un métier qui doit être maîtrisé.",
+      "de": "Sechster Punkt: Verbesserung des Managements in der Industrie. Wir sollten aufhören, Produktionsleitern Posten an Ingenieure zu geben, die nur einen höheren Rang haben. Produktionsmanagement ist ein Beruf, der beherrscht werden muss."
+    },
+    "data.sections[@x0FGiV].paragraphs[@ZRGFBF].text": {
+      "source": "L'une des solutions c'est vraiment d'être très rigoureux, intransigeant envers la gestion de l'usine .",
+      "de": "Eine der Lösungen besteht darin, sehr streng und kompromisslos im Management des Werks zu sein."
+    },
+    "data.sections[@x0FGiV].paragraphs[@eEecGI].text": {
+      "source": "Découvrez l'intégralité de cette analyse ici:",
+      "de": "Entdecken Sie die vollständige Analyse hier:"
+    },
+    "data.sections[@WChQjp].paragraphs[@nUYQJg].text": {
+      "source": "Ce qu'il faut retenir: Montrer les bons exemples d'industries qui donnent envie par exemple lors des journées du patrimoine, ou en accueillant des stagiaires Dans cette optique par exemple, l'union métallurgique en France a mis en place en 2024 une nouvelle classification des métiers dans le but de mieux valoriser et attirer les talents Consulter il faudrait également varier les projets en fonction des phases de la vie professionnelle, entre conception en bureau d'études, opérations en usine, architecture, ingénierie, etc ...",
+      "de": "Was Sie mitnehmen sollten: Gute Beispiele von attraktiven Industrien aufzeigen, z. B. an Tagen des offenen Denkmals oder durch die Aufnahme von Praktikanten. In diesem Sinne hat der französische Metallurgieverband beispielsweise im Jahr 2024 eine neue Berufsklassifizierung eingeführt, um Talente besser zu fördern und anzuziehen. Es wäre auch ratsam, Projekte je nach Phase des Berufslebens zu variieren, zwischen Design im Ingenieurbüro, Betrieb im Werk, Architektur, Ingenieurwesen usw."
+    },
+    "data.sections[@WChQjp].paragraphs[@3JX9wS].text": {
+      "source": "Septième point: Comment est-ce qu'on arrive à attirer de potentiels talents? L'une des solutions qui avait été évoquées, en termes de visibilité du métier, montrer aux jeunes ce qui se passe en usine. Les usines ont vraiment évolué. Pour des usines qui donnent envie de travailler, il faudrait trouver un moyen de permettre aux jeunes de venir voir ce qui se passe à l'intérieur de la société.",
+      "de": "Siebter Punkt: Wie können wir potenzielle Talente anziehen? Eine der erwähnten Lösungen in Bezug auf die Sichtbarkeit des Berufs ist, jungen Menschen zu zeigen, was in der Industrie passiert. Die Werke haben sich wirklich weiterentwickelt. Um Werke zu schaffen, die Lust auf Arbeit machen, müssten wir einen Weg finden, jungen Menschen zu ermöglichen, zu sehen, was im Unternehmen vor sich geht."
+    },
+    "data.sections[@WChQjp].paragraphs[@B9ldvA].text": {
+      "source": "Découvrez l'intégralité de cette analyse ici:",
+      "de": "Entdecken Sie die vollständige Analyse hier:"
+    },
+    "data.sections[@lUfr2u].paragraphs[@QM7XZT].text": {
+      "source": "Dernier point : La stratégie industrielle, Quels sont les défis, quels sont les initiatives. Quelques choses que m'a dit mon alternant, celui avec qui je travaille très fréquemment ces derniers temps, c'est l'intransigeance sur le fait de ne pas avoir de visibilité. Les jeunes aujourd'hui sont dans une génération qui a besoin de se projeter. Il faut arriver à donner de la visibilité à cette génération, leur faire part de la mission de l'entreprise. En somme, leur montrer ce à quoi ils s'attendent en travaillant avec une telle usine afin de leur donner de l'ambition et montrer que la mission qu'on veut atteindre, on fait ce qu'il faut en interne pour y arriver.",
+      "de": "Letzter Punkt: Industriestrategie, Herausforderungen und Initiativen. Etwas, das mir mein Auszubildender, mit dem ich in letzter Zeit sehr eng zusammenarbeite, gesagt hat, ist die Unnachgiebigkeit angesichts mangelnder Transparenz. Junge Menschen sind heute eine Generation, die sich projizieren muss. Wir müssen dieser Generation Transparenz vermitteln, ihnen die Mission des Unternehmens mitteilen. Kurz gesagt, ihnen zeigen, was sie von der Arbeit mit einem solchen Werk erwarten können, um ihnen Ehrgeiz zu vermitteln und zu zeigen, dass wir intern alles tun, um die zu erreichende Mission zu erfüllen."
+    },
+    "data.sections[@lUfr2u].paragraphs[@DHmgrY].text": {
+      "source": "Découvrez l'intégralité de cette analyse ici:",
+      "de": "Entdecken Sie die vollständige Analyse hier:"
+    },
+    "data.sections[@PqxKn0].links[@DIMcoK].text": {
+      "source": "Consulter | Video (01min:55s)",
+      "de": [
+        "Ansehen | Video (01min:55s)"
+      ]
+    },
+    "data.sections[@QS1Ozu].links[@zYNwMT].text": {
+      "source": "Consulter | Vidéo (01min:10s)",
+      "de": [
+        "Ansehen | Video (01min:10s)"
+      ]
+    },
+    "data.sections[@hy4rND].links[@g61lP8].text": {
+      "source": "Consulter | Vidéo (01min:08s)",
+      "de": [
+        "Ansehen | Video (01min:08s)"
+      ]
+    },
+    "data.sections[@aEUwb2].links[@DZRp87].text": {
+      "source": "Voir l'article",
+      "de": [
+        "Artikel ansehen"
+      ]
+    },
+    "data.sections[@aEUwb2].links[@9b9DEY].text": {
+      "source": "Consulter | Vidéo (04min:05s)",
+      "de": [
+        "Ansehen | Video (04min:05s)"
+      ]
+    },
+    "data.sections[@KaPCft].links[@oQ5SmT].text": {
+      "source": "Consulter | Vidéo (01min:45s)",
+      "de": [
+        "Ansehen | Video (01min:45s)"
+      ]
+    },
+    "data.sections[@x0FGiV].links[@OSAtuF].text": {
+      "source": "Consulter | Vidéo (09min:57s)",
+      "de": [
+        "Ansehen | Video (09min:57s)"
+      ]
+    },
+    "data.sections[@WChQjp].links[@PFeGk4].text": {
+      "source": "Consulter",
+      "de": [
+        "Ansehen"
+      ]
+    },
+    "data.sections[@WChQjp].links[@pVP8C3].text": {
+      "source": "Consulter | Vidéo (09min:56s)",
+      "de": [
+        "Ansehen | Video (09min:56s)"
+      ]
+    },
+    "data.sections[@lUfr2u].links[@Lih8mK].text": {
+      "source": "Consulter | Vidéo (08min:12s)",
+      "de": [
+        "Ansehen | Video (08min:12s)"
+      ]
+    },
+    "data.sections[@PqxKn0].links[@DIMcoK].href": {
+      "source": "https://www.youtube.com/live/tAZZ3hFeXQg?t=245s",
+      "de": [
+        "https://www.youtube.com/live/tAZZ3hFeXQg?t=245s"
+      ]
+    },
+    "data.sections[@QS1Ozu].links[@zYNwMT].href": {
+      "source": "https://www.youtube.com/live/tAZZ3hFeXQg?t=360s",
+      "de": [
+        "https://www.youtube.com/live/tAZZ3hFeXQg?t=360s"
+      ]
+    },
+    "data.sections[@hy4rND].links[@g61lP8].href": {
+      "source": "https://www.youtube.com/live/tAZZ3hFeXQg?t=430s",
+      "de": [
+        "https://www.youtube.com/live/tAZZ3hFeXQg?t=430s"
+      ]
+    },
+    "data.sections[@aEUwb2].links[@DZRp87].href": {
+      "source": "https://economie-de-communion.fr/lentreprise-economie-de-communion/",
+      "de": [
+        "https://economie-de-communion.fr/lentreprise-economie-de-communion/"
+      ]
+    },
+    "data.sections[@aEUwb2].links[@9b9DEY].href": {
+      "source": "https://www.youtube.com/live/tAZZ3hFeXQg?t=645s",
+      "de": [
+        "https://www.youtube.com/live/tAZZ3hFeXQg?t=645s"
+      ]
+    },
+    "data.sections[@KaPCft].links[@oQ5SmT].href": {
+      "source": "https://www.youtube.com/live/tAZZ3hFeXQg?t=890s",
+      "de": [
+        "https://www.youtube.com/live/tAZZ3hFeXQg?t=890s"
+      ]
+    },
+    "data.sections[@x0FGiV].links[@OSAtuF].href": {
+      "source": "https://www.youtube.com/live/tAZZ3hFeXQg?t=995s",
+      "de": [
+        "https://www.youtube.com/live/tAZZ3hFeXQg?t=995s"
+      ]
+    },
+    "data.sections[@WChQjp].links[@PFeGk4].href": {
+      "source": "https://cfdt-lectra.fr/classification-des-emplois-dans-la-nouvelle-convention-collective-de-la-metallurgie/",
+      "de": [
+        "https://cfdt-lectra.fr/classification-des-emplois-dans-la-nouvelle-convention-collective-de-la-metallurgie/"
+      ]
+    },
+    "data.sections[@WChQjp].links[@pVP8C3].href": {
+      "source": "https://www.youtube.com/live/tAZZ3hFeXQg?t=1592s",
+      "de": [
+        "https://www.youtube.com/live/tAZZ3hFeXQg?t=1592s"
+      ]
+    },
+    "data.sections[@lUfr2u].links[@Lih8mK].href": {
+      "source": "https://www.youtube.com/live/tAZZ3hFeXQg?t=2188s",
+      "de": [
+        "https://www.youtube.com/live/tAZZ3hFeXQg?t=2188s"
+      ]
+    }
+  }
+}

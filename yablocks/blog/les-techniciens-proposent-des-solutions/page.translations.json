@@ -1,0 +1,35 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Sauver l'Industrie : les Techniciens proposent des SOLUTIONS | Blog AUTEM",
+      "de": "Industrie retten: Techniker schlagen LÖSUNGEN vor | AUTEM Blog",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "7 points pour relever les défis auxquels sont confrontés les techniciens dans l'industrie moderne.",
+      "de": "7 Punkte, um die Herausforderungen zu meistern, mit denen Techniker in der modernen Industrie konfrontiert sind.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "Evolution de l'industrie",
+        "Transfert de Compétences",
+        "AUTEM",
+        "automatisme industriel"
+      ],
+      "de": [
+        "Industrieentwicklung",
+        "Kompetenztransfer",
+        "AUTEM",
+        "industrielle Automatisierung"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "AUTEM — Blog technique automatisme et SCADA industriel",
+      "de": "AUTEM — Blog für industrielle Automatisierung und SCADA-Technik",
+      "de:manual": true
+    }
+  }
+}

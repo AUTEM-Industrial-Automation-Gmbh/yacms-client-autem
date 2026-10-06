@@ -10,11 +10,13 @@
     "tags": [
       {
         "label": "Evolution de l'industrie",
-        "type": "secteur"
+        "type": "secteur",
+        "_tid": "o6gXj0"
       },
       {
         "label": "Transfert de Compétences",
-        "type": "categorie"
+        "type": "categorie",
+        "_tid": "ayTVG8"
       }
     ],
     "articleMeta": {
